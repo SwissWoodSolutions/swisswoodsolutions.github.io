@@ -82,10 +82,6 @@ header::after {
   width: 220px;
   float: left;
 }
-
-@media (max-width: 800px) {
-  /* mobile */
-}
 .nav {
   float: right;
   list-style-type: none;
