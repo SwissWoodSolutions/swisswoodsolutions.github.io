@@ -1,11 +1,14 @@
 <header>
-  <img src="/assets/logo/sws_logo.svg">
-  <ul>
-      <a href="">Swiss Wood Solutions</a>
-      <a href="">D-Wood</a>
-      <a href="">Dienstleistungen</a>
-      <a href="">News</a>
-      <a href="">Über uns</a>
-      <a href="">Kontakt</a>
-  </ul>
+
+  <a href="/">
+    <img src="/assets/logo/sws_logo.svg" class="navlogo">
+  </a>
+
+  <ul class="nav">
+    {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
+    {% for item in items %}
+      <li class="{% if item.url == page.url %}active{% endif %}">
+        <a href="{{ item.url }}">{{ item.title }} </a>
+      </li>
+    {% endfor %}
 </header>
