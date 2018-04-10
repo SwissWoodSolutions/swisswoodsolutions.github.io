@@ -67,7 +67,7 @@ main {
  */
 
 header {
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 header::after {
@@ -90,10 +90,13 @@ header::after {
   float: right;
   list-style-type: none;
 }
+.nav > li {
+  display: inline-block;
+}
 .nav a {
   color: black;
   padding: 3px 15px 3px 15px;
-  display: inline-block;
+  display: inherit;
   text-decoration: none;
   background: white;
 }
