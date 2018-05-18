@@ -1,5 +1,5 @@
 ---
 layout: standardpage
 title: 'Über uns'
-order: 5
+order: 3
 ---
