@@ -1,5 +1,5 @@
 ---
 layout: standardpage
-title: 'Über uns'
+title: 'Veneers'
 order: 3
 ---
