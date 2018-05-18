@@ -1,7 +1,7 @@
 ---
 layout: standardpage
 title: 'Projects'
-order: 3
+order: 4
 ---
 ## Swiss Ebony with the Gebert Rüf Foundation
 
