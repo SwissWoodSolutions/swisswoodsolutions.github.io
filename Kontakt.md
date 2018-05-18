@@ -1,7 +1,7 @@
 ---
 layout: standardpage
 title: 'Kontakt'
-order: 6
+order: 8
 ---
 
 # Uns kontaktieren
