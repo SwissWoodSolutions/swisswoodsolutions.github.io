@@ -85,9 +85,7 @@ header::after {
 .nav {
   float: right;
   list-style-type: none;
-}
-.nav > li {
-  display: inline-block;
+  display: inline-block;
 }
 .nav a {
   color: black;
