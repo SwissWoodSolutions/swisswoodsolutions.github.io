@@ -5,6 +5,6 @@ order: 7
 ---
 Partners in the musical instrument market:
 
-* Wilhelm Geigenbau
-* Rober Stempfle
-* Thomas Weiss
+- Wilhelm Geigenbau
+- Rober Stempfle
+- Thomas Weiss

@@ -5,13 +5,12 @@
 }
 
 a {
+  color: #c1574c;
   text-decoration: none;
-  color: black;
 }
 
 a:hover {
-  text-decoration: none;
-  color:red;
+  text-decoration: underline;
 }
 
 p {
@@ -20,8 +19,8 @@ p {
 }
 
 strong {
-  font-weight: inherit;
-  font-size: 1em;
+  font-weight: 500;
+  color: #c1574c;
 }
 h1 {
   margin-bottom: 1em;
@@ -85,16 +84,17 @@ header::after {
   margin-right: 30px;
 }
 
-.nav ul {
+.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  float: right;
+  text-decoration: none;
 }
 .nav li {
   display: inline-block;
-  float: right;
   margin-right: 1px;
-  padding: 0 0.5em 0 0.5em;
+  padding: 0 0 0 2em;
 }
 .nav a {
   color: #c1574c;
@@ -111,49 +111,66 @@ header::after {
 }
 
 
-@media (max-width: 700px) {
+@media (max-width: 899px) {
   /* mobile */
   .nav {
   display: none;
   }
 }
 
+/*
+ * Footer
+ */
+footer {
+  width: 100%;
+  background-color: #c1574c;
+}
+.footerwrap {
+  padding: 2em 4em 2em 4em;
+  background-color: #41393d;
+  color: #dcdcdc;
+  opacity: 20%;
+  font-size: 0.8em;
+}
 
 /*
  * DIVS for Content
  */
 
-
+ .full-width {
+   width: 100%;
+   background-color: none;;
+ }
 .full-width-red {
   width: 100%;
   background-color: #c1574c;
 }
-.full-width {
+.full-width-image {
   width: 100%;
-  background-color: none;;
+  background-image: url("/assets/images/ebony_02.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+  background-color: none;
 }
 .wrap {
-  max-width: 60em;
-  vertical-align: middle;
+  max-width: 42em;
   padding: 8em 4em 8em 4em;
+  margin: 0 auto;
 }
 
 @supports (display:grid) {
 .wrap-grid ul {
           list-style-type: none;
           display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-          grid-gap: 20px;
+          grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
+          grid-gap: 2em;
+          margin: 0 auto;
+          padding: 8em 4em 8em 4em;
+          max-width: 42em;
         }
         .wrap-grid li {
           position: relative;
         }
-        .wrap-grid a {
-          margin: 0;
-        }
-}
-@media (max-width: 460px) {
-        .wrap-grid ul {
-            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-            grid-gap: 1vw;
-            }
+    }
