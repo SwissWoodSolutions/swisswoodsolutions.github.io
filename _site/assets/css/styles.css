@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -25,6 +26,7 @@ strong {
 h1 {
   margin-bottom: 1em;
   font-size: 2em;
+  color: #c1574c;
 }
 h2 {
   margin-bottom: 0.5em;
@@ -43,23 +45,22 @@ blockquote {
 }
 
 body {
-  font-family: 'Verdana', serif;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 18px;
-  color: black;
-  padding: 20px 40px 20px 40px;
-  background-color: white;
+  color: #41393d;
+}
+
+footer {
+  background-color: black 75%;
+  color: white;
+  font-size: 0.8em;
 }
 
 @media (max-width: 700px) {
   /* mobile */
   body {
-    padding: 20px 10px 50px 20px;
-    font-size: 14px;
+    font-size: 15px;
   }
-}
-
-main {
-  margin-right: 20px;
 }
 
 /*
@@ -67,48 +68,92 @@ main {
  */
 
 header {
-  margin-right: 10px;
+  padding: 20px 40px 20px 40px;
 }
 
 header::after {
   content: ' ';
   clear: both;
   display: block;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
 }
 
 .navlogo {
   font-size: 23px;
-  width: 220px;
+  width: 240px;
   float: left;
+  margin-right: 30px;
 }
-.nav {
-  float: right;
+
+.nav ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
-.nav > li {
-  display: inline-block;
+.nav li {
+  display: inline-block;
+  float: right;
+  margin-right: 1px;
+  padding: 0 0.5em 0 0.5em;
 }
 .nav a {
-  color: black;
-  padding: 3px 15px 3px 15px;
-  display: inherit;
-  text-decoration: none;
-  background: white;
+  color: #c1574c;
+  font-weight: 300;
+  font-size: 0.95em;
 }
 .nav .active a {
-  background: black;
-  color: white;
-  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 4px solid #c1574c;
 }
 .nav a:hover {
-  background: black;
+  background: #c1574c;
   color: white;
-  text-decoration: none;
 }
+
+
 @media (max-width: 700px) {
   /* mobile */
   .nav {
   display: none;
   }
 }
+
+
+/*
+ * DIVS for Content
+ */
+
+
+.full-width-red {
+  width: 100%;
+  background-color: #c1574c;
+}
+.full-width {
+  width: 100%;
+  background-color: none;;
+}
+.wrap {
+  max-width: 60em;
+  vertical-align: middle;
+  padding: 8em 4em 8em 4em;
+}
+
+@supports (display:grid) {
+.wrap-grid ul {
+          list-style-type: none;
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+          grid-gap: 20px;
+        }
+        .wrap-grid li {
+          position: relative;
+        }
+        .wrap-grid a {
+          margin: 0;
+        }
+}
+@media (max-width: 460px) {
+        .wrap-grid ul {
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            grid-gap: 1vw;
+            }

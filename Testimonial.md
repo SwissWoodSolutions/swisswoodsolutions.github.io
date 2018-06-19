@@ -1,6 +1,5 @@
 ---
 layout: standardpage
-title: 'Testimonial'
+title: 'Testimonials'
 order: 9
 ---
-
