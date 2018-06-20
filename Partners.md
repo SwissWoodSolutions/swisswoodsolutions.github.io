@@ -1,7 +1,7 @@
 ---
 layout: standardpage
 title: 'Partners'
-order: 7
+order: 6
 ---
 Partners in the musical instrument market:
 

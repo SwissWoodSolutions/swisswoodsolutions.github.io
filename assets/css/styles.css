@@ -8,16 +8,13 @@ a {
   color: #c1574c;
   text-decoration: none;
 }
-
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
-
 p {
   margin-bottom: 1em;
   line-height: 1.35em;
 }
-
 strong {
   font-weight: 500;
   color: #c1574c;
@@ -31,28 +28,68 @@ h2 {
   margin-bottom: 0.5em;
   font-size: 1.5em;
 }
-
 h3 {
   font-size: 1em;
   margin-bottom: 0.25em;
   margin-top: 1.5em;
 }
-
 blockquote {
   margin: 2em;
   font-style: normal;
 }
-
 body {
   font-family: 'Fira Sans', sans-serif;
   font-size: 18px;
   color: #41393d;
 }
-
 footer {
   background-color: black 75%;
   color: white;
   font-size: 0.8em;
+}
+video {
+  max-width: 100%;
+  border: solid #41393d 1px;
+  height: auto;
+}
+/*
+ * Buttons
+ */
+.btn-red {
+  color: #c1574c;
+  padding: 0.5em 2em 0.5em 2em;
+  border: solid #c1574c 1px;
+  text-decoration: none;
+  margin: 1em 0em 1em 0em;
+}
+.btn-red:hover {
+  background: #c1574c;
+  text-decoration: none;
+  color: white;
+}
+.btn-white {
+  color: white;
+  padding: 0.5em 2em 0.5em 2em;
+  border: solid white 1px;
+  text-decoration: none;
+  margin: 1em 0em 1em 0em;
+}
+.btn-white:hover {
+  background: white;
+  text-decoration: none;
+  color: #c1574c;
+}
+.btn {
+  color: #41393d;
+  padding: 0.5em 2em 0.5em 2em;
+  border: solid #41393d 1px;
+  text-decoration: none;
+  margin: 1em 0em 1em 0em;
+}
+.btn:hover {
+  background: #41393d;
+  text-decoration: none;
+  color: white;
 }
 
 @media (max-width: 700px) {
@@ -100,14 +137,14 @@ header::after {
   color: #c1574c;
   font-weight: 300;
   font-size: 0.95em;
+  text-decoration:none;
 }
 .nav .active a {
   font-weight: 500;
   border-bottom: 4px solid #c1574c;
 }
 .nav a:hover {
-  background: #c1574c;
-  color: white;
+  border-bottom: 4px solid #c1574c;
 }
 
 
@@ -123,14 +160,12 @@ header::after {
  */
 footer {
   width: 100%;
-  background-color: #c1574c;
-}
-.footerwrap {
-  padding: 2em 4em 2em 4em;
   background-color: #41393d;
+  padding: 2em 4em 2em 4em;
   color: #dcdcdc;
   opacity: 20%;
   font-size: 0.8em;
+  margin-top: 3em;
 }
 
 /*
@@ -159,6 +194,13 @@ footer {
   padding: 8em 4em 8em 4em;
   margin: 0 auto;
 }
+@media (max-width: 899px) {
+  /* mobile */
+  .wrap {
+  padding: 8em 2em 8em 2em;
+  }
+}
+
 
 @supports (display:grid) {
 .wrap-grid ul {
