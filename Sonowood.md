@@ -1,31 +1,56 @@
 ---
 layout: standardpage
-title: 'Sonowood'
+title: 'SonoWood'
 order: 2
 ---
 
 <div class="full-width">
-
     <div class="wrap">
+        <h1>SonoWood</h1>
+        <h2>a better wood for musical instruments</h2>
         <p>
-        The team of Swiss Wood Solutions is driven by the belief that wood can fulfill more needs than it currently does. This is why we have developed a technology to produce a novel wood-based material.  In a multi-step physicochemical process, domestic woods such as spruce or maple are modified. The resulting product <strong>Sonowood</strong>, derived from densified wood, is a material with inspirational properties. In addition to being environmentally friendly, the technology offers adjustability of a wide range of parameters. No matter if hardness, density or coloration – you choose the properties of your wood.
+        For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability, and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="/">CITES,</a> aim to protect the biodiversity.  As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
         </p>
         <p>
-        The technology is applicable to any possible wood specie, depending on the individual requirements of the respective product. The use of maple, beech, ash and spruce has been proven already. Current experiments also include further species such as plum wood.
-        For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability, and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. In addition to the scarcity, increasingly strict governmental regulations further complicate the import and trade of tropical woods.
-        </p>
-        <p>
-        Accounting for these problems, Swiss Wood Solutions has developed a completely sustainable alternative. In a multi-step physicochemical process, domestic woods such as spruce or maple are modified. The resulting product <strong>Sonowood</strong> matches the favorable properties of tropical woods. In terms of sound quality, it even outperforms its counterpart.
-        </p>
+        This is why we have developed <strong>SonoWood</strong>. SonoWood matches the favorable properties of tropical woods while being a completely legal substitute. In addition to being environmentally friendly, the technology offers adjustability of a wide range of parameters.</p>
     </div>
+</div>
+<div class="full-width-red">
     <div class="wrap-grid">
+        <h2>SonoWood benefits, compared to tropical woods:</h2>
         <ul>
             <li>
             <img src="/assets/images/ebony_08.jpg"
-            srcset="/assets/images/ebony_08_2x.jpg" alt="wood1"><h2>Maple</h2><p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p>
+            srcset="/assets/images/ebony_08_2x.jpg" alt="wood1"><h3>Preserve Biodiversity</h3>
+            <p>SonoWood is manufactured from sustainable European wood species.</p>
             </li>
-            <li><img src=""><h2>Spruce</h2><p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p></li>
-            <li><img src=""><h2>Something</h2><p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p></li>
+            <li><img src=""><h3>No legal restrictions</h3>
+            <p>SonoWood does not wood species listed on CITES, therfore no trade and import restrictions occur.</p>
+            </li>
+            <li><img src=""><h3>Customizable Properties</h3>
+            <p>A core strength of our innovative technology is its flexibility. No matter if hardness, density or coloration – you choose the properties of your wood.</p>
+            </li>
+            <li><img src=""><h3>100% wood</h3>
+            <p>SonoWood is not a composite material, it is fully authentic wood.</p>
+            </li>
+            <li><img src=""><h3>Increased CO2-storage</h3>
+            <p>Text text.</p>
+            </li>
         </ul>
+    </div>
+</div>
+<div class="full-width">
+    <div class="wrap-grid">
+    <h2>Types of SonoWood:</h2>
+    <p>Our multi-step technology is applicable to any possible wood specie, depending on the individual requirements of the respective product. The use of maple, beech, ash and spruce has been proven already. Current experiments also include further species such as oak and plum wood.</p>
+    <ul>
+        <li>
+        <img src="/assets/images/ebony_08.jpg"
+        srcset="/assets/images/ebony_08_2x.jpg" alt="wood1"><h3>SonoWood Maple</h3>
+        <p>Dark-brown or light color, sound-propagation velocity of 5’200 m/s.</p>
+        </li>
+        <li><img src=""><h3>SonoWood Spruce</h3><p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p></li>
+        <li><img src=""><h3>SonoWood Beech</h3><p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p></li>
+    </ul>
     </div>
 </div>

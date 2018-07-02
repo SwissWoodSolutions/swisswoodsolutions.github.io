@@ -7,9 +7,10 @@
 a {
   color: #c1574c;
   text-decoration: none;
+  transition: color 0.3s ease;
 }
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 p {
   margin-bottom: 1em;
@@ -18,6 +19,7 @@ p {
 strong {
   font-weight: 500;
   color: #c1574c;
+  font-style: italic;
 }
 h1 {
   margin-bottom: 1em;
@@ -42,15 +44,13 @@ body {
   font-size: 18px;
   color: #41393d;
 }
-footer {
-  background-color: black 75%;
-  color: white;
-  font-size: 0.8em;
-}
 video {
   max-width: 100%;
   border: solid #41393d 1px;
   height: auto;
+}
+main {
+  min-height:calc(100vh - 100px);
 }
 /*
  * Buttons
@@ -118,7 +118,7 @@ header::after {
   font-size: 23px;
   width: 240px;
   float: left;
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .nav {
@@ -148,13 +148,18 @@ header::after {
 }
 
 
-@media (max-width: 899px) {
+@media (max-width: 1000px) {
   /* mobile */
   .nav {
   display: none;
   }
+  header::after {
+    content: ' ';
+    clear: both;
+    display: block;
+    margin-bottom: 20px;
+  }
 }
-
 /*
  * Footer
  */
@@ -165,7 +170,7 @@ footer {
   color: #dcdcdc;
   opacity: 20%;
   font-size: 0.8em;
-  margin-top: 3em;
+  height: 50px;
 }
 
 /*
@@ -174,7 +179,7 @@ footer {
 
  .full-width {
    width: 100%;
-   background-color: none;;
+   background-color: none;
  }
 .full-width-red {
   width: 100%;
@@ -201,16 +206,17 @@ footer {
   }
 }
 
-
 @supports (display:grid) {
+.wrap-grid {
+  max-width: 42em;
+  padding: 8em 4em 8em 4em;
+  margin: 0 auto;
+}
 .wrap-grid ul {
           list-style-type: none;
           display: grid;
           grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
           grid-gap: 2em;
-          margin: 0 auto;
-          padding: 8em 4em 8em 4em;
-          max-width: 42em;
         }
         .wrap-grid li {
           position: relative;
