@@ -1,6 +1,6 @@
 ---
 layout: standardpage
-title: 'News & Media'
+title: 'News'
 order: 5
 ---
 <div class="full-width">

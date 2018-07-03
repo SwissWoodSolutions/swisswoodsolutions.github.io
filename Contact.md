@@ -1,6 +1,6 @@
 ---
 layout: standardpage
-title: 'Contact us'
+title: 'Contact'
 order: 7
 ---
 

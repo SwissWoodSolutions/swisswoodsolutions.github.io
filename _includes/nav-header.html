@@ -3,13 +3,19 @@
   <a href="{{ site.baseurl }}">
     <img src="{{ site.baseurl }}/assets/logo/SWS_Vektor_C.svg" class="navlogo" alt="logo SwissWoodSolutions">
   </a>
+  <input type="checkbox" id="hamburger">
+  <label class="menuicon" for="hamburger">
+  <span></span>
+  </label>
+  <div class="menu">
+    <ul class="nav">
+      {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
+      {% for item in items %}
+        <li class="{% if item.url == page.url %}active{% endif %}">
+          <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 
-  <ul class="nav">
-    {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
-    {% for item in items %}
-      <li class="{% if item.url == page.url %}active{% endif %}">
-        <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
-      </li>
-    {% endfor %}
-  </ul>
 </header>

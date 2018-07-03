@@ -1,6 +1,6 @@
 ---
 layout: standardpage
-title: 'About us'
+title: 'About'
 order: 4
 ---
 

@@ -84,7 +84,9 @@ main {
   padding: 0.5em 2em 0.5em 2em;
   border: solid #41393d 1px;
   text-decoration: none;
+  text-align: center;
   margin: 1em 0em 1em 0em;
+  transition: background-color 0.2s linear 0.1s;
 }
 .btn:hover {
   background: #41393d;
@@ -115,10 +117,10 @@ header::after {
 }
 
 .navlogo {
-  font-size: 23px;
-  width: 240px;
+  font-size: 22px;
+  width: 220px;
   float: left;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 .nav {
@@ -131,7 +133,7 @@ header::after {
 .nav li {
   display: inline-block;
   margin-right: 1px;
-  padding: 0 0 0 2em;
+  padding: 0 0 0 1.5em;
 }
 .nav a {
   color: #c1574c;
@@ -147,8 +149,7 @@ header::after {
   border-bottom: 4px solid #c1574c;
 }
 
-
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   /* mobile */
   .nav {
   display: none;
@@ -157,42 +158,31 @@ header::after {
     content: ' ';
     clear: both;
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 }
 /*
  * Footer
  */
 footer {
-  width: 100%;
   background-color: #41393d;
   padding: 2em 4em 2em 4em;
   color: #dcdcdc;
-  opacity: 20%;
   font-size: 0.8em;
-  height: 50px;
+  height: 100px;
+  box-sizing: border-box;
 }
+
 
 /*
  * DIVS for Content
  */
 
  .full-width {
-   width: 100%;
    background-color: none;
  }
 .full-width-red {
-  width: 100%;
   background-color: #c1574c;
-}
-.full-width-image {
-  width: 100%;
-  background-image: url("/assets/images/ebony_02.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: auto;
-  background-color: none;
 }
 .wrap {
   max-width: 42em;
@@ -222,3 +212,223 @@ footer {
           position: relative;
         }
     }
+
+/*
+ * Slideshow
+ */
+   .slideshow {
+     background-color: white;
+     display: block;
+   }
+      .slide {
+              position: absolute;
+              display: inline-block;
+              animation: slide 18s ease-in 2s infinite;
+              overflow: hidden;
+              height: 600px;
+          }
+
+          .slide:nth-child(1) {
+              left: 0%;
+              animation-delay: -0.5s;
+              background-image: url("/swisswoodsolutions/assets/images/ebony_07_2x.jpg");
+              background-size: cover;
+              background-position: center;
+          }
+          .slide:nth-child(2) {
+              left: 100%;
+              animation-delay: 6s;
+              background-image: url("/swisswoodsolutions/assets/images/ebony_08_2x.jpg");
+              background-size: cover;
+              background-position: center;
+          }
+
+          .slide:nth-child(3) {
+              left: 100%;
+              animation-delay: 12s;
+              background-image: url("/swisswoodsolutions/assets/images/ebony_02.jpg");
+              background-size: cover;
+              background-position: center;
+          }
+
+      @keyframes slide {
+          0% {
+              left: 100%;
+              width: 100%;
+          }
+          5% {
+              left: 0%;
+          }
+          25% {
+              left: 0%;
+          }
+          30% {
+              left: -100%;
+              width: 100%;
+          }
+          50% {
+              left: -100%;
+              width: 0%;
+          }
+          100% {
+              left: 100%;
+              width: 0%;
+          }
+  }
+
+  .slideshow-arrows {
+
+      .arrow {
+        margin: -33px 0 0;
+        padding: 20px;
+        position: absolute;
+        top: 50%;
+        cursor: pointer;
+        z-index: 3;
+      }
+
+      .prev {
+          left: 30px;
+        }
+      .prev:hover .svg {
+            left: -10px;
+          }
+
+      .next {
+        right: 30px;
+      }
+      .next:hover .svg {
+          left: 10px;
+      }
+
+      .svg {
+        position: relative;
+        left: 0;
+        width: 14px;
+        height: 26px;
+        fill: #fff;
+        transition: left 0.2s ease;
+      }
+      }
+
+/*
+* HAMBURGER
+*/
+
+/* Configuration Parameters */
+$lineWidth: 5px;
+$lineLength: 25px;
+$baseMargin: 8px;
+$animationDuration: 0.2s;
+
+#hamburger {
+  display: none;
+}
+
+.menu {
+  background-color: white;
+  width: 0px;
+  height: 100%;
+  overflow: hidden;
+  padding-top: 50px;
+  -webkit-transition-duration: $animationDuration;
+  -moz-transition-duration: $animationDuration;
+  -ms-transition-duration: $animationDuration;
+  -o-transition-duration: $animationDuration;
+  transition-duration: $animationDuration;
+  -webkit-transition-delay: $animationDuration;
+  -moz-transition-delay: $animationDuration;
+  -ms-transition-delay: $animationDuration;
+  -o-transition-delay: $animationDuration;
+  transition-delay: $animationDuration;
+
+}
+.menuicon {
+  display:none;
+}
+@media (max-width: 900px) {
+  /* mobile */
+.menuicon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: block;
+  cursor: pointer;
+  height: $baseMargin*2 + $lineWidth;
+  width: $lineLength;
+  span {
+    display: block;
+    top: $baseMargin;
+    width: $lineLength;
+    height: $lineWidth;
+    background-color: #c1574c;
+    position: relative;
+    -webkit-transition-duration: 0;
+    -moz-transition-duration: 0;
+    -ms-transition-duration: 0;
+    -o-transition-duration: 0;
+    transition-duration: 0;
+    -webkit-transition-delay: $animationDuration;
+    -moz-transition-delay: $animationDuration;
+    -ms-transition-delay: $animationDuration;
+    -o-transition-delay: $animationDuration;
+    transition-delay: $animationDuration;
+    &::after, &::before {
+      display: block;
+      content: '';
+      position: absolute;
+      width: $lineLength;
+      height: $lineWidth;
+      background-color: #c1574c;
+      -webkit-transition-property: margin, -webkit-transform;
+      -webkit-transition-duration: $animationDuration;
+      -moz-transition-duration: $animationDuration;
+      -ms-transition-duration: $animationDuration;
+      -o-transition-duration: $animationDuration;
+      transition-duration: $animationDuration;
+      -webkit-transition-delay: $animationDuration, 0;
+      -moz-transition-delay: $animationDuration, 0;
+      -ms-transition-delay: $animationDuration, 0;
+      -o-transition-delay: $animationDuration, 0;
+      transition-delay: $animationDuration, 0;
+    }
+    &::before {
+      margin-top: -$baseMargin;
+    }
+    &::after {
+      margin-top: $baseMargin;
+    }
+  }
+}
+}
+#hamburger:checked ~ .menu {
+  width: 250px;
+}
+
+#hamburger:checked ~ .menuicon {
+  span {
+    background-color: #c1574c;
+    &::before, &::after {
+      margin-top: 0px;
+      -webkit-transition-delay: 0, $animationDuration;
+      -moz-transition-delay: 0, $animationDuration;
+      -ms-transition-delay: 0, $animationDuration;
+      -o-transition-delay: 0, $animationDuration;
+      transition-delay: 0, $animationDuration;
+    }
+    &::before {
+      -webkit-transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg);
+    }
+    &::after {
+      -webkit-transform: rotate(-45deg);
+      -moz-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+      -o-transform: rotate(-45deg);
+      transform: rotate(-45deg);
+    }
+  }
+}
