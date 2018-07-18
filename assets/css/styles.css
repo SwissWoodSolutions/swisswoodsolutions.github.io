@@ -55,6 +55,9 @@ main {
 p + h2 {
   margin-top: 3em;
 }
+p + h1 {
+  margin-top: 3em;
+}
 
 /*
  * Buttons
@@ -352,10 +355,8 @@ footer {
                   position: relative;
                 }
                 .wrap-grid li img {
-                  width: 100%;
                   margin: 1em 0 1em 0;
-                  object-fit: contain;
-                  object-position: bottom;
+                  width: 100%;
                 }
 .wrap-grid-wider {
           max-width: 42em;
@@ -368,8 +369,12 @@ footer {
                     grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
                     grid-gap: 2em;
                   }
-                  .wrap-grid li {
+                  .wrap-grid-wider li {
                     position: relative;
+                  }
+                  .wrap-grid-wider li img {
+                    margin: 1em 0 1em 0;
+                    width: 100%;
                   }
 }
 
