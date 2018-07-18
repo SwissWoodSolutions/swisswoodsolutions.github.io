@@ -6,7 +6,7 @@
 
 a {
   color: #c1574c;
-  text-decoration: none;
+  text-decoration: underline;
   transition: 0.2s ease;
 }
 a:hover {
@@ -17,23 +17,23 @@ p {
   line-height: 1.35em;
 }
 strong {
-  font-weight: 500;
-  color: #c1574c;
-  font-style: italic;
+  font-weight: 600;
 }
 h1 {
   margin-bottom: 1em;
   font-size: 2em;
   color: #c1574c;
+  font-weight: 600;
 }
 h2 {
   margin-bottom: 1em;
   font-size: 1.5em;
+  font-weight: 600;
 }
 h3 {
   font-size: 1em;
   margin-bottom: 0.25em;
-  margin-top: 1.5em;
+  font-weight: 600;
 }
 blockquote {
   margin: 2em;
@@ -52,15 +52,20 @@ video {
 main {
   min-height:calc(100vh - 100px);
 }
+p + h2 {
+  margin-top: 3em;
+}
+
 /*
  * Buttons
  */
+
 .btn-red {
   color: #c1574c;
   padding: 0.5em 2em 0.5em 2em;
   border: solid #c1574c 1px;
   text-decoration: none;
-  margin: 1em 1em 1em 0em;
+  margin: 2em 1em 2em 0em;
 }
 .btn-red:hover {
   background: #c1574c;
@@ -72,7 +77,7 @@ main {
   padding: 0.5em 2em 0.5em 2em;
   border: solid white 1px;
   text-decoration: none;
-  margin: 1em 0em 1em 0em;
+  margin: 1em 1em 1em 0em;
 }
 .btn-white:hover {
   background: white;
@@ -93,7 +98,9 @@ main {
   text-decoration: none;
   color: white;
 }
-
+.extra-margin-top {
+  margin-top: 4em;
+}
 @media (max-width: 700px) {
   /* mobile */
   body {
@@ -114,7 +121,7 @@ header::after {
   content: ' ';
   clear: both;
   display: block;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 @media (min-width: 1000px){
@@ -155,6 +162,7 @@ header::after {
 @media (max-width: 999px) {
   header {
     padding: 20px;
+    position: sticky;
   }
 
   header::after {
@@ -297,44 +305,80 @@ footer {
 /*
  * DIVS for Content
  */
-
- .full-width {
+ .coverimg {
+   object-fit: cover;
+   width: 100%;
+   z-index: -1;
+   max-height: 600px;
+ }
+.wrap-bg-image {
+  position: absolute;
+  padding: 8em 0em 8em 0em;
+  text-align: center;
+  width: 100%;
+}
+.full-width {
    background-color: none;
+   position: relative;
  }
 .full-width-red {
   background-color: #c1574c;
 }
-.full-width-red h3 {
-  color: white;
-}
-.full-width-red img {
-  width: 8em;
-}
+    .full-width-red h3 {
+      color: white;
+    }
+    .full-width-red img {
+      width: 8em;
+    }
 .wrap {
   max-width: 42em;
-  padding: 8em 4em 8em 4em;
-  margin: 0 auto;
-}
-@media (max-width: 899px) {
-  /* mobile */
-  .wrap {
   padding: 8em 2em 8em 2em;
-  }
+  margin: 0 auto;
 }
 
 @supports (display:grid) {
 .wrap-grid {
   max-width: 42em;
-  padding: 8em 4em 8em 4em;
+  padding: 8em 2em 8em 2em;
   margin: 0 auto;
+  }
+        .wrap-grid ul {
+                  list-style-type: none;
+                  display: grid;
+                  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
+                  grid-gap: 2em;
+                }
+                .wrap-grid li {
+                  position: relative;
+                }
+                .wrap-grid li img {
+                  width: 100%;
+                  margin: 1em 0 1em 0;
+                  object-fit: contain;
+                  object-position: bottom;
+                }
+.wrap-grid-wider {
+          max-width: 42em;
+          padding: 8em 2em 8em 2em;
+          margin: 0 auto;
+          }
+          .wrap-grid-wider ul {
+                    list-style-type: none;
+                    display: grid;
+                    grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
+                    grid-gap: 2em;
+                  }
+                  .wrap-grid li {
+                    position: relative;
+                  }
 }
-.wrap-grid ul {
-          list-style-type: none;
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
-          grid-gap: 2em;
-        }
-        .wrap-grid li {
-          position: relative;
-        }
-    }
+
+@media (max-width: 899px) {
+  /* mobile */
+  .wrap, .wrap-grid, .wrap-grid-wider {
+  max-width: none;
+  left: 0;
+  }
+}
+
+/* no grid support? TO BE ADDED*/
