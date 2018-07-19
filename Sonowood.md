@@ -5,9 +5,9 @@ order: 2
 ---
 <div class="full-width">
     <div class="wrap-bg-image">
-        <h1>Sonowood</h1>
         <h2>The Vienna String Quartet loves Sonowood</h2>
-        <p class="extra-margin-top"><a class="btn-red" href="">Watch video</a></p>
+        <p>text text text</p>
+        <p class="extra-margin-top"><a class="btn-white" href="">Watch video</a></p>
     </div>
     <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1" class="coverimg">
 </div>
@@ -38,7 +38,7 @@ order: 2
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/customizable.svg" alt="icon customizable">
             <h3>Customizable properties</h3>
-            <p>A core strength of our innovative technology is its flexibility. No matter if hardness, density or coloration – you choose the properties of your wood.</p>
+            <p>No matter if hardness, density or coloration – you choose the properties of your wood.</p>
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/100.svg" alt="icon 100% wood">
             <h3>100% wood</h3>
@@ -46,7 +46,7 @@ order: 2
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/sound.svg" alt="icon acoustics">
             <h3>Superior Acoustics</h3>
-            <p>Text text.</p>
+            <p>High sound velocity, low damping. Fully approved by musicians and instrument makers.</p>
             </li>
         </ul>
     </div>

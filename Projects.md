@@ -55,6 +55,6 @@ order: 3
           <li><img src="/swisswoodsolutions/assets/images/clients_logo_SBB.png" alt="logo client SBB"></li>
           <li><img src="/swisswoodsolutions/assets/images/clients_logo_BS.jpg" alt="logo client Basel-Stadt"></li>
           </ul>
-          <p class="extra-margin-top"><a class="btn" href="/swisswoodsolutions/contact">Contact us to tap into our know-how</a></p>
+          <p class="extra-margin-top"><a class="btn-red" href="/swisswoodsolutions/contact">Contact us to tap into our know-how</a></p>
       </div>
 </div>
