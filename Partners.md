@@ -5,8 +5,11 @@ order: 6
 ---
 
 <div class="full-width">
+      <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg" src="/swisswoodsolutions/assets/images/partners.jpg" alt="detail violin" class="coverimg">
+</div>
+<div class="full-width">
     <div class="wrap-grid">
-    <h1>Our Partners for musical instruments</h1>
+    <h1>Musical instrument makers</h1>
         <ul>
             <li>
             <img src="/swisswoodsolutions/assets/images/partner_wilhelm.jpg"

@@ -20,7 +20,7 @@ strong {
   font-weight: 600;
 }
 h1 {
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   font-size: 2em;
   color: #c1574c;
   font-weight: 600;
@@ -57,6 +57,14 @@ p + h2 {
 }
 p + h1 {
   margin-top: 3em;
+}
+figcaption {
+  font-size: 0.8em;
+  text-align: right;
+  font-style: italic;
+  opacity: 0.75;
+  margin-top: -1em;
+  margin-bottom: 2em;
 }
 /*
  * Buttons
@@ -364,11 +372,11 @@ footer a {
  }
 .wrap-bg-image {
   position: absolute;
-  padding: 8em 0em 8em 0em;
   text-align: center;
+  bottom: 0;
   width: 100%;
-  color: white;
-  background-color: none;
+  padding: 1.5em 0 1em 0;
+  background-color: rgba(255, 255, 255, 0.7);
 }
 .full-width {
    background-color: none;
@@ -380,19 +388,19 @@ footer a {
     .full-width-red h3 {
       color: white;
     }
-    .full-width-red img {
-      width: 8em;
-    }
 .wrap {
   max-width: 42em;
-  padding: 8em 0em 8em 0em;
+  padding: 6em 0em 6em 0em;
   margin: 0 auto;
 }
-
+iframe {
+  height: calc(42em * 0.5625);
+  padding: 0;
+}
 @supports (display:grid) {
 .wrap-grid {
   max-width: 42em;
-  padding: 8em 0em 8em 0em;
+  padding: 6em 0em 6em 0em;
   margin: 0 auto;
   }
         .wrap-grid ul {
@@ -404,13 +412,14 @@ footer a {
                 .wrap-grid li {
                   position: relative;
                 }
-                .wrap-grid li img {
+                .wrap-grid li img, iframe {
                   margin: 1em 0 1em 0;
                   width: 100%;
+                  border: none;
                 }
 .wrap-grid-wider {
           max-width: 42em;
-          padding: 8em 0em 8em 0em;
+          padding: 6em 0em 6em 0em;
           margin: 0 auto;
           }
           .wrap-grid-wider ul {
@@ -427,12 +436,30 @@ footer a {
                     width: 100%;
                   }
 }
-
+.media {
+  width: 100%;
+  min-height: 6em;
+  padding: 1em 0.25em 1em 0.25em;
+  text-align: center;
+  background-color: white;
+  border: solid 1px #c1574c;
+}
+    .media a {
+      text-decoration: none;
+      line-height: 1.4em;
+    }
+.media:hover {
+  background-color: #c1574c;
+  border: solid 1px white;
+}
+    .media:hover a {
+      color: white;
+    }
 @media (max-width: 999px) {
   /* mobile */
   .wrap, .wrap-grid, .wrap-grid-wider {
   max-width: none;
-  padding: 8em 2em 8em 2em;
+  padding: 6em 2em 6em 2em;
   left: 0;
   }
 }
