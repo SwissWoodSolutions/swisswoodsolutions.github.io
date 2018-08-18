@@ -15,13 +15,12 @@ order: 2
 <div class="full-width">
     <div class="wrap">
         <h1>Sonowood</h1>
-        <h2>a better wood for musical instruments</h2>
+        <h2>the sustainable wood that makes your instrument sound better</h2>
         <p>
         For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability, and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="/">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
         </p>
         <p>
         This is why we have developed <strong>Sonowood</strong>. Sonowood matches the favorable properties of tropical woods while being a completely legal substitute. In addition to being environmentally friendly, the technology offers adjustability of a wide range of parameters.</p>
-        <p class="extra-margin-top"><a class="btn" href="">Download Flyer</a><a class="btn" href="">Download Factsheet</a></p>
     </div>
 </div>
 <div class="full-width-red">
@@ -61,16 +60,22 @@ order: 2
         <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
         <h3>Sonowood Maple</h3>
         <p>Dark-brown or light color, sound-propagation velocity of 5’200 m/s.</p>
+        <p><a class="btn" href="">Factsheet</a></p>
         </li>
         <li>
         <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
         <h3>Sonowood Spruce</h3><p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p>
+        <p><a class="btn" href="">Factsheet</a></p>
         </li>
         <li>
         <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
         <h3>Sonowood Beech</h3>
         <p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p>
+        <p><a class="btn" href="">Factsheet</a></p>
         </li>
     </ul>
+    <p class="extra-margin-top"><a class="btn" href="">Download Flyer</a></p>
+    <h2>Where to purchase Sonowood?</h2>
+    <p>Contact info</p>
     </div>
 </div>

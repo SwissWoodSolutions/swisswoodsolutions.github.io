@@ -109,7 +109,7 @@ figcaption {
   color: white;
 }
 .extra-margin-top {
-  margin-top: 4em;
+  margin-top: 3em;
 }
 @media (max-width: 700px) {
   /* mobile */
@@ -388,6 +388,9 @@ footer a {
     .full-width-red h3 {
       color: white;
     }
+.full-width-grey {
+  background-color: #e2dcdc;
+}
 .wrap {
   max-width: 42em;
   padding: 6em 0em 6em 0em;
@@ -463,5 +466,14 @@ iframe {
   left: 0;
   }
 }
-
+.googlemap {
+    -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+         -o-filter: grayscale(100%);
+            filter: grayscale(100%);
+            margin-bottom: 0;
+            height: 700px;
+            width: 100%;
+}
 /* no grid support? TO BE ADDED*/

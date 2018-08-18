@@ -1,7 +1,7 @@
 ---
 layout: standardpage
 title: 'News'
-order: 5
+order: 4
 ---
 <div class="full-width">
     <div class="wrap">
