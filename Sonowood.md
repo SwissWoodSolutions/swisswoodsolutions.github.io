@@ -74,7 +74,7 @@ order: 2
         <p><a class="btn" href="">Factsheet</a></p>
         </li>
     </ul>
-    <p class="extra-margin-top"><a class="btn" href="">Download Flyer</a></p>
+    <p class="extra-margin-top"><a class="btn-red" href="">Download Flyer</a></p>
     <h2>Where to purchase Sonowood?</h2>
     <p>Contact info</p>
     </div>
