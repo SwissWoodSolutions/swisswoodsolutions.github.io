@@ -25,8 +25,17 @@ order: 2
 </div>
 <div class="full-width-red">
     <div class="wrap-grid">
-        <h2>Sonowood benefits, compared to tropical woods</h2>
         <ul>
+            <li>
+            <h2>Sonowood benefits</h2>
+            <h3>
+            Compared to tropical wood, Sonowood bears a range of advantages:
+            </h3>
+            </li>
+            <li><img src="/swisswoodsolutions/assets/logo/sound.svg" alt="icon acoustics">
+            <h3>Superior Acoustics</h3>
+            <p>High sound velocity, low damping. Fully approved by musicians and instrument makers.</p>
+            </li>
             <li>
             <img src="/swisswoodsolutions/assets/logo/biodiverse.svg" alt="icon biodiversity">
             <h3>Preserve Biodiversity</h3>
@@ -37,45 +46,78 @@ order: 2
             <p>Sonowood does not contain wood species listed on CITES, therefore no trade and import restrictions occur.</p>
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/customizable.svg" alt="icon customizable">
-            <h3>Customizable properties</h3>
-            <p>No matter if hardness, density or coloration – you choose the properties of your wood.</p>
+            <h3>Tunable properties</h3>
+            <p>No matter if hardness, density or coloration – you choose the properties of your wood. For more details, see our fact sheets below.</p>
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/100.svg" alt="icon 100% wood">
-            <h3>100% wood</h3>
-            <p>Sonowood is not a composite material, it is fully authentic wood.</p>
-            </li>
-            <li><img src="/swisswoodsolutions/assets/logo/sound.svg" alt="icon acoustics">
-            <h3>Superior Acoustics</h3>
-            <p>High sound velocity, low damping. Fully approved by musicians and instrument makers.</p>
+            <h3>Authenticity</h3>
+            <p>Sonowood is not a composite material, it is fully authentic wood. Thanks to its wood authenticity, Sonowood is characterized by a straightforward workability.</p>
             </li>
         </ul>
     </div>
 </div>
 <div class="full-width">
-    <div class="wrap-grid">
-    <h2>Types of Sonowood</h2>
-    <p>Our multi-step technology is applicable to any possible wood specie, depending on the individual requirements of the respective product. The use of maple, beech, ash and spruce has been proven already. Current experiments also include further species such as oak and plum wood.</p>
-    <ul>
-        <li>
-        <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
-        <h3>Sonowood Maple</h3>
-        <p>Dark-brown or light color, sound-propagation velocity of 5’200 m/s.</p>
-        <p><a class="btn" href="">Factsheet</a></p>
-        </li>
-        <li>
-        <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
-        <h3>Sonowood Spruce</h3><p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p>
-        <p><a class="btn" href="">Factsheet</a></p>
-        </li>
-        <li>
-        <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
-        <h3>Sonowood Beech</h3>
-        <p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p>
-        <p><a class="btn" href="">Factsheet</a></p>
-        </li>
-    </ul>
-    <p class="extra-margin-top"><a class="btn-red" href="">Download Flyer</a></p>
-    <h2>Where to purchase Sonowood?</h2>
-    <p>Contact info</p>
+    <div class="wrap-grid-wider">
+        <h2>Types of Sonowood</h2>
+        <p>Our multi-step technology is applicable to any possible wood specie, depending on the individual requirements of the respective product. The use of maple, beech, ash and spruce has been proven already. Current experiments also include further species such as oak and plum wood.</p>
+        <p class="extra-margin-top"><a class="btn-red" href="">Download Flyer</a></p>
+        <p>-</p>
+        <ul>
+            <li>
+              <h3>Sonowood Maple</h3>
+              <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
+              <p><a class="btn" href="">Factsheet</a></p>
+              </li>
+              <li>
+              <p>Product Range:
+                  -	fingerboards for violin, viola, guitar and cello. Available as square timbers or fully manufactured
+                  -	tailpiece for violin, viola, cello and double bass
+                  -	pegs: square timbers are provided for violin, viola and cello
+                  -	chinrest
+                  -	full set: includes square timbers or fully manufactured violin parts
+              </p>
+              <p>Data: -	Made from sycamore maple (acer pseudoplatanus)
+-	Density: 1’200 – 1’400 kg/m3, individually adjustable
+-	Brinell hardness: > 100 N/mm2
+-	Color: mocha
+-	Dimensional stability: differential swelling in % per % moisture content change:
+o	Height: 0.7%
+o	Width: 0.3%
+-	Sound-propagation velocity: > 4’600 m/s
+-	Damping: 0.05 logarithmic decrement
+-	Dynamic modulus of elasticity (MOE): > 30’000 N/mm2
+              </p>
+            </li>
+            <li>
+              <h3>Sonowood Spruce</h3>
+              <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
+              <p><a class="btn" href="">Factsheet</a></p>
+            </li>
+            <li>
+              <p>Provided product range:
+-	fingerboards for violin, viola, guitar and cello. Available as square timbers or fully manufactured
+-	tailpiece for violin, viola, cello and double bass
+Data Sheet (same data as on flyer):
+-	Made from spruce (picea abies)
+-	Density: 1’300 – 1’400 kg/m3, individually adjustable
+-	Brinell hardness: > 100 N/mm2
+-	Color: caramel
+-	Dimensional stability: differential swelling in % per % moisture content change:
+o	Height: 0.75%
+o	Width: 0.33%
+-	Sound-propagation velocity: > 5’500 m/s
+-	Damping: 0.04 logarithmic decrement
+-	Dynamic modulus of elasticity (MOE): > 39’000 N/mm2
+                </p>
+            </li>
+            <li>
+              <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
+              <h3>Sonowood Beech</h3>
+              <p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p>
+              <p><a class="btn" href="">Factsheet</a></p>
+            </li>
+          </ul>
+      <h2>How to get Sonowood?</h2>
+      <p>Contact info</p>
     </div>
 </div>
