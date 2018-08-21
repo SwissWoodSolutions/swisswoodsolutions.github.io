@@ -6,8 +6,8 @@ order: 8
 <div class="full-width">
         <img srcset="/swisswoodsolutions/assets/images/contact_2x.jpg" src="/swisswoodsolutions/assets/images/contact.jpg" alt="densified wood samples" class="coverimg">
         <div class="wrap">
-            <h1>Get in touch.</h1>
-            <p>We are based in Zurich at the ETH Campus Hönggerberg. We are happy to give interested clients and business partners an insight into our production facilities and research laboratories.</p>
+            <h1>Wood tailored to your needs?</h1>
+            <p>Just get in touch with us for a quote or further information. <br>We look forward to hearing from you.</p>
             <h3>Swiss Wood Solutions AG</h3>
             <p>Stefano-Franscini-Platz 3<br/>
             HIF E 29.1<br/>

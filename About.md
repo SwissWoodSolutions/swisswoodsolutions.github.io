@@ -5,6 +5,7 @@ order: 5
 ---
 
 <div class="full-width">
+  <img srcset="/swisswoodsolutions/assets/images/team-cover_2x.jpg" src="/swisswoodsolutions/assets/images/team-cover.jpg" alt="densified wood samples" class="coverimg">
     <div class="wrap-grid-wider">
         <p>Swiss Wood Solutions was founded in 2016 as a spin-off from ETH Zurich and Empa. We are driven by the belief that wood can fulfill more needs than it currently does. The team fuses the vast knowledge of scientists with diverse educational backgrounds. The team members combine for a unique and complementary set of scientific, technical and commercial skills.
         </p>
@@ -49,19 +50,25 @@ order: 5
       <h2>Our Professional Partners in Music</h2>
           <ul>
               <li>
-              <img src="/swisswoodsolutions/assets/images/partner_wilhelm.jpg"
-              srcset="/swisswoodsolutions/assets/images/partner_wilhelm_2x.jpg" alt="Wilhelm Geigenbau instrument">
-              <a href="http://www.wilhelm-geigenbau.ch" target="_blank">Wilhelm Geigenbau</a></li>
+                <img src="/swisswoodsolutions/assets/images/partner_wilhelm.jpg"
+                alt="Wilhelm Geigenbau instrument">
+                <a href="http://www.wilhelm-geigenbau.ch" target="blank">Wilhelm Geigenbau</a>
+                </li>
               <li>
-              <img src="/swisswoodsolutions/assets/images/partner_twice.jpg"
-              srcset="/swisswoodsolutions/assets/images/partner_twice_2x.jpg" alt="Twice Percussion instrument">
-              <a href="http://www.twicepercussion.ch" target="_blank">Thomas Weiss, Twice Percussion</a></li>
-              <li><img src="/swisswoodsolutions/assets/images/partner_stemple.jpg"
-              srcset="/swisswoodsolutions/assets/images/partner_stemple_2x.jpg" alt="Robert Stemple instrument">
-              Robert Stemple, Klarinettenbau</li>
-              <li><img src="/swisswoodsolutions/assets/images/partner_stemple.jpg"
-              srcset="/swisswoodsolutions/assets/images/partner_stemple_2x.jpg" alt="Pacific Vienna Quartet">
-              <a href="http://" target="_blank">Pacific Vienna String Quartet</a></li>
+                <img src="/swisswoodsolutions/assets/images/partner_twice.jpg"
+                alt="Twice Percussion instruments">
+                <a href="http://www.twicepercussion.ch" target="blank">Thomas Weiss, Twice Percussion</a>
+                </li>
+              <li>
+                <img src="/swisswoodsolutions/assets/images/partner_stempfle.jpg"
+                alt="Robert Stempfle Holzblasinstrumenten">
+                <a href="https://stempfle.ch/de/" target="blank">Robert Stempfle, Holzblasinstrumenten</a>
+                </li>
+              <li>
+                <img src="/swisswoodsolutions/assets/images/partner_pqv.jpg"
+                alt="Pacific Quartet Vienna">
+                <a href="http://pacificquartet.com" target="blank">Pacific Quartet Vienna</a>
+              </li>
           </ul>
       </div>
   </div>

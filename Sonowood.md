@@ -5,32 +5,29 @@ order: 2
 ---
 <div class="full-width">
     <div class="wrap-bg-image">
-        <h2>The Pacific Quartet Vienna and Sonowood</h2>
-        <p>Hear the musicians play on and talk about their Sonowood-instruments</p>
-        <p><a class="btn" href="">Watch video</a></p>
+        <h1>Sonowood: the first sustainable and tunable wood.</h1>
+        <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
-    <img srcset="/swisswoodsolutions/assets/images/sonowood_quartet_2x.jpg"
-         src="/swisswoodsolutions/assets/images/sonowood_quartet.jpg" alt="wood1" class="coverimg">
+    <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg"
+         src="/swisswoodsolutions/assets/images/partners.jpg" alt="wood1" class="coverimg-large">
 </div>
 <div class="full-width">
     <div class="wrap">
-        <h1>Sonowood</h1>
-        <h2>the sustainable wood that makes your instrument sound better</h2>
+        <h2>Sonowood makes your instrument sound better</h2>
         <p>
-        For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability, and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="/">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
+        For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="https://www.cites.org/eng/disc/species.php" target="blank">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
         </p>
         <p>
         This is why we have developed <strong>Sonowood</strong>. Sonowood matches the favorable properties of tropical woods while being a completely legal substitute. In addition to being environmentally friendly, the technology offers adjustability of a wide range of parameters.</p>
     </div>
 </div>
-<div class="full-width-red">
+<div class="full-width-grey">
     <div class="wrap-grid">
         <ul>
             <li>
-            <h2>Sonowood benefits</h2>
-            <h3>
-            Compared to tropical wood, Sonowood bears a range of advantages:
-            </h3>
+            <h2>
+            Sonowood bears a range of advantages:
+            </h2>
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/sound.svg" alt="icon acoustics">
             <h3>Superior Acoustics</h3>
@@ -60,63 +57,37 @@ order: 2
     <div class="wrap-grid-wider">
         <h2>Types of Sonowood</h2>
         <p>Our multi-step technology is applicable to any possible wood specie, depending on the individual requirements of the respective product. The use of maple, beech, ash and spruce has been proven already. Current experiments also include further species such as oak and plum wood.</p>
-        <p class="extra-margin-top"><a class="btn-red" href="">Download Flyer</a></p>
-        <p>-</p>
+        <p><a class="btn-red" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf" target="blank">Sonowood Flyer (EN)</a> <a class="btn-red" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf" target="blank">Sonowood Flyer (DE)</a></p>
         <ul>
             <li>
-              <h3>Sonowood Maple</h3>
-              <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
-              <p><a class="btn" href="">Factsheet</a></p>
+                  <h3>Sonowood Maple</h3>
+                  <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
               </li>
               <li>
-              <p>Product Range:
+                  <p>Product Range:
+                      -	fingerboards for violin, viola, guitar and cello. Available as square timbers or fully manufactured
+                      -	tailpiece for violin, viola, cello and double bass
+                      -	pegs: square timbers are provided for violin, viola and cello
+                      -	chinrest
+                      -	full set: includes square timbers or fully manufactured violin parts
+                  </p>
+                  <p><a class="btn" href="">Technical Data</a></p>
+            </li>
+            <li>
+                  <h3>Sonowood Spruce</h3>
+                  <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
+            </li>
+            <li>
+                <p>Product range:
                   -	fingerboards for violin, viola, guitar and cello. Available as square timbers or fully manufactured
-                  -	tailpiece for violin, viola, cello and double bass
-                  -	pegs: square timbers are provided for violin, viola and cello
-                  -	chinrest
-                  -	full set: includes square timbers or fully manufactured violin parts
-              </p>
-              <p>Data: -	Made from sycamore maple (acer pseudoplatanus)
--	Density: 1’200 – 1’400 kg/m3, individually adjustable
--	Brinell hardness: > 100 N/mm2
--	Color: mocha
--	Dimensional stability: differential swelling in % per % moisture content change:
-o	Height: 0.7%
-o	Width: 0.3%
--	Sound-propagation velocity: > 4’600 m/s
--	Damping: 0.05 logarithmic decrement
--	Dynamic modulus of elasticity (MOE): > 30’000 N/mm2
-              </p>
-            </li>
-            <li>
-              <h3>Sonowood Spruce</h3>
-              <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
-              <p><a class="btn" href="">Factsheet</a></p>
-            </li>
-            <li>
-              <p>Provided product range:
--	fingerboards for violin, viola, guitar and cello. Available as square timbers or fully manufactured
--	tailpiece for violin, viola, cello and double bass
-Data Sheet (same data as on flyer):
--	Made from spruce (picea abies)
--	Density: 1’300 – 1’400 kg/m3, individually adjustable
--	Brinell hardness: > 100 N/mm2
--	Color: caramel
--	Dimensional stability: differential swelling in % per % moisture content change:
-o	Height: 0.75%
-o	Width: 0.33%
--	Sound-propagation velocity: > 5’500 m/s
--	Damping: 0.04 logarithmic decrement
--	Dynamic modulus of elasticity (MOE): > 39’000 N/mm2
-                </p>
-            </li>
-            <li>
-              <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
-              <h3>Sonowood Beech</h3>
-              <p>Quot expetenda an nam. His invidunt persequeris te. Ei pri singulis eloquentiam, esse erroribus in per</p>
-              <p><a class="btn" href="">Factsheet</a></p>
+                  -	tailpiece for violin, viola, cello and double bass</p>
+                <p><a class="btn" href="">Technical Data</a></p>
             </li>
           </ul>
+      </div>
+</div>
+<div class="full-width-grey">
+  <div class="wrap">          
       <h2>How to get Sonowood?</h2>
       <p>Contact info</p>
     </div>
