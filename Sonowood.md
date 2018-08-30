@@ -3,13 +3,13 @@ layout: standardpage
 title: 'Sonowood'
 order: 2
 ---
-<div class="full-width">
+<div class="full-width-kenburns">
     <div class="wrap-bg-image">
         <h1>Sonowood: the first sustainable and tunable wood.</h1>
         <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
     <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg"
-         src="/swisswoodsolutions/assets/images/partners.jpg" alt="wood1" class="coverimg-large">
+         src="/swisswoodsolutions/assets/images/partners.jpg" alt="wood1">
 </div>
 <div class="full-width">
     <div class="wrap">
@@ -33,22 +33,22 @@ order: 2
             <h3>Superior Acoustics</h3>
             <p>High sound velocity, low damping. Fully approved by musicians and instrument makers.</p>
             </li>
+            <li><img src="/swisswoodsolutions/assets/logo/customizable.svg" alt="icon customizable">
+            <h3>Tunable properties</h3>
+            <p>No matter if hardness, density or coloration – you choose the properties of your wood.</p>
+            </li>
             <li>
             <img src="/swisswoodsolutions/assets/logo/biodiverse.svg" alt="icon biodiversity">
-            <h3>Preserve Biodiversity</h3>
+            <h3>Preserving Biodiversity</h3>
             <p>Sonowood is manufactured from sustainable European wood species.</p>
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/legal.svg" alt="icon no legal restrictions">
             <h3>No legal restrictions</h3>
             <p>Sonowood does not contain wood species listed on CITES, therefore no trade and import restrictions occur.</p>
             </li>
-            <li><img src="/swisswoodsolutions/assets/logo/customizable.svg" alt="icon customizable">
-            <h3>Tunable properties</h3>
-            <p>No matter if hardness, density or coloration – you choose the properties of your wood. For more details, see our fact sheets below.</p>
-            </li>
             <li><img src="/swisswoodsolutions/assets/logo/100.svg" alt="icon 100% wood">
             <h3>Authenticity</h3>
-            <p>Sonowood is not a composite material, it is fully authentic wood. Thanks to its wood authenticity, Sonowood is characterized by a straightforward workability.</p>
+            <p>Sonowood is not a composite material, it is fully authentic wood, with a straightforward workability.</p>
             </li>
         </ul>
     </div>
@@ -62,26 +62,54 @@ order: 2
             <li>
                   <h3>Sonowood Maple</h3>
                   <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
+                  <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
               </li>
               <li>
-                  <p>Product Range:
-                      -	fingerboards for violin, viola, guitar and cello. Available as square timbers or fully manufactured
-                      -	tailpiece for violin, viola, cello and double bass
-                      -	pegs: square timbers are provided for violin, viola and cello
-                      -	chinrest
-                      -	full set: includes square timbers or fully manufactured violin parts
-                  </p>
-                  <p><a class="btn" href="">Technical Data</a></p>
+                  <hr>
+                  <h4>Product Range</h4>
+                  <ul class="list-disc">
+                    <li><strong>Fingerboards</strong> for violin, viola, guitar and cello. As square timbers or fully manufactured.</li>
+                    <li>Tailpiece for violin, viola, cello and double bass</li>
+                    <li>Pegs: square timbers are provided for violin, viola and cello</li>
+                    <li>Chinrest</li>
+                    <li>Full set: includes square timbers or fully manufactured violin parts</li>
+                  </ul>
+                  <hr>
+                  <h4>Technical Data</h4>
+                  <ul class="list-disc">
+                    <li>Sycamore Maple (Acer Pseudoplatanus)</li>
+                    <li>Colour: Mocha</li>
+                    <li>Density: 1'200 – 1'400 kg/m3</li>
+                    <li>Brinell Hardness: > 80 N/mm2</li>
+                    <li>Dimensional Stability: Height ~0.7<br> Width ~0.3 % per % moisture content change</li>
+                    <li>Sound Velocity: > 4'400 m/s</li>
+                    <li>Damping (Log.decrement): ~0.053</li>
+                    <li>Elastic Modulus: > 23'000 N/mm2</li>
+                  </ul>
             </li>
-            <li>
+            <li>  
                   <h3>Sonowood Spruce</h3>
                   <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
             </li>
             <li>
-                <p>Product range:
-                  -	fingerboards for violin, viola, guitar and cello. Available as square timbers or fully manufactured
-                  -	tailpiece for violin, viola, cello and double bass</p>
-                <p><a class="btn" href="">Technical Data</a></p>
+                <hr>
+                <h4>Product Range</h4>
+                <ul class="list-disc">
+                  <li>Fingerboards for violin, viola, guitar and cello. As square timbers or fully manufactured</li>
+                  <li>Tailpiece for violin, viola, cello and double bass</li>
+                </ul>
+                <hr>
+                <h4>Technical Data</h4>
+                <ul class="list-disc">
+                  <li>Spruce (Picea Abies)</li>
+                  <li>Colour: Caramel</li>
+                  <li>Density: 1'300 – 1'400 kg/m3</li>
+                  <li>Brinell Hardness: > 100 N/mm2</li>
+                  <li>Dimensional Stability: Height ~0.75<br> Width ~0.33 % per % moisture content change</li>
+                  <li>Sound Velocity: > 5'500 m/s</li>
+                  <li>Damping (Log.decrement): ~0.04</li>
+                  <li>Elastic Modulus: > 39'000 N/mm2</li>
+                </ul>
             </li>
           </ul>
       </div>

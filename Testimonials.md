@@ -4,12 +4,13 @@ title: 'Testimonials'
 order: 7
 ---
 
-<div class="full-width">
+<div class="full-width-kenburns">
     <div class="wrap-bg-image">
         <h1>«Sonowood has the potential to not only match the quality of ebony, but to even excel it.»</h1>
+        <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
     <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg"
-         src="/swisswoodsolutions/assets/images/partners.jpg" alt="densified wood samples" class="coverimg">
+         src="/swisswoodsolutions/assets/images/partners.jpg" alt="densified wood samples">
 </div>
 <div class="full-width">
     <div class="wrap-grid-wider">
