@@ -33,8 +33,14 @@ h2 {
 }
 h3 {
   font-size: 1em;
-  margin-bottom: 0.25em;
+  margin-bottom: 1em;
   font-weight: 600;
+}
+h4 {
+  font-size: 1em;
+  margin-bottom: 1em;
+  font-weight: 600;
+  color: #c1574c;
 }
 blockquote {
   margin: 2em;
@@ -78,6 +84,14 @@ iframe {
     text-align: center;
     font-style: italic;
 }
+hr {
+  color: solid #e2dcdc 1px;
+  margin: 1em 0 1em 0;
+}
+.list-disc {
+  list-style-type: disc;
+}
+
 /*
  * Buttons
  */
@@ -384,30 +398,61 @@ footer a {
    z-index: -1;
    max-height: 400px;
  }
- .coverimg-large {
-   object-fit: cover;
-   width: 100%;
-   z-index: -1;
-   max-height: 900px;
- }
-.wrap-bg-image h1 {
+.full-width-kenburns {
+  overflow: hidden;
+  position: relative;
+  height: 800px;
+  margin: 0 auto;
+}
+.full-width-kenburns > img {
+  animation:move 10s ease;
+  -ms-animation:move 10s ease;
+  -webkit-animation:move 10s ease;
+  -0-animation:move 10s ease;
+  -moz-animation:move 10s ease;
   position: absolute;
-  top: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  text-align: center;
-  padding: 0 3em 0 3em;
+  z-index: -1;
+  width: 140%;
+  height: 140%;
+  top: -100px;
+  left: -150px;
+  object-fit: cover;
 }
-  .arrow-down {
-    position: absolute;
-    text-align: center;
-    bottom: 0;
-    width: 100%;
-    padding: 0;
-    opacity: 0.8;
+@-webkit-keyframes move {
+  from {
+  	transform: scale(0.9);
+    -ms-transform: scale(0.9); /* IE 9 */
+    -webkit-transform: scale(0.9); /* Safari and Chrome */
+    -o-transform: scale(0.9); /* Opera */
+    -moz-transform: scale(0.9); /* Firefox */
+  }
+  to {
+  	transform: scale(1.0);
+    -ms-transform: scale(1.0); /* IE 9 */
+    -webkit-transform: scale(1.0); /* Safari and Chrome */
+    -o-transform: scale(1.0); /* Opera */
+    -moz-transform: scale(1.0); /* Firefox */
+  }
 }
+      .wrap-bg-image > h1 {
+        position: absolute;
+        top: 70px;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        text-align: center;
+        padding: 0 3em 0 3em;
+      }
+      .wrap-bg-image p {
+          position: absolute;
+          text-align: center;
+          bottom: 0;
+          width: 100%;
+          padding: 0;
+          opacity: 0.8;
+      }
+
 .full-width {
    background-color: none;
    position: relative;
@@ -421,7 +466,7 @@ footer a {
 }
 .full-width-video {
   position: relative;
-  overflow: hidden;
+  overflow: visible;
   padding-top: 56.25%;
 }
     .full-width-iframe {
@@ -431,6 +476,7 @@ footer a {
     width: 100%;
     height: 100%;
     border: 0;
+    margin: 0 auto;
     }
 .align-center {
     text-align: center;
@@ -451,7 +497,7 @@ iframe {
   padding: 6em 0em 6em 0em;
   margin: 0 auto;
   }
-        .wrap-grid ul {
+        .wrap-grid > ul {
                   list-style-type: none;
                   display: grid;
                   grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
@@ -461,7 +507,7 @@ iframe {
                   position: relative;
                 }
                 .wrap-grid li img, iframe {
-                  margin: 1em 0 1em 0;
+                  margin-bottom: 1em;
                   width: 100%;
                   border: none;
                 }
@@ -470,7 +516,7 @@ iframe {
           padding: 6em 0em 6em 0em;
           margin: 0 auto;
           }
-          .wrap-grid-wider ul {
+          .wrap-grid-wider > ul {
                     list-style-type: none;
                     display: grid;
                     grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
@@ -480,10 +526,10 @@ iframe {
                     position: relative;
                   }
                   .wrap-grid-wider li img {
-                    margin: 1em 0 1em 0;
-                    width: 100%;
+                    margin-bottom: 1em;
                   }
 }
+
 .media {
   width: 100%;
   min-height: 6em;
@@ -511,7 +557,20 @@ iframe {
   padding: 6em 2em 6em 2em;
   left: 0;
   }
+  .full-width-kenburns {
+    overflow: hidden;
+    position: relative;
+    height: 500px;
+    margin: 0 auto;
+  }
+  .full-width-kenburns > img {
+    width: 120%;
+    height: 120%;
+    top: -50px;
+    left: -50px;
+  }
 }
+
 .googlemap {
     -webkit-filter: grayscale(100%);
        -moz-filter: grayscale(100%);
