@@ -9,8 +9,8 @@ order: 7
         <h1>«Sonowood has the potential to not only match the quality of ebony, but to even excel it.»</h1>
         <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
-    <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg"
-         src="/swisswoodsolutions/assets/images/partners.jpg" alt="densified wood samples">
+    <img srcset="/swisswoodsolutions/assets/images/testimonial_2x.jpg"
+         src="/swisswoodsolutions/assets/images/testimonial.jpg" alt="close up of violin with Sonowood">
 </div>
 <div class="full-width">
     <div class="wrap-grid-wider">

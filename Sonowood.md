@@ -1,11 +1,11 @@
 ---
-layout: standardpage
+layout: standardpageanalytics
 title: 'Sonowood'
 order: 2
 ---
 <div class="full-width-kenburns">
     <div class="wrap-bg-image">
-        <h1>Sonowood: the first sustainable and tunable wood.</h1>
+        <h1>Sonowood: the first sustainable and tunable wood for music.</h1>
         <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
     <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg"
@@ -31,7 +31,7 @@ order: 2
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/sound.svg" alt="icon acoustics">
             <h3>Superior Acoustics</h3>
-            <p>High sound velocity, low damping. Fully approved by musicians and instrument makers.</p>
+            <p>High sound velocity, low damping. Fully approved by musicians and instrument makers. <a href="/swisswoodsolutions/Testimonials">&rarr; testimonials</a></p>
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/customizable.svg" alt="icon customizable">
             <h3>Tunable properties</h3>
@@ -47,8 +47,8 @@ order: 2
             <p>Sonowood does not contain wood species listed on CITES, therefore no trade and import restrictions occur.</p>
             </li>
             <li><img src="/swisswoodsolutions/assets/logo/100.svg" alt="icon 100% wood">
-            <h3>Authenticity</h3>
-            <p>Sonowood is not a composite material, it is fully authentic wood, with a straightforward workability.</p>
+            <h3>Fully authentic</h3>
+            <p>Sonowood is NOT a composite material, it is fully authentic wood, with straightforward workability.</p>
             </li>
         </ul>
     </div>
@@ -58,17 +58,24 @@ order: 2
         <h2>Types of Sonowood</h2>
         <p>Our multi-step technology is applicable to any possible wood specie, depending on the individual requirements of the respective product. The use of maple, beech, ash and spruce has been proven already. Current experiments also include further species such as oak and plum wood.</p>
         <p><a class="btn-red" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf" target="blank">Sonowood Flyer (EN)</a> <a class="btn-red" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf" target="blank">Sonowood Flyer (DE)</a></p>
+        <hr>
         <ul>
             <li>
                   <h3>Sonowood Maple</h3>
-                  <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
-                  <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
+                  <img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-01_2x.jpg"
+                        src="/swisswoodsolutions/assets/images/sonowood-maple-01.jpg" alt="Maple turned into Sonowood Maple">
+                  <figcaption>Native Maple turned into Sonowood Maple</figcaption>
+                  <img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-03_2x.jpg"
+                        src="/swisswoodsolutions/assets/images/sonowood-maple-03.jpg" alt="Sonowood Maple chinrest">
+                  <figcaption>Sonowood Maple chinrest close-up</figcaption>
+                  <img srcset="/swisswoodsolutions/assets/images/sonowood-maple-02_2x.jpg"
+                        src="/swisswoodsolutions/assets/images/sonowood-maple-02.jpg" alt="Sonowood full set violin">
+                  <figcaption>Violin with Sonowood Maple fingerboard, chinrest, pegs</figcaption>
               </li>
               <li>
-                  <hr>
                   <h4>Product Range</h4>
                   <ul class="list-disc">
-                    <li><strong>Fingerboards</strong> for violin, viola, guitar and cello. As square timbers or fully manufactured.</li>
+                    <li>Fingerboards for violin, viola, guitar and cello. As square timbers or fully manufactured.</li>
                     <li>Tailpiece for violin, viola, cello and double bass</li>
                     <li>Pegs: square timbers are provided for violin, viola and cello</li>
                     <li>Chinrest</li>
@@ -77,7 +84,7 @@ order: 2
                   <hr>
                   <h4>Technical Data</h4>
                   <ul class="list-disc">
-                    <li>Sycamore Maple (Acer Pseudoplatanus)</li>
+                    <li><strong>Sycamore Maple (Acer Pseudoplatanus)</strong></li>
                     <li>Colour: Mocha</li>
                     <li>Density: 1'200 – 1'400 kg/m3</li>
                     <li>Brinell Hardness: > 80 N/mm2</li>
@@ -86,16 +93,18 @@ order: 2
                     <li>Damping (Log.decrement): ~0.053</li>
                     <li>Elastic Modulus: > 23'000 N/mm2</li>
                   </ul>
+                  <hr>
             </li>
             <li>  
                   <h3>Sonowood Spruce</h3>
-                  <img src="/swisswoodsolutions/assets/images/ebony_08.jpg" alt="wood1">
+                  <img srcset="/swisswoodsolutions/assets/images/sonowood-spruce-02_2x.jpg"
+                        src="/swisswoodsolutions/assets/images/sonowood-spruce-02.jpg" alt="Sonowood Spruce on violin">
+                  <figcaption>Sonowood Spruce on violin</figcaption>
             </li>
             <li>
-                <hr>
                 <h4>Product Range</h4>
                 <ul class="list-disc">
-                  <li>Fingerboards for violin, viola, guitar and cello. As square timbers or fully manufactured</li>
+                  <li>Fingerboards for violin, viola, guitar and cello. As square timbers or fully manufactured.</li>
                   <li>Tailpiece for violin, viola, cello and double bass</li>
                 </ul>
                 <hr>
@@ -110,6 +119,13 @@ order: 2
                   <li>Damping (Log.decrement): ~0.04</li>
                   <li>Elastic Modulus: > 39'000 N/mm2</li>
                 </ul>
+                <hr>
+            </li>
+            <li>  
+                  <h3>Sonowood Beech</h3>
+            </li>
+            <li>
+                  <h4> Info coming soon.</h4>
             </li>
           </ul>
       </div>
@@ -117,6 +133,7 @@ order: 2
 <div class="full-width-grey">
   <div class="wrap">          
       <h2>How to get Sonowood?</h2>
-      <p>Contact info</p>
+      <p>We currently supply Sonowood to selected instrument makers. Contact us if you would like to work with Sonowood, and join us at the cutting edge of wood innovation.</p>
+      <p><a class="btn-red" href="/swisswoodsolutions/Contact">Get in touch</a></p>
     </div>
 </div>
