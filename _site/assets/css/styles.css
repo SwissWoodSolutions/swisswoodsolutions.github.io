@@ -90,6 +90,10 @@ hr {
 }
 .list-disc {
   list-style-type: disc;
+  padding-left: 1em;
+}
+.extra-margin-top {
+  margin-top: 3em;
 }
 
 /*
@@ -133,9 +137,6 @@ hr {
   background: #41393d;
   text-decoration: none;
   color: white;
-}
-.extra-margin-top {
-  margin-top: 3em;
 }
 
 @media (max-width: 700px) {
@@ -527,6 +528,8 @@ iframe {
                   }
                   .wrap-grid-wider li img {
                     margin-bottom: 1em;
+                    width: 100%;
+                    border: none;
                   }
 }
 

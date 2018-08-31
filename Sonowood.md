@@ -13,7 +13,7 @@ order: 2
 </div>
 <div class="full-width">
     <div class="wrap">
-        <h2>Sonowood makes your instrument sound better</h2>
+        <h2>Sonowood makes your instrument sound better.</h2>
         <p>
         For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="https://www.cites.org/eng/disc/species.php" target="blank">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
         </p>
