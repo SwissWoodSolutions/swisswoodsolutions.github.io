@@ -24,21 +24,24 @@ order: 4
         <div class="wrap-grid-3">
             <h3>More of Swiss Wood Solutions on TV and Radio</h3>
             <ul>
-            <li class="media">
-                <a href="https://p.dw.com/p/30uK3" target="blank"><strong>Die Deutsche Welle</strong><br> 05.07.2018</a>
-            </li>
-            <li class="media">
-                <a href="https://www.rsi.ch/play/tv/telegiornale/video/28-11-2017-legno-indigeno-peri-liutai?id=9841570&station=rete-uno" target="blank"><strong>TV RSI, Telegiornale</strong> <br> 28.11.2017</a>
-            </li>
-            <li class="media">
-                <a href="https://www.srf.ch/play/radio/echo-der-zeit/audio/schweizer-tropenholz-fuer-musikinstrumente?id=70df976f-69dc-4ef3-94d7-68ac4b8823cc&startTime=2.104851039" target="blank"><strong>Radio SRF, Echo der Zeit </strong> <br>28.11.2017</a>
-            </li>
-            <li class="media">
-                <a href="http://www.deutschlandfunk.de/instrumentenbau-heimische-hoelzer-fuer-hochwertige-geigen.676.de.html?dram:article_id=401301" target="blank"><strong>Radio Deutschlandfunk </strong> <br>22.11.2017</a>
-            </li>
-            <li class="media">
-                <a href="https://www.rts.ch/info/sciences-tech/environnement/9027757-l-erable-sycomore-parade-suisse-contre-l-extinction-du-bois-d-ebene.html" target="blank"><strong>Radio RTS, La Matinale </strong> <br>25.10.2017</a>
-            </li>
+                <li class="media">
+                    <a href="https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&amp;showinfo=0" target="blank"><strong>Falling Walls Lab, Presentation</strong><br> Berlin, 11.2017</a>
+                </li>    
+                <li class="media">
+                    <a href="https://p.dw.com/p/30uK3" target="blank"><strong>Die Deutsche Welle</strong><br> 05.07.2018</a>
+                </li>
+                <li class="media">
+                    <a href="https://www.rsi.ch/play/tv/telegiornale/video/28-11-2017-legno-indigeno-peri-liutai?id=9841570&station=rete-uno" target="blank"><strong>TV RSI, Telegiornale</strong> <br> 28.11.2017</a>
+                </li>
+                <li class="media">
+                    <a href="https://www.srf.ch/play/radio/echo-der-zeit/audio/schweizer-tropenholz-fuer-musikinstrumente?id=70df976f-69dc-4ef3-94d7-68ac4b8823cc&startTime=2.104851039" target="blank"><strong>Radio SRF, Echo der Zeit </strong> <br>28.11.2017</a>
+                </li>
+                <li class="media">
+                    <a href="http://www.deutschlandfunk.de/instrumentenbau-heimische-hoelzer-fuer-hochwertige-geigen.676.de.html?dram:article_id=401301" target="blank"><strong>Radio Deutschlandfunk </strong> <br>22.11.2017</a>
+                </li>
+                <li class="media">
+                    <a href="https://www.rts.ch/info/sciences-tech/environnement/9027757-l-erable-sycomore-parade-suisse-contre-l-extinction-du-bois-d-ebene.html" target="blank"><strong>Radio RTS, La Matinale </strong> <br>25.10.2017</a>
+                </li>
             </ul>
         </div>
 </div>
