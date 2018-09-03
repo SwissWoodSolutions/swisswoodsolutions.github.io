@@ -6,7 +6,7 @@ order: 5
 
 <div class="full-width">
   <img srcset="/swisswoodsolutions/assets/images/team-cover_2x.jpg" src="/swisswoodsolutions/assets/images/team-cover.jpg" alt="densified wood samples" class="coverimg">
-    <div class="wrap-grid-wider">
+    <div class="wrap-grid-2">
         <p>Swiss Wood Solutions was founded in 2016 as a spin-off from ETH Zurich and Empa. We are driven by the belief that wood can fulfill more needs than it currently does. The team fuses the vast knowledge of scientists with diverse educational backgrounds. The team members combine for a unique and complementary set of scientific, technical and commercial skills.
         </p>
         <p><a class="btn-red" href="/swisswoodsolutions/Contact">Get in touch</a></p>
@@ -46,7 +46,7 @@ order: 5
       </div>
   </div>
   <div class="full-width">
-      <div class="wrap-grid">
+      <div class="wrap-grid-3">
       <h2>Our Professional Partners in Music</h2>
           <ul>
               <li>
