@@ -64,6 +64,9 @@ order: 4
                     <a href="/swisswoodsolutions/assets/docs/201801_die-umwelt.pdf" target="blank"><strong>die Umwelt</strong> <br>Auf Schweizer Bergahorn spielen, 01.2018</a>
                 </li>
                 <li class="media">
+                    <a href="https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798" target="blank"><strong>NZZ</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz, 24.10.2017</a>
+                </li>
+                <li class="media">
                     <a href="https://www.blick.ch/news/schweiz/materialforschung-ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-id7502187.html" target="blank"><strong>Blick</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau, 24.10.2017</a>
                 </li>
                 <li class="media">
