@@ -466,7 +466,7 @@ footer a {
 }
 .full-width-video {
   position: relative;
-  overflow: visible;
+  overflow: hidden;
   padding-top: 56.25%;
 }
     .full-width-iframe {
@@ -573,6 +573,7 @@ iframe {
     height: 140%;
     top: -50px;
     left: -50px;
+    overflow: hidden;
   }
 }
 
