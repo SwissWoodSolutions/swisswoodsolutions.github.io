@@ -443,6 +443,10 @@ footer a {
         right: 0;
         text-align: center;
         padding: 0 3em 0 3em;
+        font-family: 'Fira Sans', sans-serif;
+        font-weight: 600;
+        font-size: 2em;
+        color: #c1574c;
       }
       .wrap-bg-image p {
           position: absolute;
@@ -575,6 +579,9 @@ iframe {
     left: -50px;
     overflow: hidden;
   }
+  .wrap-bg-image > h1 {
+    top: 50px;
+    padding: 0 1em 0 1em;
 }
 
 .googlemap {
