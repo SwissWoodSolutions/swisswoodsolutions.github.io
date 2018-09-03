@@ -490,7 +490,7 @@ iframe {
   height: calc(42em * 0.5625);
   padding: 0;
 }
-.wrap, .wrap-grid-3, .wrap-grid-2 img {
+.wrap img, .wrap-grid-3 img, .wrap-grid-2 img {
   width: 100%;
 }
 .media {
@@ -569,8 +569,8 @@ iframe {
     margin: 0 auto;
   }
   .full-width-kenburns > img {
-    width: 120%;
-    height: 120%;
+    width: 140%;
+    height: 140%;
     top: -50px;
     left: -50px;
   }
