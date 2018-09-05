@@ -6,7 +6,7 @@ order: 2
 
 <div class="full-width-kenburns">
     <div class="wrap-bg-image">
-        <h1>Sonowood: the first sustainable and tunable wood for music.</h1>
+        <h1>Sonowood: the sustainable and tailor-made wood for music</h1>
         <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
     <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg"
@@ -16,10 +16,10 @@ order: 2
     <div class="wrap">
         <h2>Sonowood makes your instrument sound better.</h2>
         <p>
-        For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="https://www.cites.org/eng/disc/species.php" target="blank">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
+        We developed Sonowood for your musical instrument. For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="https://www.cites.org/eng/disc/species.php" target="blank">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
         </p>
         <p>
-        This is why we have developed <strong>Sonowood</strong>. Sonowood matches the favorable properties of tropical woods while being a completely legal substitute. In addition to being environmentally friendly, the technology offers adjustability of a wide range of parameters.</p>
+        This is why we have developed <strong>Sonowood</strong>. Sonowood matches the favorable properties of tropical woods while being a completely legal alternative. In addition to being environmentally friendly, the technology offers adjustability of a wide range of parameters.</p>
     </div>
 </div>
 <div class="full-width-grey">
@@ -31,8 +31,13 @@ order: 2
             </h2>
             </li>
             <li>
+                <img src="/swisswoodsolutions/assets/logo/100.svg" alt="icon 100% wood">
+                <h3>The real thing</h3>
+                <p>Sonowood is NOT a composite material, it is fully authentic wood, with straightforward workability.</p>
+            </li>
+            <li>
                 <img src="/swisswoodsolutions/assets/logo/sound.svg" alt="icon acoustics">
-                <h3>Superior Acoustics</h3>
+                <h3>Superior acoustics</h3>
                 <p>High sound velocity, low damping. Fully approved by musicians and instrument makers. <a href="/swisswoodsolutions/Testimonials">&rarr; Testimonials</a></p>
             </li>
             <li>
@@ -42,7 +47,7 @@ order: 2
             </li>
             <li>
                 <img src="/swisswoodsolutions/assets/logo/biodiverse.svg" alt="icon biodiversity">
-                <h3>Preserving Biodiversity</h3>
+                <h3>Preserving biodiversity</h3>
                 <p>Sonowood is manufactured from sustainable European wood species.</p>
             </li>
             <li>
@@ -50,25 +55,18 @@ order: 2
                 <h3>No legal restrictions</h3>
                 <p>Sonowood does not contain wood species listed on CITES, therefore no trade and import restrictions occur.</p>
             </li>
-            <li>
-                <img src="/swisswoodsolutions/assets/logo/100.svg" alt="icon 100% wood">
-                <h3>Fully authentic</h3>
-                <p>Sonowood is NOT a composite material, it is fully authentic wood, with straightforward workability.</p>
-            </li>
         </ul>
     </div>
 </div>
 <div class="full-width">
     <div class="wrap-grid-2">
         <h2>Types of Sonowood</h2>
-        <p>Our multi-step technology is applicable to any possible wood specie, depending on the individual requirements of the respective product. The use of maple, beech, ash and spruce has been proven already. Current experiments also include further species such as oak and plum wood.</p>
+        <p>Our technology is applicable to any possible wood species, depending on the individual requirements of the respective product. The use of maple and spruce has been proven already. Current experiments include further wood species.</p>
+        <p><img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-01_2x.jpg"
+              src="/swisswoodsolutions/assets/images/sonowood-maple-01.jpg" alt="Maple turned into Sonowood Maple"></p>
+        <figcaption>Native Maple turned into Sonowood Maple</figcaption>
         <p><a class="btn" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf" target="blank">Sonowood Flyer (EN)</a></p>
         <p><a class="btn" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf" target="blank">Sonowood Flyer (DE)</a></p>
-        <p>
-        <img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-01_2x.jpg"
-              src="/swisswoodsolutions/assets/images/sonowood-maple-01.jpg" alt="Maple turned into Sonowood Maple">
-        <figcaption>Native Maple turned into Sonowood Maple</figcaption>
-        </p>
         <hr>
         <ul>
             <li>
@@ -129,19 +127,13 @@ order: 2
                 </ul>
                 <hr>
             </li>
-            <li>  
-                  <h3>Sonowood Beech</h3>
-            </li>
-            <li>
-                  <h4> Info coming soon.</h4>
-            </li>
           </ul>
       </div>
 </div>
 <div class="full-width-grey">
   <div class="wrap">          
       <h2>How to get Sonowood?</h2>
-      <p>We currently supply Sonowood to selected instrument makers. Contact us if you would like to work with Sonowood, and join us at the cutting edge of wood innovation.</p>
-      <p><a class="btn-red" href="/swisswoodsolutions/Contact">Get in touch</a><a class="btn" href="/swisswoodsolutions/Testimonials">Testimonials</a></p>
+      <p>Contact us if you would like to work with Sonowood, and join us at the cutting edge of wood innovation.</p>
+      <p><a class="btn-red" href="/swisswoodsolutions/Contact">Get in touch</a><a class="btn-red" href="/swisswoodsolutions/Testimonials">Testimonials</a></p>
     </div>
 </div>

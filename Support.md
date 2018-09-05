@@ -1,24 +1,8 @@
 ---
 layout: standardpage
-title: 'Projects'
+title: 'Support'
 order: 3
 ---
-<div class="full-width">
-      <div class="wrap">
-          <h2>Swiss Ebony with the Gebert Rüf Foundation</h2>
-          <p>
-          Since March 2016 Swiss Wood Solutions has been financially supported by the Gebert Rüf Foundation. The private funding agency <strong>aims to boost entrepreneurial projects in Switzerland, which are committed to achieve an impact in current science and innovation challenges.</strong>
-          Gebert Rüf has funded two projects at Swiss Wood Solutions (SWS). In the Swiss Ebony project, SWS succeeded to achieve dimensional stability of densified wood materials. The positive experimental results delivered the proof of concept and confirmed feasibility for the application of the material in the musical instrument market.
-          </p>
-          <p>
-          In the Swiss Ebony II project, which is set to run until June 2018, SWS targets the fine-tuning of physical and acoustics properties of the densified wood material. The adjustability of crucial parameters such as density and sound-propagation velocity enables SWS to acquire unique selling propositions in the musical instrument market.
-          Thanks to the generous support by Gebert Rüf, Swiss Wood Solutions has established and initiated pilot production. Technology readiness level 6 (TRL 6) has been reached, implying the accomplishment of the prototyping phase. For violins and violas, market readiness has been achieved.
-          </p>
-          <p><img src="/swisswoodsolutions/assets/images/projects_gebertruef.png"></p>
-          <p><a class="btn" href="https://www.grstiftung.ch/de.html" target="blank">Gebert Rüf Foundation</a>
-          </p>
-      </div>
-</div>
 <div class="full-width-grey">
       <div class="wrap">
           <h2>TEEWood with Horizon 2020</h2>
@@ -37,7 +21,23 @@ order: 3
           <p><a class="btn" href="https://ec.europa.eu/programmes/horizon2020/what-horizon-2020" target="blank">Horizon 2020 website</a></p>
       </div>
   </div>
-  <div class="full-width-red">
+<div class="full-width">
+      <div class="wrap">
+          <h2>Swiss Ebony with the Gebert Rüf Foundation</h2>
+          <p>
+          Since March 2016 Swiss Wood Solutions has been financially supported by the Gebert Rüf Foundation. The private funding agency <strong>aims to boost entrepreneurial projects in Switzerland, which are committed to achieve an impact in current science and innovation challenges.</strong>
+          Gebert Rüf has funded two projects at Swiss Wood Solutions (SWS). In the Swiss Ebony project, SWS succeeded to achieve dimensional stability of densified wood materials. The positive experimental results delivered the proof of concept and confirmed feasibility for the application of the material in the musical instrument market.
+          </p>
+          <p>
+          In the Swiss Ebony II project, which is set to run until June 2018, SWS targets the fine-tuning of physical and acoustics properties of the densified wood material. The adjustability of crucial parameters such as density and sound-propagation velocity enables SWS to acquire unique selling propositions in the musical instrument market.
+          Thanks to the generous support by Gebert Rüf, Swiss Wood Solutions has established and initiated pilot production. Technology readiness level 6 (TRL 6) has been reached, implying the accomplishment of the prototyping phase. For violins and violas, market readiness has been achieved.
+          </p>
+          <p><img src="/swisswoodsolutions/assets/images/projects_gebertruef.png"></p>
+          <p><a class="btn" href="https://www.grstiftung.ch/de.html" target="blank">Gebert Rüf Foundation</a>
+          </p>
+      </div>
+</div>
+<div class="full-width-red">
         <div class="wrap">
           <h2>Workshop Wilhelm Geigenbau</h2>
           <p>
@@ -45,20 +45,5 @@ order: 3
           <p>The Swiss national TV captured the results of the workshop: <a href="/swisswoodsolutions/News">see the video on our News page, Schweiz Aktuell 02.03.2018.</a>
           </p>
           <p class="extra-margin-top"><a class="btn-white" href="http://www.wilhelm-geigenbau.ch/index.php?id=1017" target="blank">Wilhelm Geigenbau</a></p>
-      </div>
-</div>
-<div class="full-width">
-      <div class="wrap-grid-3">
-          <h2>Further Projects</h2>
-          <p>
-          Swiss Wood Solutions is your partner for challenges which require <strong>unique interdisciplinary wood-related skills and know-how.</strong> We are at the cutting-edge of wood material science, (nano-)technology, chemistry and engineering.</p>
-
-          <h3>Clients we currently support include:</h3>
-          <ul>
-          <li><img src="/swisswoodsolutions/assets/images/clients_logo_henkel.jpg" alt="logo client Henkel"></li>
-          <li><img src="/swisswoodsolutions/assets/images/clients_logo_SBB.jpg" alt="logo client SBB"></li>
-          <li><img src="/swisswoodsolutions/assets/images/clients_logo_BS.jpg" alt="logo client Basel-Stadt"></li>
-          </ul>
-          <p class="extra-margin-top"><a class="btn-red" href="/swisswoodsolutions/contact">Get in touch with us</a></p>
       </div>
 </div>

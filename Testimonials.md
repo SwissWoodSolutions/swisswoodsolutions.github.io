@@ -7,6 +7,7 @@ order: 7
 <div class="full-width-kenburns">
     <div class="wrap-bg-image">
         <h1>«Sonowood has the potential to not only match the quality of ebony, but to even excel it.»</h1>
+        <h3>George Stoppani, violin manufacturer from Manchester</h3>
         <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
     <img srcset="/swisswoodsolutions/assets/images/testimonial_2x.jpg"
@@ -14,7 +15,7 @@ order: 7
 </div>
 <div class="full-width">
     <div class="wrap-grid-2">
-        <h2>What our clients say</h2>
+        <h2>What the professionals say</h2>
         <p>«I have not yet seen a material with such a low damping as Sonowood.»<br>
         <strong>Boris Haug, violin manufacturer from Suhr, Switzerland</strong>
         </p>

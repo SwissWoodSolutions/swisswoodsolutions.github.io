@@ -435,8 +435,8 @@ footer a {
   }
 }
       .wrap-bg-image > h1 {
-        position: absolute;
-        top: 70px;
+        position: relative;
+        margin-top: 70px;
         margin-left: auto;
         margin-right: auto;
         left: 0;
@@ -448,6 +448,19 @@ footer a {
         font-size: 2em;
         color: #c1574c;
       }
+      .wrap-bg-image > h3 {
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        text-align: center;
+        padding: 0 3em 0 3em;
+        font-family: 'Fira Sans', sans-serif;
+        font-weight: 400;
+        font-size: 1em;
+        color: #c1574c;
+      }
       .wrap-bg-image p {
           position: absolute;
           text-align: center;
@@ -455,6 +468,7 @@ footer a {
           width: 100%;
           padding: 0;
           opacity: 0.8;
+          color: white;
       }
 
 .full-width {
@@ -573,13 +587,13 @@ iframe {
     margin: 0 auto;
   }
   .full-width-kenburns > img {
-    width: 140%;
-    height: 140%;
-    top: -50px;
-    left: -50px;
+    width: 150%;
+    height: 150%;
+    top: -80px;
+    left: -80px;
   }
   .wrap-bg-image > h1 {
-    top: 50px;
+    margin-top: 40px;
     padding: 0 1em 0 1em;
 }
 

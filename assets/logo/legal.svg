@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="95.2" height="47.9" viewBox="0 0 95.2 47.9">
   <defs>
     <style>
-      .cls-1, .cls-3 {
-        fill: #fff;
-      }
-
       .cls-1 {
+        fill: #fff;
         opacity: 0.3;
       }
 
       .cls-2 {
         opacity: 0.65;
+      }
+
+      .cls-3 {
+        fill: #c1574c;
       }
     </style>
   </defs>
