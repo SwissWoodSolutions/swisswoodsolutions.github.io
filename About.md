@@ -23,14 +23,14 @@ order: 5
                 <p>studied chemistry at the University of Münster (Germany) and later received his PhD from the Max Planck Institute (Germany). He acquired profound research experience in hierarchical biological materials, chemical synthesis and physical chemistry of interfaces. Prior to his engagement at Swiss Wood Solutions, Munish Chanana led the group of Hierarchical Nano-Bio Materials at the Institute for Building Materials at ETH Zurich.</p>
             </li>
             <li>
-                <img src="/swisswoodsolutions/assets/images/team_PH.jpg" alt="picture Philipp Hass">
-                <h3>Dr. Philipp Hass, CTO,</h3>
-                <p>studied process engineering with focus on wood and fiber material technology at the University of Technology in Dresden (Germany) and later received his PhD from ETH Zurich. In combination with an apprenticeship as carpenter, he acquired both practical and theoretical wood processing skills. Prior to his engagement at Swiss Wood Solutions, Philipp Hass worked in a postdoctoral position at ETH Zurich and at Empa Dübendorf.</p>
-            </li>
-            <li>
                 <img src="/swisswoodsolutions/assets/images/team_WS.jpg" alt="picture Walter Sonderegger">
                 <h3>Dr. Walter Sonderegger, responsible for quality management,</h3>
                 <p>studied forest science at ETH Zurich. Subsequently, he worked at the Institute for Building Materials at ETH as a forest engineer. Walter Sonderegger has acquired profound knowledge in wood mechanics, wood physics and hydrothermal compression methods. Furthermore, he has released numerous research articles in scientific journals and reference books on wood.</p>
+            </li>
+            <li>
+                <img src="/swisswoodsolutions/assets/images/team_PH.jpg" alt="picture Philipp Hass">
+                <h3>Dr. Philipp Hass, CTO,</h3>
+                <p>studied process engineering with focus on wood and fiber material technology at the University of Technology in Dresden (Germany) and later received his PhD from ETH Zurich. In combination with an apprenticeship as carpenter, he acquired both practical and theoretical wood processing skills. Prior to his engagement at Swiss Wood Solutions, Philipp Hass worked in a postdoctoral position at ETH Zurich and at Empa Dübendorf.</p>
             </li>
             <li>
                 <img src="/swisswoodsolutions/assets/images/team_LS.jpg" alt="picture Luca Schelbli">

@@ -63,14 +63,14 @@ order: 2
         <h2>Types of Sonowood</h2>
         <p>Our technology is applicable to any possible wood species, depending on the individual requirements of the respective product. The use of maple and spruce has been proven already. Current experiments include further wood species.</p>
         <p><img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-01_2x.jpg"
-              src="/swisswoodsolutions/assets/images/sonowood-maple-01.jpg" alt="Maple turned into Sonowood Maple"></p>
-        <figcaption>Native Maple turned into Sonowood Maple</figcaption>
+              src="/swisswoodsolutions/assets/images/sonowood-maple-01.jpg" alt="Maple turned into Sonowood maple"></p>
+        <figcaption>Native Maple turned into Sonowood maple</figcaption>
         <p><a class="btn" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf" target="blank">Sonowood Flyer (EN)</a></p>
         <p><a class="btn" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf" target="blank">Sonowood Flyer (DE)</a></p>
         <hr>
         <ul>
             <li>
-                  <h3>Sonowood Maple</h3>
+                  <h3>Sonowood maple</h3>
                   <img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-03_2x.jpg"
                         src="/swisswoodsolutions/assets/images/sonowood-maple-03.jpg" alt="Sonowood Maple chinrest">
                   <figcaption>Sonowood Maple chinrest close-up</figcaption>
@@ -79,51 +79,51 @@ order: 2
                   <figcaption>Violin with Sonowood Maple fingerboard, chinrest, pegs</figcaption>
               </li>
               <li>
-                  <h4>Product Range</h4>
+                  <h4>Product range</h4>
                   <ul class="list-disc">
-                    <li>Fingerboards for violin, viola, guitar and cello. As square timbers or fully manufactured.</li>
+                    <li>Fingerboards for violin, viola, guitar and cello; as square timbers</li>
                     <li>Tailpiece for violin, viola, cello and double bass</li>
                     <li>Pegs: square timbers are provided for violin, viola and cello</li>
                     <li>Chinrest</li>
-                    <li>Full set: includes square timbers or fully manufactured violin parts</li>
+                    <li>Full set: as square timbers</li>
                   </ul>
                   <hr>
-                  <h4>Technical Data</h4>
+                  <h4>Technical data</h4>
                   <ul class="list-disc">
-                    <li><strong>Sycamore Maple (Acer Pseudoplatanus)</strong></li>
-                    <li>Colour: Mocha</li>
-                    <li>Density: 1'200 – 1'400 kg/m3</li>
-                    <li>Brinell Hardness: > 80 N/mm2</li>
-                    <li>Dimensional Stability: Height ~0.7<br> Width ~0.3 % per % moisture content change</li>
-                    <li>Sound Velocity: > 4'400 m/s</li>
-                    <li>Damping (Log.decrement): ~0.053</li>
-                    <li>Elastic Modulus: > 23'000 N/mm2</li>
+                    <li>Sycamore maple <i>(Acer pseudoplatanus)</i></li>
+                    <li>Colour: mocha</li>
+                    <li>Density: 1'200 – 1'400 kg/m³</li>
+                    <li>Brinell hardness: > 80 N/mm²</li>
+                    <li>Dimensional stability: height ~ 0.7,<br> width ~ 0.3 % per % moisture content change</li>
+                    <li>Sound velocity: > 4'400 m/s</li>
+                    <li>Damping (log. decrement): ~ 0.053</li>
+                    <li>Dynamic elastic modulus:<br> > 23'000 N/mm²</li>
                   </ul>
                   <hr>
             </li>
             <li>  
-                  <h3>Sonowood Spruce</h3>
+                  <h3>Sonowood spruce</h3>
                   <img srcset="/swisswoodsolutions/assets/images/sonowood-spruce-02_2x.jpg"
-                        src="/swisswoodsolutions/assets/images/sonowood-spruce-02.jpg" alt="Sonowood Spruce on violin">
-                  <figcaption>Sonowood Spruce on violin</figcaption>
+                        src="/swisswoodsolutions/assets/images/sonowood-spruce-02.jpg" alt="Sonowood spruce on violin">
+                  <figcaption>Sonowood spruce on violin</figcaption>
             </li>
             <li>
-                <h4>Product Range</h4>
+                <h4>Product range</h4>
                 <ul class="list-disc">
-                  <li>Fingerboards for violin, viola, guitar and cello. As square timbers or fully manufactured.</li>
+                  <li>Fingerboards for violin, viola, guitar and cello; as square timbers</li>
                   <li>Tailpiece for violin, viola, cello and double bass</li>
                 </ul>
                 <hr>
-                <h4>Technical Data</h4>
+                <h4>Technical data</h4>
                 <ul class="list-disc">
-                  <li>Spruce (Picea Abies)</li>
-                  <li>Colour: Caramel</li>
-                  <li>Density: 1'300 – 1'400 kg/m3</li>
-                  <li>Brinell Hardness: > 100 N/mm2</li>
-                  <li>Dimensional Stability: Height ~0.75<br> Width ~0.33 % per % moisture content change</li>
-                  <li>Sound Velocity: > 5'500 m/s</li>
-                  <li>Damping (Log.decrement): ~0.04</li>
-                  <li>Elastic Modulus: > 39'000 N/mm2</li>
+                  <li>Spruce <i>(Picea abies)</i></li>
+                  <li>Colour: caramel</li>
+                  <li>Density: 1'300 – 1'400 kg/m³</li>
+                  <li>Brinell hardness: > 100 N/mm²</li>
+                  <li>Dimensional stability: height ~ 0.75,<br> width ~0.33 % per % moisture content change</li>
+                  <li>Sound velocity: > 5'500 m/s</li>
+                  <li>Damping (log. decrement): ~ 0.04</li>
+                  <li>Dynamic elastic modulus:<br>> 39'000 N/mm²</li>
                 </ul>
                 <hr>
             </li>
