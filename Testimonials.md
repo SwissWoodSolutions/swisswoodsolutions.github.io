@@ -1,7 +1,7 @@
 ---
 layout: standardpage
 title: 'Testimonials'
-order: 7
+order: 8
 ---
 
 <div class="full-width-kenburns">

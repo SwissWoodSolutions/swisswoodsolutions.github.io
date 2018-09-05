@@ -1,7 +1,7 @@
 ---
 layout: standardpage
 title: 'Contact'
-order: 8
+order: 9
 ---
 <div class="full-width">
         <img srcset="/swisswoodsolutions/assets/images/contact_2x.jpg" src="/swisswoodsolutions/assets/images/contact.jpg" alt="densified wood samples" class="coverimg">
