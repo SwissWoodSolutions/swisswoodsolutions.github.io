@@ -49,11 +49,11 @@ order: 4
                     alt="Logo SBB">
                     </li>
                   <li>
-                    <img src="/swisswoodsolutions/assets/images/client_Aebo.jpg"
+                    <img src="/swisswoodsolutions/assets/images/client_aebo.jpg"
                     alt="Logo Aegerter & Bosshardt">
                   </li>
                   <li>
-                    <img src="/swisswoodsolutions/assets/images/client_Casino.jpg"
+                    <img src="/swisswoodsolutions/assets/images/client_casino.jpg"
                     alt="Logo Casino Basel">
                   </li>
           </ul>
