@@ -9,8 +9,8 @@ order: 2
         <h1>Sonowood: the sustainable and tailor-made wood for music</h1>
         <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
     </div>
-    <img srcset="/swisswoodsolutions/assets/images/partners_2x.jpg"
-         src="/swisswoodsolutions/assets/images/partners.jpg" alt="wood1">
+    <img srcset="/swisswoodsolutions/assets/images/sonowood_cover_2x.jpg"
+         src="/swisswoodsolutions/assets/images/sonowood_cover.jpg" alt="wood1">
 </div>
 <div class="full-width">
     <div class="wrap">
@@ -62,8 +62,8 @@ order: 2
     <div class="wrap-grid-2">
         <h2>Types of Sonowood</h2>
         <p>Our technology is applicable to any possible wood species, depending on the individual requirements of the respective product. The use of maple and spruce has been proven already. Current experiments include further wood species.</p>
-        <p><img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-01_2x.jpg"
-              src="/swisswoodsolutions/assets/images/sonowood-maple-01.jpg" alt="Maple turned into Sonowood maple"></p>
+        <p><img  srcset="/swisswoodsolutions/assets/images/sonowood_maple-01_2x.jpg"
+              src="/swisswoodsolutions/assets/images/sonowood_maple-01.jpg" alt="Maple turned into Sonowood maple"></p>
         <figcaption>Native Maple turned into Sonowood maple</figcaption>
         <p><a class="btn" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf" target="blank">Sonowood Flyer (EN)</a></p>
         <p><a class="btn" href="/swisswoodsolutions/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf" target="blank">Sonowood Flyer (DE)</a></p>
@@ -71,11 +71,11 @@ order: 2
         <ul>
             <li>
                   <h3>Sonowood maple</h3>
-                  <img  srcset="/swisswoodsolutions/assets/images/sonowood-maple-03_2x.jpg"
-                        src="/swisswoodsolutions/assets/images/sonowood-maple-03.jpg" alt="Sonowood Maple chinrest">
+                  <img  srcset="/swisswoodsolutions/assets/images/sonowood_maple-03_2x.jpg"
+                        src="/swisswoodsolutions/assets/images/sonowood_maple-03.jpg" alt="Sonowood Maple chinrest">
                   <figcaption>Sonowood Maple chinrest close-up</figcaption>
-                  <img srcset="/swisswoodsolutions/assets/images/sonowood-maple-02_2x.jpg"
-                        src="/swisswoodsolutions/assets/images/sonowood-maple-02.jpg" alt="Sonowood full set violin">
+                  <img srcset="/swisswoodsolutions/assets/images/sonowood_maple-02_2x.jpg"
+                        src="/swisswoodsolutions/assets/images/sonowood_maple-02.jpg" alt="Sonowood full set violin">
                   <figcaption>Violin with Sonowood Maple fingerboard, chinrest, pegs</figcaption>
               </li>
               <li>
@@ -103,8 +103,8 @@ order: 2
             </li>
             <li>  
                   <h3>Sonowood spruce</h3>
-                  <img srcset="/swisswoodsolutions/assets/images/sonowood-spruce-02_2x.jpg"
-                        src="/swisswoodsolutions/assets/images/sonowood-spruce-02.jpg" alt="Sonowood spruce on violin">
+                  <img srcset="/swisswoodsolutions/assets/images/sonowood_spruce-02_2x.jpg"
+                        src="/swisswoodsolutions/assets/images/sonowood_spruce-02.jpg" alt="Sonowood spruce on violin">
                   <figcaption>Sonowood spruce on violin</figcaption>
             </li>
             <li>

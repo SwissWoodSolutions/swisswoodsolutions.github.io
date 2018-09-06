@@ -1,11 +1,12 @@
 ---
 layout: standardpage
 title: 'About'
-order: 5
+order: 7
 ---
 
 <div class="full-width">
-  <img srcset="/swisswoodsolutions/assets/images/team-cover_2x.jpg" src="/swisswoodsolutions/assets/images/team-cover.jpg" alt="densified wood samples" class="coverimg">
+    <img  srcset="/swisswoodsolutions/assets/images/team_cover_2x.jpg"
+          src="/swisswoodsolutions/assets/images/team_cover.jpg" alt="densified wood samples" class="coverimg">
     <div class="wrap-grid-2">
         <p>Swiss Wood Solutions was founded in 2016 as a spin-off from ETH Zurich and Empa. We are driven by the belief that wood can fulfill more needs than it currently does. The team fuses the vast knowledge of scientists with diverse educational backgrounds. The team members combine for a unique and complementary set of scientific, technical and commercial skills.
         </p>
@@ -43,27 +44,5 @@ order: 5
                 <p>studied wood science and technology at the University of Hamburg (Germany). Thanks to prior sales positions in the wood industry, he has established a far-reaching network of business contacts including manufacturers and customers of wooden products. At Swiss Wood Solutions, Karsten Leuker is in charge of the distribution channels and engages in close customer interaction.</p>
             </li>
         </ul>
-      </div>
-  </div>
-  <div class="full-width">
-      <div class="wrap-grid-3">
-      <h2>Our Professional Partners in Music</h2>
-          <ul>
-              <li>
-                <img src="/swisswoodsolutions/assets/images/partner_wilhelm.jpg"
-                alt="Wilhelm Geigenbau instrument">
-                <a href="http://www.wilhelm-geigenbau.ch" target="blank">Wilhelm Geigenbau</a>
-                </li>
-              <li>
-                <img src="/swisswoodsolutions/assets/images/partner_stempfle.jpg"
-                alt="Robert Stempfle Holzblasinstrumenten">
-                <a href="https://stempfle.ch/de/" target="blank">Robert Stempfle, Holzblasinstrumenten</a>
-                </li>
-              <li>
-                <img src="/swisswoodsolutions/assets/images/partner_pqv.jpg"
-                alt="Pacific Quartet Vienna">
-                <a href="http://pacificquartet.com" target="blank">Pacific Quartet Vienna</a>
-              </li>
-          </ul>
       </div>
   </div>

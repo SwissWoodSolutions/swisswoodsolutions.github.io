@@ -1,7 +1,7 @@
 ---
 layout: standardpage
 title: 'News'
-order: 4
+order: 5
 ---
 <div class="full-width-video">
       <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017" class="full-width-iframe">

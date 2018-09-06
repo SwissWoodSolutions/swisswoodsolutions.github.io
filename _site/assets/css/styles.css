@@ -11,6 +11,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
+  opacity: 0.7;
 }
 p {
   margin-bottom: 2em;
@@ -110,6 +111,7 @@ hr {
   background: #c1574c;
   text-decoration: none;
   color: white;
+  opacity: 1;
 }
 .btn-white {
   color: white;
@@ -122,6 +124,7 @@ hr {
   background: white;
   text-decoration: none;
   color: #c1574c;
+  opacity: 1;
 }
 .btn {
   color: #41393d;
@@ -136,6 +139,7 @@ hr {
   background: #41393d;
   text-decoration: none;
   color: white;
+  opacity: 1;
 }
 
 @media (max-width: 700px) {
@@ -457,7 +461,7 @@ footer a {
         text-align: center;
         padding: 0 3em 0 3em;
         font-family: 'Fira Sans', sans-serif;
-        font-weight: 400;
+        font-weight: 600;
         font-size: 1em;
         color: #c1574c;
       }
@@ -531,7 +535,9 @@ iframe {
     .media:hover a {
       color: white;
     }
-
+.img-logo {
+  max-width: 400px;
+}
 @supports (display:grid) {
 .wrap-grid-3 {
   max-width: 42em;
