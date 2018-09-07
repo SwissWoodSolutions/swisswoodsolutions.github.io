@@ -1,9 +1,8 @@
 # Site settings
 name: "Swiss Wood Solutions"
 description: "site for Swiss Wood Solutions"
-url: "http://rosannevdw.github.io"
-githubUsername: rosannevdw
-baseurl: "/swisswoodsolutions"
+url: "http://swisswoodsolutions.github.io"
+githubUsername: SwissWoodSolutions
 
 # Build settings
 permalink: pretty

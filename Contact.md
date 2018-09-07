@@ -4,7 +4,7 @@ title: 'Contact'
 order: 8
 ---
 <div class="full-width">
-        <img srcset="/swisswoodsolutions/assets/images/contact_2x.jpg" src="/swisswoodsolutions/assets/images/contact.jpg" alt="densified wood samples" class="coverimg">
+        <img srcset="/assets/images/contact_2x.jpg" src="/swisswoodsolutions/assets/images/contact.jpg" alt="densified wood samples" class="coverimg">
         <div class="wrap">
             <h1>Technically enhanced wood, tailored to your needs. Interested?</h1>
             <p>We can make it happen. Get in touch with us for a quote or further information.<br>We look forward to hearing from you.</p>

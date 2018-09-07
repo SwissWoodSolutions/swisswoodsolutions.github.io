@@ -55,13 +55,13 @@ order: 5
             </p>
             <ul>
                 <li class="media">
-                    <a href="/swisswoodsolutions/assets/docs/201804_Deutsche-Bauzeitung.pdf" target="blank"><strong>Deutsche Bauzeitung</strong> <br>Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor, 04.2018</a>
+                    <a href="/assets/docs/201804_Deutsche-Bauzeitung.pdf" target="blank"><strong>Deutsche Bauzeitung</strong> <br>Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor, 04.2018</a>
                 </li>
                 <li class="media">
-                    <a href="/swisswoodsolutions/assets/docs/201802_Designreport.pdf" target="blank"><strong>Designreport</strong> <br>Buchenholz wird Ebenholz, 02.2018</a>
+                    <a href="/assets/docs/201802_Designreport.pdf" target="blank"><strong>Designreport</strong> <br>Buchenholz wird Ebenholz, 02.2018</a>
                 </li>
                 <li class="media">
-                    <a href="/swisswoodsolutions/assets/docs/201801_die-umwelt.pdf" target="blank"><strong>die Umwelt</strong> <br>Auf Schweizer Bergahorn spielen, 01.2018</a>
+                    <a href="/assets/docs/201801_die-umwelt.pdf" target="blank"><strong>die Umwelt</strong> <br>Auf Schweizer Bergahorn spielen, 01.2018</a>
                 </li>
                 <li class="media">
                     <a href="https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798" target="blank"><strong>NZZ</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz, 24.10.2017</a>
@@ -76,7 +76,7 @@ order: 5
                     <a href="https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente" target="blank"><strong>Zoo Zürich</strong><br>Schweizer «Ebenholz» für Instrumente, 24.10.2017</a>
                 </li>
                 <li class="media">
-                    <a href="/swisswoodsolutions/assets/docs/201710_EmpaQuarterly.pdf" target="blank"><strong>EMPAQuarterly</strong> <br>«...as black as ebony», 19.10.2017</a>
+                    <a href="/assets/docs/201710_EmpaQuarterly.pdf" target="blank"><strong>EMPAQuarterly</strong> <br>«...as black as ebony», 19.10.2017</a>
                 </li>
             </ul>
     </div>

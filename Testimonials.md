@@ -8,10 +8,10 @@ order: 6
     <div class="wrap-bg-image">
         <h1>«Sonowood has the potential to not only match the quality of ebony, but to even excel it.»</h1>
         <h3>- George Stoppani, violin manufacturer from Manchester</h3>
-        <p class="arrow-down"><img src="/swisswoodsolutions/assets/images/arrow-d-white.svg"/></p>
+        <p class="arrow-down"><img src="/assets/images/arrow-d-white.svg"/></p>
     </div>
-    <img srcset="/swisswoodsolutions/assets/images/testimonial_cover_2x.jpg"
-         src="/swisswoodsolutions/assets/images/testimonial_cover.jpg" alt="close up of violin with Sonowood">
+    <img srcset="/assets/images/testimonial_cover_2x.jpg"
+         src="/assets/images/testimonial_cover.jpg" alt="close up of violin with Sonowood">
 </div>
 <div class="full-width">
     <div class="wrap-grid-2">
@@ -42,6 +42,6 @@ order: 6
         <hr>
         <p>«Sonowood has the potential to not only match the quality of ebony, but to even excel it.»<br>
         <strong>George Stoppani, violin manufacturer from Manchester</strong></p>
-        <p class="extra-margin-top"><a class="btn-red" href="/swisswoodsolutions/Contact">Get in touch with us</a></p>
+        <p class="extra-margin-top"><a class="btn-red" href="/Contact">Get in touch with us</a></p>
       </div>
   </div>
