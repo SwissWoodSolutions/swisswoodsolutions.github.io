@@ -33,29 +33,3 @@ order: 4
           </ul>
       </div>
 </div>
-<div class="full-width">
-      <div class="wrap-grid-3">
-          <h2>Partners outside the music industry</h2>
-          <p>Swiss Wood Solutions is your partner for challenges which require unique interdisciplinary wood-related skills and know-how. We are at the cutting-edge of wood material science, (nano-)technology, chemistry and engineering.
-          </p>
-          <h3>Clients we support include:</h3>
-          <ul>
-                  <li>
-                    <img src="/assets/images/client_henkel.jpg"
-                    alt="Logo Henkel">
-                    </li>
-                  <li>
-                    <img src="/assets/images/client_SBB.jpg"
-                    alt="Logo SBB">
-                    </li>
-                  <li>
-                    <img src="/assets/images/client_aebo.jpg"
-                    alt="Logo Aegerter & Bosshardt">
-                  </li>
-                  <li>
-                    <img src="/assets/images/client_casino.jpg"
-                    alt="Logo Casino Basel">
-                  </li>
-          </ul>
-      </div>
-</div>

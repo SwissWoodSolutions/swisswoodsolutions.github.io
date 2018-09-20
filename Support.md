@@ -16,7 +16,7 @@ order: 3
               </li>
           </ul>
           <hr>
-          <h3>In addition to ETH and Empa, our start-up cooperates with further public and private institutions to carry out R&D projects:
+          <h3>In addition to ETH and Empa, we cooperate with further public and private institutions to carry out R&D projects:
           </h3>
     </div>
 </div>
