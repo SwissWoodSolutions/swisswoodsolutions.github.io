@@ -11,7 +11,7 @@ order: 5
     <div class="wrap">
           <h2>Swiss Wood Solutions on TV</h2>
           <p>
-          <strong>In November 2017</strong> CEO Oliver Kläusler gave an insight into the production technology in a live TV broadcast in <strong>«Schweiz aktuell» on SRF (see video above, in German).</strong> The TV report also focused the application of Sonowood in the musical instrument manufacturing. Boris Haug, violin manufacturer from our premium partner Wilhelm Geigenbau in Suhr, showcased the working procedure necessary to incorporate Sonowood into high-end string instruments. Violist Chin-Ting Huang of the <a href="http://pacificquartet.com" target="blank">Pacific Quartet Vienna</a> was interviewed and stated to be thoroughly happy about her viola containing a fingerboard made from Sonowood. She praised the superior sound characteristics of her new instrument.
+          <strong>In November 2017</strong> CEO Oliver Kläusler gave an insight into the production technology in a live TV broadcast in <strong>«Schweiz aktuell» on SRF (see video above, in German).</strong> The TV report also focused the application of Sonowood in the musical instrument manufacturing. Boris Haug, violin manufacturer from our premium partner Wilhelm Geigenbau in Suhr, showcased the working procedure necessary to incorporate Sonowood into high-end string instruments. Violist Chin-Ting Huang of the <a href="http://pacificquartet.com" target="_blank">Pacific Quartet Vienna</a> was interviewed and stated to be thoroughly happy about her viola containing a fingerboard made from Sonowood. She praised the superior sound characteristics of her new instrument.
           </p>
           <p>
           <strong>In March 2018,</strong> Swiss Wood Solutions was featured in a second broadcast in <strong>«Schweiz aktuell».</strong> This report focused on the musical manufacturing workshop held with our partner Wilhelm Geigenbau and subsequent concert of the Pacific Quartet Vienna.
@@ -25,22 +25,22 @@ order: 5
             <h3>More of Swiss Wood Solutions on TV and Radio</h3>
             <ul>
                 <li class="media">
-                    <a href="https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&amp;showinfo=0" target="blank"><strong>Falling Walls Lab, Presentation</strong><br> Berlin, 11.2017</a>
+                    <a href="https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&amp;showinfo=0" target="_blank"><strong>Falling Walls Lab, Presentation</strong><br> Berlin, 11.2017</a>
                 </li>    
                 <li class="media">
-                    <a href="https://p.dw.com/p/30uK3" target="blank"><strong>Die Deutsche Welle</strong><br> 05.07.2018</a>
+                    <a href="https://p.dw.com/p/30uK3" target="_blank"><strong>Die Deutsche Welle</strong><br> 05.07.2018</a>
                 </li>
                 <li class="media">
-                    <a href="https://www.rsi.ch/play/tv/telegiornale/video/28-11-2017-legno-indigeno-peri-liutai?id=9841570&station=rete-uno" target="blank"><strong>TV RSI, Telegiornale</strong> <br> 28.11.2017</a>
+                    <a href="https://www.rsi.ch/play/tv/telegiornale/video/28-11-2017-legno-indigeno-peri-liutai?id=9841570&station=rete-uno" target="_blank"><strong>TV RSI, Telegiornale</strong> <br> 28.11.2017</a>
                 </li>
                 <li class="media">
-                    <a href="https://www.srf.ch/play/radio/echo-der-zeit/audio/schweizer-tropenholz-fuer-musikinstrumente?id=70df976f-69dc-4ef3-94d7-68ac4b8823cc&startTime=2.104851039" target="blank"><strong>Radio SRF, Echo der Zeit </strong> <br>28.11.2017</a>
+                    <a href="https://www.srf.ch/play/radio/echo-der-zeit/audio/schweizer-tropenholz-fuer-musikinstrumente?id=70df976f-69dc-4ef3-94d7-68ac4b8823cc&startTime=2.104851039" target="_blank"><strong>Radio SRF, Echo der Zeit </strong> <br>28.11.2017</a>
                 </li>
                 <li class="media">
-                    <a href="http://www.deutschlandfunk.de/instrumentenbau-heimische-hoelzer-fuer-hochwertige-geigen.676.de.html?dram:article_id=401301" target="blank"><strong>Radio Deutschlandfunk </strong> <br>22.11.2017</a>
+                    <a href="http://www.deutschlandfunk.de/instrumentenbau-heimische-hoelzer-fuer-hochwertige-geigen.676.de.html?dram:article_id=401301" target="_blank"><strong>Radio Deutschlandfunk </strong> <br>22.11.2017</a>
                 </li>
                 <li class="media">
-                    <a href="https://www.rts.ch/info/sciences-tech/environnement/9027757-l-erable-sycomore-parade-suisse-contre-l-extinction-du-bois-d-ebene.html" target="blank"><strong>Radio RTS, La Matinale </strong> <br>25.10.2017</a>
+                    <a href="https://www.rts.ch/info/sciences-tech/environnement/9027757-l-erable-sycomore-parade-suisse-contre-l-extinction-du-bois-d-ebene.html" target="_blank"><strong>Radio RTS, La Matinale </strong> <br>25.10.2017</a>
                 </li>
             </ul>
         </div>
@@ -55,28 +55,28 @@ order: 5
             </p>
             <ul>
                 <li class="media">
-                    <a href="/assets/docs/201804_Deutsche-Bauzeitung.pdf" target="blank"><strong>Deutsche Bauzeitung</strong> <br>Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor, 04.2018</a>
+                    <a href="/assets/docs/201804_Deutsche-Bauzeitung.pdf" target="_blank"><strong>Deutsche Bauzeitung</strong> <br>Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor, 04.2018</a>
                 </li>
                 <li class="media">
-                    <a href="/assets/docs/201802_Designreport.pdf" target="blank"><strong>Designreport</strong> <br>Buchenholz wird Ebenholz, 02.2018</a>
+                    <a href="/assets/docs/201802_Designreport.pdf" target="_blank"><strong>Designreport</strong> <br>Buchenholz wird Ebenholz, 02.2018</a>
                 </li>
                 <li class="media">
-                    <a href="/assets/docs/201801_die-umwelt.pdf" target="blank"><strong>die Umwelt</strong> <br>Auf Schweizer Bergahorn spielen, 01.2018</a>
+                    <a href="/assets/docs/201801_die-umwelt.pdf" target="_blank"><strong>die Umwelt</strong> <br>Auf Schweizer Bergahorn spielen, 01.2018</a>
                 </li>
                 <li class="media">
-                    <a href="https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798" target="blank"><strong>NZZ</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz, 24.10.2017</a>
+                    <a href="https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798" target="_blank"><strong>NZZ</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz, 24.10.2017</a>
                 </li>
                 <li class="media">
-                    <a href="https://www.blick.ch/news/schweiz/materialforschung-ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-id7502187.html" target="blank"><strong>Blick</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau, 24.10.2017</a>
+                    <a href="https://www.blick.ch/news/schweiz/materialforschung-ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-id7502187.html" target="_blank"><strong>Blick</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau, 24.10.2017</a>
                 </li>
                 <li class="media">
-                    <a href="https://www.limmattalerzeitung.ch/limmattal/zuerich/ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-131836740" target="blank"><strong>Limmattaler Zeitung</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau, 24.10.2017</a>
+                    <a href="https://www.limmattalerzeitung.ch/limmattal/zuerich/ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-131836740" target="_blank"><strong>Limmattaler Zeitung</strong><br>Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau, 24.10.2017</a>
                 </li>
                 <li class="media">
-                    <a href="https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente" target="blank"><strong>Zoo Zürich</strong><br>Schweizer «Ebenholz» für Instrumente, 24.10.2017</a>
+                    <a href="https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente" target="_blank"><strong>Zoo Zürich</strong><br>Schweizer «Ebenholz» für Instrumente, 24.10.2017</a>
                 </li>
                 <li class="media">
-                    <a href="/assets/docs/201710_EmpaQuarterly.pdf" target="blank"><strong>EMPAQuarterly</strong> <br>«...as black as ebony», 19.10.2017</a>
+                    <a href="/assets/docs/201710_EmpaQuarterly.pdf" target="_blank"><strong>EMPAQuarterly</strong> <br>«...as black as ebony», 19.10.2017</a>
                 </li>
             </ul>
     </div>

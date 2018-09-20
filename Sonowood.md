@@ -16,7 +16,7 @@ order: 2
     <div class="wrap">
         <h2>Sonowood makes your instrument sound better.</h2>
         <p>
-        We developed Sonowood for your musical instrument. For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="https://www.cites.org/eng/disc/species.php" target="blank">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
+        We developed Sonowood for your musical instrument. For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetical dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as <a href="https://www.cites.org/eng/disc/species.php" target="_blank">CITES,</a> aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates.
         </p>
         <p>
         This is why we have developed <strong>Sonowood</strong>. Sonowood matches the favorable properties of tropical woods while being a completely legal alternative. In addition to being environmentally friendly, the technology offers adjustability of a wide range of parameters.</p>
@@ -65,8 +65,8 @@ order: 2
         <p><img  srcset="/assets/images/sonowood_maple-01_2x.jpg"
               src="/assets/images/sonowood_maple-01.jpg" alt="Maple turned into Sonowood maple"></p>
         <figcaption>Native Maple turned into Sonowood maple</figcaption>
-        <p><a class="btn" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf" target="blank">Sonowood Flyer (EN)</a></p>
-        <p><a class="btn" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf" target="blank">Sonowood Flyer (DE)</a></p>
+        <p><a class="btn" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf" target="_blank">Sonowood Flyer (EN)</a></p>
+        <p><a class="btn" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf" target="_blank">Sonowood Flyer (DE)</a></p>
         <hr>
         <ul>
             <li>
