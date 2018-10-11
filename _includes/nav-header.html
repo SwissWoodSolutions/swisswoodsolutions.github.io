@@ -10,9 +10,20 @@
                 <ul class="nav">
                   {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
                   {% for item in items %}
+                    {% unless item.parent %}
                     <li class="{% if item.url == page.url %}active{% endif %}">
                       <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
+                      <ul>
+                        {% for subitem in site.pages | sort: 'order' %}
+                          {% if subitem.parent == item.title %}
+                          <li>
+                            <a href="{{ subitem.url | relative_url }}">{{ subitem.title }} </a>
+                          </li>
+                          {% endif %}
+                        {% endfor %}
+                      </ul>
                     </li>
+                    {% endunless %}
                   {% endfor %}
                 </ul>
         </div>
