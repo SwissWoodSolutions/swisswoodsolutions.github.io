@@ -185,14 +185,14 @@ header::after {
   .nav li {
     display: inline-block;
     margin-right: 1px;
-    padding: 0 0 0 1em;
+    padding: 0 0.5em 2em 0.5em;
   }
   .nav a {
     color: #c1574c;
     font-weight: 300;
     text-decoration: none;
   }
-  .nav .active a {
+  .nav .active > a {
     border-bottom: 5px solid #c1574c;
   }
   .nav a:hover {
@@ -201,8 +201,14 @@ header::after {
   }
   /* sublists */
   .nav ul {
-    margin-top: 0.5em;
+    margin-top: 0.75em;
     position: absolute;
+  }
+  .nav ul {
+    display: none;
+  }
+  .nav li:hover > ul {
+    display: block;
   }
 }
 
