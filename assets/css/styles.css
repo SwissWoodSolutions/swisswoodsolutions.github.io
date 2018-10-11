@@ -594,7 +594,9 @@ iframe {
         .wrap, .wrap-grid-2, .wrap-grid-3 {
         max-width: none;
         padding: 6em 2em 6em 2em;
-        left: 0;
+        }
+        .wrap-grid-2 ul {
+          display: block;
         }
         .full-width-kenburns {
           overflow: hidden;
