@@ -1,6 +1,6 @@
 <header>
       <a href="/">
-          <img src="{{ site.baseurl }}/assets/logo/SWS_Vektor_C.svg" class="swslogo" alt="logo SwissWoodSolutions">
+          <img src="{{ site.baseurl }}/assets/logo/SWS_Logo_dgrey.svg" class="swslogo" alt="logo SwissWoodSolutions">
       </a>
       <div id="menuToggle">
             <input type="checkbox" class="hamburgercheck">
@@ -14,7 +14,8 @@
                     <li class="{% if item.url == page.url %}active{% endif %}">
                       <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
                       <ul>
-                        {% for subitem in site.pages | sort: 'order' %}
+                        {% assign subitems = site.pages | sort: 'order' %}
+                        {% for subitem in subitems %}
                           {% if subitem.parent == item.title %}
                           <li>
                             <a href="{{ subitem.url | relative_url }}">{{ subitem.title }} </a>
