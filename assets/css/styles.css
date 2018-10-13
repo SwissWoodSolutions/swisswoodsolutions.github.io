@@ -502,6 +502,12 @@ footer a {
   opacity: 0.8;
   color: white;
 }
+@media (max-width: 999px) {
+  .wrap-bg-image > h1 {
+    margin-top: 40px;
+    padding: 0 1em 0 1em;
+  }
+}
 
 .full-width {
   background-color: none;
@@ -623,10 +629,6 @@ footer a {
   }
   .wrap-grid-2 ul {
     display: block;
-  }
-  .wrap-bg-image > h1 {
-    margin-top: 40px;
-    padding: 0 1em 0 1em;
   }
 }
 
