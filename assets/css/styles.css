@@ -578,44 +578,34 @@ footer a {
   padding: 6em 0em 6em 0em;
   margin: 0 auto;
 }
-.wrap img, .wrap-grid-3 img, .wrap-grid-2 img {
+.wrap img {
   width: 100%;
 }
 @supports (display:grid) {
-  .wrap-grid-3 {
-    max-width: 42em;
-    padding: 6em 0em 6em 0em;
-    margin: 0 auto;
-  }
-  .wrap-grid-3 > ul {
+  .wrap > ul {
     list-style-type: none;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
     grid-gap: 1.5em;
   }
-  .wrap-grid-3 li {
+  .wrap li {
     position: relative;
   }
-  .wrap-grid-3 li img {
+  .wrap li img {
     margin-bottom: 1em;
     width: 100%;
     border: none;
   }
-  .wrap-grid-2 {
-    max-width: 42em;
-    padding: 6em 0em 6em 0em;
-    margin: 0 auto;
-  }
-  .wrap-grid-2 > ul {
+  .-cols2 > ul {
     list-style-type: none;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
     grid-gap: 1.5em;
   }
-  .wrap-grid-2 li {
+  .-cols2 li {
     position: relative;
   }
-  .wrap-grid-2 li img {
+  .-cols2 li img {
     margin-bottom: 1em;
     width: 100%;
     border: none;
@@ -623,11 +613,11 @@ footer a {
 }
 @media (max-width: 999px) {
   /* mobile */
-  .wrap, .wrap-grid-2, .wrap-grid-3 {
+  .wrap {
     max-width: none;
     padding: 6em 2em 6em 2em;
   }
-  .wrap-grid-2 ul {
+  .-cols2 ul {
     display: block;
   }
 }
