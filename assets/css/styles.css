@@ -615,6 +615,10 @@ iframe {
     margin-top: 40px;
     padding: 0 1em 0 1em;
   }
+  iframe {
+    height: calc(90vw * 0.5625);
+  }
 }
+
 
 /* no grid support? TO BE ADDED*/
