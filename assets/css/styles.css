@@ -89,13 +89,6 @@ iframe {
   }
 }
 
-.align-center {
-  text-align: center;
-}
-.align-center-italic {
-  text-align: center;
-  font-style: italic;
-}
 hr {
   color: solid #e2dcdc 1px;
   margin: 2em 0 2em 0;
@@ -536,10 +529,6 @@ footer a {
   margin: 0 auto;
 }
 
-.align-center {
-  text-align: center;
-}
-
 .media {
   width: 100%;
   min-height: 6em;
@@ -609,6 +598,9 @@ footer a {
     margin-bottom: 1em;
     width: 100%;
     border: none;
+  }
+  .wrap.-center > h2 {
+    text-align: center;
   }
 }
 @media (max-width: 999px) {
