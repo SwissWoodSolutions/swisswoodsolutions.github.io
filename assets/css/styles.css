@@ -74,10 +74,21 @@ figcaption {
   margin-top: -1em;
   margin-bottom: 2em;
 }
+
 iframe {
   margin: 0;
-  border: 0;
+  margin-bottom: 1em;
+  padding: 0;
+  width: 100%;
+  border: none;
+  height: calc(42em * 0.5625);
 }
+@media (max-width: 999px) {
+  iframe {
+    height: calc((100vw - 4em) * 0.5625);
+  }
+}
+
 .align-center {
   text-align: center;
 }
@@ -520,18 +531,6 @@ footer a {
 .align-center {
   text-align: center;
 }
-.wrap {
-  max-width: 42em;
-  padding: 6em 0em 6em 0em;
-  margin: 0 auto;
-}
-iframe {
-  height: calc(42em * 0.5625);
-  padding: 0;
-}
-.wrap img, .wrap-grid-3 img, .wrap-grid-2 img {
-  width: 100%;
-}
 .media {
   width: 100%;
   min-height: 6em;
@@ -555,6 +554,27 @@ iframe {
 .img-logo {
   max-width: 400px;
 }
+
+.googlemap {
+  filter: grayscale(100%);
+  margin-bottom: 0;
+  height: 700px;
+  width: 100%;
+}
+
+
+/*
+ * wraps
+ */
+
+.wrap {
+  max-width: 42em;
+  padding: 6em 0em 6em 0em;
+  margin: 0 auto;
+}
+.wrap img, .wrap-grid-3 img, .wrap-grid-2 img {
+  width: 100%;
+}
 @supports (display:grid) {
   .wrap-grid-3 {
     max-width: 42em;
@@ -570,7 +590,7 @@ iframe {
   .wrap-grid-3 li {
     position: relative;
   }
-  .wrap-grid-3 li img, iframe {
+  .wrap-grid-3 li img {
     margin-bottom: 1em;
     width: 100%;
     border: none;
@@ -595,13 +615,6 @@ iframe {
     border: none;
   }
 }
-.googlemap {
-  filter: grayscale(100%);
-  margin-bottom: 0;
-  height: 700px;
-  width: 100%;
-}
-
 @media (max-width: 999px) {
   /* mobile */
   .wrap, .wrap-grid-2, .wrap-grid-3 {
@@ -615,10 +628,6 @@ iframe {
     margin-top: 40px;
     padding: 0 1em 0 1em;
   }
-  iframe {
-    height: calc(90vw * 0.5625);
-  }
 }
-
 
 /* no grid support? TO BE ADDED*/
