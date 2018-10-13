@@ -4,6 +4,11 @@ description: "site for Swiss Wood Solutions"
 url: "http://swisswoodsolutions.github.io"
 githubUsername: SwissWoodSolutions
 
+# see https://github.com/github/jekyll-commonmark-ghpages
+markdown: CommonMarkGhPages
+commonmark:
+  extensions: ["table"]
+
 # Build settings
 permalink: pretty
 
