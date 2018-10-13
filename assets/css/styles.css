@@ -596,16 +596,16 @@ footer a {
     width: 100%;
     border: none;
   }
-  .-cols2 > ul {
+  .wrap.-cols2 > ul {
     list-style-type: none;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
     grid-gap: 1.5em;
   }
-  .-cols2 li {
+  .wrap.-cols2 li {
     position: relative;
   }
-  .-cols2 li img {
+  .wrap.-cols2 li img {
     margin-bottom: 1em;
     width: 100%;
     border: none;
@@ -617,7 +617,7 @@ footer a {
     max-width: none;
     padding: 6em 2em 6em 2em;
   }
-  .-cols2 ul {
+  .wrap.-cols2 ul {
     display: block;
   }
 }
