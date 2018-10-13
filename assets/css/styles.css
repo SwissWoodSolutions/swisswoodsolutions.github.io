@@ -514,12 +514,13 @@ footer a {
 .full-width-grey {
   background-color: #e2dcdc;
 }
+
 .full-width-video {
   position: relative;
   overflow: hidden;
   padding-top: 56.25%;
 }
-.full-width-iframe {
+.full-width-video iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -528,9 +529,11 @@ footer a {
   border: 0;
   margin: 0 auto;
 }
+
 .align-center {
   text-align: center;
 }
+
 .media {
   width: 100%;
   min-height: 6em;
@@ -550,9 +553,6 @@ footer a {
 }
 .media:hover a {
   color: white;
-}
-.img-logo {
-  max-width: 400px;
 }
 
 .googlemap {
