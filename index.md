@@ -54,6 +54,6 @@ order: 1
 
   Our expert team fuses extensive know-how and a unique set of scientific and technical skills.
 
-  <a class="btn" href="/News">Meet the team</a>
+  <a class="btn" href="/About">Meet the team</a>
 </div>
 </div>
