@@ -11,7 +11,7 @@
                   {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
                   {% for item in items %}
                     {% unless item.parent %}
-                    <li class="{% if page.url == item.url %}active{% endif %}">
+                    <li class="{% if page.url == item.url or page.parent == item.title %}active{% endif %}">
                       <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
                       {% if page.url == item.url or page.parent == item.title %}
                       <ul>
