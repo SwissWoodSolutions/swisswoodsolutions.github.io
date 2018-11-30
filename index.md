@@ -7,53 +7,67 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# We believe that wood can serve more needs than it currently does.
+# The wood innovators.
 
-![](/assets/images/arrow-d-white.svg)
+![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
 <img src="/assets/images/home_cover.jpg"
   srcset="/assets/images/home_cover_2x.jpg" alt="cover image wood detail">
 </div>
 
+
 <div class="full-width-grey">
-<div class="wrap -center">
-
-## Swiss Wood Solutions was founded in 2016 as a spin-off from ETH Zurich and Empa.
-
-## We are driven by the belief that wood is an underestimated material. That is why we want to bring our novel wood products and expertise out of the research lab, and into the 21st century.
-
-</div>
-</div>
-
-<div class="full-width">
 <div class="wrap">
+
+- ## We are driven by the belief that wood is still an underestimated material.
+
+  ### We want to bring novel wood products and our expertise out of the research lab, and into the 21st century.
 
 - <img src="/assets/images/home_materials.jpg"
     srcset="/assets/images/home_materials_2x.jpg" alt="sonowood maple on violin">
 
-  ### We innovate
+  ### Sonowood for music
 
-  We develop and produce technically enhanced wood with new or better properties. 100% wood, no composites.
+  Our sustainable product line for the music industry matches the properties of
+  tropical wood.
 
-  <a class="btn" href="/Products">Products</a>
+  <a class="btn" href="/Sonowood"> > Sonowood</a>
 
 - <img src="/assets/images/home_services.jpg"
-    srcset="/assets/images/home_services_2x.jpg" alt="wood samples lined up">
+    srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
-  ### We collaborate
-
+  ### Expertise for industry
   Years of experience and expertise at the forefront of wood innovation, at your service.
 
-  <a class="btn" href="/Services">Services</a>
+  <a class="btn" href="/Services"> > Services</a>
 
-- <img src="/assets/images/home_about_02.jpg"
-    srcset="/assets/images/home_about_02_2x.jpg" alt="sonowood in lab">
+- <img src="/assets/images/home_RD.jpg"
+      srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
+
+  ### Research & Development
+
+    Curious what's cooking? Take a peek and join us at the front edge of wood innovation!
+
+    <a class="btn" href="/RDProjects"> > R&D </a>
+
+- <img src="/assets/images/home_about.jpg"
+    srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
 
   ### About us
 
-  Our expert team fuses extensive know-how and a unique set of scientific and technical skills.
+  Our team fuses extensive know-how with unique scientific and technical skills.
 
-  <a class="btn" href="/About">Meet the team</a>
+  <a class="btn" href="/About"> > Meet the team</a>
+
+- <img src="/assets/images/home_news.jpg"
+    srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz interview Sonowood">
+
+  ### In the news!
+
+  Swiss Wood Solutions and Sonowood on Swiss national TV and in other media.
+
+    <a class="btn" href="/News"> > News</a>
+
 </div>
 </div>

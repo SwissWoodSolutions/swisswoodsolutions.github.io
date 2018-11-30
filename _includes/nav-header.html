@@ -11,18 +11,20 @@
                   {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
                   {% for item in items %}
                     {% unless item.parent %}
-                    <li class="{% if item.url == page.url %}active{% endif %}">
+                    <li class="{% if page.url == item.url or page.parent == item.title %}active{% endif %}">
                       <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
+                      {% if page.url == item.url or page.parent == item.title %}
                       <ul>
                         {% assign subitems = site.pages | sort: 'order' %}
                         {% for subitem in subitems %}
                           {% if subitem.parent == item.title %}
-                          <li>
+                          <li class="{% if subitem.url == page.url %}active{% endif %}">
                             <a href="{{ subitem.url | relative_url }}">{{ subitem.title }} </a>
                           </li>
                           {% endif %}
                         {% endfor %}
                       </ul>
+                      {% endif %}
                     </li>
                     {% endunless %}
                   {% endfor %}
