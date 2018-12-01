@@ -13,7 +13,6 @@
                     {% unless item.parent %}
                     <li class="{% if page.url == item.url or page.parent == item.title %}active{% endif %}">
                       <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
-                      {% if page.url == item.url or page.parent == item.title %}
                       <ul>
                         {% assign subitems = site.pages | sort: 'order' %}
                         {% for subitem in subitems %}
@@ -24,7 +23,6 @@
                           {% endif %}
                         {% endfor %}
                       </ul>
-                      {% endif %}
                     </li>
                     {% endunless %}
                   {% endfor %}

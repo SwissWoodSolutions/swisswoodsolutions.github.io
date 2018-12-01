@@ -217,13 +217,16 @@ header::after {
     border-bottom: 5px solid;
   }
   /* sublists */
+  .nav > li:not(.active) > ul {
+    display: none;
+  }
   .nav ul {
     position: absolute;
     margin-top: 11px;
     background-color: #fef4f2;
     }
   .nav ul li{
-  padding: 1em 0.75em 1em 0.75em;
+    padding: 1em 0.75em 1em 0.75em;
   }
 }
 
