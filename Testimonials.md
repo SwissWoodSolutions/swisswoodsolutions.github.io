@@ -8,7 +8,7 @@ order: 2
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# «Sonowood has the potential to not only match the quality of ebony, but to even excel it.»
+## «Sonowood has the potential to not only match the quality of ebony, but to even excel it.»
 
 ### \- George Stoppani, violin manufacturer
 
@@ -119,7 +119,7 @@ played.»
 
 ## Sounds good?
 
-<a class="btn-red" href="/Contact">Get in touch</a>
+<a class="btn-red" href="/Contact"> > Get in touch</a>
 
 </div>
 </div>

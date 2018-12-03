@@ -39,9 +39,9 @@ order: 4
 
   Our densified wood is very durable and stable, perfect for high-end tools that need to last.
 
-- ### ...Intrigued?
+- ### ... intrigued?
 
-  <a class="btn-red" href="/Contact">Contact us to find out more</a>
+  <a class="btn-red" href="/Contact"> > Contact us</a>
 
 </div>
 </div>

@@ -9,8 +9,10 @@ order: 6
 
 ## Swiss Wood Solutions on TV
 
+<div class="videocontainer">
 <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
 </iframe>
+</div>
 
 **In November 2017** CEO Oliver Kläusler gave an insight into the
 production technology in a live TV broadcast in **«Schweiz aktuell» on
@@ -24,8 +26,10 @@ stated to be thoroughly happy about her viola containing a fingerboard
 made from Sonowood. She praised the superior sound characteristics of
 her new instrument.
 
+<div class="videocontainer">
 <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
 <figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
+</div>
 
 **In March 2018,** Swiss Wood Solutions was featured in a second
 broadcast in **«Schweiz aktuell».** This report focused on the musical

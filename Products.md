@@ -46,8 +46,10 @@ order: 2
 
 ## Introduction to Sonowood
 
+<div class="videocontainer">
 <iframe src="https://www.youtube.com/embed/VzBaJULayc8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
+</div>
 
 </div>
 </div>
