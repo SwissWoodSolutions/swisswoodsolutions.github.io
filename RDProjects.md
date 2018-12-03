@@ -23,7 +23,7 @@ order: 4
 
 - ### Martial arts need it extra strong
   ![extra strong wood sword for kendo](/assets/images/RD_kendo.jpg)
-  *Clarinet parts, fresh from Robert Stempfle's lathe.*
+  *Wood sword sample model.*
 
   That's why this sword is made of our densified wood. It's still a sample, but already getting great reviews. The Budokan is very exciting new territory for us!
 
@@ -31,7 +31,7 @@ order: 4
   ![clarinet parts made of Sonowood](/assets/images/RD_clarinet.jpg)
   *Clarinet parts, fresh from Robert Stempfle's lathe.*
 
-  Not just string instruments are made of tropical wood parts. Of course also wind instruments such as clarinets or flutes would benefit if they can be produced from an alternative wood source. We are developing and testing **Sonowood** for winds.
+  Not just string instruments are made of tropical wood parts. Of course also wind instruments such as clarinets or flutes would benefit if they can be produced from an alternative wood source. We are currently fine-tuning **Sonowood** for winds.
 
 - ### Professional photography equipment
   ![violin with sonowood](/assets/images/RD_alpa.jpg)
@@ -39,7 +39,7 @@ order: 4
 
   Our densified wood is very durable and stable, perfect for high-end tools that need to last.
 
-- ### ... intrigued?
+- ### ...Intrigued?
 
   <a class="btn-red" href="/Contact">Contact us to find out more</a>
 
