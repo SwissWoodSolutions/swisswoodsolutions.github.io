@@ -90,7 +90,7 @@ img + em {
   display: block;
 }
 iframe {
-  min-width:430px;
+  width: 100%;
 }
 
 .videocontainer iframe {

@@ -77,7 +77,6 @@ order: 1
   - ## Quick news from our Facebook feed:
 
   - <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwiss-Wood-Solutions-1539292799446076%2F&tabs=timeline%2C%20events&height=600&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" height="600" style="border:1px #fef4f2;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-    <a href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank" class="btn-white"> > go to Facebook</a>
 
   </div>
   </div>
