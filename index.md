@@ -29,8 +29,7 @@ order: 1
 
   ### Sonowood for music
 
-  Our sustainable product line for the music industry matches the properties of
-  tropical wood.
+  Our sustainable product line for the music industry matches the properties of tropical wood.
 
   <a class="btn" href="/Sonowood"> > Sonowood</a>
 
@@ -38,7 +37,7 @@ order: 1
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
   ### Expertise for industry
-  Years of experience and expertise at the forefront of wood innovation, at your service.
+  Years of experience and expertise in wood chemistry and engineering: at your service.
 
   <a class="btn" href="/Services"> > Services</a>
 
