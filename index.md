@@ -1,5 +1,6 @@
 ---
-layout: landingpage
+layout: standardpage
+lang: en
 title: 'Home'
 order: 1
 ---
@@ -31,7 +32,7 @@ order: 1
 
   Our sustainable product line for the music industry matches the properties of tropical wood.
 
-  <a class="btn" href="/Sonowood"> > Sonowood</a>
+  <a class="btn" href="/Sonowood">Sonowood ></a>
 
 - <img src="/assets/images/home_services.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
@@ -39,7 +40,7 @@ order: 1
   ### Expertise for industry
   Years of experience and expertise in wood chemistry and engineering: at your service.
 
-  <a class="btn" href="/Services"> > Services</a>
+  <a class="btn" href="/Services">Services ></a>
 
 - <img src="/assets/images/home_RD.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
@@ -48,7 +49,7 @@ order: 1
 
     Curious what's cooking? Take a peek and join us at the front edge of wood innovation!
 
-    <a class="btn" href="/RDProjects"> > R&D </a>
+    <a class="btn" href="/RDProjects">R&D ></a>
 
 - <img src="/assets/images/home_about.jpg"
     srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
@@ -57,7 +58,7 @@ order: 1
 
   Our team fuses extensive know-how with unique scientific and technical skills.
 
-  <a class="btn" href="/About"> > Meet the team</a>
+  <a class="btn" href="/About">Meet the team ></a>
 
 - <img src="/assets/images/home_news.jpg"
     srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz interview Sonowood">
@@ -66,7 +67,7 @@ order: 1
 
   Swiss Wood Solutions and Sonowood on Swiss national TV and in other media.
 
-    <a class="btn" href="/News"> > News</a>
+    <a class="btn" href="/News">News ></a>
 
 </div>
 </div>

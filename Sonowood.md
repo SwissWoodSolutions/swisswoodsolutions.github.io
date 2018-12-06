@@ -1,5 +1,6 @@
 ---
-layout: standardpageanalytics
+layout: standardpage
+lang: en
 title: 'Sonowood'
 parent: Products
 order: 1
@@ -38,21 +39,6 @@ alternative. In addition to being environmentally friendly, the
 technology offers adjustability of a wide range of parameters.
 
 **Sonowood** is the best alternative wood for your musical instrument, made of 100% real AND indigenous wood.
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap">
-
-## How to get Sonowood?
-
-Sonowood is currently available for violin, viola, cello, double bass and guitar parts. </br>
-Coming soon: Sonowood for wood winds such as clarinets.
-
-For sales inquiries or technical questions:
-
-<a class="btn-red" href="/Contact"> > Contact us!</a>
 
 Sonowood information flyers:
 
@@ -101,6 +87,21 @@ Sonowood information flyers:
 
     Sonowood does not contain wood species listed on CITES, therefore no
     trade and import restrictions occur.
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap">
+
+## How to get Sonowood?
+
+Sonowood is currently available for violin, viola, cello, double bass and guitar parts. </br>
+Coming soon: Sonowood for wood winds such as clarinets.
+
+For sales inquiries or technical questions:
+
+<a class="btn-red" href="/Contact">Contact us ></a>
 
 </div>
 </div>

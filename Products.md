@@ -1,5 +1,6 @@
 ---
 layout: standardpage
+lang: en
 title: 'Products'
 order: 2
 ---
@@ -28,7 +29,7 @@ order: 2
     Our sustainable product line for the music industry matches the properties of
     tropical wood.
 
-    <a class="btn-white" href="/Sonowood"> > Sonowood</a>
+    <a class="btn-white" href="/Sonowood">Sonowood ></a>
 
   - ![pacific quartet vienna](/assets/images/products_testimonial_2x.jpg)
     ### Sonowood Testimonials
@@ -36,7 +37,7 @@ order: 2
     We think Sonowood is the best. But don't just take our word for it: read
     what the users say.
 
-    <a class="btn-white" href="/Testimonials"> > Happy clients</a>
+    <a class="btn-white" href="/Testimonials">Happy clients ></a>
 
 </div>
 </div>

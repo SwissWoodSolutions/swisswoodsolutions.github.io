@@ -1,5 +1,6 @@
 ---
 layout: standardpage
+lang: en
 title: 'Testimonials'
 parent: Products
 order: 2
@@ -86,7 +87,7 @@ November 2017**
 <div class="full-width-red">
 <div class="wrap -cols2">
 
-## *«Sonowood has the potential to not only match the quality of ebony, but to even excel it.»*
+## *«Sonowood is soon going to revolutionize the manufacturing of wooden instruments.»*
 
 **— Fidel Peugeot, guitarist, 12th June 2018**
 
@@ -119,7 +120,7 @@ played.»
 
 ## Sounds good?
 
-<a class="btn-red" href="/Contact"> > Get in touch</a>
+<a class="btn-red" href="/Contact">Get in touch ></a>
 
 </div>
 </div>

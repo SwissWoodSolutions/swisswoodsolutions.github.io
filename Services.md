@@ -1,5 +1,6 @@
 ---
 layout: standardpage
+lang: en
 title: 'Services'
 order: 3
 ---
@@ -32,7 +33,7 @@ order: 3
   - Access to an international network of partners from science and
     industry.
 
-<p class="extra-margin-top"><a class="btn" href="/Contact"> > Contact us</a></p>
+<p class="extra-margin-top"><a class="btn" href="/Contact">Contact us ></a></p>
 
 <img srcset="/assets/images/services_cover_2x.jpg"
      src="/assets/images/services_cover.jpg" alt="Swiss Wood team at work at Zurich HB">

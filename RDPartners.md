@@ -1,5 +1,6 @@
 ---
 layout: standardpage
+lang: en
 title: 'Partners & Support'
 parent: Products
 order: 3
@@ -21,7 +22,7 @@ order: 3
 
   Meet our **Sonowood** musical ambassadors!
 
-  <a class="btn-red" href="pacificquartet.com" target="_blank">PQV Website</a>
+  <a class="btn-red" href="pacificquartet.com" target="_blank">PQV Website ></a>
 
 ## Wilhelm Geigenbau
 
@@ -38,7 +39,7 @@ characteristics of their respective instruments.
 The Swiss national TV captured the results of the workshop: [see the
 video on our News page, Schweiz Aktuell 02.03.2018.](/News)
 
-<a class="btn" href="http://www.wilhelm-geigenbau.ch/index.php?id=1017" target="_blank">Wilhelm Geigenbau</a>
+<a class="btn" href="http://www.wilhelm-geigenbau.ch/index.php?id=1017" target="_blank">Wilhelm Geigenbau ></a>
 
 </div>
 </div>
