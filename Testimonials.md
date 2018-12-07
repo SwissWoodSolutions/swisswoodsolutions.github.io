@@ -67,11 +67,6 @@ November 2017**
 
 -----
 
-«Sonowood is soon going to revolutionize the manufacturing of wooden instruments.»  
-**— George Stoppani, violin manufacturer from Manchester (UK), 2nd March 2018**
-
------
-
 «I have not yet seen a material with such a low damping as Sonowood.»  
 **— Boris Haug, violin manufacturer from Suhr (CH), 28th November 2017**
 
