@@ -31,7 +31,7 @@ skills.
 
 # Our team
 
-  - ![picture Oliver Klaeusler](/assets/images/team_OK.jpg)
+  - ![Oliver Klaeusler](/assets/images/team_OK.jpg)
 
     ### Dr. Oliver Kläusler, CEO,
 
@@ -45,11 +45,12 @@ skills.
     constructions from ETH Zurich. Following his promotion, he became
     research-group leader at Empa Dübendorf and ETH Zurich. Oliver
     Kläusler is Co-founder of Swiss Wood Solutions AG and its first
-    CEO.  
+    CEO.
+
     <klaeusler@swisswoodsolutions.ch>  
     Tel. +41 79 819 72 77
 
-  - ![picture Munish Chanana](/assets/images/team_MC.jpg)
+  - ![Munish Chanana](/assets/images/team_MC.jpg)
 
     ### Dr. Munish Chanana, Co-CEO and Head of R\&D,
 
@@ -60,11 +61,12 @@ skills.
     Prior to his engagement at Swiss Wood Solutions, Munish Chanana led
     the group of Hierarchical Nano-Bio Materials at the Institute for
     Building Materials at ETH Zurich.  
-    <chanana@swisswoodsolutions.ch>  
+
+    <chanana@swisswoodsolutions.ch>
     Tel. +41 76 688 70 02 (CH)  
     Tel. +49 176 63 00 44 09 (D)
 
-  - ![picture Walter Sonderegger](/assets/images/team_WS.jpg)
+  - ![Walter Sonderegger](/assets/images/team_WS.jpg)
 
     ### Dr. Walter Sonderegger, responsible for quality management,
 
@@ -73,10 +75,11 @@ skills.
     Sonderegger has acquired profound knowledge in wood mechanics, wood
     physics and hydrothermal compression methods. Furthermore, he has
     released numerous research articles in scientific journals and
-    reference books on wood.  
+    reference books on wood.
+
     <sonderegger@swisswoodsolutions.ch>
 
-  - ![picture Philipp Hass](/assets/images/team_PH.jpg)
+  - ![Philipp Hass](/assets/images/team_PH.jpg)
 
     ### Dr. Philipp Hass, CTO,
 
@@ -86,10 +89,11 @@ skills.
     apprenticeship as carpenter, he acquired both practical and
     theoretical wood processing skills. Prior to his engagement at Swiss
     Wood Solutions, Philipp Hass worked in a postdoctoral position at
-    ETH Zurich and at Empa Dübendorf.  
+    ETH Zurich and at Empa Dübendorf.
+
     <phass@swisswoodsolutions.ch>
 
-  - ![picture Luca Schelbli](/assets/images/team_LS.jpg)
+  - ![Luca Schelbli](/assets/images/team_LS.jpg)
 
     ### Luca Schelbli, R\&D specialist,
 
@@ -97,11 +101,12 @@ skills.
     Zurich and Louisiana State University (USA). In his position as R\&D
     specialist, he works on the development of new physicochemical
     modification approaches of wood. Furthermore, he supports the
-    commercialization of the developed processes.  
+    commercialization of the developed processes.
+
     <schelbli@swisswoodsolutions.ch>  
     Tel. +41 44 633 62 12
 
-  - ![picture Karsten Leuker](/assets/images/team_KL.jpg)
+  - ![Karsten Leuker](/assets/images/team_KL.jpg)
 
     ### Karsten Leuker, sales manager,
 
@@ -110,7 +115,8 @@ skills.
     has established a far-reaching network of business contacts
     including manufacturers and customers of wooden products. At Swiss
     Wood Solutions, Karsten Leuker is in charge of the distribution
-    channels and engages in close customer interaction.  
+    channels and engages in close customer interaction.
+
     <leuker@swisswoodsolutions.ch>  
     Tel. +41 76 205 77 04 (CH)  
     Tel. +49 174 39 19 564 (D)

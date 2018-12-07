@@ -37,6 +37,7 @@ order: 3
 
 <img srcset="/assets/images/services_cover_2x.jpg"
      src="/assets/images/services_cover.jpg" alt="Swiss Wood team at work at Zurich HB">
+<figcaption>Swiss Wood Solutions at work at Zurich HB.</figcaption>
 
 </div>
 </div>

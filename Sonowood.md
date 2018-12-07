@@ -15,7 +15,7 @@ order: 1
 
 </div>
 <img srcset="/assets/images/sonowood_cover_2x.jpg"
-     src="/assets/images/sonowood_cover.jpg" alt="wood1">
+     src="/assets/images/sonowood_cover.jpg" alt="Sonowood on violin">
 </div>
 
 <div class="full-width">

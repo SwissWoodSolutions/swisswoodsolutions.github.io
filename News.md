@@ -1,5 +1,6 @@
 ---
 layout: standardpage
+lang: en
 title: 'News'
 order: 6
 ---
@@ -14,8 +15,8 @@ order: 6
 </iframe>
 </div>
 
-**In November 2017** CEO Oliver Kläusler gave an insight into the
-production technology in a live TV broadcast in **«Schweiz aktuell» on
+**In November 2017, CEO Oliver Kläusler gave insight into the
+Sonowood production technology in a live TV broadcast in «Schweiz aktuell» on
 SRF (see video above, in German).** The TV report also focused the
 application of Sonowood in the musical instrument manufacturing. Boris
 Haug, violin manufacturer from our premium partner Wilhelm Geigenbau in
@@ -34,7 +35,7 @@ her new instrument.
 **In March 2018,** Swiss Wood Solutions was featured in a second
 broadcast in **«Schweiz aktuell».** This report focused on the musical
 manufacturing workshop held with our partner Wilhelm Geigenbau and
-subsequent concert of the Pacific Quartet Vienna.
+subsequent concert of the Pacific Quartet Vienna on their instruments fitted with Sonowood.
 
 </div>
 </div>

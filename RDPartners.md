@@ -170,7 +170,7 @@ violins and violas, market readiness has been achieved.
 - ![testing Brinell hardness of Sonowood](/assets/images/support_brinell.jpg)
   *Experimental determination of the Brinell hardness*
 
-- ![testing Brinell hardness of Sonowood](/assets/images/support_example.jpg)
+- ![One of the first models of a violin tailpiece](/assets/images/support_example.jpg)
   *One of the first models of a violin tailpiece*
 
 </div>

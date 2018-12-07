@@ -17,7 +17,7 @@ order: 2
 
 </div>
 <img srcset="/assets/images/testimonial_cover2_2x.jpg"
-     src="/assets/images/testimonial_cover2.jpg" alt="close up of violin with Sonowood">
+     src="/assets/images/testimonial_cover2.jpg" alt="George Stoppani with Cello during Sonowood Workshop">
 </div>
 
 <div class="full-width">
