@@ -279,7 +279,7 @@ header::after {
     font-weight: 300;
     text-decoration:none;
   }
-  .nav .active a {
+  .nav .active > a {
     border-bottom: 5px solid white;
   }
   .nav a:hover {
