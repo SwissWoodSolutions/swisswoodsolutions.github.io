@@ -191,6 +191,7 @@ header::after {
     font-size: 22px;
     width: 220px;
     float: left;
+    margin-bottom: 0;
   }
   .hamburgercheck {
     display:none;
@@ -249,6 +250,7 @@ header::after {
     font-size: 22px;
     width: 220px;
     float: right;
+    margin-bottom: 0;
   }
   .nav {
     position: absolute;

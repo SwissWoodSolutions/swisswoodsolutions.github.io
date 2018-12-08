@@ -1,6 +1,8 @@
 <header>
-  <a href="/">
-    <img src="{{ site.baseurl }}/assets/logo/SWS_Vektor_C.svg" class="swslogo" alt="logo SwissWoodSolutions">
+  <a href="/{{page.lang}}">
+    <h1 class="swslogo">
+      <img src="/assets/logo/SWS_Vektor_C.svg" alt="Swiss Wood Solutions">
+    </h1>
   </a>
   <div id="menuToggle">
     <input type="checkbox" class="hamburgercheck">
@@ -8,25 +10,25 @@
       <span></span>
       <span></span>
       <ul class="nav">
-        {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
+        {% assign items = site.pages | where: 'lang', page.lang | sort: 'order' %}
         {% for item in items %}
-          {% unless item.path contains '/' and item.name != 'index.md' %}
+          {% assign item_path_arr = item.path | split: '/' %}
+          {% if item_path_arr.size < 3 or (item_path_arr.size == 3 and item.name == 'index.md') %}
             {% assign prefix = page.path | remove: page.name %}
-            <li class="{% if item.url == page.url or (prefix.size > 0 and item.path contains prefix) %}active{% endif %}">
+            <li class="{% if item.url == page.url or (prefix.size > 3 and item.path contains prefix) %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
               <ul>
-                {% assign subitems = site.pages | sort: 'order' %}
-                {% for subitem in subitems %}
+                {% for subitem in items %}
                   {% assign parent_prefix = item.path | remove: item.name %}
-                  {% if parent_prefix.size > 0 and subitem.path contains parent_prefix and subitem.name != 'index.md' %}
-                  <li class="{% if subitem.url == page.url %}active{% endif %}">
-                    <a href="{{ subitem.url | relative_url }}">{{ subitem.title }} </a>
-                  </li>
+                  {% if parent_prefix.size > 3 and subitem.path contains parent_prefix and subitem.name != 'index.md' %}
+                    <li class="{% if subitem.url == page.url %}active{% endif %}">
+                      <a href="{{ subitem.url | relative_url }}">{{ subitem.title }} </a>
+                    </li>
                   {% endif %}
                 {% endfor %}
               </ul>
             </li>
-          {% endunless %}
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
