@@ -12,11 +12,9 @@
 
       <nav>
         <ul class="lang-switcher">
-          {% assign suffix = page.url | slice: 4, page.url.size %}
-          {% assign langs = 'en,de' | split: ',' %}
-          {% for lang in langs %}
+          {% for lang in site.langs %}
             <li class="{% if lang == page.lang %}active{% endif %}">
-              <a href="/{{lang}}/{{suffix}}">{{lang}}</a>
+              <a href="/{{lang}}/{{page.url | slice: 4, page.url.size}}">{{lang}}</a>
             </li>
           {% endfor %}
         </ul>
