@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'Contact'
 order: 7

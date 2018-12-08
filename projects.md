@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'R&D'
 order: 4

@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'Home'
 order: 1

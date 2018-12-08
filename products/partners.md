@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'Partners & Support'
 order: 3

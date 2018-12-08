@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'About'
 order: 5

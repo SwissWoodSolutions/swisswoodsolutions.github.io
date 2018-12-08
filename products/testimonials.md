@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'Testimonials'
 order: 2
