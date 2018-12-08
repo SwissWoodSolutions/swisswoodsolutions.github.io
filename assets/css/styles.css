@@ -185,6 +185,17 @@ header::after {
   margin-bottom: 40px;
 }
 
+.lang-switcher {
+  float: right;
+}
+.lang-switcher li {
+  text-transform: uppercase;
+  list-style-type: none;
+}
+.lang-switcher li a {
+  text-decoration: none;
+}
+
 /* Desktop */
 @media (min-width: 1000px){
   .swslogo {
@@ -252,7 +263,7 @@ header::after {
     float: right;
     margin-bottom: 0;
   }
-  .nav {
+  nav {
     position: absolute;
     width: 250px;
     box-shadow: 5px 5px 20px;
@@ -266,10 +277,6 @@ header::after {
     transform-origin: 0% 0%;
     transform: translate(-100%, 0);
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
-  }
-  #menuToggle input:checked ~ ul
-  {
-    transform: none;
   }
   .nav li {
     display: block;
@@ -295,7 +302,7 @@ header::after {
     display: block;
     cursor: pointer;
   }
-  #menuToggle input:checked ~ ul {
+  #menuToggle input:checked ~ nav {
     transform: none;
   }
   #menuToggle {
