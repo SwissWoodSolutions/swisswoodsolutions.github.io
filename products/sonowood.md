@@ -2,7 +2,6 @@
 layout: standardpage
 lang: en
 title: 'Sonowood'
-parent: Products
 order: 1
 ---
 

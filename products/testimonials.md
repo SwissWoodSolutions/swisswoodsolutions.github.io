@@ -2,7 +2,6 @@
 layout: standardpage
 lang: en
 title: 'Testimonials'
-parent: Products
 order: 2
 ---
 

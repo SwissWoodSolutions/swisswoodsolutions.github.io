@@ -2,7 +2,6 @@
 layout: standardpage
 lang: en
 title: 'Partners & Support'
-parent: Products
 order: 3
 ---
 

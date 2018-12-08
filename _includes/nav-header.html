@@ -1,31 +1,33 @@
 <header>
-      <a href="/">
-          <img src="{{ site.baseurl }}/assets/logo/SWS_Vektor_C.svg" class="swslogo" alt="logo SwissWoodSolutions">
-      </a>
-      <div id="menuToggle">
-            <input type="checkbox" class="hamburgercheck">
-                <span></span>
-                <span></span>
-                <span></span>
-                <ul class="nav">
-                  {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
-                  {% for item in items %}
-                    {% unless item.parent %}
-                    <li class="{% if page.url == item.url or page.parent == item.title %}active{% endif %}">
-                      <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
-                      <ul>
-                        {% assign subitems = site.pages | sort: 'order' %}
-                        {% for subitem in subitems %}
-                          {% if subitem.parent == item.title %}
-                          <li class="{% if subitem.url == page.url %}active{% endif %}">
-                            <a href="{{ subitem.url | relative_url }}">{{ subitem.title }} </a>
-                          </li>
-                          {% endif %}
-                        {% endfor %}
-                      </ul>
-                    </li>
-                    {% endunless %}
-                  {% endfor %}
-                </ul>
-        </div>
+  <a href="/">
+    <img src="{{ site.baseurl }}/assets/logo/SWS_Vektor_C.svg" class="swslogo" alt="logo SwissWoodSolutions">
+  </a>
+  <div id="menuToggle">
+    <input type="checkbox" class="hamburgercheck">
+      <span></span>
+      <span></span>
+      <span></span>
+      <ul class="nav">
+        {% assign items = site.pages | where_exp:"page", "page.name != 'style.scss'" | sort: 'order' %}
+        {% for item in items %}
+          {% unless item.path contains '/' and item.name != 'index.md' %}
+            {% assign prefix = page.path | remove: page.name %}
+            <li class="{% if item.url == page.url or (prefix.size > 0 and item.path contains prefix) %}active{% endif %}">
+              <a href="{{ item.url | relative_url }}">{{ item.title }} </a>
+              <ul>
+                {% assign subitems = site.pages | sort: 'order' %}
+                {% for subitem in subitems %}
+                  {% assign parent_prefix = item.path | remove: item.name %}
+                  {% if parent_prefix.size > 0 and subitem.path contains parent_prefix and subitem.name != 'index.md' %}
+                  <li class="{% if subitem.url == page.url %}active{% endif %}">
+                    <a href="{{ subitem.url | relative_url }}">{{ subitem.title }} </a>
+                  </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </div>
 </header>
