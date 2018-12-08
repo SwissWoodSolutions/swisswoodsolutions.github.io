@@ -33,7 +33,7 @@ CH – 8093 Zürich
 
 Tel. +41 44 633 62 12
 
-<a class="btn-red" href="mailto:info@swisswoodsolutions.ch">info@swisswoodsolutions.ch</a>
+<a class="btn -red" href="mailto:info@swisswoodsolutions.ch">info@swisswoodsolutions.ch</a>
 
 </div>
 

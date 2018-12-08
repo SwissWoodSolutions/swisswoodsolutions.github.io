@@ -28,7 +28,7 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
 **Sonowood** ist das beste alternative Holz für Ihr Musikinstrument, hergestellt aus 100% echtem UND einheimischem Holz.
 
-<a class="btn-red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a> herunterladen
+<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a> herunterladen
 
 **White Papers**: «Auswirkungen des Washingtoner Artenschutzabkommens (CITES) für verschiedene Stakeholder in der Musikindustrie»
 
@@ -84,7 +84,7 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
 Kontaktieren Sie uns und werden Sie Teil der innovativen Revolution im Instrumentenbau.
 
-<a class="btn-red" href="/Contact">Kontakt ></a>
+<a class="btn -red" href="/Contact">Kontakt ></a>
 
 </div>
 </div>

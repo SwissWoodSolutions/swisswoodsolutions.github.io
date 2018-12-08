@@ -20,7 +20,7 @@ order: 3
 
   Meet our **Sonowood** musical ambassadors!
 
-  <a class="btn-red" href="pacificquartet.com" target="_blank">PQV Website ></a>
+  <a class="btn -red" href="pacificquartet.com" target="_blank">PQV Website ></a>
 
 ## Wilhelm Geigenbau
 

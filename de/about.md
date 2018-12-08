@@ -24,7 +24,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung.
 Durch unterschiedliche fachliche Ausbildungen zeichnet sich das Team durch eine einzigartige, interdisziplinäre
 Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen aus.
 
-<a class="btn-red" href="/Contact_DE">Kontakt ></a>
+<a class="btn -red" href="/Contact_DE">Kontakt ></a>
 
 # Unser Team
 

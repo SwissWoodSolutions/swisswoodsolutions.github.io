@@ -109,7 +109,7 @@ order: 2
 
 ## Klingt gut?
 
-<a class="btn-red" href="/Contact_DE">Kontakt ></a>
+<a class="btn -red" href="/Contact_DE">Kontakt ></a>
 
 </div>
 </div>

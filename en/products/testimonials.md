@@ -113,7 +113,7 @@ played.»
 
 ## Sounds good?
 
-<a class="btn-red" href="/Contact">Get in touch ></a>
+<a class="btn -red" href="/Contact">Get in touch ></a>
 
 </div>
 </div>

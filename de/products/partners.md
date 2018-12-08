@@ -20,7 +20,7 @@ order: 3
 
   Wir sind stolz darauf, dass das Pacific Quartet Vienna unsere **Sonowood-Musikbotschafter** sind!
 
-  <a class="btn-red" href="pacificquartet.com" target="blank">PQV Website ></a>
+  <a class="btn -red" href="pacificquartet.com" target="blank">PQV Website ></a>
 
 ## Wilhelm Geigenbau
 

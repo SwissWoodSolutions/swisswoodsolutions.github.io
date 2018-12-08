@@ -76,7 +76,7 @@ order: 1
 
 - ## NEWSFLASH!
   ### Diese *Stradivari* aus 1720 wurde mit einem Griffbrett und einem Saitenhalter aus **Sonowood spruce** (verdichtete Fichte) montiert. Eine hohe Ehre für Swiss Wood Solutions!
-  <a class="btn-white" href="/RDProjects_DE">Mehr ></a>
+  <a class="btn -white" href="/RDProjects_DE">Mehr ></a>
 - ![Sonowood on Stradivarius, credits: Wilhelm Geigenbau](/assets/images/news_201812_stradivarius.jpeg)
 
 ---
@@ -84,7 +84,7 @@ order: 1
 - ## Die letzte Nachrichten
   lesen Sie auf unsere
 
-  <a class="btn-white" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook Page ></a>
+  <a class="btn -white" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook Page ></a>
 
 - <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwiss-Wood-Solutions-1539292799446076%2F&tabs=timeline%2C%20events&height=600&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" height="600" style="border:1px #fef4f2;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 

@@ -126,31 +126,21 @@ hr {
 * Buttons
 */
 
-.btn-red {
+.btn.-red {
   color: #c1574c;
-  padding: 0.5em 2em 0.5em 2em;
   border: solid #c1574c 1px;
-  text-decoration: none;
-  margin: 3em 1em 2em 0em;
 }
-.btn-red:hover {
+.btn.-red:hover {
   background: #c1574c;
-  text-decoration: none;
   color: white;
-  opacity: 1;
 }
-.btn-white {
+.btn.-white {
   color: white;
-  padding: 0.5em 2em 0.5em 2em;
   border: solid white 1px;
-  text-decoration: none;
-  margin: 3em 1em 2em 0em;
 }
-.btn-white:hover {
+.btn.-white:hover {
   background: white;
-  text-decoration: none;
   color: #c1574c;
-  opacity: 1;
 }
 .btn {
   color: #41393d;
@@ -163,7 +153,6 @@ hr {
 }
 .btn:hover {
   background: #41393d;
-  text-decoration: none;
   color: white;
   opacity: 1;
 }
