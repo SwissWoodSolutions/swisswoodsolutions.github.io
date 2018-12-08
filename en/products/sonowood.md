@@ -1,8 +1,6 @@
 ---
-layout: standardpage
 lang: en
 title: 'Sonowood'
-parent: Products
 order: 1
 ---
 
@@ -101,7 +99,7 @@ Coming soon: Sonowood for wood winds such as clarinets.
 
 For sales inquiries or technical questions:
 
-<a class="btn-red" href="/Contact">Contact us ></a>
+<a class="btn -red" href="/Contact">Contact us ></a>
 
 </div>
 </div>

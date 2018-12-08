@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'Services'
 order: 3

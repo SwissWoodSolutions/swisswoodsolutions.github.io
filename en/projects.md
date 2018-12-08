@@ -1,5 +1,4 @@
 ---
-layout: standardpage
 lang: en
 title: 'R&D'
 order: 4
@@ -50,7 +49,7 @@ order: 4
 
 - ### ... intrigued?
 
-  <a class="btn-red" href="/Contact">Contact us ></a>
+  <a class="btn -red" href="/Contact">Contact us ></a>
 
 </div>
 </div>

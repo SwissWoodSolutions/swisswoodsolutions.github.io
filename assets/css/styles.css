@@ -126,31 +126,21 @@ hr {
 * Buttons
 */
 
-.btn-red {
+.btn.-red {
   color: #c1574c;
-  padding: 0.5em 2em 0.5em 2em;
   border: solid #c1574c 1px;
-  text-decoration: none;
-  margin: 3em 1em 2em 0em;
 }
-.btn-red:hover {
+.btn.-red:hover {
   background: #c1574c;
-  text-decoration: none;
   color: white;
-  opacity: 1;
 }
-.btn-white {
+.btn.-white {
   color: white;
-  padding: 0.5em 2em 0.5em 2em;
   border: solid white 1px;
-  text-decoration: none;
-  margin: 3em 1em 2em 0em;
 }
-.btn-white:hover {
+.btn.-white:hover {
   background: white;
-  text-decoration: none;
   color: #c1574c;
-  opacity: 1;
 }
 .btn {
   color: #41393d;
@@ -163,7 +153,6 @@ hr {
 }
 .btn:hover {
   background: #41393d;
-  text-decoration: none;
   color: white;
   opacity: 1;
 }
@@ -185,12 +174,24 @@ header::after {
   margin-bottom: 40px;
 }
 
+.lang-switcher {
+  float: right;
+}
+.lang-switcher li {
+  text-transform: uppercase;
+  list-style-type: none;
+}
+.lang-switcher li a {
+  text-decoration: none;
+}
+
 /* Desktop */
 @media (min-width: 1000px){
   .swslogo {
     font-size: 22px;
     width: 220px;
     float: left;
+    margin-bottom: 0;
   }
   .hamburgercheck {
     display:none;
@@ -249,8 +250,9 @@ header::after {
     font-size: 22px;
     width: 220px;
     float: right;
+    margin-bottom: 0;
   }
-  .nav {
+  nav {
     position: absolute;
     width: 250px;
     box-shadow: 5px 5px 20px;
@@ -265,10 +267,6 @@ header::after {
     transform: translate(-100%, 0);
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
   }
-  #menuToggle input:checked ~ ul
-  {
-    transform: none;
-  }
   .nav li {
     display: block;
     padding: 0.75em 0 0.75em 2em;
@@ -279,7 +277,7 @@ header::after {
     font-weight: 300;
     text-decoration:none;
   }
-  .nav .active a {
+  .nav .active > a {
     border-bottom: 5px solid white;
   }
   .nav a:hover {
@@ -293,7 +291,7 @@ header::after {
     display: block;
     cursor: pointer;
   }
-  #menuToggle input:checked ~ ul {
+  #menuToggle input:checked ~ nav {
     transform: none;
   }
   #menuToggle {
