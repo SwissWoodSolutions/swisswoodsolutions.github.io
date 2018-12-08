@@ -11,15 +11,3 @@ commonmark:
 
 # Build settings
 permalink: pretty
-
-collections:
-  projects:
-    output: true
-
-defaults:
-  - scope:
-      path: ""  # empty string for all files
-      type: projects
-    values:
-      layout: default
-      is_post: true
