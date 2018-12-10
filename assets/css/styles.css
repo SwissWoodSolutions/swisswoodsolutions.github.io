@@ -286,7 +286,7 @@ header::after {
   }
   nav {
     position: absolute;
-    width: 330px;
+    width: 300px;
     box-shadow: 5px 5px 20px;
     margin: -100px 0 0 -50px;
     padding: 30px;
