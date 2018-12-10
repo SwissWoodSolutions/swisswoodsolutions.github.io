@@ -85,7 +85,7 @@ order: 1
 
     on our <a class="btn -white" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook Page ></a>
 
-  - <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwiss-Wood-Solutions-1539292799446076%2F&tabs=timeline%2C%20events&height=600&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" height="600" style="border:1px #fef4f2;overflow:hidden;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+  - <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwiss-Wood-Solutions-1539292799446076%2F&tabs=timeline&width=300&height=600&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="300" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
   </div>
   </div>
