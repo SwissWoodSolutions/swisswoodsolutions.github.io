@@ -5,10 +5,10 @@ layout: null
 <html>
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="1; url={{site.langs[0]}}.html">
+    <meta http-equiv="refresh" content="1; url={{site.langs[0]}}/">
     <script type="text/javascript">
         var lang = navigator.language || navigator.userLanguage || "{{site.langs[0]}}";
-        window.location.href = "/" + lang.split("-")[0];
+        window.location.href = "/" + lang.split("-")[0] + "/";
     </script>
     <title>Swiss Wood Solutions</title>
   </head>
@@ -16,7 +16,7 @@ layout: null
     <h1>{{site.name}}</h1>
     <ul>
       {% for lang in site.langs %}
-        <li><a href='/{{lang}}.html'>{{lang}}</a></li>
+        <li><a href='/{{lang}}/'>{{lang}}</a></li>
       {% endfor %}
     </ul>
   </body>
