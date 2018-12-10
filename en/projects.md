@@ -26,8 +26,8 @@ order: 4
   *Stradivari violin from 1720 with Sonowood fingerboard*
 
   A great honor for Swiss Wood Solutions! This Stradivari violin from 1720 was equipped by [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag) with a fingerboard and tailpiece made of **Sonowood spruce**. The owner's courage to opt for such an innovative material has paid off. A clear gain in timbre and volume can be observed. The base material is spruce from the canton Grisons (Graubunden, CH),  that we densified into Sonowood spruce.
-  
-  <a class="btn" href="/Sonowood">Sonowood ></a>
+
+  <a class="btn" href="/en/sonowood">Sonowood ></a>
 
 - ### Martial arts need it extra strong
   ![extra strong wood sword for kendo](/assets/images/RD_kendo.jpg)
@@ -49,7 +49,7 @@ order: 4
 
 - ### ... intrigued?
 
-  <a class="btn -red" href="/Contact">Contact us ></a>
+  <a class="btn -red" href="/en/contact">Contact us ></a>
 
 </div>
 </div>

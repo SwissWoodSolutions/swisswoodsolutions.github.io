@@ -24,7 +24,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung.
 Durch unterschiedliche fachliche Ausbildungen zeichnet sich das Team durch eine einzigartige, interdisziplinäre
 Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen aus.
 
-<a class="btn -red" href="/Contact_DE">Kontakt ></a>
+<a class="btn -red" href="/de/contact">Kontakt ></a>
 
 # Unser Team
 
@@ -76,7 +76,7 @@ Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen 
 
     ### Karsten Leuker, Head of Sales,
 
-    studierte Holzwirtschaft und Technologie an der Universität Hamburg. Dank langjähriger Verkaufserfahrung in der Holzindustrie konnte er ein breites Netzwerk an Kontakten in der Branche aufbauen. Bei Swiss Wood Solutions betreut Karsten Leuker die Verkaufskanäle und pflegt engen Kundenkontakt. 
+    studierte Holzwirtschaft und Technologie an der Universität Hamburg. Dank langjähriger Verkaufserfahrung in der Holzindustrie konnte er ein breites Netzwerk an Kontakten in der Branche aufbauen. Bei Swiss Wood Solutions betreut Karsten Leuker die Verkaufskanäle und pflegt engen Kundenkontakt.
 
     <leuker@swisswoodsolutions.ch>  
     Tel. +41 76 205 77 04 (CH)  

@@ -20,16 +20,16 @@ order: 3
 
   Wir sind stolz darauf, dass das Pacific Quartet Vienna unsere **Sonowood-Musikbotschafter** sind!
 
-  <a class="btn -red" href="pacificquartet.com" target="blank">PQV Website ></a>
+  <a class="btn -red" href="http://pacificquartet.com" target="blank">PQV Website ></a>
 
 ## Wilhelm Geigenbau
 
-Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Premiumpartner Wilhelm Geigenbau aus Suhr einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwˆchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
+Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Premiumpartner Wilhelm Geigenbau aus Suhr einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwöchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
 
 
 Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie hier.](/News_DE)
 
-<a class="btn" href="http://www.wilhelm-geigenbau.ch/index.php?id=1017" target="_blank">Wilhelm Geigenbau ></a>
+<a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=1017" target="_blank">Wilhelm Geigenbau ></a>
 
 </div>
 </div>

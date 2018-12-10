@@ -26,7 +26,7 @@ with diverse educational backgrounds. The team members combine for a
 unique and complementary set of scientific, technical and commercial
 skills.
 
-<a class="btn -red" href="/Contact">Get in touch ></a>
+<a class="btn -red" href="/en/contact">Get in touch ></a>
 
 # Our team
 

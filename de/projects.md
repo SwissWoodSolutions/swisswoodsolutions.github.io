@@ -23,11 +23,11 @@ order: 4
 
 - ### Stradivarius trifft Sonowood!
   ![Stradivari aus 1720, jetzt mit Sonowood](/assets/images/news_201812_stradivarius.jpeg)
-  *Stradivari, Jahrgang 1720, jetzt mit Griffbrett und Saitenhalter aus Sonowood*
+  *Stradivari jetzt mit Griffbrett und Saitenhalter aus Sonowood*
 
   Eine unglaublich hohe Ehre für Swiss Wood Solutions! Diese Stradivari aus 1720 wurde von [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag) mit einem Griffbrett und einem Saitenhalter aus **Sonowood spruce** (verdichtete Fichte) montiert. Der Mut des Besitzers scheint sich zu lohnen. Ein deutlicher Gewinn an Klangfarbe und Volumen ist zu beobachten. Ausgangsmaterial war Tonholz aus Graubünden, von uns verdichtet.
 
-  <a class="btn" href="/Sonowood_DE">Sonowood ></a>
+  <a class="btn" href="/de/products/sonowood">Sonowood ></a>
 
 - ### Holz für die Kampfkunst
   ![Holzschwert, Model](/assets/images/RD_kendo.jpg)
@@ -49,7 +49,7 @@ order: 4
 
 - ### Haben wir Ihr Interesse geweckt?
 
-  <a class="btn -red" href="/Contact_DE">Kontakt ></a>
+  <a class="btn -red" href="/de/contact">Kontakt ></a>
 
 </div>
 </div>

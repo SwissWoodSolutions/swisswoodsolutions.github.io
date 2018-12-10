@@ -155,6 +155,7 @@ hr {
   background: #41393d;
   color: white;
   opacity: 1;
+  text-decoration: none;
 }
 
 
@@ -163,7 +164,7 @@ hr {
 */
 
 header {
-  padding: 40px 40px 5px 40px;
+  padding: 40px 30px 5px 30px;
   background-color: white;
 }
 
@@ -174,19 +175,29 @@ header::after {
   margin-bottom: 40px;
 }
 
-.lang-switcher {
-  float: right;
-}
-.lang-switcher li {
-  text-transform: uppercase;
-  list-style-type: none;
-}
-.lang-switcher li a {
-  text-decoration: none;
-}
-
 /* Desktop */
-@media (min-width: 1000px){
+
+@media (min-width: 1080px){
+  .lang-switcher {
+    float: right;
+  }
+  .lang-switcher li {
+    text-transform: uppercase;
+    list-style-type: none;
+    color: #c1574c;
+    font-weight: 300;
+    transition: all 0.2s ease;
+    opacity: 0.7;
+    display: inline-block;
+    padding-left: 0.3em;
+  }
+  .lang-switcher li a {
+    text-decoration: none;
+  }
+  .lang-switcher .active {
+    font-weight: 500;
+    opacity: 1;
+  }
   .swslogo {
     font-size: 22px;
     width: 220px;
@@ -199,12 +210,12 @@ header::after {
   .nav {
     list-style-type: none;
     margin: 0;
-    padding-left: 80px;
+    padding-left: 60px;
     float: left;
   }
   .nav li {
     display: inline-block;
-    padding: 0 1.5em 1.5em 0;
+    padding: 0 1em 1.5em 0;
   }
   .nav a {
     color: #c1574c;
@@ -235,9 +246,9 @@ header::after {
   }
 }
 
-@media (max-width: 999px) {
+@media (max-width: 1079px) {
   header {
-    padding: 20px;
+    padding: 30px 20px 10px 20px;
   }
 
   header::after {
@@ -252,12 +263,33 @@ header::after {
     float: right;
     margin-bottom: 0;
   }
+  .lang-switcher {
+    float: right;
+  }
+  .lang-switcher li {
+    text-transform: uppercase;
+    list-style-type: none;
+    color: white;
+    font-weight: 300;
+    font-size: 1.2em;
+    transition: all 0.2s ease;
+    opacity: 0.7;
+    display: inline-block;
+    padding-left: 0.5em;
+  }
+  .lang-switcher li a {
+    text-decoration: none;
+  }
+  .lang-switcher .active {
+    font-weight: 500;
+    opacity: 1;
+  }
   nav {
     position: absolute;
-    width: 250px;
+    width: 330px;
     box-shadow: 5px 5px 20px;
     margin: -100px 0 0 -50px;
-    padding: 50px;
+    padding: 30px;
     padding-top: 150px;
     background: #c1574c;
     list-style-type: none;
@@ -646,6 +678,7 @@ footer a {
   .wrap.-center > ul {
     list-style-type: disc;
     display: inline;
+    line-height: 1.5em;
   }
 }
 @media (max-width: 999px) {

@@ -28,7 +28,7 @@ order: 3
   - Kooperation mit visionären Unternehmen, um futuristische Holzanwendungen zu realisieren.
   - Zugang zu einem breiten, internationalen Netzwerk in Wissenschaft und Industrie.
 
-<p class="extra-margin-top"><a class="btn" href="/Contact_DE">Kontakt ></a></p>
+<p class="extra-margin-top"><a class="btn" href="/de/contact">Kontakt ></a></p>
 
 <img srcset="/assets/images/services_cover_2x.jpg"
      src="/assets/images/services_cover.jpg" alt="das Swiss Wood Team bei der Arbeit im Zürcher HB">

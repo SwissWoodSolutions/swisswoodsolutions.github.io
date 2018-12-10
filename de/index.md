@@ -31,7 +31,7 @@ order: 1
 
   Wir entwickeln innovative Materialien mit neuen und verbesserten Eigenschaften. 100% Holz, kein Plastikanteil.
 
-  <a class="btn" href="/Sonowood_DE">Sonowood ></a>
+  <a class="btn" href="/de/products/sonowood">Sonowood ></a>
 
 - <img src="/assets/images/home_services.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
@@ -39,7 +39,7 @@ order: 1
   ### Beratung für die Industrie
   Jahrelange Erfahrung an der Spitze der Holzinnovation, individuelle Serviceleistungen.
 
-  <a class="btn" href="/Services_DE">Dienstleistungen ></a>
+  <a class="btn" href="/de/services">Dienstleistungen ></a>
 
 - <img src="/assets/images/home_RD.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
@@ -48,7 +48,7 @@ order: 1
 
     Curious what's cooking? Take a peek and join us at the front edge of wood innovation!
 
-    <a class="btn" href="/RDProjects_DE">R&D ></a>
+    <a class="btn" href="/de/projects">R&D ></a>
 
 - <img src="/assets/images/home_about.jpg"
     srcset="/assets/images/home_about_2x.jpg" alt="Walter mit einer Sonowood-Probe">
@@ -57,7 +57,7 @@ order: 1
 
   Wir vereinen Holzexperten aus der Industrie, Forschung und Entwicklung.
 
-  <a class="btn" href="/About_DE">Unser Team ></a>
+  <a class="btn" href="/de/about">Unser Team ></a>
 
 - <img src="/assets/images/home_news.jpg"
     srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz, Interview Sonowood">
@@ -66,7 +66,7 @@ order: 1
 
   Berichterstattung über Swiss Wood Solutions in Printmedien, Radio und TV.
 
-    <a class="btn" href="/News_DE">News ></a>
+    <a class="btn" href="/de/news">News ></a>
 
 </div>
 </div>
@@ -76,7 +76,7 @@ order: 1
 
 - ## NEWSFLASH!
   ### Diese *Stradivari* aus 1720 wurde mit einem Griffbrett und einem Saitenhalter aus **Sonowood spruce** (verdichtete Fichte) montiert. Eine hohe Ehre für Swiss Wood Solutions!
-  <a class="btn -white" href="/RDProjects_DE">Mehr ></a>
+  <a class="btn -white" href="/de/projects">Mehr ></a>
 - ![Sonowood on Stradivarius, credits: Wilhelm Geigenbau](/assets/images/news_201812_stradivarius.jpeg)
 
 ---

@@ -53,7 +53,7 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
     ### verbesserte Klangeigenschaften
 
     Hohe Schallleitgeschwindigkeit, geringe Dämpfung. Hochgeschätzt von Musikern und Instrumentenbauern.
-    [→ Testimonials](/Testimonials_DE)
+    [→ Testimonials](/de/testimonials)
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
@@ -84,7 +84,7 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
 Kontaktieren Sie uns und werden Sie Teil der innovativen Revolution im Instrumentenbau.
 
-<a class="btn -red" href="/Contact">Kontakt ></a>
+<a class="btn -red" href="/de/contact">Kontakt ></a>
 
 </div>
 </div>
