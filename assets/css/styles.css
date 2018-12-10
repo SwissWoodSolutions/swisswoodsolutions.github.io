@@ -483,6 +483,7 @@ footer a {
   top: 0px;
   z-index: -1;
   width: 100%;
+  min-height: 600px;
   object-fit: cover;
   transform-origin: bottom;
   animation-fill-mode: forwards;
@@ -500,11 +501,17 @@ footer a {
   .full-width-kenburns {
     min-height: 400px;
   }
+  .full-width-kenburns > img {
+    min-height: 400px;
+  }
 }
 @media (max-width: 700px) {
   /* small mobile*/
   .full-width-kenburns {
-    min-height: 260px;
+    min-height: 300px;
+  }
+  .full-width-kenburns > img {
+    min-height: 300px;
   }
 }
 .wrap-bg-image > h1 {
