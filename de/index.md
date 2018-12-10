@@ -82,7 +82,7 @@ order: 1
 ---
 
 - ## Die letzte Nachrichten
-  lesen Sie auf unsere
+  lesen Sie auf unserer
 
   <a class="btn -white" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook Page ></a>
 
