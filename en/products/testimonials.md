@@ -1,8 +1,6 @@
 ---
-layout: standardpage
 lang: en
 title: 'Testimonials'
-parent: Products
 order: 2
 ---
 
@@ -115,7 +113,7 @@ played.»
 
 ## Sounds good?
 
-<a class="btn-red" href="/Contact">Get in touch ></a>
+<a class="btn -red" href="/en/contact">Get in touch ></a>
 
 </div>
 </div>

@@ -1,0 +1,23 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="1; url={{site.langs[0]}}.html">
+    <script type="text/javascript">
+        var lang = navigator.language || navigator.userLanguage || "{{site.langs[0]}}";
+        window.location.href = "/" + lang.split("-")[0];
+    </script>
+    <title>Swiss Wood Solutions</title>
+  </head>
+  <body>
+    <h1>{{site.name}}</h1>
+    <ul>
+      {% for lang in site.langs %}
+        <li><a href='/{{lang}}.html'>{{lang}}</a></li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

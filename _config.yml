@@ -3,6 +3,9 @@ name: "Swiss Wood Solutions"
 description: "site for Swiss Wood Solutions"
 url: "http://swisswoodsolutions.github.io"
 githubUsername: SwissWoodSolutions
+langs:
+  - en
+  - de
 
 # see https://github.com/github/jekyll-commonmark-ghpages
 markdown: CommonMarkGhPages
@@ -11,15 +14,3 @@ commonmark:
 
 # Build settings
 permalink: pretty
-
-collections:
-  projects:
-    output: true
-
-defaults:
-  - scope:
-      path: ""  # empty string for all files
-      type: projects
-    values:
-      layout: default
-      is_post: true

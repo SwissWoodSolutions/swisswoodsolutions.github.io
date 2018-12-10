@@ -126,31 +126,21 @@ hr {
 * Buttons
 */
 
-.btn-red {
+.btn.-red {
   color: #c1574c;
-  padding: 0.5em 2em 0.5em 2em;
   border: solid #c1574c 1px;
-  text-decoration: none;
-  margin: 3em 1em 2em 0em;
 }
-.btn-red:hover {
+.btn.-red:hover {
   background: #c1574c;
-  text-decoration: none;
   color: white;
-  opacity: 1;
 }
-.btn-white {
+.btn.-white {
   color: white;
-  padding: 0.5em 2em 0.5em 2em;
   border: solid white 1px;
-  text-decoration: none;
-  margin: 3em 1em 2em 0em;
 }
-.btn-white:hover {
+.btn.-white:hover {
   background: white;
-  text-decoration: none;
   color: #c1574c;
-  opacity: 1;
 }
 .btn {
   color: #41393d;
@@ -163,9 +153,9 @@ hr {
 }
 .btn:hover {
   background: #41393d;
-  text-decoration: none;
   color: white;
   opacity: 1;
+  text-decoration: none;
 }
 
 
@@ -174,7 +164,7 @@ hr {
 */
 
 header {
-  padding: 40px 40px 5px 40px;
+  padding: 40px 30px 5px 30px;
   background-color: white;
 }
 
@@ -186,11 +176,33 @@ header::after {
 }
 
 /* Desktop */
-@media (min-width: 1000px){
+
+@media (min-width: 1080px){
+  .lang-switcher {
+    float: right;
+  }
+  .lang-switcher li {
+    text-transform: uppercase;
+    list-style-type: none;
+    color: #c1574c;
+    font-weight: 300;
+    transition: all 0.2s ease;
+    opacity: 0.7;
+    display: inline-block;
+    padding-left: 0.3em;
+  }
+  .lang-switcher li a {
+    text-decoration: none;
+  }
+  .lang-switcher .active {
+    font-weight: 500;
+    opacity: 1;
+  }
   .swslogo {
     font-size: 22px;
     width: 220px;
     float: left;
+    margin-bottom: 0;
   }
   .hamburgercheck {
     display:none;
@@ -198,12 +210,12 @@ header::after {
   .nav {
     list-style-type: none;
     margin: 0;
-    padding-left: 80px;
+    padding-left: 60px;
     float: left;
   }
   .nav li {
     display: inline-block;
-    padding: 0 1.5em 1.5em 0;
+    padding: 0 1em 1.5em 0;
   }
   .nav a {
     color: #c1574c;
@@ -234,9 +246,9 @@ header::after {
   }
 }
 
-@media (max-width: 999px) {
+@media (max-width: 1079px) {
   header {
-    padding: 20px;
+    padding: 30px 20px 10px 20px;
   }
 
   header::after {
@@ -249,13 +261,35 @@ header::after {
     font-size: 22px;
     width: 220px;
     float: right;
+    margin-bottom: 0;
   }
-  .nav {
+  .lang-switcher {
+    float: right;
+  }
+  .lang-switcher li {
+    text-transform: uppercase;
+    list-style-type: none;
+    color: white;
+    font-weight: 300;
+    font-size: 1.2em;
+    transition: all 0.2s ease;
+    opacity: 0.7;
+    display: inline-block;
+    padding-left: 0.5em;
+  }
+  .lang-switcher li a {
+    text-decoration: none;
+  }
+  .lang-switcher .active {
+    font-weight: 500;
+    opacity: 1;
+  }
+  nav {
     position: absolute;
-    width: 250px;
+    width: 330px;
     box-shadow: 5px 5px 20px;
     margin: -100px 0 0 -50px;
-    padding: 50px;
+    padding: 30px;
     padding-top: 150px;
     background: #c1574c;
     list-style-type: none;
@@ -264,10 +298,6 @@ header::after {
     transform-origin: 0% 0%;
     transform: translate(-100%, 0);
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
-  }
-  #menuToggle input:checked ~ ul
-  {
-    transform: none;
   }
   .nav li {
     display: block;
@@ -279,7 +309,7 @@ header::after {
     font-weight: 300;
     text-decoration:none;
   }
-  .nav .active a {
+  .nav .active > a {
     border-bottom: 5px solid white;
   }
   .nav a:hover {
@@ -293,7 +323,7 @@ header::after {
     display: block;
     cursor: pointer;
   }
-  #menuToggle input:checked ~ ul {
+  #menuToggle input:checked ~ nav {
     transform: none;
   }
   #menuToggle {
@@ -648,6 +678,7 @@ footer a {
   .wrap.-center > ul {
     list-style-type: disc;
     display: inline;
+    line-height: 1.5em;
   }
 }
 @media (max-width: 999px) {

@@ -1,8 +1,6 @@
 ---
-layout: standardpage
 lang: en
 title: 'Sonowood'
-parent: Products
 order: 1
 ---
 
@@ -40,11 +38,7 @@ technology offers adjustability of a wide range of parameters.
 
 **Sonowood** is the best alternative wood for your musical instrument, made of 100% real AND indigenous wood.
 
-Sonowood information flyers:
-
-<a class="btn" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf"> Sonowood Flyer EN</a>
-
-<a class="btn" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf"> Sonowood Flyer DE</a>
+Download the  <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
 
 </div>
 </div>
@@ -66,7 +60,7 @@ Sonowood information flyers:
     ### Superior acoustics
 
     High sound velocity, low damping. Fully approved by musicians and
-    instrument makers. [→ Testimonials](/Testimonials)
+    instrument makers. [→ Testimonials](/en/testimonials)
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
@@ -101,7 +95,7 @@ Coming soon: Sonowood for wood winds such as clarinets.
 
 For sales inquiries or technical questions:
 
-<a class="btn-red" href="/Contact">Contact us ></a>
+<a class="btn -red" href="/en/contact">Contact us ></a>
 
 </div>
 </div>
