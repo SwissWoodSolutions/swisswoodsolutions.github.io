@@ -7,8 +7,17 @@ layout: null
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="1; url={{site.langs[0]}}/">
     <script type="text/javascript">
-        var lang = navigator.language || navigator.userLanguage || "{{site.langs[0]}}";
-        window.location.href = "/" + lang.split("-")[0] + "/";
+        var lang = (navigator.language || navigator.userLanguage).split("-")[0]
+          , langs = [
+              {% for lang in site.langs %}
+                "{{lang}}",
+              {% endfor %}
+            ]
+          ;
+        if (langs.indexOf(lang) < 0) {
+          lang = langs[0];
+        }
+        window.location.href = "/" + lang + "/";
     </script>
     <title>Swiss Wood Solutions</title>
   </head>
