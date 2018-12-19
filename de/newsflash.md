@@ -23,30 +23,30 @@ order: 6
 
 - ### Stradivarius trifft Sonowood!
   ![Stradivari aus 1721, jetzt mit Sonowood](/assets/images/news_201812_stradivarius.jpeg)
-  *Stradivari jetzt mit Griffbrett und Saitenhalter aus Sonowood*
+  *Stradivari mit Griffbrett und Saitenhalter aus Sonowood.*
 
-  Eine unglaublich hohe Ehre für Swiss Wood Solutions! Diese Stradivari aus 1721 wurde von [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag) mit einem Griffbrett und einem Saitenhalter aus **Sonowood spruce** (verdichtete Fichte) montiert. Der Mut des Besitzers scheint sich zu lohnen. Ein deutlicher Gewinn an Klangfarbe und Volumen ist zu beobachten. Ausgangsmaterial war Tonholz aus Graubünden, von uns verdichtet.
+  Hohe Ehre für Swiss Wood Solutions! Im Oktober 2018 hat unser Partner [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag) eine Stradivari, Baujahr 1721, mit einem Sonowood-Griffbrett und -Saitenhalter ausgerüstet. Ausgangsmaterial dafür war Fichtentonholz aus Graubünden, welches mit der Sonowood-Technologie veredelt wurde. Der glückliche Besitzer berichtet über einen Gewinn an Klangfarbe.
 
   <a class="btn" href="/de/products/sonowood">Sonowood ></a>
 
-- ### Holz für die Kampfkunst
+- ### Robustes Holz für die Kampfkunst
   ![Holzschwert, Model](/assets/images/RD_kendo.jpg)
-  *Holzschwert für Kendo, Testmodell.*
+  *Prototyp eines Holzschwertes für Kendō.*
 
-  Das Budokan ist spannendes Neuland für uns!
+  
+  Kendō ist eine moderne Art des traditionellen japanischen Schwertkampfes der Samurai. Die Sportart erfordert ein extrem robustes und bruchfestes Holzmaterial - ein Fall wie gemalt wie für SwS. Die im Herbst 2018 gefertigten Prototypen sind bereits im Einsatz und erweisen sich als nahezu unzerstörbar. Zudem weiss das Material ästhetisch zu überzeugen.
 
-
-- ### Ausrüstung für Kameragehäuse
+- ### Gehäuse für hochwertige Kameragehäuse 
   ![violin with sonowood](/assets/images/RD_alpa.jpg)
-  *Holzgriffe für ein Alpa Kameragehäuse.*
+  *Holzgriffe für ein ALPA-Kameragehäuse.*
 
-  Unser verdichtetes Holz ist sehr robust und stabil: perfekt für hochwertige ALPA-Kameras, langlebige Präzisionswerkzeuge, welche mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden.
+  Robust und stabil: genau die Anforderungen an High-End-Kameras, gefertigt vom Schweizer Kamerahersteller ALPA. Die hochwertigen und langlebigen Präzisionswerkzeuge werden mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden. Der Einsatz von verdichtetem Holz von SWS verleiht den Kameras eine natürlich-ästethische Note. 
 
-- ### Auswirkungen von CITES
+- ### Rechtliche Auswirkungen von CITES
   ![CITES](/assets/images/citeslogo.jpg)
   *bvl.admin.ch*
 
-  Das Washingtoner Artenschutzabkommen, auch CITES genannt, ist eine von 183 Staaten ratifizierte Konvention zum nachhaltigen Schutz von gefährdeten Pflanzen- und Tierarten. Wenig überraschend umfasst das Abkommen auch zahlreiche durch Raubbau gefährdete Tropenholzarten. Erfahren Sie mehr über die konkreten Auswirkungen von CITES auf den Bau von Musikinstrumenten.
+  Das Washingtoner Artenschutzabkommen, auch CITES genannt, ist eine von 183 Staaten ratifizierte Konvention zum nachhaltigen Schutz von gefährdeten Pflanzen- und Tierarten. Wenig überraschend umfasst das Abkommen auch zahlreiche durch Raubbau gefährdete Tropenholzarten. Erfahren Sie mehr über die konkreten Auswirkungen von CITES auf den Bau von Musikinstrumenten im aktuellen Bericht von Elias Wick.
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">in der Schweiz</a>
 
