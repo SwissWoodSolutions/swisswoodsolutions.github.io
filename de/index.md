@@ -39,7 +39,7 @@ order: 1
   ### Beratung für die Industrie
   Jahrelange Erfahrung an der Spitze der Holzinnovation, individuelle Serviceleistungen.
 
-  <a class="btn" href="/de/services">Dienstleistungen ></a>
+  <a class="btn" href="/de/services">Services ></a>
 
 - <img src="/assets/images/home_RD.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">

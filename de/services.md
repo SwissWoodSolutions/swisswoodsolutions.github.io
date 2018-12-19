@@ -1,6 +1,6 @@
----
+﻿---
 lang: de
-title: 'Dienstleistungen'
+title: 'Services'
 order: 3
 ---
 
