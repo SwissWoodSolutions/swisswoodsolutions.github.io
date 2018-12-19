@@ -42,6 +42,14 @@ order: 6
 
   Unser verdichtetes Holz ist sehr robust und stabil: perfekt für hochwertige Werkzeuge, die langlebig sein müssen.
 
+- ### Auswirkungen von CITES
+  ![CITES](/assets/images/CITES.jpg)
+  *CITES.*
+
+  Das Washingtoner Artenschutzübereinkommen, genannt CITES, hat negative Auswirkungen auf den Bau von Musikinstrumenten. Erfahren Sie mehr im Bericht von Elias Wick.
+
+  <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">in der Schweiz</a>
+
 - ### Haben wir Ihr Interesse geweckt?
 
   <a class="btn -red" href="/de/contact">Kontakt ></a>
