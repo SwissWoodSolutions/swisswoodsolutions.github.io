@@ -46,7 +46,7 @@ order: 6
   ![CITES](/assets/images/citeslogo.jpg)
   *bvl.admin.ch*
 
-  Das Washingtoner Artenschutzübereinkommen, genannt CITES, hat negative Auswirkungen auf den Bau von Musikinstrumenten. Erfahren Sie mehr im Bericht von Elias Wick.
+  Das Washingtoner Artenschutzabkommen, auch CITES genannt, ist eine von 183 Staaten ratifizierte Konvention zum nachhaltigen Schutz von gefährdeten Pflanzen- und Tierarten. Wenig überraschend umfasst das Abkommen auch zahlreiche durch Raubbau gefährdete Tropenholzarten. Erfahren Sie mehr über die konkreten Auswirkungen von CITES auf den Bau von Musikinstrumenten.
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">in der Schweiz</a>
 
