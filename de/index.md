@@ -1,4 +1,4 @@
----
+﻿---
 lang: de
 title: 'Home'
 order: 1
@@ -66,7 +66,7 @@ order: 1
 
   Berichterstattung über Swiss Wood Solutions in Printmedien, Radio und TV.
 
-    <a class="btn" href="/de/news">News ></a>
+    <a class="btn" href="/de/media">Medien ></a>
 
 </div>
 </div>

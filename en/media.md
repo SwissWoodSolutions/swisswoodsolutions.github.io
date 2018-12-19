@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 title: 'Media'
-order: 6
+order: 7
 ---
 
 <div class="full-width">

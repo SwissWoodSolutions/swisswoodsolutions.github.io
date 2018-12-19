@@ -66,7 +66,7 @@ order: 1
 
   Swiss Wood Solutions and Sonowood on Swiss national TV and in other media.
 
-    <a class="btn" href="/en/news">News ></a>
+    <a class="btn" href="/en/media">Media ></a>
 
 </div>
 </div>
