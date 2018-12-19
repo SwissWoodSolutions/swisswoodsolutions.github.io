@@ -33,20 +33,20 @@ order: 6
   ![Holzschwert, Model](/assets/images/RD_kendo.jpg)
   *Holzschwert für Kendo, Testmodell.*
 
-  Das Budokan ist ein spannendes Neuland für uns!
+  Das Budokan ist spannendes Neuland für uns!
 
 
-- ### Professionelle Ausrüstung für die Fotografie
+- ### Ausrüstung für Kameragehäuse
   ![violin with sonowood](/assets/images/RD_alpa.jpg)
   *Holzgriffe für ein Alpa Kameragehäuse.*
 
-  Unser verdichtetes Holz ist sehr robust und stabil: perfekt für hochwertige Werkzeuge, die langlebig sein müssen.
+  Unser verdichtetes Holz ist sehr robust und stabil: perfekt für hochwertige ALPA-Kameras, langlebige Präzisionswerkzeuge, welche mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden.
 
 - ### Auswirkungen von CITES
   ![CITES](/assets/images/CITES2.jpg)
-  *CITES.*
+  *bvl.admin.ch*
 
-  Das Washingtoner Artenschutzabkommen, auch CITES genannt, ist eine von 183 Staaten ratifizierte Konvention zum nachhaltigen Schutz von gefährdeten Pflanzen- und Tierarten. Wenig überraschend umfasst das Abkommen auch zahlreiche durch Raubbau gefährdete Tropenholzarten. Im detaillierten Bericht von Elias Wick erfahren Sie mehr über die konkreten Auswirkungen von CITES auf den Bau von Musikinstrumenten.
+  Das Washingtoner Artenschutzübereinkommen, genannt CITES, hat negative Auswirkungen auf den Bau von Musikinstrumenten. Erfahren Sie mehr im Bericht von Elias Wick.
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">in der Schweiz</a>
 
