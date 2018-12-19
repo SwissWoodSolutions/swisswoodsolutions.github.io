@@ -1,6 +1,6 @@
----
+﻿---
 lang: en
-title: 'News'
+title: 'Media'
 order: 6
 ---
 

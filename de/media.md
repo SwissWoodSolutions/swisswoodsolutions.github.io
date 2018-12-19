@@ -1,5 +1,5 @@
----
-title: 'News'
+﻿---
+title: 'Medien'
 lang: de
 order: 6
 ---
