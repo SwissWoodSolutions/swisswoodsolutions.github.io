@@ -1,4 +1,4 @@
----
+﻿---
 lang: de
 title: 'R&D'
 order: 4
@@ -7,7 +7,7 @@ order: 4
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Wood innovation in progress.
+# Aus dem Labor ins 21. Jahrhundert.
 
 ![](/assets/images/arrow-d-white.svg)
 
@@ -23,9 +23,9 @@ order: 4
 
 - ### Sonowood, nicht nur für Streicher
   ![Klarinettenteile aus Sonowood](/assets/images/RD_clarinet.jpg)
-  *Klarinettenteile aus Sonowood. Credits: Robert Stempfle.*
+  *Klarinettenteile aus Sonowood. Foto: Robert Stempfle.*
 
-  Nicht nur Streichinstrumente bestehen aus tropischen Holzteilen. Auch Blasinstrumente, wie Klarinetten oder Flöten, werden davon profitieren, wenn sie aus einer alternativen Holzquelle hergestellt werden können. Momentan sind wir in der letzten Phase, **Sonowood** für Blasinstrumente zu entwicklen.
+  Nicht nur Streichinstrumente bestehen aus tropischen Holzteilen. Auch Blasinstrumente wie Klarinetten oder Flöten werden davon profitieren, wenn sie aus einer alternativen Holzquelle hergestellt werden können. Momentan sind wir in der letzten Phase, **Sonowood** für Blasinstrumente zu entwickeln.
 
 - ### Haben wir Ihr Interesse geweckt?
 

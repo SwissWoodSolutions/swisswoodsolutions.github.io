@@ -25,7 +25,7 @@ order: 4
   ![clarinet parts made of Sonowood](/assets/images/RD_clarinet.jpg)
   *Clarinet parts, fresh from Robert Stempfle's lathe.*
 
-  Not just string instruments are made of tropical wood parts. Of course also wind instruments such as clarinets or flutes would benefit if they can be produced from an alternative wood source. We are currently fine-tuning **Sonowood** for winds.
+  Not just stringed instruments are made from tropical woods. In addition, also wind instruments such as clarinets or flutes would benefit if they can be produced from an alternative wood source. We are currently fine-tuning **Sonowood** for winds.
 
 - ### ... intrigued?
 
