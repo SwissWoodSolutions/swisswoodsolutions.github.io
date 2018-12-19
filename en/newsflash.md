@@ -17,7 +17,7 @@ order: 6
 </div>
 
 <div class="full-width">
-<div class="wrap -cols3">
+<div class="wrap -cols2">
 
 ## Innovation - daily:
 
