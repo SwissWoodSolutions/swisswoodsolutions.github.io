@@ -43,7 +43,7 @@ order: 6
   Unser verdichtetes Holz ist sehr robust und stabil: perfekt für hochwertige ALPA-Kameras, langlebige Präzisionswerkzeuge, welche mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden.
 
 - ### Auswirkungen von CITES
-  ![CITES](/assets/images/CITES2.jpg)
+  ![CITES](/assets/images/citeslogo.jpg)
   *bvl.admin.ch*
 
   Das Washingtoner Artenschutzübereinkommen, genannt CITES, hat negative Auswirkungen auf den Bau von Musikinstrumenten. Erfahren Sie mehr im Bericht von Elias Wick.
