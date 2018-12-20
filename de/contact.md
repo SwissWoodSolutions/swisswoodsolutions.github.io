@@ -18,7 +18,7 @@ order: 8
 <div class="full-width">
 <div class="wrap">
 
-## Technisch modifiziertes Holz, massgeschneidert nach Ihren Anforderungen?
+## Technologisch modifiziertes Holz, massgeschneidert nach Ihren Anforderungen?
 Wir machen es möglich.
 
 Haben wir Ihr Interesse geweckt und möchten Sie unsere Produkte kaufen?
