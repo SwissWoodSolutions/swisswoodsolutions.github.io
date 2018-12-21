@@ -30,7 +30,7 @@ order: 2
 
     <a class="btn -white" href="/en/products/sonowood">Sonowood ></a>
 
-  - ![pacific quartet vienna](/assets/images/products_testimonial_2x.jpg)
+  - ![generic violin](/assets/images/partner_wilhelm_2x.jpg)
     ### Sonowood Testimonials
 
     We think Sonowood is the best. But don't just take our word for it: read

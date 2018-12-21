@@ -1,4 +1,4 @@
----
+﻿---
 lang: en
 title: 'Partners & Support'
 order: 3
@@ -9,18 +9,13 @@ order: 3
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/partner_cover_2x.jpg"
-     src="/assets/images/partner_cover.jpg" alt="Pacific Quartet Vienna, Sonowood musical ambassadors. Photo credits: Julia Wesely">
+<img srcset="/assets/images/home_materials_2x.jpg"
+     src="/assets/images/partner_cover.jpg" alt="home_materials_2x">
 </div>
 
 <div class="full-width">
 <div class="wrap">
 
-## The Pacific Quartet Vienna
-
-  Meet our **Sonowood** musical ambassadors!
-
-  <a class="btn -red" href="http://pacificquartet.com" target="_blank">PQV Website ></a>
 
 ## Wilhelm Geigenbau
 
