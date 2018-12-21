@@ -30,7 +30,7 @@ order: 2
 
     <a class="btn -white" href="/en/products/sonowood">Sonowood ></a>
 
-  - ![generic violin](/assets/images/partner_wilhelm_2x.jpg)
+  - ![generic tailpiece](/assets/images/support_example.jpg)
     ### Sonowood Testimonials
 
     We think Sonowood is the best. But don't just take our word for it: read
