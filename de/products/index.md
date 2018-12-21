@@ -1,4 +1,4 @@
----
+﻿---
 lang: de
 title: 'Produkte'
 order: 2
@@ -29,7 +29,7 @@ order: 2
 
     <a class="btn -white" href="/de/products/sonowood">Sonowood ></a>
 
-  - ![pacific quartet vienna](/assets/images/products_testimonial_2x.jpg)
+  - ![generic violin](/assets/images/home_materials_2x.jpg)
     ### Referenzen
 
      Wir finden Sonowood toll. Doch verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.

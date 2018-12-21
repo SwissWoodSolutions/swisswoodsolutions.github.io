@@ -1,4 +1,4 @@
----
+﻿---
 lang: de
 title: 'Referenzen'
 order: 2
@@ -26,10 +26,6 @@ order: 2
 «Ich habe mit Sonowood gearbeitet und bin begeistert. Das Klangergebnis für Holzquerflöten ist hervorragend mit einer neuen bereichernden Klangnuance.»  
 **— Thomas Aebi, Flötenbauer aus Basel, 31. August 2018**
 
------
-
-«Die Artikulation, Farbe und Gesten meiner Antoniazzi Geige mit einem Griffbrett aus Sonowood sind deutlicher geworden. Mein Spiel ist damit viel wacher, das Material hat mich inspiriert.»  
-**— Yuta Takase, Violinist des Pacific Quartet Vienna, 30. April 2018**
 
 -----
 
@@ -42,9 +38,9 @@ order: 2
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-## *«Meine Bratsche klingt schöner als vorher. Mit der Umrüstung auf Sonowood ist der Klang wärmer und offener geworden. Vor der Umrüstung war ich etwas nervös, da ich dieses neue Material nicht kannte. Nun bin ich sehr zufrieden und auch etwas erleichtert.»*
+## *«Die Gitarre mit Griffbrett und Steg aus Sonowood hat einen sehr warmen Klang. Mein Kunde ist schlichtweg begeistert.»*
 
-**— Chin-Ting Huang, Bratschistin des Pacific Quartet Vienna, 28. November 2017**
+**— Mauro Bodio, Gitarrenbauer aus Basel, 4. Mai 2018**
 
 </div>
 </div>
@@ -52,10 +48,6 @@ order: 2
 <div class="full-width">
 <div class="wrap -cols2">
 
-«Die Gitarre mit Griffbrett und Steg aus Sonowood hat einen sehr warmen Klang. Mein Kunde ist schlichtweg begeistert.»  
-**— Mauro Bodio, Gitarrenbauer aus Basel, 4. Mai 2018**
-
------
 
 «Sonowood is soon going to revolutionize the manufacturing of wooden instruments.»  
 **— George Stoppani, violin manufacturer from Manchester (UK), 2nd March 2018**
@@ -89,10 +81,6 @@ order: 2
 «Seit sich auf meinem Cello der von Hans Pluhar eingefügte, neue Untersattel aus verdichteter Fichte von Sonowood befindet, bin ich mit der Ansprache und dem Klang restlos zufrieden. Das verdichtete Holz scheint für die Schwingungsübertragung von der Haltersaite zum Korpus geradezu ideal geeignet zu sein. Ärgernisse mit träger Ansprache und Rauschen, die mich vorher geplagt haben, gehören der Vergangenheit an. Der Klang meines Cellos ist insgesamt voller und wärmer geworden, und die Saiten sind jetzt untereinander deutlich ausgewogener.»  
 **— Susanne Müller, Cellistin des Mozarteumorchesters Salzburg, 1. Oktober 2018**
 
------
-
-«Die Ansprache der Saiten der Geige ist mit einem Griffbrett aus Sonowood viel deutlicher als mit Ebenholz.»  
-**— Eszter Major, Violinistin des Pacific Quartet Vienna, 14. März 2018**
 
 -----
 
@@ -101,11 +89,6 @@ order: 2
 
 -----
 
-«Die umgerüstete Bratsche ist in der Tiefe leichter zu spielen, dadurch entsteht mehr spielerische Freiheit. Auf der oberen Saite hat das Instrument an Schärfe verloren und Weichheit gewonnen. Dadurch wird die Artikulation einfacher und mehr Klangfarben können gespielt werden. Unser Quartett ist ständig auf der Suche nach einem schöneren, besseren Klang.»  
-**— Sarah Weilenmann, Cellistin des Pacific Quartet Vienna, 2. März
-2018**
-
------
 
 ## Klingt gut?
 

@@ -1,4 +1,4 @@
----
+﻿---
 lang: de
 title: 'Partners & Unterstützung'
 order: 3
@@ -9,18 +9,13 @@ order: 3
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/partner_cover_2x.jpg"
-     src="/assets/images/partner_cover.jpg" alt="Pacific Quartet Vienna, Sonowood musical ambassadors. Photo credits: Julia Wesely">
+<img srcset="/assets/images/partner_wilhelm_2x.jpg"
+     src="/assets/images/partner_wilhelm_2x.jpg" alt="Violin manufactured by Wilhelm Geigenbau">
 </div>
 
 <div class="full-width">
 <div class="wrap">
 
-## The Pacific Quartet Vienna
-
-  Wir sind stolz darauf, dass das Pacific Quartet Vienna unsere **Sonowood-Musikbotschafter** sind!
-
-  <a class="btn -red" href="http://pacificquartet.com" target="blank">PQV Website ></a>
 
 ## Wilhelm Geigenbau
 
