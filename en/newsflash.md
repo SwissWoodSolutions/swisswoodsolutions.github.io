@@ -9,7 +9,7 @@ order: 6
 
 # Highlights of our current developments.
 
-![](/assets/images/arrow-d-white.svg)
+![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
 <img srcset="/assets/images/contact_cover_2x.jpg"
@@ -25,7 +25,7 @@ order: 6
   ![Stradivarius from 1721 with Sonowood](/assets/images/news_201812_stradivarius.jpeg)
   *Stradivari violin with Sonowood fingerboard and tailpiece.*
 
-  Exceptional honor for Swiss Wood Solutions! This Stradivari violin from 1721 was equipped with a Sonowood fingerboard and tailpiece by our partner [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag). The material was procured in the Swiss region Grisons (Graubünden). The owner's courage to opt for such an innovative material has paid off. A clear gain in tone color and volume is registered.
+  Exceptional honor for Swiss Wood Solutions! This Stradivari violin from 1721 was equipped with a Sonowood fingerboard and tailpiece by our partner [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag). The material was procured in the Swiss region Grisons (Graubï¿½nden). The owner's courage to opt for such an innovative material has paid off. A clear gain in tone color and volume is registered.
 
   <a class="btn" href="/en/sonowood">Sonowood ></a>
 
