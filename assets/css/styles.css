@@ -565,6 +565,7 @@ footer a {
   padding: 0;
   opacity: 0.8;
   color: white;
+  display: none;
 }
 @media (max-width: 999px) {
   .wrap-bg-image > h1 {
@@ -657,9 +658,8 @@ footer a {
     position: relative;
   }
   .wrap li img {
-    margin-bottom: 1em;
     width: 100%;
-    border: none;
+    border-color: white;
   }
   .wrap.-cols2 > ul {
     list-style-type: none;
