@@ -37,7 +37,7 @@ order: 1
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
   ### Beratung für die Industrie
-  Jahrelange Erfahrung an der Spitze der Holzinnovation, individuelle Serviceleistungen.
+  Jahrelange Erfahrung an der Spitze der Holzinnovation, individuelle Serviceleistungen, immer projektspezifisch.
 
   <a class="btn" href="/de/services">Services ></a>
 
@@ -46,7 +46,7 @@ order: 1
 
   ### Neuentwicklungen
 
-    Curious what's cooking? Take a peek and join us at the front edge of wood innovation!
+    Neugierig? Wagen Sie einen Blick in unsere Labors, wo Innovation passiert.
 
     <a class="btn" href="/de/projects">R&D ></a>
 
