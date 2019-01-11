@@ -7,6 +7,8 @@ order: 3
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
+# Unsere Expertise zu Ihrem Vorteil.
+
 ![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
@@ -17,7 +19,7 @@ order: 3
 <div class="full-width">
 <div class="wrap -center">
 
-## Unsere Expertise zu Ihrem Vorteil.
+## Swiss Wood Solutions ist Ihr Problemlöser in Holzfragen.
 
 ### Wir bieten:
 
@@ -32,7 +34,7 @@ order: 3
 
 <img srcset="/assets/images/services_cover_2x.jpg"
      src="/assets/images/services_cover.jpg" alt="das Swiss Wood Team bei der Arbeit im Zürcher HB">
-<figcaption>das Swiss Wood Team bei der Arbeit im Zürcher HB</figcaption>
+<figcaption>Swiss Wood Solutions bei der Arbeit im Hauptbahnhof Zürich</figcaption>
 
 </div>
 </div>

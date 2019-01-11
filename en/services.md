@@ -7,6 +7,8 @@ order: 3
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
+# Our expertise at your service.
+
 ![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
@@ -17,7 +19,7 @@ order: 3
 <div class="full-width">
 <div class="wrap -center">
 
-## Our expertise at your service.
+## Count on Swiss Wood Solutions to help your project succeed.
 
 ### We offer:
 
