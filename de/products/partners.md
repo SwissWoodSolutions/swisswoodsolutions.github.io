@@ -1,11 +1,13 @@
 ﻿---
 lang: de
-title: 'Partners & Unterstützung'
+title: 'Partner & Unterstützung'
 order: 3
 ---
 
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
+
+# Die Revolution gelingt nur gemeinsam.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
@@ -22,9 +24,9 @@ order: 3
 Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Premiumpartner Wilhelm Geigenbau aus Suhr einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwöchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
 
 
-Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie hier.](/News_DE)
+Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie hier.](/de/media/)
 
-<a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=1017" target="_blank">Wilhelm Geigenbau ></a>
+<a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
 
 </div>
 </div>
@@ -32,7 +34,7 @@ Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendun
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-## Weitere R&D Partner in der Musikbranche
+## Weitere R&D-Partner in der Musikbranche
 
   - ![Robert Stempfle Holzblasinstrumente](/assets/images/partner_stempfle.jpg)
     <a href="https://stempfle.ch" target="_blank">Robert Stempfle Holzblasinstrumente</a>
@@ -50,7 +52,7 @@ Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendun
 
 Swiss Wood Solutions AG wurde im Oktober 2016 als Spin-off der ETH Zürich und der Empa gegründet. Die Eidgenössisch Technische Hochschule (ETH) Zürich ist eine global führende Institution in technischen und naturwissenschaftlichen Forschungsrichtungen. Die Eidgenössische Materialsprüfungs- und Forschungsanstalt (Empa) ist eine interdisziplinäre Forschungsinstitution für anwendungsorientierte Materialwissenschaften mit mehreren Standorten in der Schweiz.
 
-Alle unsere [Teammitglieder](/About_DE) haben vor ihrer Tätigkeit bei Swiss Wood Solutions an der ETH und/oder Empa Forschungserfahrung gesammelt. Unser Spin-off profitiert von infrastruktureller und technischer Unterstützung der beiden Institutionen. Nichtsdestotrotz ist Swiss Wood Solutions ein eigenständiges, unabhängiges Unternehmen und hält als solches eigene Recht an geistigem Eigentum.
+Alle unsere [Teammitglieder](/de/about/) haben vor ihrer Tätigkeit bei Swiss Wood Solutions an der ETH und/oder Empa Forschungserfahrung gesammelt. Unser Spin-off profitiert von infrastruktureller und technischer Unterstützung der beiden Institutionen. Nichtsdestotrotz ist Swiss Wood Solutions ein eigenständiges, unabhängiges Unternehmen und hält als solches eigene Recht an geistigem Eigentum.
 
   - ![logo eth spinoff](/assets/images/support_eth.jpg)
   - ![logo empa spinoff](/assets/images/support_empa.jpg)
