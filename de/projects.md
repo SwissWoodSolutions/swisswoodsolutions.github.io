@@ -7,7 +7,7 @@ order: 4
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Aus dem Labor ins 21. Jahrhundert!
+# Aus dem Labor ins 21. Jahrhundert
 
 ![](/assets/images/arrow-d-white.svg)
 
