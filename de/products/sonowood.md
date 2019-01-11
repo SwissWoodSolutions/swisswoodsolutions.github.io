@@ -1,4 +1,4 @@
----
+﻿---
 lang: de
 title: 'Sonowood'
 order: 1
@@ -26,13 +26,13 @@ Wir haben **Sonowood** für den Bau von Musikinstrumenten entwickelt. Traditione
 
 Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachhaltiger Forstwirtschaft** modifiziert. Dank der umweltfreundlichen Produktion ergeben sich keinerlei rechtliche Beschränkungen oder ethisch-moralische Bedenken. Der Kunde profitiert von einem hochwertigen Material, welches die hochgeschätzten physikalisch-mechanischen Eigenschaften von Tropenholz erreicht.
 
-**Sonowood** ist das beste alternative Holz für Ihr Musikinstrument, hergestellt aus 100% echtem UND einheimischem Holz.
+**Sonowood** ist das beste alternative Holz für Ihr Musikinstrument, hergestellt aus 100% echtem UND einheimischem Holz. Weitere Informationen finden Sie auf dem Flyer.
 
-<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a> herunterladen
+<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a> 
 
-**White Papers**: «Auswirkungen des Washingtoner Artenschutzabkommens (CITES) für verschiedene Stakeholder in der Musikindustrie»
+Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unterliegt es keinerlei rechtlichen Einschränkungen. Unsere Kunden reisen sorgenfrei über Landesgrenzen mit der Gewissheit, nicht mit dem Gesetz in Konflikt zu geraten. Im Gegensatz dazu bestehen für Produkte aus Tropenholz umfangreiche Handels- und Reisebeschränkungen. Das Artenschutzabkommen CITES regelt den Handel mit vom Aussterben gefährdeten Holzarten. Musiker mit Instrumenten, die teilweise aus Tropenholz gefertigt sind, kommen so unversehens in die Bredouille. Können keine Dokumente vorgelegt werden, welche die Legalität des enthaltenen Materials explizit bestätigen, werden die Instrumente von Zollbehörden konfisziert. Zudem drohen hohe Bussgelder. Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie in den Berichten von Elias Wick.
 
-<a class="btn" href="/assets/docs/2018_CITES_CH.pdf">in der Schweiz</a> <a class="btn" href="/assets/docs/2018_CITES_DE.pdf">in Deutschland</a>
+<a class="btn" href="/assets/docs/2018_CITES_CH.pdf">Schweiz</a> <a class="btn" href="/assets/docs/2018_CITES_DE.pdf">Deutschland</a>
 
 </div>
 </div>
@@ -50,14 +50,14 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
   - ![icon acoustics](/assets/logo/sound.svg)
 
-    ### verbesserte Klangeigenschaften
+    ### Verbesserte Klangeigenschaften
 
     Hohe Schallleitgeschwindigkeit, geringe Dämpfung. Hochgeschätzt von Musikern und Instrumentenbauern.
-    [→ Testimonials](/de/testimonials)
+    
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
-    ### justierbare Eigenschaften
+    ### Justierbare Eigenschaften
 
     Ob Oberflächenhärte, Dichte oder Farbe: Sie bestimmen die exakten Eigenschaften Ihres Holzes.
 
@@ -69,7 +69,7 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
   - ![icon no legal restrictions](/assets/logo/legal.svg)
 
-    ### keine rechtlichen Beschränkungen
+    ### Keine rechtlichen Beschränkungen
 
     Unsere Kunden reisen sorgenfrei über Landesgrenzen, unberührt von den CITES-Bestimmungen.
 
@@ -82,7 +82,7 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
 ## Wie erhalte ich Sonowood?
 
-Kontaktieren Sie uns und werden Sie Teil der innovativen Revolution im Instrumentenbau.
+Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativen Revolution im Instrumentenbau.
 
 <a class="btn -red" href="/de/contact">Kontakt ></a>
 
@@ -115,7 +115,7 @@ Unsere Technologie ist auf eine Vielzahl von Holzarten anwendbar, abhängig von 
 
   - ## Sonowood Maple
 
-  - ### Erhaltlich für Streichinstrumente und Gitarren
+  - ### Erhältlich für Streichinstrumente und Gitarren
 
   - #### Sortiment in Kantholzform:
 
@@ -150,13 +150,13 @@ Unsere Technologie ist auf eine Vielzahl von Holzarten anwendbar, abhängig von 
 
   - ## Sonowood Spruce
 
-  - ### Erhaltlich für Streichinstrumente und Gitarren
+  - ### Erhältlich für Streichinstrumente und Gitarren
 
   - #### Sortiment in Kantholzform
 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
       - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
-      - ![ Geige mit Griffbrett aus Sonowood Spruce](/assets/images/sonowood_spruce-02.jpg)
+      - ![ Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau](/assets/images/sonowood_spruce-02.jpg)
         *Geige mit Griffbrett aus Sonowood Spruce*
 
   - #### Technische Daten
