@@ -7,6 +7,8 @@ order: 3
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
+# The revolution only succeeds together
+
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
 <img srcset="/assets/images/home_materials_2x.jpg"
@@ -30,7 +32,7 @@ Sonowood. The musicians reacted very positively to the improved sound
 characteristics of their respective instruments.
 
 The Swiss national TV captured the results of the workshop: [see the
-video on our News page, Schweiz Aktuell 02.03.2018.](/News)
+video on our News page, Schweiz Aktuell 02.03.2018.](/en/media)
 
 <a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=1017" target="_blank">Wilhelm Geigenbau ></a>
 
@@ -64,7 +66,7 @@ Materials Science and Technology) is an interdisciplinary Swiss research
 institute for applied materials science with various campuses across
 Switzerland.
 
-All of our <a href="/About">team members</a> have worked at ETH and/or Empa prior to their
+All of our <a href="/en/about/">team members</a> have worked at ETH and/or Empa prior to their
 engagement at Swiss Wood Solutions. We are in the advantageous position
 to benefit from infrastructural, technical and know-how support from
 these two Swiss institutions. Regardless, Swiss Wood Solutions acts as

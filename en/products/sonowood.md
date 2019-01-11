@@ -1,4 +1,4 @@
----
+﻿---
 lang: en
 title: 'Sonowood'
 order: 1
@@ -36,9 +36,9 @@ favourable properties of tropical woods while being a completely legal
 alternative. In addition to being environmentally friendly, the
 technology offers adjustability of a wide range of parameters.
 
-**Sonowood** is the best alternative wood for your musical instrument, made of 100% real AND indigenous wood.
+**Sonowood** is the best alternative wood for your musical instrument, made of 100% real AND indigenous wood. Further detailed information is presented on the Sonowood flyer available for download.
 
-Download the  <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
+<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
 
 </div>
 </div>
@@ -60,7 +60,7 @@ Download the  <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_E
     ### Superior acoustics
 
     High sound velocity, low damping. Fully approved by musicians and
-    instrument makers. [→ Testimonials](/en/testimonials)
+    instrument makers.
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
@@ -130,8 +130,6 @@ maple](/assets/images/sonowood_ahorn_verdichtet.jpg)
 
   - ## Sonowood Maple
 
-  - ### Available for strings and guitar
-
   - #### Product range:
 
       - **Fingerboards** for violin, viola, guitar and cello; as square
@@ -167,14 +165,12 @@ maple](/assets/images/sonowood_ahorn_verdichtet.jpg)
 
   - ## Sonowood Spruce
 
-  - ### Available for strings
-
   -  #### Product range
 
       - **Fingerboards** for violin, viola, guitar and cello; as square
         timbers
       - **Tailpieces** for violin, viola, cello and double bass
-      - ![Sonowood spruce on violin](/assets/images/sonowood_spruce-02.jpg)
+      - ![Sonowood spruce on viola. Picture: Wilhelm Geigenbau](/assets/images/sonowood_spruce-02.jpg)
         *Sonowood spruce on violin*
 
   -  #### Technical data
