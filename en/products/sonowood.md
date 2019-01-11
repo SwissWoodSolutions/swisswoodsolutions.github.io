@@ -171,7 +171,7 @@ maple](/assets/images/sonowood_ahorn_verdichtet.jpg)
         timbers
       - **Tailpieces** for violin, viola, cello and double bass
       - ![Sonowood spruce on viola. Picture: Wilhelm Geigenbau](/assets/images/sonowood_spruce-02.jpg)
-        *Sonowood spruce on violin*
+        *Sonowood spruce on vioa. Picture: Wilhelm Geigenbau.*
 
   -  #### Technical data
 

@@ -157,7 +157,7 @@ Unsere Technologie ist auf eine Vielzahl von Holzarten anwendbar, abhängig von 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
       - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
       - ![ Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau](/assets/images/sonowood_spruce-02.jpg)
-        *Geige mit Griffbrett aus Sonowood Spruce*
+        *Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau.*
 
   - #### Technische Daten
 
