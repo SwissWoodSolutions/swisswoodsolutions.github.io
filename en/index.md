@@ -37,7 +37,7 @@ order: 1
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
   ### Expertise for industry
-  Years of experience and expertise in wood chemistry and engineering: at your service.
+  Years of experience and expertise in wood chemistry and engineering at your service.
 
   <a class="btn" href="/en/services">Services ></a>
 
