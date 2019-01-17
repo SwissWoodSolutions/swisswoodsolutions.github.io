@@ -49,12 +49,6 @@ order: 6
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">CITES report</a>
 
-- ### Sonowood fingerboard on bass
-  ![Komposch Bass](/assets/images/komposch_bass.jpg)
-  *Armin Komposch*
-
-  This bass is completetly free from tropical wood, it is manufactured exclusively from domestic Swiss wood. Armin Komposch has incorporated a Sonowood fingerboard.
-
 - ### ... intrigued?
 
   <a class="btn -red" href="/en/contact">Contact us ></a>

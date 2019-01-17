@@ -50,12 +50,6 @@ order: 6
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">CITES Bericht</a>
 
-- ### Sonowood Griffbrett auf Bass
-  ![Komposch Bass](/assets/images/komposch_bass.jpg)
-  *Armin Komposch*
-
-  Dieser Bass ist gänzlich frei von Tropenholz und ist ausschliesslich aus einheimischen Holz gebaut. Für das Griffbrett hat Armin Komposch dabei auf Sonowood zurückgegriffen. 
-
 - ### Haben wir Ihr Interesse geweckt?
 
   <a class="btn -red" href="/de/contact">Kontakt ></a>
