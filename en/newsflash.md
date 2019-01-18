@@ -65,7 +65,9 @@ Under the label Canna Guitars, Jakob Frank manufactures instruments whose body i
      src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
 <figcaption>Sonowood headstock on Canna Guitar by Jakob Frank.</figcaption>
 
+
 - ### ... intrigued?
+
 
   <a class="btn -red" href="/en/contact">Contact us ></a>
 
