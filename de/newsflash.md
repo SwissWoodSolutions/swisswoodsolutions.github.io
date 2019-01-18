@@ -50,6 +50,10 @@ order: 6
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">CITES Bericht</a>
 
+
+</div>
+</div>
+
 <div class="full-width-grey">
 <div class="wrap -cols3">
 
@@ -68,6 +72,9 @@ Jakob Frank baut unter dem Label Canna Guitars Instrumente, deren Korpus aus Han
   - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
      src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
 	<figcaption>Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.</figcaption>
+
+</div>
+</div>
 
 - ### Haben wir Ihr Interesse geweckt?
 
