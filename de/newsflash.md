@@ -76,6 +76,11 @@ Jakob Frank baut unter dem Label Canna Guitars Instrumente, deren Korpus aus Han
 </div>
 </div>
 
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+
 - ### Haben wir Ihr Interesse geweckt?
 
   <a class="btn -red" href="/de/contact">Kontakt ></a>
