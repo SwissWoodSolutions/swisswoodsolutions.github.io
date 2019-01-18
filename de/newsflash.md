@@ -50,21 +50,24 @@ order: 6
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">CITES Bericht</a>
 
+<div class="full-width-grey">
+<div class="wrap -cols3">
+
 ### Sonowood auf der Canna Guitar
 
 Jakob Frank baut unter dem Label Canna Guitars Instrumente, deren Korpus aus Hanffasern gemacht ist. Auf seinem Modell hat er Sonowood für Griffbrett, Steg und Auflage der Kopfplatte verwendet. Entstanden ist eine ästethisch und akustisch ansprechende Gitarre, die komplett frei von tropischen Hölzern ist.  
 
-<img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
+  - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
      src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
-<figcaption>Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.</figcaption>
+	<figcaption>Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.</figcaption>
 
-<img srcset="/assets/images/Cannaguitar_Steg.jpg"
+  - <img srcset="/assets/images/Cannaguitar_Steg.jpg"
      src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
-<figcaption>Steg aus Sonowood auf der Canna Guitar von Jakob Frank.</figcaption>
+	<figcaption>Steg aus Sonowood auf der Canna Guitar von Jakob Frank.</figcaption>
 
-<img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
+  - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
      src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
-<figcaption>Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.</figcaption>
+	<figcaption>Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.</figcaption>
 
 - ### Haben wir Ihr Interesse geweckt?
 
