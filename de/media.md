@@ -48,31 +48,48 @@ Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. I
 
 Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem Artikel im Magazin EmpaQuarterly vorgestellt. Dieses von der Empa in Dübendorf veröffentlichte Magazin für Forschung und Innovation gewährt einen interdisziplinären Streifzug durch die Labore und die Welt der Materialwissenschaften. «Mit unserem Verfahren können wir wichtige Parameter wie die Holzdichte den individuellen Kundenwünschen anpassen.», erklärte CEO Oliver Kläusler in dem Artikel. Mit dem Verweis auf Lifestyle-Produkte wie Uhrenbauteile, Billard-Queues und Messergriffe wurden im EmpaQuarterly zudem weitere Einsatzmöglichkeiten der Technologie ins Spiel gebracht. In der Folge nahmen weitere Zeitungen und Fachzeitschriften das Thema auf.
 
+</div>
+</div>
 
+<div class="full-width-grey">
+<div class="wrap -cols3">
+
+  - [**NZZ**  
+    Ein Schweizer Esatz für tropisches Ebenholz aus dem Labor,
+    24. Oktober 2017](https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798)
+  - [**Republik**  
+    Das Geheimrezept,
+    15. Juni 2018](/assets/docs/201806_Republik.pdf)
   - [**Deutsche Bauzeitung**  
     Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor,
-    04.2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)
+    April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)
+  - [**Energieforum**  
+    Im Einklang,
+    Februar 2018](/assets/docs/201802_Energieforum.pdf)
   - [**Designreport**  
     Buchenholz wird Ebenholz,
-    02.2018](/assets/docs/201802_Designreport.pdf)
+    Februar 2018](/assets/docs/201802_Designreport.pdf)
   - [**die Umwelt**  
     Auf Schweizer Bergahorn spielen,
-    01.2018](/assets/docs/201801_die-umwelt.pdf)
-  - [**NZZ**  
-    Ein Schweizer Ersatz für tropisches Ebenholz,
-    24.10.2017](https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798)
+    Januar 2018](/assets/docs/201801_die-umwelt.pdf)
   - [**Blick**  
     Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau,
-    24.10.2017](https://www.blick.ch/news/schweiz/materialforschung-ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-id7502187.html)
+    24. Oktober 2017](https://www.blick.ch/news/schweiz/materialforschung-ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-id7502187.html)
   - [**Limmattaler Zeitung**  
     Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau,
-    24.10.2017](https://www.limmattalerzeitung.ch/limmattal/zuerich/ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-131836740)
+    24. Oktober 2017](https://www.limmattalerzeitung.ch/limmattal/zuerich/ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-131836740)
   - [**Zoo Zürich**  
     Schweizer «Ebenholz» für Instrumente,
-    24.10.2017](https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente)
-  - [**EMPAQuarterly**  
+    24. Oktober 2017](https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente)
+  - [**EMPA Quarterly**  
     «...as black as ebony»,
-    19.10.2017](/assets/docs/201710_EmpaQuarterly.pdf)
+    19. Oktober 2017](/assets/docs/201710_EmpaQuarterly.pdf)
+ -  [**Bouwbrief**  
+    Houtverdichting: een nieuwe techniek van veredeling van klankhout,
+    Februar 2018](/assets/docs/201802_Bouwbrief.pdf)
+  - [**Holrevue**  
+    Wie die ETH mit Sonowood den Schmugglern das Handwerk erschwert,
+    Dezember 2016](/assets/docs/201612_Holzrevue.pdf)
 
 </div>
 </div>
