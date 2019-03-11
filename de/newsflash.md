@@ -59,7 +59,7 @@ order: 6
 
 ### Sonowood auf der Canna Guitar
 
-Jakob Frank baut unter dem Label Canna Guitars Instrumente, deren Korpus aus Hanffasern gemacht ist. Auf seinem Modell hat er Sonowood für Griffbrett, Steg und Auflage der Kopfplatte verwendet. Entstanden ist eine ästethisch und akustisch ansprechende Gitarre, die komplett frei von tropischen Hölzern ist.  
+Jakob Frank baut unter dem Label Canna Guitars Instrumente, deren Korpus aus Hempstone gefertigt ist, einem patentierten Naturfaserwerkstoff aus Hanffasern und Wasser. Auf seinem Modell hat Jakob Frank Sonowood für Griffbrett, Steg und Auflage der Kopfplatte verwendet. Entstanden ist eine ästethisch und akustisch ansprechende Gitarre, die komplett frei von tropischen Hölzern ist.  
 
   - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
      src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
@@ -72,6 +72,8 @@ Jakob Frank baut unter dem Label Canna Guitars Instrumente, deren Korpus aus Han
   - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
      src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
 	<figcaption>Kopfplatte aus Sonowood.</figcaption>
+
+Mehr Informationen zu Hempstone finden Sie unter [Canna Guitars] (https://www.cannaguitars.com) bei Jakob Frank und [DRUMPARAM] (https://www.drumparam.at) bei Norbert Schmid.
 
 </div>
 </div>
