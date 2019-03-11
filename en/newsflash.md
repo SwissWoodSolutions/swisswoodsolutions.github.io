@@ -72,7 +72,7 @@ Under the label Canna Guitars, Jakob Frank manufactures instruments whose body i
      src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
 	<figcaption>Sonowood headstock.</figcaption>
 
-More information on Hempstone can be found at [Canna Guitars] (https://www.cannaguitars.com) and [DRUMPARAM] (https://www.drumparam.at).
+More information on Hempstone can be found at [Canna Guitars](https://www.cannaguitars.com) and [DRUMPARAM](https://www.drumparam.at).
 
 </div>
 </div>
