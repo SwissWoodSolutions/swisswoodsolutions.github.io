@@ -58,7 +58,7 @@ order: 6
 
 ### Sonowood on Canna Guitar
 
-Under the label Canna Guitars, Jakob Frank manufactures instruments whose body is made of Hempstone, a patented natural fibre material made of hemp fibres and water. On his latest model, he used Sonowood for the fingerboard, bridge and the headstock. The result is an aesthetically and acoustically appealing guitar that is completely free of tropical woods.  
+Under the label Canna Guitars and in cooperation with Norbert Schmid of DRUMPARAM, Jakob Frank manufactures instruments whose body is made of Hempstone, a patented natural fibre material made of hemp fibres and water. On his latest model, he used Sonowood for the fingerboard, bridge and the headstock. The result is an aesthetically and acoustically appealing guitar that is completely free of tropical woods.  
 
  - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
      src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
