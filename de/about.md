@@ -10,8 +10,8 @@ order: 5
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/1_team_cover_2x_Tropical Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Pernambuco_Fernambuk_African blackwood_CITES_Klimaschutz_Climate_change_Regenwald_Deforestation_Abholzung_Tropical_forest_ETH _Zuerich_Zürich_Schweiz_Switzerland_SwissWoodSolutions_Startup_Spinoff_Empa_Geige_Violin_Gitarre_Guitar_Bratsche_Viola_Griffbrett_Fingerboard_Saitenhalter_Tailpiece.jpg"
-     src="/assets/images/1_team_cover_2x_Tropical Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Pernambuco_Fernambuk_African blackwood_CITES_Klimaschutz_Climate_change_Regenwald_Deforestation_Abholzung_Tropical_forest_ETH _Zuerich_Zürich_Schweiz_Switzerland_SwissWoodSolutions_Startup_Spinoff_Empa_Geige_Violin_Gitarre_Guitar_Bratsche_Viola_Griffbrett_Fingerboard_Saitenhalter_Tailpiece.jpg" alt="das Swiss Wood Solutions Team in 2018">
+<img srcset="/assets/images/team_cover_2x.jpg"
+     src="/assets/images/team_cover_2x.jpg" alt="das Swiss Wood Solutions Team in 2018">
 </div>
 
 <div class="full-width">
