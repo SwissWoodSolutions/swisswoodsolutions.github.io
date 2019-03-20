@@ -63,12 +63,18 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
   - [**Deutsche Bauzeitung**  
     Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor,
     April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)
+  - [**St.Galler Tagblatt**  
+    Schweizer Ersatz für Tropenholz,
+    4. Januar 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 
   - [**Energieforum**  
     Im Einklang,
     Februar 2018](/assets/docs/201802_Energieforum.pdf)
   - [**Designreport**  
     Buchenholz wird Ebenholz,
     Februar 2018](/assets/docs/201802_Designreport.pdf)
+  - [**Startupticker.ch**  
+    Instrumente ohne Ebenholz,
+    31. Oktober 2017](https://www.startupticker.ch/en/news/october-2017/instrumente-ohne-tropenholz) 
   - [**die Umwelt**  
     Auf Schweizer Bergahorn spielen,
     Januar 2018](/assets/docs/201801_die-umwelt.pdf)

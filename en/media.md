@@ -94,13 +94,19 @@ Zeitung followed.
     15 June 2018](/assets/docs/201806_Republik.pdf)
   - [**Deutsche Bauzeitung**  
     Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor,
-    April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)
+    April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)¨
+  - [**St.Galler Tagblatt**  
+    Schweizer Ersatz für Tropenholz,
+    4 January 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 
   - [**Energieforum**  
     Im Einklang,
     February 2018](/assets/docs/201802_Energieforum.pdf)
   - [**Designreport**  
     Buchenholz wird Ebenholz,
     February 2018](/assets/docs/201802_Designreport.pdf)
+  - [**Startupticker.ch**  
+    Instrumente ohne Ebenholz,
+    31 October 2017](https://www.startupticker.ch/en/news/october-2017/instrumente-ohne-tropenholz) 
   - [**die Umwelt**  
     Auf Schweizer Bergahorn spielen,
     January 2018](/assets/docs/201801_die-umwelt.pdf)
