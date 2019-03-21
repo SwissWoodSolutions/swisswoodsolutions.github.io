@@ -162,9 +162,6 @@ violins and violas, market readiness has been achieved.
 
 [Gebert Rüf Foundation](https://www.grstiftung.ch/de.html)
 
-- ![testing Brinell hardness of Sonowood](/assets/images/Partner_8_Brinell_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
-  *Experimental determination of the Brinell hardness.*
-
 
 </div>
 </div>
