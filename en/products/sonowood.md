@@ -130,6 +130,8 @@ maple](/assets/images/Sonowood_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alt
 
   - ## Sonowood Maple
 
+  - ### Available for stringed instruments and guitars
+
   - #### Product range:
 
       - **Fingerboards** for violin, viola, guitar and cello; as square

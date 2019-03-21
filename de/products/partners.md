@@ -11,7 +11,7 @@ order: 3
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/partner_wilhelm_2x.jpg"
+<img srcset="/assets/images/Partner_1_Wilhelm_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
      src="/assets/images/partner_wilhelm_2x.jpg" alt="Violin manufactured by Wilhelm Geigenbau">
 </div>
 
@@ -36,10 +36,10 @@ Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendun
 
 ## Weitere R&D-Partner in der Musikbranche
 
-  - ![Robert Stempfle Holzblasinstrumente](/assets/images/partner_stempfle.jpg)
+  - ![Robert Stempfle Holzblasinstrumente](/assets/images/Partner_2_Stempfle_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
     <a href="https://stempfle.ch" target="_blank">Robert Stempfle Holzblasinstrumente</a>
 
-  - ![Mauro Bodio Guitars](/assets/images/partner_bodio.jpg)
+  - ![Mauro Bodio Guitars](/assets/images/Partner_3_Bodio_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
     <a href="https://bodio-guitars.com" target="_blank">Mauro Bodio Guitars</a>
 
 </div>
@@ -54,8 +54,8 @@ Swiss Wood Solutions AG wurde im Oktober 2016 als Spin-off der ETH Zürich und d
 
 Alle unsere [Teammitglieder](/de/about/) haben vor ihrer Tätigkeit bei Swiss Wood Solutions an der ETH und/oder Empa Forschungserfahrung gesammelt. Unser Spin-off profitiert von infrastruktureller und technischer Unterstützung der beiden Institutionen. Nichtsdestotrotz ist Swiss Wood Solutions ein eigenständiges, unabhängiges Unternehmen und hält als solches eigene Recht an geistigem Eigentum.
 
-  - ![logo eth spinoff](/assets/images/support_eth.jpg)
-  - ![logo empa spinoff](/assets/images/support_empa.jpg)
+  - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
+  - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
 
 </div>
 </div>
@@ -67,7 +67,7 @@ Alle unsere [Teammitglieder](/de/about/) haben vor ihrer Tätigkeit bei Swiss Wo
 
 ## TEEWood mit Horizon 2020
 
-![logo horizon 2020](/assets/images/support_horizon2020.png)
+![logo horizon 2020](/assets/images/Partner_6_Horizon2020_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.png)
 
 Auf den vielversprechenden Ergebnissen der Swiss Ebony Projekte (siehe unten) aufbauend, verfolgt Swiss Wood Solutions das Ziel des Produktionsausbaus. Damit sollen auch Kanthölzer für grössere Streichinstrumente wie Gitarren oder Cellos produziert werden können. Darüber hinaus evaluiert das Unternehmen die Anwendbarkeit der Technologie in Holzblas- und Schlaginstrumenten.
 
@@ -87,7 +87,7 @@ website](https://ec.europa.eu/programmes/horizon2020/what-horizon-2020)
 
 ## Swiss Ebony mit der Gebert Rüf Stiftung
 
-![logo gebert ruef](/assets/images/support_gebertruef.png)
+![logo gebert ruef](/assets/images/Partner_7_GebertRüf_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.png)
 
 Bereits seit März 2016 wurde Swiss Wood Solutions von der Gebert Rüf Stiftung unterstützt. Die Wissenschafts- und Innovationsstiftung fördert anwendungsorientierte Projekte, welche an Schweizer Hochschulen entwickelt wurden. Mit einem jährlichen Budget von 15 Millionen Franken stärkt die Stiftung den Innovationsstandort Schweiz.
 Gebert Rüf hat zwei Projekte von Swiss Wood Solutions ermöglicht. **Im Rahmen des Swiss Ebony Projektes gelang es dem Spin-off, die Dimensionsstabilität von natürlichem Ebenholz auch bei verdichteten einheimischen Hölzern zu erreichen**. Das Rückquellen bei Feuchteänderungen konnte auf ein minimales Mass reduziert werden. Dadurch eignet sich das Material für die Fertigung von Musikinstrumenten.
@@ -97,11 +97,9 @@ Dank der wertvollen Unterstützung durch die Gebert Rüf Stiftung konnte das Spi
 
 [Gebert Rüf Foundation](https://www.grstiftung.ch/de.html)
 
-- ![Experimentelle Ermittlung der Brinell Härte im Swiss Ebony Projekt](/assets/images/support_brinell.jpg)
-  *Experimentelle Ermittlung der Brinell Härte im Swiss Ebony Projekt*
+- ![Experimentelle Ermittlung der Brinell Härte im Swiss Ebony Projekt](/assets/images/Partner_8_Brinell_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
+  *Experimentelle Bestimmung der Brinell Härte im Rahmen des Swiss Ebony Projekts.*
 
-- ![Experiment mit Saitenhalter im Swiss Ebony Projekt](/assets/images/support_example.jpg)
-  *Experiment mit Saitenhalter im Swiss Ebony Projekt*
 
 </div>
 </div>
