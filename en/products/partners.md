@@ -11,7 +11,7 @@ order: 3
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/home_materials_2x.jpg"
+<img srcset="/assets/images/Partner_1_Wilhelm_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
      src="/assets/images/partner_cover.jpg" alt="home_materials_2x">
 </div>
 
@@ -44,10 +44,10 @@ video on our News page, Schweiz Aktuell 02.03.2018.](/en/media)
 
 ## Further professional partners in music
 
-  - ![Robert Stempfle Woodwind Instruments](/assets/images/partner_stempfle.jpg)
+  - ![Robert Stempfle Woodwind Instruments](/assets/images/Partner_2_Stempfle_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
     <a href="https://stempfle.ch" target="_blank">Robert Stempfle Holzblasinstrumente</a>
 
-  - ![Mauro Bodio Guitars](/assets/images/partner_bodio.jpg)
+  - ![Mauro Bodio Guitars](/assets/images/Partner_3_Bodio_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
     <a href="https://bodio-guitars.com" target="_blank">Mauro Bodio Guitars</a>
 
 </div>
@@ -73,8 +73,8 @@ these two Swiss institutions. Regardless, Swiss Wood Solutions acts as
 an independent company and holds its own intellectual property
 rights.
 
-  - ![logo eth spinoff](/assets/images/support_eth.jpg)
-  - ![logo empa spinoff](/assets/images/support_empa.jpg)
+  - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
+  - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
 
 </div>
 </div>
@@ -86,7 +86,7 @@ rights.
 
 ## TEEWood with Horizon 2020
 
-![logo horizon 2020](/assets/images/support_horizon2020.png)
+![logo horizon 2020](/assets/images/Partner_6_Horizon2020_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.png)
 
 To build up on the promising results from the two projects sponsored by
 Gebert Rüf, Swiss Wood Solutions aspires to scale up the technology to
@@ -138,7 +138,7 @@ website](https://ec.europa.eu/programmes/horizon2020/what-horizon-2020)
 
 ## Swiss Ebony with the Gebert Rüf Foundation
 
-![logo gebert ruef](/assets/images/support_gebertruef.png)
+![logo gebert ruef](/assets/images/Partner_7_GebertRüf_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.png)
 
 Since March 2016 Swiss Wood Solutions has been financially supported by
 the Gebert Rüf Foundation. The private funding agency **aims to boost
@@ -162,11 +162,9 @@ violins and violas, market readiness has been achieved.
 
 [Gebert Rüf Foundation](https://www.grstiftung.ch/de.html)
 
-- ![testing Brinell hardness of Sonowood](/assets/images/support_brinell.jpg)
-  *Experimental determination of the Brinell hardness*
+- ![testing Brinell hardness of Sonowood](/assets/images/Partner_8_Brinell_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
+  *Experimental determination of the Brinell hardness.*
 
-- ![One of the first models of a violin tailpiece](/assets/images/support_example.jpg)
-  *One of the first models of a violin tailpiece*
 
 </div>
 </div>
