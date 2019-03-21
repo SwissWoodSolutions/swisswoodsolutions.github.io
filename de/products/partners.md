@@ -76,8 +76,7 @@ In Zusammenarbeit mit [Accelopment](http://www.accelopment.com), ein Dienstleist
 **Vom anvisierten Produktionsausbau im Rahmen des TEEWood Projektes verspricht man sich eine Vielzahl von positiven Auswirkungen.** Bei erfolgreichem Verlauf soll das Projekt die Rohstoffversorgung in von Tropenholz abhängigen Industrien wie der Musikinstrumentenindustrie sicherstellen. Der Kunde profitiert dabei von einem nachhaltigen Produkt mit justierbaren physikalisch-mechanischen Eigenschaften. Gleichzeitig bestehen im Gegensatz zu Tropenholz keinerlei Handels- und Reisebeschränkungen.
 Ökologisch leistet das Projekt einen Beitrag zur Erhaltung der Artenvielfalt und liefert gleichzeitig Anreize zur nachhaltigen Forstwirtschaft in tropischen Klimaregionen. Politische Auswirkungen sind tiefere Anreize zum illegalen Raubbau von Tropenholz, welcher oftmals mit Korruption und schwerwiegender Wirtschaftskriminalität in den betroffenen Ländern in Verbindung steht. Und schliesslich leistet das TEEWood Projekt auch einen wertvollen Beitrag zur Erhaltung des Handwerks des traditionellen Musikinstrumentenbaus. Dieses Handwerk gerät durch zunehmend striktere Importbestimmungen ernsthaft unter Druck, weil das Rohmaterial, wenn überhaupt, nur noch mühsam zu beschaffen ist.
 
-[Horizon 2020
-website](https://ec.europa.eu/programmes/horizon2020/what-horizon-2020)
+[Horizon 2020](https://ec.europa.eu/programmes/horizon2020/what-horizon-2020)
 
 </div>
 </div>
@@ -97,8 +96,6 @@ Dank der wertvollen Unterstützung durch die Gebert Rüf Stiftung konnte das Spi
 
 [Gebert Rüf Foundation](https://www.grstiftung.ch/de.html)
 
-- ![Experimentelle Ermittlung der Brinell Härte im Swiss Ebony Projekt](/assets/images/Partner_8_Brinell_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
-  *Experimentelle Bestimmung der Brinell Härte im Rahmen des Swiss Ebony Projekts.*
 
 
 </div>
