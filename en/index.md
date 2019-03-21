@@ -24,7 +24,7 @@ order: 1
 
   ### We want to bring novel wood products and our expertise out of the research lab, and into the 21st century.
 
-- <img src="/assets/images/home_materials.jpg"
+- <img src="/assets/images/Home_1_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz_Fingerboard.jpg"
     srcset="/assets/images/home_materials_2x.jpg" alt="sonowood maple on violin">
 
   ### Sonowood for music
@@ -33,7 +33,7 @@ order: 1
 
   <a class="btn" href="/en/products/sonowood">Sonowood ></a>
 
-- <img src="/assets/images/home_services.jpg"
+- <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
   ### Expertise for industry
@@ -41,7 +41,7 @@ order: 1
 
   <a class="btn" href="/en/services">Services ></a>
 
-- <img src="/assets/images/home_RD.jpg"
+- <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
 
   ### Research & Development
@@ -50,7 +50,7 @@ order: 1
 
     <a class="btn" href="/en/projects">R&D ></a>
 
-- <img src="/assets/images/home_about.jpg"
+- <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
 
   ### About us
@@ -59,7 +59,7 @@ order: 1
 
   <a class="btn" href="/en/about">Meet the team ></a>
 
-- <img src="/assets/images/home_news.jpg"
+- <img src="/assets/images/Home_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz interview Sonowood">
 
   ### In the news!
