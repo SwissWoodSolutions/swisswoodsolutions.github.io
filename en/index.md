@@ -78,7 +78,7 @@ order: 1
     ### This is an *original Stradivarius violin* from 1721 equipped with Sonowood Spruce by Wilhelm Geigenbau. Such a great honour for **Sonowood** and Swiss Wood Solutions!
     <a class="btn -white" href="/en/newsflash">Read more ></a>
 
-  - ![Sonowood on Stradivarius, credits: Wilhelm Geigenbau](/assets/images/4_news_stradivarius_stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg)
+  - ![Sonowood on Stradivarius, credits: Wilhelm Geigenbau](/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg)
 
 ---
 
