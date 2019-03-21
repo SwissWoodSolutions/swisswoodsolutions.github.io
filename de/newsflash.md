@@ -43,7 +43,7 @@ order: 6
   Robust und stabil: genau die Anforderungen an High-End-Kameras, gefertigt vom Schweizer Kamerahersteller ALPA. Die hochwertigen und langlebigen Präzisionswerkzeuge werden mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden. Der Einsatz von verdichtetem Holz von SWS verleiht den Kameras eine natürlich-ästethische Note. 
 
 - ### Verschärfte rechtliche Bestimmungen von CITES
-  ![CITES](/assets/images/1citeslogo_Tropical Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg)
+  ![CITES](/assets/images/1citeslogo_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg)
   *bvl.admin.ch*
 
   Das Washingtoner Artenschutzabkommen, auch CITES genannt, ist eine von 183 Staaten ratifizierte Konvention zum nachhaltigen Schutz von gefährdeten Pflanzen- und Tierarten. Wenig überraschend umfasst das Abkommen auch zahlreiche durch Raubbau gefährdete Tropenholzarten. Erfahren Sie mehr über die Verschärfungen von CITES und die Auswirkungen auf den Musikinstrumentenbau im aktuellen Bericht von Elias Wick.
