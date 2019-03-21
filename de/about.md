@@ -10,7 +10,7 @@ order: 5
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/team_cover_2x.jpg"
+<img srcset="/assets/images/About_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebony_Ebenholz_Swiss_Wood_Solutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg"
      src="/assets/images/team_cover_2x.jpg" alt="das Swiss Wood Solutions Team in 2018">
 </div>
 
@@ -28,7 +28,7 @@ Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen 
 
 # Unser Team
 
-  - ![Oliver Klaeusler](/assets/images/team_OK.jpg)
+  - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
     ### Dr. Oliver Kläusler, CEO,
 
@@ -37,7 +37,7 @@ Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen 
     <klaeusler@swisswoodsolutions.ch>  
     Tel. +41 79 819 72 77
 
-  - ![Munish Chanana](/assets/images/team_MC.jpg)
+  - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
     ### Dr. Munish Chanana, Co-CEO und Head of R\&D,
 
@@ -47,7 +47,7 @@ Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen 
     Tel. +41 76 688 70 02 (CH)  
     Tel. +49 176 63 00 44 09 (D)
 
-  - ![Walter Sonderegger](/assets/images/team_WS.jpg)
+  - ![Walter Sonderegger](/assets/images/About_7_Walter_Sonderegger_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Schweiz_Switzerland.jpg)
 
     ### Dr. Walter Sonderegger, Leiter Qualitätsmanagement,
 
@@ -55,7 +55,7 @@ Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen 
 
     <sonderegger@swisswoodsolutions.ch>
 
-  - ![Philipp Hass](/assets/images/team_PH.jpg)
+  - ![Philipp Hass](/assets/images/About_6_Philipp_Hass_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
     ### Dr. Philipp Hass, CTO,
 
@@ -63,16 +63,16 @@ Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen 
 
     <phass@swisswoodsolutions.ch>
 
-  - ![Luca Schelbli](/assets/images/team_LS.jpg)
+  - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Luca Schelbli, R\&D Spezialist,
+    ### Luca Schelbli, R\&D Ingenieur,
 
     studierte Wirtschaftschemie an der Universität Zürich und Louisiana State University in den USA. Als R&D-Spezialist arbeitet er an der Entwicklung von physikochemischen Holzmodifikationen für verschiedene Anwendungsgebiete. Ferner unterstützt Luca Schelbli die Kommerzialisierung der im Labor entwickelten Verfahren, die Betreuung der Verkaufskanäle und die Marketingaktivitäten.  
 
     <schelbli@swisswoodsolutions.ch>  
     Tel. +41 44 633 62 12
 
-  - ![Karsten Leuker](/assets/images/team_KL.jpg)
+  - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
     ### Karsten Leuker, Head of Sales,
 

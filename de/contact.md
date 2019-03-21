@@ -11,7 +11,7 @@ order: 8
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img src="/assets/images/contact_cover.jpg"
+<img src="/assets/images/1_contact_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg"
   srcset="/assets/images/contact_cover_2x.jpg" alt="Holzmuster aus dem Labor">
 </div>
 
