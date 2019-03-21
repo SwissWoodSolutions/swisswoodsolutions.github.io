@@ -12,7 +12,7 @@ order: 1
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/sonowood_cover_2x.jpg"
+<img srcset="/assets/images/Sonowood_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg"
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
@@ -97,10 +97,10 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 Unsere Technologie ist auf eine Vielzahl von Holzarten anwendbar, abhängig von den individuellen Kundenanforderungen. Bereits bewährt haben sich der Einsatz von Ahorn und Fichte. Gegenwärtig führen wir Experimente mit weiteren Holzarten durch.
 
 
-- ![Produktion von Sonowood Maple aus nativem Ahorn - vorher](/assets/images/sonowood_ahorn_unverdichtet.jpg)
+- ![Produktion von Sonowood Maple aus nativem Ahorn - vorher](/assets/images/Sonowood_2_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
 *Produktion von Sonowood Maple aus nativem Ahorn - vorher...*
 
-- ![Produktion von Sonowood Maple aus nativem Ahorn - nachher](/assets/images/sonowood_ahorn_verdichtet.jpg)
+- ![Produktion von Sonowood Maple aus nativem Ahorn - nachher](/assets/images/Sonowood_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
 *... und nachher*
 
 </div>
@@ -137,13 +137,13 @@ Unsere Technologie ist auf eine Vielzahl von Holzarten anwendbar, abhängig von 
       - Dynamischer Elastizitätsmodul:
         \> 23'000 N/mm²
 
-  - ![Sonowood Maple Kinnhalter](/assets/images/sonowood_maple-03.jpg)
+  - ![Sonowood Maple Kinnhalter](/assets/images/Sonowood_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Sonowood Maple Kinnhalter, Nahaufnahme*
 
-    ![Sonowood Maple Gitarre Griffbrett](/assets/images/sonowood_maple-04.jpg)
+    ![Sonowood Maple Gitarre Griffbrett](/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Sonowood Maple Griffbrett für Gitarre*
 
-  - ![Sonowood full set für Geige](/assets/images/sonowood_maple-02.jpg)
+  - ![Sonowood full set für Geige](/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Geige mit Sonowood Maple Griffbrett, Wirbel, Kinnhalter und Saitenhalter*
 
 ---
@@ -156,7 +156,7 @@ Unsere Technologie ist auf eine Vielzahl von Holzarten anwendbar, abhängig von 
 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
       - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
-      - ![ Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau](/assets/images/sonowood_spruce-02.jpg)
+      - ![ Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau](/assets/images/Sonowood_7_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau.*
 
   - #### Technische Daten

@@ -12,7 +12,7 @@ order: 1
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/sonowood_cover_2x.jpg"
+<img srcset="/assets/images/Sonowood_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg"
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood on violin">
 </div>
 
@@ -111,11 +111,11 @@ product. The use of maple and spruce has been proven already. Current
 experiments include further wood species.
 
 - ![Maple turned into Sonowood
-maple](/assets/images/sonowood_ahorn_unverdichtet.jpg)
+maple](/assets/images/Sonowood_2_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
 *Native Maple, before treatment*
 
 - ![Maple turned into Sonowood
-maple](/assets/images/sonowood_ahorn_verdichtet.jpg)
+maple](/assets/images/Sonowood_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
 *Native Maple densified into Sonowood Maple*
 
 </div>
@@ -152,13 +152,13 @@ maple](/assets/images/sonowood_ahorn_verdichtet.jpg)
       - Dynamic elastic modulus:  
         \> 23'000 N/mm²
 
-  - ![Sonowood Maple chinrest](/assets/images/sonowood_maple-03.jpg)
+  - ![Sonowood Maple chinrest](/assets/images/Sonowood_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Sonowood Maple chinrest close-up*
 
-    ![Sonowood Maple chinrest](/assets/images/sonowood_maple-04.jpg)
+    ![Sonowood Maple chinrest](/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Sonowood Maple guitar fingerboard*
 
-  - ![Sonowood full set violin](/assets/images/sonowood_maple-02.jpg)
+  - ![Sonowood full set violin](/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Violin with Sonowood Maple fingerboard, chinrest, pegs*
 
 ---
@@ -170,7 +170,7 @@ maple](/assets/images/sonowood_ahorn_verdichtet.jpg)
       - **Fingerboards** for violin, viola, guitar and cello; as square
         timbers
       - **Tailpieces** for violin, viola, cello and double bass
-      - ![Sonowood spruce on viola. Picture: Wilhelm Geigenbau](/assets/images/sonowood_spruce-02.jpg)
+      - ![Sonowood spruce on viola. Picture: Wilhelm Geigenbau](/assets/images/Sonowood_7_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Sonowood spruce on viola. Picture: Wilhelm Geigenbau.*
 
   -  #### Technical data
