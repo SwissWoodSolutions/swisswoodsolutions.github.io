@@ -24,7 +24,7 @@ order: 1
 
   ### We want to bring novel wood products and our expertise out of the research lab, and into the 21st century.
 
-- <img src="/assets/images/Home_1_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz_Fingerboard.jpg"
+- <img src="/assets/images/Home_1_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz.jpg"
     srcset="/assets/images/home_materials_2x.jpg" alt="sonowood maple on violin">
 
   ### Sonowood for music

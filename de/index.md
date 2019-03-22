@@ -24,7 +24,7 @@ order: 1
 
   ### Deshalb möchten wir unsere innovativen Holzprodukte und Holzexpertise aus dem Labor und in das 21. Jahrhundert tragen.
 
-- <img src="/assets/images/Home_1_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz_Fingerboard.jpg"
+- <img src="/assets/images/Home_1_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz.jpg"
     srcset="/assets/images/home_materials_2x.jpg" alt="sonowood maple auf Geige">
 
   ### Sonowood für die Musikbranche
