@@ -24,8 +24,8 @@ order: 1
 
   ### Deshalb möchten wir unsere innovativen Holzprodukte und Holzexpertise aus dem Labor und in das 21. Jahrhundert tragen.
 
-- <img src="/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpg"
-    srcset="/assets/images/home_materials_2x.jpg" alt="sonowood maple auf Geige">
+- <img src="/assets/images/Home1Geige.jpg"
+    srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
 
   ### Sonowood für die Musikbranche
 
