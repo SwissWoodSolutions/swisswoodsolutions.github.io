@@ -22,7 +22,7 @@ order: 1
 ## Sonowood lässt Ihr Instrument besser klingen.
 
 Wir haben **Sonowood** für den Bau von Musikinstrumenten entwickelt. Traditionell werden dafür Tropenhölzer verwendet, die sich dafür aus einer Vielzahl von Gründen eignen. Sie besitzen eine hohe Oberflächenhärte und Dichte, sind dimensionsstabil und weisen eine ästhetisch-dunkle Färbung auf. Das Problem dabei: durch den weltweiten Raubbau sind die Bestände der meisten Tropenholzarten inzwischen stark rückläufig, ein komplettes Verschwinden droht. Immer strengere Import- und Handelsrichtlinien wie
-[CITES,](https://www.cites.org/eng/disc/species.php) sind die Folge.
+[CITES](https://www.cites.org/eng/disc/species.php) sind die Folge.
 
 Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachhaltiger Forstwirtschaft** modifiziert. Dank der umweltfreundlichen Produktion ergeben sich keinerlei rechtliche Beschränkungen oder ethisch-moralische Bedenken. Der Kunde profitiert von einem hochwertigen Material, welches die hochgeschätzten physikalisch-mechanischen Eigenschaften von Tropenholz erreicht.
 
