@@ -34,9 +34,9 @@ Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendun
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-## Robert Stempfle Fachwerkstatt für Holzblasinstrumente
+## Robert Stempfle - Fachwerkstatt für Holzblasinstrumente
 
-Robert Stempfle ist gelernter Holzblasinstrumentenmacher und studierter Klarinettist. In seiner Fachwerkstatt für Holzblasinstrumente in Zürich werden von ihm alle Reparaturen und Revisionen an Holzblasinstrumenten durchgeführt. Bereits seit 2015 ist er Entwicklungspartner von Swiss Wood Solutions. Im Januar 2019 hat Robert Stempfle die erste Klarinette aus Sonowood hergestellt.
+Robert Stempfle ist gelernter Holzblasinstrumentenmacher und studierter Klarinettist. In seiner Fachwerkstatt für Holzblasinstrumente in Zürich werden von ihm Reparaturen und Revisionen an allen Holzblasinstrumenten durchgeführt. Bereits seit 2015 ist er Entwicklungspartner von Swiss Wood Solutions. Im Januar 2019 hat Robert Stempfle die erste Klarinette aus Sonowood hergestellt.
 
 <a class="btn -red" href="https://stempfle.ch" target="_blank">Stempfle Fachwerkstatt ></a>
 
