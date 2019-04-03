@@ -89,24 +89,8 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 </div>
 </div>
 
-<div class="full-width">
-<div class="wrap -cols2">
 
-## Die Wissenschaft hinter Sonowood
-
-Unsere Technologie ist auf eine Vielzahl von Holzarten anwendbar, abhängig von den individuellen Kundenanforderungen. Bereits bewährt haben sich der Einsatz von Ahorn und Fichte. Gegenwärtig führen wir Experimente mit weiteren Holzarten durch.
-
-
-- ![Produktion von Sonowood Maple aus nativem Ahorn - vorher](/assets/images/Sonowood_2_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-*Produktion von Sonowood Maple aus nativem Ahorn - vorher...*
-
-- ![Produktion von Sonowood Maple aus nativem Ahorn - nachher](/assets/images/Sonowood_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-*... und nachher*
-
-</div>
-</div>
-
-<div class="full-width-grey" name="Sonowood-Types">
+<div class="full-width" name="Sonowood-Types">
 <div class="wrap -cols2">
 
 ## Ausführungen von Sonowood

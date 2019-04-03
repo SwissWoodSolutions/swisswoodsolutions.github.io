@@ -39,9 +39,6 @@ Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendun
 Robert Stempfle ist gelernter Holzblasinstrumentenmacher und studierter Musiker. In seiner Fachwerkstatt in Zürich fertigt er Klarinetten, Oboen, Querflöten und Saxophone an. Zudem werden Reparaturen und Revisionen durchgeführt.
 Im November 2018 hat Robert Stempfle die erste Klarinette aus Sonowood hergestellt. 
 
-  - ![Robert Stempfle Holzblasinstrumente](/assets/images/Partner_2_Stempfle_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
-    <a href="https://stempfle.ch" target="_blank">Robert Stempfle Holzblasinstrumente</a>
-
 <a class="btn -red" href="https://stempfle.ch" target="_blank">Stempfle Fachwerkstatt ></a>
 
 </div>
@@ -53,9 +50,6 @@ Im November 2018 hat Robert Stempfle die erste Klarinette aus Sonowood hergestel
 ## Bodio Guitars
 
 Mauro Bodio baut in seiner Werkstatt in Basel Gitarren in Eigenanfertigung. Im August 2018 hat er die erste Gitarre mit Griffbrett aus Sonowood Fichte gebaut. 
-
-- ![Mauro Bodio Guitars](/assets/images/Partner_3_Bodio_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
-    <a href="https://bodio-guitars.com" target="_blank">Mauro Bodio Guitars</a>
 
 <a class="btn -red" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
 
