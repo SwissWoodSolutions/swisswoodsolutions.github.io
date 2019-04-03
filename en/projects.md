@@ -138,7 +138,7 @@ initiated pilot production. Technology readiness level 6 (TRL 6) has
 been reached, implying the accomplishment of the prototyping phase. For
 violins and violas, market readiness has been achieved.
 
-<a class="btn -red" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Foundation ></a>
+<a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Foundation ></a>
 
 ![logo gebert ruef](/assets/images/Partner_7_GebertRüf_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.png)
 
