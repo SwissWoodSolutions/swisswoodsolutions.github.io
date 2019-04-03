@@ -39,7 +39,7 @@ order: 4
 
 ## Support
 
-Swiss Wood Solutions was founded in October 2016 as a spin-off from
+Swiss Wood Solutions was founded on 30 October 2016 as a spin-off from
 ETH Zurich and Empa DÃ¼bendorf. ETH Zurich (Swiss Federal Institute of Technology)
 is a globally leading science university and constantly ranks among the
 top universities worldwide. Empa (Swiss Federal Laboratories for
