@@ -44,7 +44,7 @@ video on our News page, Schweiz Aktuell 02.03.2018.](/en/media)
 
 ## Robert Stempfle manufactory for woodwind instruments
 
-Robert Stempfle is a trained woodwind instrument maker and musician. In his specialist workshop in Zurich he makes clarinets, oboes, flutes and saxophones. In addition, repairs and revisions are offered. In November 2018, Robert Stempfle made the first clarinet from Sonowood maple.
+Robert Stempfle is a trained woodwind instrument maker and clarinetist. In his specialist workshop for woodwind instruments in Zurich, he carries out all repairs and revisions of woodwind instruments. He has been a development partner of Swiss Wood Solutions since 2015. In January 2019, Robert Stempfle made the first clarinet from Sonowood.
 
 <a class="btn -red" href="https://stempfle.ch" target="_blank">Stempfle woodwind manufactory ></a> 
     
