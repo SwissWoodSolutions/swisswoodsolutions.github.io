@@ -40,7 +40,7 @@ order: 4
 ## Support
 
 Swiss Wood Solutions AG was founded in October 2016 as a spin-off from
-ETH Zurich and Empa. ETH Zurich (Swiss Federal Institute of Technology)
+ETH Zurich and Empa Dübendorf. ETH Zurich (Swiss Federal Institute of Technology)
 is a globally leading science university and constantly ranks among the
 top universities worldwide. Empa (Swiss Federal Laboratories for
 Materials Science and Technology) is an interdisciplinary Swiss research
