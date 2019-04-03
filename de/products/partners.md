@@ -26,7 +26,7 @@ Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Premiumpartner 
 
 Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie hier.](/de/media/)
 
-<a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
+<a class="btn" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
 
 </div>
 </div>
@@ -51,7 +51,7 @@ Im November 2018 hat Robert Stempfle die erste Klarinette aus Sonowood hergestel
 
 Mauro Bodio baut in seiner Werkstatt in Basel Gitarren in Eigenanfertigung. Im August 2018 hat er die erste Gitarre mit Griffbrett aus Sonowood Fichte gebaut. 
 
-<a class="btn -red" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
+<a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
 
 </div>
 </div>
