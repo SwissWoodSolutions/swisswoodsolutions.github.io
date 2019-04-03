@@ -16,7 +16,7 @@ order: 4
      src="/assets/images/RD_cover.jpg" alt="Dr. Chanana im Labor">
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 ## Highlights unserer aktuellen Entwicklungen:
@@ -34,7 +34,7 @@ order: 4
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## Unterstützung
@@ -51,7 +51,7 @@ Zusätzlich zur ETH Zürich und Empa kooperieren wir mit weiteren öffentlichen 
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap">
 
 
@@ -70,7 +70,7 @@ In Zusammenarbeit mit [Accelopment](http://www.accelopment.com), einem Dienstlei
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## Swiss Ebony mit der Gebert Rüf Stiftung
@@ -81,9 +81,7 @@ Gebert Rüf hat zwei Projekte von Swiss Wood Solutions ermöglicht. **Im Rahmen 
 Im Swiss Ebony Projekt II arbeitet Swiss Wood Solutions an der Justierbarkeit der physikalisch-mechanischen und optischen Eigenschaften des verdichteten Materials. Indem wichtige Parameter wie die Dichte und Farbe individuell den Kundenwünschen angepasst werden können, erlangt Swiss Wood Solutions ein Alleinstellungsmerkmal im Instrumentenmarkt.
 Dank der wertvollen Unterstützung durch die Gebert Rüf Stiftung konnte das Spin-off die Pilotproduktionslinie Swiss Ebony in Gang setzen, charakterisiert durch eine dunkelbraune Färbung. Der Technologie-Reifegrad 6 wurde erreicht (technology readiness level, kurz: TRL). Dies bedeutet, dass erste Prototypen in Streichinstrumente integriert wurden. Die [Rückmeldungen von Instrumentenbauern und Musikern](/Testimonials_DE) sind durchwegs positiv.
 
-[Gebert Rüf Foundation](https://www.grstiftung.ch/de.html)
-
-<a class="btn -red" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Stiftung ></a>
+<a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Stiftung ></a>
 
 
 ![logo gebert ruef](/assets/images/Partner_7_GebertRüf_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.png)
