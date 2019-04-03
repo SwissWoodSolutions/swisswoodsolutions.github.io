@@ -100,28 +100,7 @@ For sales inquiries or technical questions:
 </div>
 </div>
 
-<div class="full-width">
-<div class="wrap -cols2">
-
-## The science behind Sonowood
-
-Our unique densifying technology is applicable to any possible native
-wood species, depending on the individual requirements of the respective
-product. The use of maple and spruce has been proven already. Current
-experiments include further wood species.
-
-- ![Maple turned into Sonowood
-maple](/assets/images/Sonowood_2_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-*Native Maple, before treatment*
-
-- ![Maple turned into Sonowood
-maple](/assets/images/Sonowood_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-*Native Maple densified into Sonowood Maple*
-
-</div>
-</div>
-
-<div class="full-width-grey" name="Sonowood-Types">
+<div class="full-width" name="Sonowood-Types">
 <div class="wrap -cols2">
 
 ## Types of Sonowood

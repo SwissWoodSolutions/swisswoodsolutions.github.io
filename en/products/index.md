@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Products'
+title: 'Sonowood'
 order: 2
 ---
 
