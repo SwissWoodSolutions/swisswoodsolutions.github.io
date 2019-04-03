@@ -57,7 +57,7 @@ rights.
   - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
   - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
 
-In addition to ETH and Empa, we cooperate with further public and private institutions to carry out R\&D projects.
+In addition to ETH Zurich and Empa Dübendorf, we cooperate with further public and private institutions to carry out R\&D projects.
 
 </div>
 </div>
