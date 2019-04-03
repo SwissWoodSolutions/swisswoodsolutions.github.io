@@ -1,4 +1,4 @@
----
+﻿---
 lang: en
 title: 'R&D'
 order: 4
@@ -39,8 +39,8 @@ order: 4
 
 ## Support
 
-Swiss Wood Solutions AG was founded in October 2016 as a spin-off from
-ETH Zurich and Empa D�bendorf. ETH Zurich (Swiss Federal Institute of Technology)
+Swiss Wood Solutions was founded in October 2016 as a spin-off from
+ETH Zurich and Empa DÃ¼bendorf. ETH Zurich (Swiss Federal Institute of Technology)
 is a globally leading science university and constantly ranks among the
 top universities worldwide. Empa (Swiss Federal Laboratories for
 Materials Science and Technology) is an interdisciplinary Swiss research
@@ -57,7 +57,11 @@ rights.
   - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
   - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
 
-In addition to ETH Zurich and Empa D�bendorf, we cooperate with further public and private institutions to carry out R\&D projects.
+<<<<<<< HEAD
+In addition to ETH Zurich and Empa Dübendorf, we cooperate with further public and private institutions to carry out R\&D projects.
+=======
+In addition to ETH Zurich and Empa, we cooperate with further public and private institutions to carry out R\&D projects.
+>>>>>>> ea594a5f7bb7cd22a533a9a4edd89e70cee28a72
 
 </div>
 </div>
@@ -68,7 +72,7 @@ In addition to ETH Zurich and Empa D�bendorf, we cooperate with further public a
 ## TEEWood project with Horizon 2020
 
 To build up on the promising results from the two projects sponsored by
-Gebert R�f, Swiss Wood Solutions aspires to scale up the technology to
+Gebert RÃ¼f, Swiss Wood Solutions aspires to scale up the technology to
 produce wood for larger stringed instruments such as guitars and cellos.
 In addition, SWS aims to evaluate production for percussion instruments
 and expand the application fields of the technology to wooden sports
@@ -77,7 +81,7 @@ support by the European research and innovation program Horizon 2020.
 **Created and financed by the European Union, Horizon 2020 couples
 research and innovation to tackle societal challenges and deliver
 economic growth.** For promising science projects and derived business
-ideas, nearly �80 billion of funding are available from 2014 to 2020.
+ideas, nearly â‚¬80 billion of funding are available from 2014 to 2020.
 
 In cooperation with [accelopment](http://www.accelopment.com) a service
 provider specialized on applications for public funding programs, SWS
@@ -85,7 +89,7 @@ filed a submission titled TEEWood (Technologically Enhanced European
 Wood for Substituting Endangered Tropical Woods). With the constructive
 help of accelopment, SWS completed the highly complex and time-consuming
 application process in October 2017. To our greatest delight, the
-submission was approved and the company received a grant of �1.5
+submission was approved and the company received a grant of â‚¬1.5
 million. Proof of competitive product properties, promising market
 opportunities and growth potential helped secure the funds starting in
 February 2018 and running through January 2020.
@@ -116,12 +120,12 @@ raw material.
 <div class="full-width">
 <div class="wrap -cols2">
 
-## Swiss Ebony project with the Gebert R�f Foundation
+## Swiss Ebony project with the Gebert RÃ¼f Foundation
 
 Since March 2016 Swiss Wood Solutions has been financially supported by
-the Gebert R�f Foundation. The private funding agency **aims to boost
+the Gebert RÃ¼f Foundation. The private funding agency **aims to boost
 entrepreneurial projects in Switzerland, which are committed to achieve
-an impact in current science and innovation challenges.** Gebert R�f has
+an impact in current science and innovation challenges.** Gebert RÃ¼f has
 funded two projects at Swiss Wood Solutions (SWS). In the Swiss Ebony
 project, SWS succeeded to achieve dimensional stability of densified
 wood materials. The positive experimental results delivered the proof of
@@ -133,14 +137,14 @@ targets the fine-tuning of physical and acoustics properties of the
 densified wood material. The adjustability of crucial parameters such as
 density and sound-propagation velocity enables SWS to acquire unique
 selling propositions in the musical instrument market. Thanks to the
-generous support by Gebert R�f, Swiss Wood Solutions has established and
+generous support by Gebert RÃ¼f, Swiss Wood Solutions has established and
 initiated pilot production. Technology readiness level 6 (TRL 6) has
 been reached, implying the accomplishment of the prototyping phase. For
 violins and violas, market readiness has been achieved.
 
-<a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert R�f Foundation ></a>
+<a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert RÃ¼f Foundation ></a>
 
-![logo gebert ruef](/assets/images/Partner_7_GebertR�f_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.png)
+![logo gebert ruef](/assets/images/Partner_7_GebertRÃ¼f_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.png)
 
 </div>
 </div>
