@@ -59,7 +59,6 @@ rights.
 
 In addition to ETH Zurich and Empa, we cooperate with further public and private institutions to carry out R\&D projects.
 
-
 </div>
 </div>
 
@@ -78,7 +77,7 @@ support by the European research and innovation program Horizon 2020.
 **Created and financed by the European Union, Horizon 2020 couples
 research and innovation to tackle societal challenges and deliver
 economic growth.** For promising science projects and derived business
-ideas, nearly â‚¬80 billion of funding are available from 2014 to 2020.
+ideas, nearly 80 billion of funding are available from 2014 to 2020.
 
 In cooperation with [accelopment](http://www.accelopment.com) a service
 provider specialized on applications for public funding programs, SWS
@@ -86,7 +85,7 @@ filed a submission titled TEEWood (Technologically Enhanced European
 Wood for Substituting Endangered Tropical Woods). With the constructive
 help of accelopment, SWS completed the highly complex and time-consuming
 application process in October 2017. To our greatest delight, the
-submission was approved and the company received a grant of â‚¬1.5
+submission was approved and the company received a grant of 1.5
 million. Proof of competitive product properties, promising market
 opportunities and growth potential helped secure the funds starting in
 February 2018 and running through January 2020.
@@ -120,10 +119,10 @@ raw material.
 ## Swiss Ebony project with the Gebert Rüf Foundation
 
 Since March 2016 Swiss Wood Solutions has been financially supported by
-the Gebert RÃ¼f Foundation. The private funding agency **aims to boost
+the Gebert Rüf Foundation. The private funding agency **aims to boost
 entrepreneurial projects in Switzerland, which are committed to achieve
 an impact in current science and innovation challenges.** Gebert Rüf has
-funded two projects at Swiss Wood Solutions (SWS). In the Swiss Ebony
+funded two projects at Swiss Wood Solutions. In the Swiss Ebony
 project, SWS succeeded to achieve dimensional stability of densified
 wood materials. The positive experimental results delivered the proof of
 concept and confirmed feasibility for the application of the material in
@@ -141,7 +140,7 @@ violins and violas, market readiness has been achieved.
 
 <a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Foundation ></a>
 
-![logo gebert ruef](/assets/images/Partner_7_GebertRÃ¼f_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.png)
+![logo gebert ruef](/assets/images/Partner_7_GebertRüf_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.png)
 
 </div>
 </div>
