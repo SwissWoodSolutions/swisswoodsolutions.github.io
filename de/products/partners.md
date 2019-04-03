@@ -48,7 +48,7 @@ Robert Stempfle ist gelernter Holzblasinstrumentenmacher und studierter Klarinet
 
 ## Bodio Guitars
 
-Mauro Bodio baut in seiner Werkstatt in Basel Gitarren in Eigenanfertigung. Im August 2018 hat er die erste Gitarre mit Griffbrett aus Sonowood Fichte gebaut. 
+Mauro Bodio baut in seiner Werkstatt in Basel Gitarren. Im August 2018 hat er die erste Gitarre mit Griffbrett aus Sonowood Fichte gebaut. 
 
 <a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
 
