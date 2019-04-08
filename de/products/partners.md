@@ -44,7 +44,7 @@ Robert Stempfle ist gelernter Holzblasinstrumentenmacher und studierter Klarinet
 
 - <img srcset="/assets/images/Partner_10_Klarinette_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions.jpg"
      src="/assets/images/Partner_10_Klarinette_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions.jpg" alt="Sonowood Klarinette von Robert Stempfle">
-	<figcaption>.Fotos: Robert Stempfle</figcaption>
+	<figcaption>Fotos: Robert Stempfle - Fachwerkstatt für Holzblasinstrumente.</figcaption>
 
 <a class="btn -red" href="https://stempfle.ch" target="_blank">Stempfle Fachwerkstatt ></a>
 

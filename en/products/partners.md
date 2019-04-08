@@ -46,6 +46,14 @@ video on our News page, Schweiz Aktuell 02.03.2018.](/en/media)
 
 Robert Stempfle is a trained woodwind instrument maker and clarinetist. In his specialist workshop for woodwind instruments in Zurich, he carries out all repairs and revisions of woodwind instruments. He has been a development partner of Swiss Wood Solutions since 2015. In January 2019, Robert Stempfle made the first clarinet from Sonowood.
 
+- <img srcset="/assets/images/Partner_9_Klarinette_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions.jpg"
+     src="/assets/images/Partner_9_Klarinette_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>The first clarinet built from Sonowood.</figcaption>
+
+- <img srcset="/assets/images/Partner_10_Klarinette_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions.jpg"
+     src="/assets/images/Partner_10_Klarinette_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>Pictures by Robert Stempfle woodwind manufactory.</figcaption>
+
 <a class="btn -red" href="https://stempfle.ch" target="_blank">Stempfle woodwind manufactory ></a> 
     
 </div>
