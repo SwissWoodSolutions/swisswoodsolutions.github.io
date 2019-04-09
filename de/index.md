@@ -12,8 +12,8 @@ order: 1
 ![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
-<img src="/assets/images/home_cover.jpg"
-  srcset="/assets/images/home_cover_2x.jpg" alt="cover image wood detail">
+<img src="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg"
+  srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg" alt="cover image wood detail">
 </div>
 
 
