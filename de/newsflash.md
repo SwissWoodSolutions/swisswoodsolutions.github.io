@@ -12,8 +12,8 @@ order: 6
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/contact_cover_2x.jpg"
-     src="/assets/images/contact_cover.jpg" alt="Holzwürfel auf Tisch">
+<img srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg"
+     src="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg" alt="Holzwürfel auf Tisch">
 </div>
 
 <div class="full-width">
