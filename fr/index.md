@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 title: 'Home'
 order: 1
 ---
@@ -7,20 +7,20 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# The wood innovators.
+# Les innovateurs du bois.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
-<img src="/assets/images/.jpg"
-  srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg" alt="cover image wood detail">
+<img src="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg"
+  srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Klimaschutz.jpg" alt="cover image wood detail">
 </div>
 
 
 <div class="full-width-grey">
 <div class="wrap">
 
-- ## We are driven by the belief that wood is still an underestimated material.
+- ## Nous sommes motivés par la conviction que le bois est encore un matériau sous-estimé.
 
   ### We want to bring novel wood products and our expertise out of the research lab, and into the 21st century.
 
@@ -72,7 +72,7 @@ order: 1
 </div>
 
 <div class="full-width-red">
-  <div class="wrap -cols2">
+<div class="wrap -cols2">
 
   - ## NEWSFLASH!
     ### This is an *original Stradivarius violin* from 1721 equipped with Sonowood Spruce by Wilhelm Geigenbau. Such a great honour for **Sonowood** and Swiss Wood Solutions!

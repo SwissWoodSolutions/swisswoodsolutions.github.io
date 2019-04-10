@@ -89,14 +89,19 @@ order: 1
 
 - ![Sonowood on Stradivarius, credits: Wilhelm Geigenbau](/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg)
 
----
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols3">
 
 - ## SWS bei Facebook
+
   Folgen Sie uns bei Facebook und erfahren Sie laufend alle Neuigkeiten.
 
-  <a class="btn -white" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook Page ></a>
+  <a class="btn" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook Page ></a>
 
 - <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwiss-Wood-Solutions-1539292799446076%2F&tabs=timeline&width=280&height=600&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="280" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
   </div>
-  </div>
+</div>

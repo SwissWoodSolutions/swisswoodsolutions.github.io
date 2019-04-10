@@ -6,6 +6,7 @@ githubUsername: SwissWoodSolutions
 langs:
   - en
   - de
+  - fr
 
 # see https://github.com/github/jekyll-commonmark-ghpages
 markdown: CommonMarkGhPages
