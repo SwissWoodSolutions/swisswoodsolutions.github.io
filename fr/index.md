@@ -39,7 +39,7 @@ order: 1
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
-  ### Expertise pour l'industrie
+  ### Expertise pour l'industrie du bois
  
   Des années d'expérience et d'expertise en chimie et ingénierie du bois à votre service.
 
@@ -59,7 +59,7 @@ order: 1
 
   ### A propos de nous
 
-  Notre équipe allie un savoir-faire étendu à des compétences scientifiques et techniques uniques.
+  Notre équipe allie des compétences scientifiques et techniques uniques.
 
   <a class="btn" href="/fr/about">Rencontrez l'équipe ></a>
 
