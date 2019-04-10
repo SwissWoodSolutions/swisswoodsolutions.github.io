@@ -15,12 +15,15 @@ order: 2
      src="/assets/images/products_cover.jpg" alt="detail of violin chinrest">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap">
 
     ## For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetic dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as CITES, aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates. This is why we have developed Sonowood.
 
-<div class="full-width-grey">
+</div>
+</div>
+
+<div class="full-width-red">
 <div class="wrap -cols2">
 
   - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
