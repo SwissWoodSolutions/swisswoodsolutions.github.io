@@ -16,13 +16,13 @@ order: 1
   srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg" alt="cover image wood detail">
 </div>
 
+<div class="full-width">
+<div class="wrap">
+
+  ## Wir sind überzeugt, dass Holz mehr kann. Deshalb möchten wir unsere innovativen Holzprodukte und Holzexpertise aus dem Labor und in das 21. Jahrhundert tragen.
 
 <div class="full-width-grey">
 <div class="wrap">
-
-- ## Wir sind überzeugt, dass Holz mehr kann.
-
-  ### Deshalb möchten wir unsere innovativen Holzprodukte und Holzexpertise aus dem Labor und in das 21. Jahrhundert tragen.
 
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
@@ -44,7 +44,7 @@ order: 1
 - <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
 
-  ### Neuentwicklungen
+  ### Forschung
 
     Neugierig? Wagen Sie einen Blick in unsere Labors, wo Innovation passiert.
 
@@ -67,6 +67,15 @@ order: 1
   Berichterstattung über Swiss Wood Solutions in Printmedien, Radio und TV.
 
     <a class="btn" href="/de/media">Medien ></a>
+
+- <img src="/assets/images/News_2_ALPA_Kamera_Griffe_Camera_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpg"
+    srcset="/assets/images/News_2_ALPA_Kamera_Griffe_Camera_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpg" alt="sonowood maple auf Geige">
+
+  ### Neuigkeiten
+
+  Tauchen Sie in die Highlights unserer Neuentwicklungen.
+
+  <a class="btn" href="/de/newsflash">Sonowood ></a>
 
 </div>
 </div>

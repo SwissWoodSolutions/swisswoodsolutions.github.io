@@ -74,7 +74,7 @@ Kombination aus wissenschaftlichen, technischen und praktischen Fachkenntnissen 
 
   - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
     ### Karsten Leuker
-    ### Head of Sales
+    ### Verkaufsleiter
 
     studierte Holzwirtschaft und Technologie an der Universität Hamburg. Danach war er am Aufbau eines Holzboden-Unternehmens beteiligt. Dank langjähriger Verkaufserfahrung in der Holzindustrie konnte er ein breites Netzwerk an Kontakten in der Branche aufbauen. Bei Swiss Wood Solutions betreut Karsten Leuker die Verkaufskanäle und pflegt engen Kundenkontakt.
 
