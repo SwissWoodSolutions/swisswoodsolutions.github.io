@@ -32,18 +32,16 @@ skills.
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Oliver Kläusler
-    ## CEO
+    ## Dr. Oliver Kläusler
+    ### CEO
 
     has studied wood science and technology at the University of Hamburg and wrote his thesis at ETH Zurich. 
     Subsequently, he worked as an R\&D engineer and project manager in the wood industry
     in Switzerland, the Czech Republic and the United States. He is the
     main inventor and developer of the production technologies for two
-    Beaufort products for Audi cars. Oliver Kläusler then received his
-    PhD in the field of high-performance bonded wooden joints for wood
-    constructions from ETH Zurich. Following his promotion, he became
-    research-group leader at Empa Dübendorf and ETH Zurich. Oliver
-    Kläusler is Co-founder of Swiss Wood Solutions AG and its first
+    Beaufort products for Audi cars. Oliver Kläusler then received his PhD in the field of high-performance bonded wooden joints for wood constructions from ETH Zurich. Following his promotion, he ran
+    a research group at Empa Dübendorf and ETH Zurich. Oliver
+    Kläusler is Co-founder of Swiss Wood Solutions and its first
     CEO.
 
     <klaeusler@swisswoodsolutions.ch>  
@@ -51,8 +49,8 @@ skills.
 
   - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Munish Chanana
-    ## Co-CEO and Head of R\&D
+    ## Dr. Munish Chanana
+    ### Co-CEO and Head of R\&D
 
     studied chemistry at the University of Münster, Germany, and later
     received his PhD from the Max Planck Institute in Potsdam, Germany. He
@@ -60,7 +58,7 @@ skills.
     materials, chemical synthesis and physical chemistry of interfaces.
     Prior to his engagement at Swiss Wood Solutions, Munish Chanana led
     the group of Hierarchical Nano-Bio Materials at the Institute for
-    Building Materials at ETH Zurich. In addition, he is engaged as a reviewer of numerous scientific journals.
+    Building Materials at ETH Zurich. Munish Chanana is Co-founder of Swiss Wood Solutions and, as Head of R\&D, develops new physicochemical modification approaches of wood.
 
     <chanana@swisswoodsolutions.ch>
     
@@ -69,8 +67,8 @@ skills.
 
   - ![Walter Sonderegger](/assets/images/About_7_Walter_Sonderegger_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Schweiz_Switzerland.jpg)
 
-    ### Dr. Walter Sonderegger
-    ## Quality management
+    ## Dr. Walter Sonderegger
+    ### Quality management
 
     studied forest science at ETH Zurich and earned his doctorate there. Subsequently, he worked at the
     Institute for Building Materials at ETH as a forest engineer for several decades. Walter
@@ -83,8 +81,8 @@ skills.
 
   - ![Philipp Hass](/assets/images/About_6_Philipp_Hass_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Philipp Hass
-    ## CTO and production manager 
+    ## Dr. Philipp Hass
+    ### CTO and production manager 
 
     studied process engineering with focus on wood and fiber material
     technology at the University of Technology in Dresden (Germany) and
@@ -98,22 +96,22 @@ skills.
 
   - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Luca Schelbli
-    ## R\&D engineer
+    ## Luca Schelbli
+    ### R\&D engineer
 
     has studied chemistry and business studies at the University of
     Zurich and Louisiana State University (USA). In his position as R\&D
     specialist, he works on the development of new physicochemical
     modification approaches of wood. Furthermore, he supports the
-    commercialization of the developed processes, supervises the distribution channels and manages customer requests.
+    commercialization of the developed processes and manages the distribution channels. Luca Schelbli is charge of the online presence and supervises student papers.
 
     <schelbli@swisswoodsolutions.ch>  
     Tel. +41 44 633 62 12
 
   - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Karsten Leuker
-    ## Sales manager
+    ## Karsten Leuker
+    ### Sales manager
 
     studied wood science and technology at the University of Hamburg
     (Germany). Thanks to prior sales positions in the wood industry, he
