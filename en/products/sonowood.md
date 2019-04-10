@@ -146,6 +146,8 @@ For sales inquiries or technical questions:
 
   - ## Sonowood Spruce
 
+  - ### Available for stringed instruments and guitars
+
   -  #### Product range
 
       - **Fingerboards** for violin, viola, guitar and cello; as square
