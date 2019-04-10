@@ -45,7 +45,7 @@ Dans son atelier spécialisé pour instruments à vent en bois à Zurich, Robert
      src="/assets/images/Partner_10_Klarinette_Sonowood_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions.jpg" alt="Sonowood Klarinette von Robert Stempfle">
 	<figcaption>Photos par Robert Stempfle.</figcaption>
 
-<a class="btn -red" href="https://stempfle.ch" target="_blank">Stempfle woodwind manufactory ></a> 
+<a class="btn -red" href="https://stempfle.ch" target="_blank">Manufacture Robert Stempfle ></a> 
     
 </div>
 </div>

@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'Media'
+title: 'Médias'
 order: 7
 ---
 

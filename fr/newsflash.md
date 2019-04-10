@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'Newsflash'
+title: 'Nouvelles'
 order: 6
 ---
 

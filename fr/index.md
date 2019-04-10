@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'Home'
+title: 'Page d'accueil'
 order: 1
 ---
 

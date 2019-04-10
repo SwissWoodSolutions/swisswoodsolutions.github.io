@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'About'
+title: 'Qui sommes-nous'
 order: 5
 ---
 
