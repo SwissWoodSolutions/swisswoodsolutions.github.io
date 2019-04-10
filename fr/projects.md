@@ -7,7 +7,7 @@ order: 4
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Wood innovation in progress.
+# L'innovation bois en cours.
 
 ![](/assets/images/arrow-d-white.svg)
 
@@ -19,17 +19,17 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-## Highlights of our current developments:
+## Highlights de nos développements actuels:
 
-- ### Sonowood, not only for strings
+- ### Sonowood, pas seulement pour les cordes
   ![clarinet parts made of Sonowood](/assets/images/RD_clarinet.jpg)
-  *Clarinet parts, fresh from Robert Stempfle's lathe.*
+  *Pièces de clarinette de Robert Stempfle.*
 
-  Not just stringed instruments are made from tropical woods. In addition, also wind instruments such as clarinets or flutes would benefit if they can be produced from an alternative wood source. We are currently fine-tuning **Sonowood** for winds.
+  Les instruments à cordes ne sont pas les seuls à être fabriqués à partir de bois tropicaux. En outre, les instruments à vent tels que les clarinettes ou les flûtes pourraient également bénéficier d'une autre source de bois. Nous sommes en train de peaufiner **Sonowood** pour les bois. 
 
-- ### ... intrigued?
+- ### ... curieux?
 
-  <a class="btn -red" href="/en/contact">Contact us ></a>
+  <a class="btn -red" href="/en/contact">Contactez-nous ></a>
 
 </div>
 </div>
@@ -39,25 +39,14 @@ order: 4
 
 ## Support
 
-Swiss Wood Solutions was founded on 30 October 2016 as a spin-off from
-ETH Zurich and Empa Dübendorf. ETH Zurich (Swiss Federal Institute of Technology)
-is a globally leading science university and constantly ranks among the
-top universities worldwide. Empa (Swiss Federal Laboratories for
-Materials Science and Technology) is an interdisciplinary Swiss research
-institute for applied materials science with various campuses across
-Switzerland.
+Swiss Wood Solutions a été fondée le 30 octobre 2016 en tant que spin-off de l'ETH Zurich et de l'Empa Dübendorf. L'ETH Zurich (Ecole polytechnique fédérale de Zurich) est l'une des meilleures universités scientifiques au monde et se classe constamment parmi les meilleures au monde. L'Empa (Laboratoire fédéral suisse de science des matériaux et de technologie) est un institut de recherche interdisciplinaire suisse pour la science appliquée des matériaux avec différents campus à travers la Suisse.
 
-All of our <a href="/en/about/">team members</a> have worked at ETH and/or Empa prior to their
-engagement at Swiss Wood Solutions. We are in the advantageous position
-to benefit from infrastructural, technical and know-how support from
-these two Swiss institutions. Regardless, Swiss Wood Solutions acts as
-an independent company and holds its own intellectual property
-rights.
+Tous les <a href="/en/about/">membres de notre équipe</a> ont travaillé à l'ETH et/ou à l'Empa avant leur engagement chez Swiss Wood Solutions. Nous sommes dans une position avantageuse de bénéficier du soutien infrastructurel, technique et de savoir-faire de ces deux institutions suisses. Swiss Wood Solutions agit néanmoins en tant qu'entreprise indépendante et détient ses propres droits de propriété intellectuelle.
 
   - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
   - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
 
-In addition to ETH Zurich and Empa, we cooperate with further public and private institutions to carry out R\&D projects.
+Outre l'ETH Zurich et l'Empa, nous coopérons avec d'autres institutions publiques et privées pour la réalisation de projets R\&D.
 
 </div>
 </div>
@@ -65,48 +54,17 @@ In addition to ETH Zurich and Empa, we cooperate with further public and private
 <div class="full-width-grey">
 <div class="wrap">
 
-## TEEWood project with Horizon 2020
+## TEEWood en collaboration avec Horizon 2020
 
-To build up on the promising results from the two projects sponsored by
-Gebert Rüf, Swiss Wood Solutions aspires to scale up the technology to
-produce wood for larger stringed instruments such as guitars and cellos.
-In addition, SWS aims to evaluate production for percussion instruments
-and expand the application fields of the technology to wooden sports
-equipment. For this purpose, SWS filed an application for financial
-support by the European research and innovation program Horizon 2020.
-**Created and financed by the European Union, Horizon 2020 couples
-research and innovation to tackle societal challenges and deliver
-economic growth.** For promising science projects and derived business
-ideas, nearly 80 billion of funding are available from 2014 to 2020.
+S'appuyant sur les résultats prometteurs des projets Swiss Ebony (voir ci-dessous), Swiss Wood Solutions poursuit son objectif d'expansion de la production. Cela permettra également de produire du bois densifié pour les instruments à cordes plus grands comme les guitares ou les violoncelles. De plus, l'entreprise évalue l'applicabilité de la technologie aux instruments à vent et à percussion.
 
-In cooperation with [accelopment](http://www.accelopment.com) a service
-provider specialized on applications for public funding programs, SWS
-filed a submission titled TEEWood (Technologically Enhanced European
-Wood for Substituting Endangered Tropical Woods). With the constructive
-help of accelopment, SWS completed the highly complex and time-consuming
-application process in October 2017. To our greatest delight, the
-submission was approved and the company received a grant of 1.5
-million. Proof of competitive product properties, promising market
-opportunities and growth potential helped secure the funds starting in
-February 2018 and running through January 2020.
+En collaboration avec [accelopment](http://www.accelopment.com) un prestataire de services spécialisé dans la participation à des programmes de financement, Swiss Wood Solutions a mené à bien le vaste processus de candidature au programme européen pour la recherche et le développement Horizon 2020, financé par l'Union européenne, qui combine recherche et innovation pour trouver des solutions aux défis sociétaux. Environ 80 milliards d'euros seront disponibles pour des projets scientifiques prometteurs entre 2014 et 2020. A notre grand enthousiasme, le projet TEEWood (Technologically Enhanced European Wood) que nous avons présenté a été soutenu par 1.5 million d'euros dans le cadre d'Horizon 2020. La durée du projet est de deux ans et se termine en janvier 2020.
 
-The upscale of the developed technology targeted in the TEEWood project
-with Horizon 2020 is expected to bear a range of impacts. Most
-importantly, the project is expected to solve the raw material scarcity
-problem of tropical wood-dependent industries such as the musical
-instrument industry. At the same, the customer benefits from a high
-performance material with custom-made physical properties, which comes
-along without any ethical issues and trade restrictions. Ecologically, a
-successful TEEWood project will make a precious contribution to save
-botanical diversity and enhance sustainable forestry in tropical areas.
-On a global political level, the project targets to reduce the
-incentives for illegal overexploitation of tropical forests as well as
-for piracy and corruption in affected countries. From a cultural
-perspective, the TEEWood project is expected to save the traditional
-instrument manufacturing profession by providing a suitable and legal
-raw material.
+L'expansion prévue de la production dans le cadre du projet TEEWood devrait avoir un certain nombre d'effets positifs. En cas de succès, le projet assurera l'approvisionnement en matières premières des industries dépendantes des bois tropicaux telles que l'industrie des instruments de musique. Le client bénéficiera alors d'un produit durable avec des propriétés physiques et mécaniques ajustables. En même temps, contrairement aux bois tropicaux, il n'y a pas de restrictions commerciales ou de voyage.
 
-<a class="btn -red" href="https://cordis.europa.eu/project/rcn/213850/factsheet/en" target="_blank">More on the TEEWood project ></a>
+Sur le plan écologique, le projet contribue à la conservation de la biodiversité tout en encourageant la sylviculture durable dans les régions climatiques tropicales. Les effets politiques sont des incitations plus fortes à lutter contre l'exploitation illégale des bois tropicaux, qui est souvent liée à la corruption et à une criminalité économique dans les pays touchés. Enfin, le projet TEEWood apporte également une contribution précieuse à la préservation de l'artisanat de la lutherie traditionnelle. Cet artisanat étant soumis à de fortes pressions dues à des réglementations d'importation de plus en plus strictes étant donné la difficulté d’obtenir la matière première.
+
+<a class="btn -red" href="https://cordis.europa.eu/project/rcn/213850/factsheet/en" target="_blank">En savoir plus sur le projet TEEWood ></a>
 
 ![logo horizon 2020](/assets/images/Partner_6_Horizon2020_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.png)
 
@@ -116,27 +74,16 @@ raw material.
 <div class="full-width">
 <div class="wrap -cols2">
 
-## Swiss Ebony project with the Gebert Rüf Foundation
+## Swiss Ebony en collaboration avec Gebert Rüf Foundation 
 
-Since March 2016 Swiss Wood Solutions has been financially supported by
-the Gebert Rüf Foundation. The private funding agency **aims to boost
-entrepreneurial projects in Switzerland, which are committed to achieve
-an impact in current science and innovation challenges.** Gebert Rüf has
-funded two projects at Swiss Wood Solutions. In the Swiss Ebony
-project, SWS succeeded to achieve dimensional stability of densified
-wood materials. The positive experimental results delivered the proof of
-concept and confirmed feasibility for the application of the material in
-the musical instrument market.
+Depuis mars 2016, Swiss Wood Solutions est soutenu par la Fondation Gebert Rüf. La Fondation pour la science et l'innovation soutient des projets orientés vers l'application développés dans les hautes écoles suisses. Avec un budget annuel de 15 millions de francs, la Fondation renforce la Suisse comme place d’innovation.
 
-In the Swiss Ebony II project, which is set to run until June 2018, SWS
-targets the fine-tuning of physical and acoustics properties of the
-densified wood material. The adjustability of crucial parameters such as
-density and sound-propagation velocity enables SWS to acquire unique
-selling propositions in the musical instrument market. Thanks to the
-generous support by Gebert Rüf, Swiss Wood Solutions has established and
-initiated pilot production. Technology readiness level 6 (TRL 6) has
-been reached, implying the accomplishment of the prototyping phase. For
-violins and violas, market readiness has been achieved.
+Gebert Rüf a rendu possible deux projets de Swiss Wood Solutions. Dans le cadre du projet Swiss Ebony, le spin-off a réussi à obtenir la stabilité dimensionnelle de l'ébène naturel à partir de bois indigènes densifiés. Le gonflement en cas de changement d'humidité a pu être réduit au minimum. Cela rend le matériau approprié pour la fabrication d'instruments de musique.
+
+Dans le cadre du Swiss Ebony Project II, Swiss Wood Solutions travaille sur l'ajustabilité des propriétés physiques, mécaniques et optiques du matériau compacté. En permettant d'adapter individuellement des paramètres importants tels que la densité et la couleur aux besoins des clients, Swiss Wood Solutions obtient un argument de vente unique sur le marché des instruments musicaux. 
+
+Grâce au précieux soutien de la Fondation Gebert Rüf, Swiss Wood Solutions a pu lancer la ligne de production pilote Swiss Ebony, caractérisée par une couleur brun foncé. Le niveau de maturité technologique 6 a été atteint (technology readiness level, bref: TRL). Cela signifie que les premiers prototypes ont été intégrés dans des instruments à cordes. Les retours des facteurs d'instruments et des musiciens sont très positifs
+
 
 <a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Foundation ></a>
 
