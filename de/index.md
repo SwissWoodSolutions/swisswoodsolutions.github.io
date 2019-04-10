@@ -21,6 +21,9 @@ order: 1
 
   ## Wir sind überzeugt, dass Holz mehr kann. Deshalb möchten wir unsere innovativen Holzprodukte und Holzexpertise aus dem Labor und in das 21. Jahrhundert tragen.
 
+</div>
+</div>
+
 <div class="full-width-grey">
 <div class="wrap">
 
