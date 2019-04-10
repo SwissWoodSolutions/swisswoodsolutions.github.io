@@ -7,9 +7,9 @@ order: 2
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-## «Sonowood has the potential to not only match the quality of ebony, but to even excel it.»
+## «Sonowood a le potentiel non seulement d'être aussi bon que l'ébène, mais encore meilleur.»
 
-### \- George Stoppani, violin manufacturer
+### \- George Stoppani, luthier de Manchester, 2 mars 2018
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
@@ -21,21 +21,16 @@ order: 2
 <div class="full-width">
 <div class="wrap -cols2">
 
-## What the professionals say
+## Ce que disent les professionnels
 
-«I’m excited about Sonowood. The resulting sound for wooden transverse
-flutes is excellent, it has an enriching new sound nuance.»  
-**— Thomas Aebi, flute manufacturer from Switzerland, 31st August 2018**
+«J'ai travaillé avec Sonowood et je suis ravi. Le résultat sonore des flûtes traversières en bois est excellent avec une nouvelle nuance sonore enrichissante.»  
+**— Thomas Aebi, fabricant de flûtes, 31 août 2018**
 
 -----
 
 
-«It must not be that a disappearing species such as ebony is still used
-heavily. The urgency to find a new material was strong. It is wonderful
-to now have such a high-end, ecologically sustainable material at our
-disposal.»  
-**— Mark Jonathan Wilhem, violin manufacturer from Switzerland, 28th
-November 2017**
+«Il n’est pas envisageable qu’une espèce en voie de disparition comme l'ébène soit davantage utilisée. C’est pourquoi il était urgent de chercher de nouveau matériaux. C'est merveilleux qu'avec Sonowood, nous disposions maintenant d'un matériau écologiquement durable et d'une telle qualité.»  
+**— Mark Jonathan Wilhem, luthier suisse, 28 novembre 2017**
 
 </div>
 </div>
@@ -43,9 +38,9 @@ November 2017**
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-## *«The guitar with a fingerboard and bridge from Sonowood possesses a very warm acoustic color. My client is simply thrilled.»*
+## *«La guitare équipée d’une touche et d’un chevalet en Sonowood possède un son très chaud. Mon client en est simplement ravi.»*
 
-**— Mauro Bodio, guitar manufacturer from Switzerland, 4th May 2018
+**— Mauro Bodio, fabricant de guitare, 4 mai 2018
 2017**
 
 </div>
@@ -55,14 +50,13 @@ November 2017**
 <div class="wrap -cols2">
 
 
-«I have not yet seen a material with such a low damping as Sonowood.»  
-**— Boris Haug, violin manufacturer from Suhr (CH), 28th November 2017**
+«Je ne connais pas un bois avec un si faible amortissement.»  
+**— Boris Haug, luthier suisse, 28 novembre 2017**
 
 -----
 
-«Sonowood offers such a straightforward workability, it is sensational.»  
-**— Eric Fouilhé, instrument manufacturer from Valence (FR), 2nd March
-2018**
+«Sonowood est si facile à travailler, le matériau est une petite sensation.»  
+**— Eric Fouilhé, fabricant d’instruments de Valence, 2 mars 2018**
 
 </div>
 </div>
@@ -70,9 +64,9 @@ November 2017**
 <div class="full-width-red">
 <div class="wrap -cols2">
 
-## *«Sonowood is soon going to revolutionize the manufacturing of wooden instruments.»*
+## *«Sonowood va bientôt révolutionner la facture d'instruments en bois.»*
 
-**— Fidel Peugeot, guitarist, 12th June 2018**
+**— Fidel Peugeot, guitariste, 12 juin 2018**
 
 </div>
 </div>
@@ -81,15 +75,15 @@ November 2017**
 <div class="wrap -cols2">
 
 
-«Sonowood is a very compact material. Nevertheless it is easier to plane and shape than ebony. A pleasant smooth surface results.»  
-**— Philip Ihle, violin manufacturer from London (UK), 2nd March 2018**
+«Sonowood est un bois très compact et encore plus facile à raboter que l'ébène. Il en résulte une surface agréablement lisse.»  
+**— Philip Ihle, luthier de Londres, 2 mars 2018**
 
 -----
 
 
-## Sounds good?
+## Ça a l'air bien?
 
-<a class="btn -red" href="/en/contact">Get in touch ></a>
+<a class="btn -red" href="/fr/contact">Get in touch ></a>
 
 </div>
 </div>
