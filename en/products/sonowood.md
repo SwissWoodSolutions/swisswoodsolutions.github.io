@@ -7,7 +7,7 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Sonowood : Le bois durable et taillé sur mesure pour votre instrument de musique
+# Sonowood: the sustainable and tailor-made wood for music
 
 ![](/assets/images/arrow-d-white.svg)
 
@@ -19,11 +19,24 @@ order: 1
 <div class="full-width">
 <div class="wrap">
 
-## Sonowood laisse votre instrument s’exprimer.
+## Sonowood makes your instrument sound better.
 
-Nous avons développé Sonowood spécifiquement comme bois pour la construction d'instruments de musique. Traditionnellement, certaines essences de bois tropicaux sont utilisées car elles possèdent une dureté et densité élevées, sont dimensionnellement stables et ont une plaisante couleur foncée. Malheureusement, en raison de la surexploitation mondiale des ressources, la plupart de ces essences sont aujourd'hui en fort déclin et risquent de disparaître complètement. Il en résulte que des directives d'importation et de commerce de plus en plus strictes, telles que [CITES](https://www.cites.org/eng/disc/species.php) doivent être appliquées. 
+For the manufacturing of musical instruments, tropical woods are highly
+esteemed thanks to high hardness and density, advanced dimensional
+stability and aesthetic dark coloration. However, excessive and
+unregulated exploitation has resulted in a rapidly decreasing
+availability of the material. Increasingly strict governmental
+regulations, such as
+[CITES,](https://www.cites.org/eng/disc/species.php) aim to protect the
+biodiversity. As a result, import and trade of tropical woods are
+closely controlled and often only allowed with certain certificates.
 
-C’est pour répondre à cette problématique que nous avons développé Sonowood. Notre concept est d’utiliser du bois local provenant de forêts gérées de manière durable et de le modifier afin d’obtenir des propriétés physico-mécaniques similaires à celles des bois tropicaux. Notre démarche est basée sur une production respectueuse de l’environnement associée à une recherche d’innovation continue. Ceci afin d’offrir au client un matériau de haute qualité sans restrictions légales ni préoccupations éthiques ou morales. 
+This is why we have developed **Sonowood**. Sonowood matches the
+favourable properties of tropical woods while being a completely legal
+alternative. In addition to being environmentally friendly, the
+technology offers adjustability of a wide range of parameters.
+
+**Sonowood** is the best alternative wood for your musical instrument, made of 100% real AND indigenous wood. Further detailed information is presented on the Sonowood flyer available for download.
 
 <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
 
@@ -33,37 +46,41 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 <div class="full-width-red">
 <div class="wrap">
 
-  - ## Sonowood vous offre les avantages suivants:
+  - ## Sonowood bears a range of advantages:
 
   - ![icon 100% wood](/assets/logo/100.svg)
 
-    ### 100% authentique
+    ### The real thing
 
-    Sonowood n'est pas un matériau composite, c’est du bois et ça se travaille comme tel.
+    Sonowood is NOT a composite material, it is fully authentic wood,
+    with straightforward workability.
 
   - ![icon acoustics](/assets/logo/sound.svg)
 
-    ### Propriétés acoustiques supérieures
+    ### Superior acoustics
 
-    Vitesse du son élevée, faible amortissement. Approuvé par les musiciens et luthiers. 
+    High sound velocity, low damping. Fully approved by musicians and
+    instrument makers.
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
-    ### Propriétés ajustables
+    ### Tunable properties
 
-    La dureté, la densité ou la coloration - vous choisissez les propriétés de votre bois.
+    No matter if hardness, density or coloration – you choose the
+    properties of your wood.
 
   - ![icon biodiversity](/assets/logo/biodiverse.svg)
 
-    ### Préservation de la biodiversité
+    ### Preserving biodiversity
 
-    Sonowood est fabriqué à partir de bois européen durable.
+    Sonowood is manufactured from sustainable European wood species.
 
   - ![icon no legal restrictions](/assets/logo/legal.svg)
 
-    ### Aucune restriction légale 
+    ### No legal restrictions
 
-    Nos clients peuvent voyager l’esprit libre, Sonowood n’est pas concerné par les restrictions au commerce et à l'importation décrites par CITES.
+    Sonowood does not contain wood species listed on CITES, therefore no
+    trade and import restrictions occur.
 
 </div>
 </div>
@@ -71,14 +88,14 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 <div class="full-width-grey">
 <div class="wrap">
 
-## Comment obtenir Sonowood?
+## How to get Sonowood?
 
-   Sonowood est actuellement disponible pour violon, alto, violoncelle, contrebasse et guitare. 
-   Bientôt disponible : Sonowood pour vents en bois comme les clarinettes.
+Sonowood is currently available for violin, viola, cello, double bass and guitar parts. </br>
+Coming soon: Sonowood for wood winds such as clarinets.
 
-  Pour toutes questions commerciales ou techniques :
+For sales inquiries or technical questions:
 
-<a class="btn -red" href="/fr/contact">Contact us ></a>
+<a class="btn -red" href="/en/contact">Contact us ></a>
 
 </div>
 </div>
@@ -86,69 +103,70 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 <div class="full-width" name="Sonowood-Types">
 <div class="wrap -cols2">
 
-## Gamme de produits
+## Types of Sonowood
 
 ---
 
   - ## Sonowood Maple
 
-  - ### Disponible pour instruments à cordes et guitares
+  - ### Available for stringed instruments and guitars
 
-  - #### Gamme de produits:
+  - #### Product range:
 
-      - **Touches** pour violon, alto, violoncelle et guitare
-      - **Cordiers** pour violon, alto, violoncelle et contrebasse
-      - **Chevilles** pour violon, alto et violoncelle
-      - **Mentionnières** pour tous les instruments à cordes
-      - **L'ensemble complet** des accessoires décrits ci-dessus
+      - **Fingerboards** for violin, viola, guitar and cello; as square
+        timbers
+      - **Tailpieces** for violin, viola, cello and double bass
+      - **Pegs** square timbers are provided for violin, viola and cello
+      - **Chinrest**
+      - **Full set** as square timbers
 
-  -  #### Données techniques:
+  -  #### Technical data:
 
-      - Type de bois: érable sycomore *(Acer pseudoplatanus)*
-      - Couleur: moka
-      - Densité: 1'200 – 1'400 kg/m³
-      - Dureté Brinell: \> 80 N/mm²
-      - Stabilité dimensionnelle: hauteur \~ 0.7,  
-        largeur \~ 0.3 % par % de variation d'humidité
-      - Vitesse de propagation du son: \> 4'400 m/s
-      - Amortissement (décrément logarithmique): \~ 0.053
-      - Module d’élasticité dynamique:  
+      - Sycamore maple *(Acer pseudoplatanus)*
+      - Colour: mocha
+      - Density: 1'200 – 1'400 kg/m³
+      - Brinell hardness: \> 80 N/mm²
+      - Dimensional stability: height \~ 0.7,  
+        width \~ 0.3 % per % moisture content change
+      - Sound velocity: \> 4'400 m/s
+      - Damping (log. decrement): \~ 0.053
+      - Dynamic elastic modulus:  
         \> 23'000 N/mm²
 
   - ![Sonowood Maple chinrest](/assets/images/Sonowood_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood Maple mentionnières*
+        *Sonowood Maple chinrest close-up*
 
     ![Sonowood Maple chinrest](/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood Maple touche guitare*
+        *Sonowood Maple guitar fingerboard*
 
   - ![Sonowood full set violin](/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Violon avec touche, mentonnière et chevilles en érable Sonowood.*
+        *Violin with Sonowood Maple fingerboard, chinrest, pegs*
 
 ---
 
   - ## Sonowood Spruce
 
-  - ### Disponible pour instruments à cordes et guitares
+  -  #### Product range
 
-  -  #### Gamme de produits:
-
-      - **Touches** pour violon, alto, violoncelle et guitare
-      - **Cordiers** pour violon, alto, violoncelle et contrebasse
+      - **Fingerboards** for violin, viola, guitar and cello; as square
+        timbers
+      - **Tailpieces** for violin, viola, cello and double bass
       - ![Sonowood spruce on viola. Picture: Wilhelm Geigenbau](/assets/images/Sonowood_7_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood spruce en alto. Photo: Wilhelm Geigenbau.*
+        *Sonowood spruce on viola. Picture: Wilhelm Geigenbau.*
 
-  -  #### Données techniques:
+  -  #### Technical data
 
-      - Type de bois: épicéa *(Picea abies)*
-      - Couleur: caramel
-      - Densité: 1'300 – 1'400 kg/m³
-      - Dureté Brinell: \> 100 N/mm²
-      - Stabilité dimensionnelle: hauteur \~ 0.75,  
-        largeur \~ 0.33 % par % de variation d'humidité
-      - Vitesse de propagation du son: \> 5'500 m/s
-      - Amortissement (décrément logarithmique): \~ 0.04
-      - Module d’élasticité dynamique:  
-        \> 39'000 N/mm² 
+      - Made of Spruce *(Picea abies)*
+      - Colour: caramel
+      - Density: 1'300 – 1'400 kg/m³
+      - Brinell hardness: \> 100 N/mm²
+      - Dimensional stability: height \~ 0.75,  
+        width \~0.33 % per % moisture content change
+      - Sound velocity: \> 5'500 m/s
+      - Damping (log. decrement): \~ 0.04
+      - Dynamic elastic modulus:  
+        \> 39'000 N/mm²
 
 </div>
 </div>
+
