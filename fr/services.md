@@ -7,7 +7,7 @@ order: 3
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Our expertise at your service.
+# Notre expertise à votre service.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
@@ -19,26 +19,23 @@ order: 3
 <div class="full-width">
 <div class="wrap -center">
 
-## Count on Swiss Wood Solutions to help your project succeed.
+## Comptez sur Swiss Wood Solutions pour la réussite de votre projet.
 
-### We offer:
+### Nous offrons:
 
-  - Assessment of wood constructions, based on our scientific background
-    and hands-on experience, with respect for case-specific aspects of
-    cultural heritage projects.
-  - Material testing, on site or in the lab.
-  - Collaboration and development of novel approaches for your wood
-    products or industrial processes.
-  - Planning, managing and executing Technology Transfer projects. From
-    science into practice.
-  - Access to an international network of partners from science and
-    industry.
+   - Essais indépendants de structures en bois sur la base de notre expertise scientifique et de notre expérience pratique.
+   - Considération de la protection des bâtiments et des monuments historiques
+   - Essais de matériaux sur site ou en laboratoire
+   - Coopération avec des entreprises visionnaires pour réaliser les applications futuristes du bois
+   - Planification, soutien et mise en œuvre de projets de transfert de technologie. De la science à la pratique
+   - Accès à un vaste réseau international dans les domaines de la science et de l'industrie
 
-<p class="extra-margin-top"><a class="btn" href="/en/contact">Contact us ></a></p>
+
+<p class="extra-margin-top"><a class="btn" href="/fr/contact">Contactez-nous ></a></p>
 
 <img srcset="/assets/images/services_cover_2x.jpg"
      src="/assets/images/services_cover.jpg" alt="Swiss Wood team at work at Zurich HB">
-<figcaption>Swiss Wood Solutions at work at Zurich HB.</figcaption>
+<figcaption>Swiss Wood Solutions à l'œuvre à la gare centrale de Zurich.</figcaption>
 
 </div>
 </div>
