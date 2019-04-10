@@ -7,34 +7,21 @@ order: 7
 <div class="full-width">
 <div class="wrap">
 
-## Swiss Wood Solutions on TV
+## Swiss Wood Solutions en télévision
 
 <div class="videocontainer">
 <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
 </iframe>
 </div>
 
-**In November 2017, CEO Oliver Kläusler gave insight into the
-Sonowood production technology in a live TV broadcast in «Schweiz aktuell» on
-SRF (see video above, in German).** The TV report also focused the
-application of Sonowood in the musical instrument manufacturing. Boris
-Haug, violin manufacturer from our premium partner Wilhelm Geigenbau in
-Suhr, showcased the working procedure necessary to incorporate Sonowood
-into high-end string instruments. Violist Chin-Ting Huang of the
-[Pacific Quartet Vienna](http://pacificquartet.com) was interviewed and
-stated to be thoroughly happy about her viola containing a fingerboard
-made from Sonowood. She praised the superior sound characteristics of
-her new instrument.
+Avec la technologie pour le développement de Sonowood, Swiss Wood Solutions a rencontré un grand intérêt médiatique. Le 28 novembre 2017, le PDG Oliver Kläusler a donné une interview en direct sur le programme "Schweiz aktuell". En outre, Boris Haug, luthier de notre partenaire Wilhelm Geigenbau à Suhr, a présenté les différentes étapes de la fabrication d'une touche de violon à partir d'une pièce de bois brut. Enfin, le téléreportage de la SRF a présenté un alto équipé d’une touche Sonowood du violoniste professionnel Chin-Ting Huang du Pacific Quartet Vienna. "Le son est plus chaud et plus ouvert qu'avec une touche de bois tropical," dit-elle positivement. Vous trouverez le téléreportage dans la vidéo.
 
 <div class="videocontainer">
 <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
 <figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
 </div>
 
-**In March 2018,** Swiss Wood Solutions was featured in a second
-broadcast in **«Schweiz aktuell».** This report focused on the musical
-manufacturing workshop held with our partner Wilhelm Geigenbau and
-subsequent concert of the Pacific Quartet Vienna on their instruments fitted with Sonowood.
+Le 2 mars 2018, la télévision a de nouveau pris Swiss Wood Solutions pour sujet. En collaboration avec Wilhelm Geigenbau, un atelier a été organisé entre luthiers nationaux et étrangers afin de faire évaluer le façonnage et les propriétés sonores de Sonwood par des experts reconnus.
 
 </div>
 </div>
@@ -42,7 +29,7 @@ subsequent concert of the Pacific Quartet Vienna on their instruments fitted wit
 <div class="full-width-red">
 <div class="wrap">
 
-## More of Swiss Wood Solutions on TV and Radio
+## Plus sur Swiss Wood Solutions à la télévision et à la radio
 
   - [**Falling Walls Lab, Presentation**  
     Berlin,
@@ -68,17 +55,9 @@ subsequent concert of the Pacific Quartet Vienna on their instruments fitted wit
 <div class="full-width">
 <div class="wrap">
 
-## Swiss Wood Solutions in Print
+## Swiss Wood Solutions en médias imprimés
 
-Sonowood has been very well received and widely applauded in multiple media. In October 2017, the
-technology was first introduced to a broad public by an article in the
-magazine EmpaQuarterly. «The technology enables Swiss Wood Solutions to
-finetune crucial parameters such as color and sound characteristics.»
-
-This introductory article quickly gained interest from numerous
-high-circulation newspapers in Switzerland. Articles in the highly
-respected Neue Zürcher Zeitung NZZ as well as Blick and Limmattaler
-Zeitung followed.
+En octobre 2017, la technologie a été présentée à un large public dans un article du magazine EmpaQuarterly. "Notre procédé nous permet d'adapter des paramètres importants tels que la densité du bois aux besoins individuels des clients ", explique PDG Dr. Oliver Kläusler dans l'article. Par la suite, d'autres journaux et revues spécialisées ont abordé le sujet. Vous trouverez les articles ci-dessous.
 
 </div>
 </div>

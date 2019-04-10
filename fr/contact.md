@@ -18,9 +18,12 @@ order: 8
 <div class="full-width">
 <div class="wrap">
 
-## Technically enhanced wood, tailored to your needs?
-We make it happen. Contact us for sales, further information or questions on our wood consultancy services.
-We look forward to hearing from you.
+## Du bois techniquement modifié, fait sur mesure selon vos besoins? 
+
+Nous le rendons possible.
+
+Nous avons éveillé votre intérêt et vous souhaitez acheter nos produits? Vous avez des questions sur notre offre de conseil et de service dans le domaine du bois? N'hésitez pas à nous contacter.
+
 
 ### Swiss Wood Solutions AG
 
