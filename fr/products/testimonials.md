@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'Testimonials'
+title: 'Témoignages'
 order: 2
 ---
 
