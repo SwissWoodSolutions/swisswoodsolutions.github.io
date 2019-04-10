@@ -7,7 +7,6 @@ order: 5
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
 <img srcset="/assets/images/About_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebony_Ebenholz_Swiss_Wood_Solutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg"
@@ -17,7 +16,7 @@ order: 5
 <div class="full-width">
 <div class="wrap -cols2">
 
-Swiss Wood Solutions a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf. Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement. 
+Swiss Wood Solutions AG a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf. Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement. 
 
 L'équipe se caractérise par une combinaison unique et interdisciplinaire d'expertise scientifique, technique et pratique à travers une variété de parcours professionnels. Avant de rejoindre Swiss Wood Solutions, tous les membres de notre équipe ont acquis une expérience de recherche à l'ETH et/ou à l'Empa.
 
