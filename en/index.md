@@ -17,12 +17,16 @@ order: 1
 </div>
 
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap">
 
-- ## We are driven by the belief that wood is still an underestimated material.
+  ## We are driven by the belief that wood is still an underestimated material. That is why we want to bring our novel wood products and expertise out of the research lab and into the 21st century.
 
-  ### We want to bring novel wood products and our expertise out of the research lab, and into the 21st century.
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap">
 
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple on violin">
@@ -67,6 +71,15 @@ order: 1
   Swiss Wood Solutions and Sonowood on Swiss national TV and in other media.
 
     <a class="btn" href="/en/media">Media ></a>
+
+- <img src="/assets/images/News_2_ALPA_Kamera_Griffe_Camera_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpg"
+    srcset="/assets/images/News_2_ALPA_Kamera_Griffe_Camera_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpg" alt="sonowood maple auf Geige">
+
+  ### Newsflash
+
+   Have a peek into the highlights of our latest developments and prototypes.
+
+  <a class="btn" href="/en/newsflash">Newsflash ></a>
 
 </div>
 </div>
