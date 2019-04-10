@@ -35,7 +35,7 @@ order: 3
 
 <img srcset="/assets/images/services_cover_2x.jpg"
      src="/assets/images/services_cover.jpg" alt="Swiss Wood team at work at Zurich HB">
-<figcaption>Swiss Wood Solutions à l'œuvre à la gare centrale de Zurich.</figcaption>
+<figcaption>Swiss Wood Solutions AG à l'œuvre à la gare centrale de Zurich.</figcaption>
 
 </div>
 </div>
