@@ -7,7 +7,7 @@ order: 6
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Highlights de nos développements actuels.
+# Highlights de nos développements actuels
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
@@ -25,7 +25,7 @@ order: 6
   ![Stradivarius from 1721 with Sonowood](/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg)
   *Stradivari violon avec touche et cordier en Sonowood.*
 
-  Un honneur exceptionnel pour Swiss Wood Solutions! Ce violon Stradivarius de 1721 a été équipé d'une touche et d'un cordier Sonowood par notre partenaire [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag). Le bois a été trouvé dans la région suisse des Grisons (Grisons). Le courage du propriétaire d'opter pour un matériau aussi innovant a porté ses fruits. Un gain net en couleur et en volume est enregistré.
+  Un honneur exceptionnel pour Swiss Wood Solutions! Ce violon Stradivari de 1721 a été équipé d'une touche et d'un cordier Sonowood par notre partenaire [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag). Le bois a été trouvé dans la région suisse des Grisons (Grisons). Le courage du propriétaire d'opter pour un matériau aussi innovant a porté ses fruits. Un gain net en couleur et en volume est enregistré.
 
   <a class="btn" href="/fr/products/sonowood/">Sonowood ></a>
 
