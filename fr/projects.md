@@ -29,7 +29,7 @@ order: 4
 
 - ### ... curieux?
 
-  <a class="btn -red" href="/en/contact">Contactez-nous ></a>
+  <a class="btn -red" href="/fr/contact">Contactez-nous ></a>
 
 </div>
 </div>
@@ -41,7 +41,7 @@ order: 4
 
 Swiss Wood Solutions a été fondée le 30 octobre 2016 en tant que spin-off de l'ETH Zurich et de l'Empa Dübendorf. L'ETH Zurich (Ecole polytechnique fédérale de Zurich) est l'une des meilleures universités scientifiques au monde et se classe constamment parmi les meilleures au monde. L'Empa (Laboratoire fédéral suisse de science des matériaux et de technologie) est un institut de recherche interdisciplinaire suisse pour la science appliquée des matériaux avec différents campus à travers la Suisse.
 
-Tous les <a href="/en/about/">membres de notre équipe</a> ont travaillé à l'ETH et/ou à l'Empa avant leur engagement chez Swiss Wood Solutions. Nous sommes dans une position avantageuse de bénéficier du soutien infrastructurel, technique et de savoir-faire de ces deux institutions suisses. Swiss Wood Solutions agit néanmoins en tant qu'entreprise indépendante et détient ses propres droits de propriété intellectuelle.
+Tous les <a href="/fr/about/">membres de notre équipe</a> ont travaillé à l'ETH et/ou à l'Empa avant leur engagement chez Swiss Wood Solutions. Nous sommes dans une position avantageuse de bénéficier du soutien infrastructurel, technique et de savoir-faire de ces deux institutions suisses. Swiss Wood Solutions agit néanmoins en tant qu'entreprise indépendante et détient ses propres droits de propriété intellectuelle.
 
   - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
   - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
@@ -82,7 +82,7 @@ Gebert Rüf a rendu possible deux projets de Swiss Wood Solutions. Dans le cadre
 
 Dans le cadre du Swiss Ebony Project II, Swiss Wood Solutions travaille sur l'ajustabilité des propriétés physiques, mécaniques et optiques du matériau compacté. En permettant d'adapter individuellement des paramètres importants tels que la densité et la couleur aux besoins des clients, Swiss Wood Solutions obtient un argument de vente unique sur le marché des instruments musicaux. 
 
-Grâce au précieux soutien de la Fondation Gebert Rüf, Swiss Wood Solutions a pu lancer la ligne de production pilote Swiss Ebony, caractérisée par une couleur brun foncé. Le niveau de maturité technologique 6 a été atteint (technology readiness level, bref: TRL). Cela signifie que les premiers prototypes ont été intégrés dans des instruments à cordes. Les retours des facteurs d'instruments et des musiciens sont très positifs
+Grâce au précieux soutien de la Fondation Gebert Rüf, Swiss Wood Solutions a pu lancer la ligne de production pilote Swiss Ebony, caractérisée par une couleur brun foncé. Le niveau de maturité technologique 6 a été atteint (technology readiness level, bref: TRL). Cela signifie que les premiers prototypes ont été intégrés dans des instruments à cordes. Les retours des facteurs d'instruments et des musiciens sont très positifs.
 
 
 <a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Foundation ></a>

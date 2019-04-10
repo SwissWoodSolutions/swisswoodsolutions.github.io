@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'Qui sommes-nous'
+title: 'L'équipe'
 order: 5
 ---
 
@@ -17,49 +17,28 @@ order: 5
 <div class="full-width">
 <div class="wrap -cols2">
 
-Swiss Wood Solutions was founded in 2016 as a spin-off from ETH Zurich
-and Empa.
+Swiss Wood Solutions a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf. Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement. 
 
-We are driven by the belief that wood can fulfill more needs
-than it currently does. The team fuses the vast knowledge of scientists
-with diverse educational backgrounds. The team members combine for a
-unique and complementary set of scientific, technical and commercial
-skills.
+L'équipe se caractérise par une combinaison unique et interdisciplinaire d'expertise scientifique, technique et pratique à travers une variété de parcours professionnels. Avant de rejoindre Swiss Wood Solutions, tous les membres de notre équipe ont acquis une expérience de recherche à l'ETH et/ou à l'Empa.
 
-<a class="btn -red" href="/en/contact">Get in touch ></a>
+<a class="btn -red" href="/fr/contact">Contactez-nous ></a>
 
 # Our team
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
+    ### Dr. Oliver Kläusler
+    ###	PDG
 
-    ### Dr. Oliver Kläusler, CEO,
-
-    has studied wood science and technology at the University of Hamburg
-    (Germany) and wrote his thesis at ETH Zurich. Subsequently, he
-    worked as an R\&D engineer and project manager in the wood industry
-    in Switzerland, the Czech Republic and the United States. He is the
-    main inventor and developer of the production technologies for two
-    Beaufort products for Audi cars. Oliver Kläusler then received his
-    PhD in the field of high-performance bonded wooden joints for wood
-    constructions from ETH Zurich. Following his promotion, he became
-    research-group leader at Empa Dübendorf and ETH Zurich. Oliver
-    Kläusler is Co-founder of Swiss Wood Solutions AG and its first
-    CEO.
+    a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier CEO de Swiss Wood Solutions AG. 
 
     <klaeusler@swisswoodsolutions.ch>  
     Tel. +41 79 819 72 77
 
   - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
+    ### Dr. Munish Chanana
+    ### co-PDG et directeur de recherche
 
-    ### Dr. Munish Chanana, Co-CEO and Head of R\&D,
-
-    studied chemistry at the University of Münster (Germany) and later
-    received his PhD from the Max Planck Institute (Germany). He
-    acquired profound research experience in hierarchical biological
-    materials, chemical synthesis and physical chemistry of interfaces.
-    Prior to his engagement at Swiss Wood Solutions, Munish Chanana led
-    the group of Hierarchical Nano-Bio Materials at the Institute for
-    Building Materials at ETH Zurich.  
+    a étudié la chimie à l'Université de Münster et a ensuite rédigé sa thèse de doctorat à l'Institut Max Planck. Il a ensuite acquis de nombreuses années d'expérience en recherche dans le domaine des sciences nanobiologiques. Avant de rejoindre Swiss Wood Solutions, il a dirigé le groupe de recherche sur les matériaux nanobiologiques hiérarchiques à l'ETH Zurich. Munish Chanana est co-CEO et responsable de la recherche chez Swiss Wood Solutions.
 
     <chanana@swisswoodsolutions.ch>
     Tel. +41 76 688 70 02 (CH)  
@@ -67,54 +46,38 @@ skills.
 
   - ![Walter Sonderegger](/assets/images/About_7_Walter_Sonderegger_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Schweiz_Switzerland.jpg)
 
-    ### Dr. Walter Sonderegger, responsible for quality management,
+    ### Dr. Walter Sonderegger
+    ### Contrôle de la qualité
 
-    studied forest science at ETH Zurich. Subsequently, he worked at the
-    Institute for Building Materials at ETH as a forest engineer. Walter
-    Sonderegger has acquired profound knowledge in wood mechanics, wood
-    physics and hydrothermal compression methods. Furthermore, he has
-    released numerous research articles in scientific journals and
-    reference books on wood.
+    a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermal. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
 
     <sonderegger@swisswoodsolutions.ch>
 
   - ![Philipp Hass](/assets/images/About_6_Philipp_Hass_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Philipp Hass, CTO,
+    ### Dr. Philipp Hass
+    ### Directeur de la technologie
 
-    studied process engineering with focus on wood and fiber material
-    technology at the University of Technology in Dresden (Germany) and
-    later received his PhD from ETH Zurich. In combination with an
-    apprenticeship as carpenter, he acquired both practical and
-    theoretical wood processing skills. Prior to his engagement at Swiss
-    Wood Solutions, Philipp Hass worked in a postdoctoral position at
-    ETH Zurich and at Empa Dübendorf.
+    a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Plus récemment, il a travaillé comme postdoctorant à l'Empa Dübendorf et à l'ETH Zurich. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
 
     <phass@swisswoodsolutions.ch>
 
   - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Luca Schelbli, R\&D engineer,
+    ### Luca Schelbli
+    ### Ingénieur en R\&D
 
-    has studied chemistry and business studies at the University of
-    Zurich and Louisiana State University (USA). In his position as R\&D
-    specialist, he works on the development of new physicochemical
-    modification approaches of wood. Furthermore, he supports the
-    commercialization of the developed processes.
+    a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
 
     <schelbli@swisswoodsolutions.ch>  
     Tel. +41 44 633 62 12
 
   - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Karsten Leuker, sales manager,
+    ### Karsten Leuker
+    ### Directeur des ventes
 
-    studied wood science and technology at the University of Hamburg
-    (Germany). Thanks to prior sales positions in the wood industry, he
-    has established a far-reaching network of business contacts
-    including manufacturers and customers of wooden products. At Swiss
-    Wood Solutions, Karsten Leuker is in charge of the distribution
-    channels and engages in close customer interaction.
+    a étudié l'industrie et la technologie du bois à l'Université de Hambourg. Grâce à ses nombreuses années d'expérience dans la vente dans l'industrie du bois, il a pu établir un vaste réseau de contacts. Chez Swiss Wood Solutions, Karsten Leuker gère les canaux de distribution et entretient un contact étroit avec les clients.
 
     <leuker@swisswoodsolutions.ch>  
     Tel. +41 76 205 77 04 (CH)  
