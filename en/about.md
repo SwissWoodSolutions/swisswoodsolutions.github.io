@@ -34,9 +34,8 @@ skills.
 
     ### Dr. Oliver Kläusler, CEO,
 
-    has studied wood science and technology at the University of Hamburg
-    (Germany) and wrote his thesis at ETH Zurich. Subsequently, he
-    worked as an R\&D engineer and project manager in the wood industry
+    has studied wood science and technology at the University of Hamburg and wrote his thesis at ETH Zurich. 
+    Subsequently, he worked as an R\&D engineer and project manager in the wood industry
     in Switzerland, the Czech Republic and the United States. He is the
     main inventor and developer of the production technologies for two
     Beaufort products for Audi cars. Oliver Kläusler then received his
@@ -51,17 +50,18 @@ skills.
 
   - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Munish Chanana, Co-CEO and Head of R\&D,
+    ### Dr. Munish Chanana, Head of R\&D,
 
-    studied chemistry at the University of Münster (Germany) and later
-    received his PhD from the Max Planck Institute (Germany). He
+    studied chemistry at the University of Münster, Germany, and later
+    received his PhD from the Max Planck Institute in Potsdam, Germany. He
     acquired profound research experience in hierarchical biological
     materials, chemical synthesis and physical chemistry of interfaces.
     Prior to his engagement at Swiss Wood Solutions, Munish Chanana led
     the group of Hierarchical Nano-Bio Materials at the Institute for
-    Building Materials at ETH Zurich.  
+    Building Materials at ETH Zurich. In addition, he is engaged as a reviewer of numerous scientific journals.
 
     <chanana@swisswoodsolutions.ch>
+    
     Tel. +41 76 688 70 02 (CH)  
     Tel. +49 176 63 00 44 09 (D)
 
@@ -69,8 +69,8 @@ skills.
 
     ### Dr. Walter Sonderegger, responsible for quality management,
 
-    studied forest science at ETH Zurich. Subsequently, he worked at the
-    Institute for Building Materials at ETH as a forest engineer. Walter
+    studied forest science at ETH Zurich and earned his doctorate there. Subsequently, he worked at the
+    Institute for Building Materials at ETH as a forest engineer for several decades. Walter
     Sonderegger has acquired profound knowledge in wood mechanics, wood
     physics and hydrothermal compression methods. Furthermore, he has
     released numerous research articles in scientific journals and
@@ -80,7 +80,7 @@ skills.
 
   - ![Philipp Hass](/assets/images/About_6_Philipp_Hass_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Philipp Hass, CTO,
+    ### Dr. Philipp Hass, CTO and production manager, 
 
     studied process engineering with focus on wood and fiber material
     technology at the University of Technology in Dresden (Germany) and
@@ -100,7 +100,7 @@ skills.
     Zurich and Louisiana State University (USA). In his position as R\&D
     specialist, he works on the development of new physicochemical
     modification approaches of wood. Furthermore, he supports the
-    commercialization of the developed processes.
+    commercialization of the developed processes, supervises the distribution channels and manages customer requests.
 
     <schelbli@swisswoodsolutions.ch>  
     Tel. +41 44 633 62 12
