@@ -24,7 +24,7 @@ order: 2
 </div>
 </div>
 
- <div class="full-width-red">
+ <div class="full-width-grey">
 <div class="wrap -cols2">
 
   - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
