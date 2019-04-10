@@ -32,7 +32,8 @@ skills.
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Oliver Kläusler, CEO,
+    ### Dr. Oliver Kläusler
+    ## CEO
 
     has studied wood science and technology at the University of Hamburg and wrote his thesis at ETH Zurich. 
     Subsequently, he worked as an R\&D engineer and project manager in the wood industry
@@ -50,7 +51,8 @@ skills.
 
   - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Munish Chanana, Head of R\&D,
+    ### Dr. Munish Chanana
+    ## Co-CEO and Head of R\&D
 
     studied chemistry at the University of Münster, Germany, and later
     received his PhD from the Max Planck Institute in Potsdam, Germany. He
@@ -67,7 +69,8 @@ skills.
 
   - ![Walter Sonderegger](/assets/images/About_7_Walter_Sonderegger_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Schweiz_Switzerland.jpg)
 
-    ### Dr. Walter Sonderegger, responsible for quality management,
+    ### Dr. Walter Sonderegger
+    ## Quality management
 
     studied forest science at ETH Zurich and earned his doctorate there. Subsequently, he worked at the
     Institute for Building Materials at ETH as a forest engineer for several decades. Walter
@@ -80,7 +83,8 @@ skills.
 
   - ![Philipp Hass](/assets/images/About_6_Philipp_Hass_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Dr. Philipp Hass, CTO and production manager, 
+    ### Dr. Philipp Hass
+    ## CTO and production manager 
 
     studied process engineering with focus on wood and fiber material
     technology at the University of Technology in Dresden (Germany) and
@@ -94,7 +98,8 @@ skills.
 
   - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Luca Schelbli, R\&D engineer,
+    ### Luca Schelbli
+    ## R\&D engineer
 
     has studied chemistry and business studies at the University of
     Zurich and Louisiana State University (USA). In his position as R\&D
@@ -107,7 +112,8 @@ skills.
 
   - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
 
-    ### Karsten Leuker, sales manager,
+    ### Karsten Leuker
+    ## Sales manager
 
     studied wood science and technology at the University of Hamburg
     (Germany). Thanks to prior sales positions in the wood industry, he
