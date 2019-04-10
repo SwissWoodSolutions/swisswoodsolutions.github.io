@@ -31,8 +31,7 @@ skills.
 # Our team
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-
-    ## Dr. Oliver Kläusler
+    ### Dr. Oliver Kläusler
     ### CEO
 
     has studied wood science and technology at the University of Hamburg and wrote his thesis at ETH Zurich. 
@@ -48,8 +47,7 @@ skills.
     Tel. +41 79 819 72 77
 
   - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-
-    ## Dr. Munish Chanana
+    ### Dr. Munish Chanana
     ### Co-CEO and Head of R\&D
 
     studied chemistry at the University of Münster, Germany, and later
@@ -66,8 +64,7 @@ skills.
     Tel. +49 176 63 00 44 09 (D)
 
   - ![Walter Sonderegger](/assets/images/About_7_Walter_Sonderegger_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Schweiz_Switzerland.jpg)
-
-    ## Dr. Walter Sonderegger
+    ### Dr. Walter Sonderegger
     ### Quality management
 
     studied forest science at ETH Zurich and earned his doctorate there. Subsequently, he worked at the
@@ -80,8 +77,7 @@ skills.
     <sonderegger@swisswoodsolutions.ch>
 
   - ![Philipp Hass](/assets/images/About_6_Philipp_Hass_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-
-    ## Dr. Philipp Hass
+    ### Dr. Philipp Hass
     ### CTO and production manager 
 
     studied process engineering with focus on wood and fiber material
@@ -95,8 +91,7 @@ skills.
     <phass@swisswoodsolutions.ch>
 
   - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-
-    ## Luca Schelbli
+    ### Luca Schelbli
     ### R\&D engineer
 
     has studied chemistry and business studies at the University of
@@ -109,8 +104,7 @@ skills.
     Tel. +41 44 633 62 12
 
   - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-
-    ## Karsten Leuker
+    ### Karsten Leuker
     ### Sales manager
 
     studied wood science and technology at the University of Hamburg
