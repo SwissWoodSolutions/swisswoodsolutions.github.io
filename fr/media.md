@@ -14,7 +14,7 @@ order: 7
 </iframe>
 </div>
 
-Avec la technologie pour le développement de Sonowood, Swiss Wood Solutions a rencontré un grand intérêt médiatique. Le 28 novembre 2017, le PDG Oliver Kläusler a donné une interview en direct sur le programme "Schweiz aktuell". En outre, Boris Haug, luthier de notre partenaire Wilhelm Geigenbau à Suhr, a présenté les différentes étapes de la fabrication d'une touche de violon à partir d'une pièce de bois brut. Enfin, le téléreportage de la SRF a présenté un alto équipé d’une touche Sonowood du violoniste professionnel Chin-Ting Huang du Pacific Quartet Vienna. "Le son est plus chaud et plus ouvert qu'avec une touche de bois tropical," dit-elle positivement. Vous trouverez le téléreportage dans la vidéo.
+Avec la technologie pour le développement de Sonowood, Swiss Wood Solutions AG a rencontré un grand intérêt médiatique. Le 28 novembre 2017, le PDG Oliver Kläusler a donné une interview en direct sur le programme "Schweiz aktuell". En outre, Boris Haug, luthier de notre partenaire Wilhelm Geigenbau à Suhr, a présenté les différentes étapes de la fabrication d'une touche de violon à partir d'une pièce de bois brut. Enfin, le téléreportage de la SRF a présenté un alto équipé d’une touche Sonowood du violoniste professionnel Chin-Ting Huang du Pacific Quartet Vienna. "Le son est plus chaud et plus ouvert qu'avec une touche de bois tropical," dit-elle positivement. Vous trouverez le téléreportage dans la vidéo.
 
 <div class="videocontainer">
 <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
