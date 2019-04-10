@@ -16,22 +16,25 @@ order: 2
 </div>
 
 <div class="full-width-red">
-<div class="wrap -cols3">
+<div class="wrap">
 
-  - ## We develop technically enhanced wood: Innovative, sustainable and tailor-made to your needs.
+</div>
+</div>
 
-    ### Wood that can face the demands of the 21st century.
+## For the manufacturing of musical instruments, tropical woods are highly esteemed thanks to high hardness and density, advanced dimensional stability and aesthetic dark coloration. However, excessive and unregulated exploitation has resulted in a rapidly decreasing availability of the material. Increasingly strict governmental regulations, such as CITES, aim to protect the biodiversity. As a result, import and trade of tropical woods are closely controlled and often only allowed with certain certificates. This is why we have developed Sonowood.
+
+<div class="full-width-red">
+<div class="wrap -cols2">
 
   - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Sonowood for music
+    ### Advantages and offering
 
-    Our sustainable product line for the music industry matches the properties of
-    tropical wood.
+    Learn more about the advantages of Sonowood and get an overview of our offering for music instruments.
 
     <a class="btn -white" href="/en/products/sonowood">Sonowood ></a>
 
   - ![generic tailpiece](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Sonowood Testimonials
+    ### Testimonials
 
     We think Sonowood is the best. But don't just take our word for it: read
     what the users say.
