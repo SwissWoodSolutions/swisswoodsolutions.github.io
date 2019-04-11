@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'L'équipe'
+title: 'Équipe'
 order: 5
 ---
 
@@ -16,7 +16,7 @@ order: 5
 <div class="full-width">
 <div class="wrap -cols2">
 
-Swiss Wood Solutions AG a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf. Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement. 
+Swiss Wood Solutions AG a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf. Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement.
 
 L'équipe se caractérise par une combinaison unique et interdisciplinaire d'expertise scientifique, technique et pratique à travers une variété de parcours professionnels. Avant de rejoindre Swiss Wood Solutions, tous les membres de notre équipe ont acquis une expérience de recherche à l'ETH et/ou à l'Empa.
 
@@ -28,7 +28,7 @@ L'équipe se caractérise par une combinaison unique et interdisciplinaire d'exp
     ### Dr. Oliver Kläusler
     ###	PDG
 
-    a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier CEO de Swiss Wood Solutions AG. 
+    a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier CEO de Swiss Wood Solutions AG.
 
     <klaeusler@swisswoodsolutions.ch>  
     Tel. +41 79 819 72 77
