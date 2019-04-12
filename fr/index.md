@@ -1,6 +1,6 @@
 ﻿---
 lang: fr
-title: 'Page d'accueil'
+title: 'Accueil'
 order: 1
 ---
 
@@ -40,7 +40,7 @@ order: 1
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
   ### Expertise pour l'industrie du bois
- 
+
   Des années d'expérience et d'expertise en chimie et ingénierie du bois à votre service.
 
   <a class="btn" href="/fr/services">Services ></a>
