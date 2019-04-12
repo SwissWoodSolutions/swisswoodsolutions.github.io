@@ -28,7 +28,7 @@ L'équipe se caractérise par une combinaison unique et interdisciplinaire d'exp
     ### Dr. Oliver Kläusler
     ###	PDG
 
-    a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier CEO de Swiss Wood Solutions AG.
+    a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier PDG de Swiss Wood Solutions.
 
     <klaeusler@swisswoodsolutions.ch>  
     Tel. +41 79 819 72 77
@@ -37,9 +37,10 @@ L'équipe se caractérise par une combinaison unique et interdisciplinaire d'exp
     ### Dr. Munish Chanana
     ### co-PDG et directeur de recherche
 
-    a étudié la chimie à l'Université de Münster et a ensuite rédigé sa thèse de doctorat à l'Institut Max Planck. Il a ensuite acquis de nombreuses années d'expérience en recherche dans le domaine des sciences nanobiologiques. Avant de rejoindre Swiss Wood Solutions, il a dirigé le groupe de recherche sur les matériaux nanobiologiques hiérarchiques à l'ETH Zurich. Munish Chanana est co-CEO et responsable de la recherche chez Swiss Wood Solutions.
+    a étudié la chimie à l'Université de Münster et a ensuite rédigé sa thèse de doctorat à l'Institut Max Planck à Potsdam. Il a ensuite acquis de nombreuses années d'expérience en recherche dans le domaine des sciences nanobiologiques en Suisse, en Allemagne et en Espagne. Avant de rejoindre Swiss Wood Solutions, il a dirigé le groupe de recherche sur les matériaux nanobiologiques hiérarchiques à l'ETH Zurich. Munish Chanana est co-PDG et responsable de la recherche chez Swiss Wood Solutions.
 
     <chanana@swisswoodsolutions.ch>
+    
     Tel. +41 76 688 70 02 (CH)  
     Tel. +49 176 63 00 44 09 (D)
 
@@ -57,7 +58,7 @@ L'équipe se caractérise par une combinaison unique et interdisciplinaire d'exp
     ### Dr. Philipp Hass
     ### Directeur de la technologie
 
-    a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Plus récemment, il a travaillé comme postdoctorant à l'Empa Dübendorf et à l'ETH Zurich. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
+    a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
 
     <phass@swisswoodsolutions.ch>
 
@@ -76,7 +77,7 @@ L'équipe se caractérise par une combinaison unique et interdisciplinaire d'exp
     ### Karsten Leuker
     ### Directeur des ventes
 
-    a étudié l'industrie et la technologie du bois à l'Université de Hambourg. Grâce à ses nombreuses années d'expérience dans la vente dans l'industrie du bois, il a pu établir un vaste réseau de contacts. Chez Swiss Wood Solutions, Karsten Leuker gère les canaux de distribution et entretient un contact étroit avec les clients.
+    a étudié l'industrie et la technologie du bois à l'Université de Hambourg. Par la suite, il a participé au développement d'une entreprise de parquets en bois. Grâce à ses nombreuses années d'expérience dans la vente dans l'industrie du bois, il a pu établir un vaste réseau de contacts. Chez Swiss Wood Solutions, Karsten Leuker gère les canaux de distribution et entretient un contact étroit avec les clients.
 
     <leuker@swisswoodsolutions.ch>  
     Tel. +41 76 205 77 04 (CH)  
