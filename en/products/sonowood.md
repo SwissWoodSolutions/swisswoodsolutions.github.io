@@ -7,7 +7,7 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Sonowood: the sustainable and tailor-made wood for music
+# Sonowood: the sustainable wood for your musical instrument.
 
 ![](/assets/images/arrow-d-white.svg)
 

@@ -7,7 +7,7 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# We develop the wood of tomorrow.
+# We create the wood of tomorrow.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 

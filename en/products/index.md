@@ -7,7 +7,7 @@ order: 2
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# We create the wood of tomorrow.
+# Sonowood: the sustainable wood for your musical instrument.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
