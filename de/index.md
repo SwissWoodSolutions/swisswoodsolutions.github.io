@@ -7,7 +7,7 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Die Holz-Innovatoren.
+# Wir entwickeln das Holz von morgen.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 

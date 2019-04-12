@@ -7,7 +7,7 @@ order: 2
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Sonowood : Le bois durable et taillé sur mesure pour votre instrument de musique
+# Sonowood : Le bois durable et taillé sur mesure pour votre instrument de musique.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
@@ -38,7 +38,7 @@ order: 2
 
     Nous sommes convaincus par notre gamme de produits Sonowood. Mais ne nous croyez pas sur parole: lisez ce qu’en disent les utilisateurs.
 
-    <a class="btn -white" href="/en/products/testimonials">Happy clients ></a>
+    <a class="btn -white" href="/en/products/testimonials">Témoignages ></a>
 
 </div>
 </div>

@@ -7,7 +7,7 @@ order: 2
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Wir entwickeln das Holz von morgen.
+# Sonowood: das nachhaltige Holz für Ihr Musikinstrumente.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
@@ -15,17 +15,21 @@ order: 2
      src="/assets/images/products_cover.jpg" alt="Sonowood Kinnhalter für Geige">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap -cols3">
 
-  - ## Wir entwickeln technisch modifiziertes Holz: innovativ, nachhaltig und massgeschneidert.
+   ### Wir haben Sonowood für den Bau von Musikinstrumenten entwickelt. Traditionell werden dafür Tropenhölzer verwendet, die sich dafür aus einer Vielzahl von Gründen eignen. Das Problem dabei: durch den weltweiten Raubbau sind die Bestände der meisten Tropenholzarten inzwischen stark rückläufig, ein komplettes Verschwinden droht. Immer strengere Import- und Handelsrichtlinien wie CITES sind die Folge. Deshalb haben wir Sonowood entwickelt: das Holz für Ihr Musikinstrument.
 
-    ### Hölzer, die den heutigen Bedürfnissen gerecht werden.
+</div>
+</div>
+
+<div class="full-width-red">
+<div class="wrap -cols2">
 
   - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
     ### Sonowood für Musikinstrumente
 
-    Unsere Produktlinie für die Musikindustrie als Alternative zu gefährdeten Tropenhölzern.
+    Erfahren Sie mehr über die Vorteile von Sonowood und unser aktuelles Sortiment.
 
     <a class="btn -white" href="/de/products/sonowood">Sonowood ></a>
 
@@ -34,7 +38,7 @@ order: 2
 
      Wir finden Sonowood toll. Doch verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
 
-    <a class="btn -white" href="/de/products/testimonials">zufriedene Kunden ></a>
+    <a class="btn -white" href="/de/products/testimonials">Referenzen ></a>
 
 </div>
 </div>
