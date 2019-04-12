@@ -7,7 +7,7 @@ order: 2
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Sonowood: das nachhaltige Holz für Ihr Musikinstrumente.
+# Sonowood: das nachhaltige Holz für Ihr Musikinstrument.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
@@ -18,7 +18,7 @@ order: 2
 <div class="full-width-grey">
 <div class="wrap -cols3">
 
-   ### Wir haben Sonowood für den Bau von Musikinstrumenten entwickelt. Traditionell werden dafür Tropenhölzer verwendet, die sich dafür aus einer Vielzahl von Gründen eignen. Das Problem dabei: durch den weltweiten Raubbau sind die Bestände der meisten Tropenholzarten inzwischen stark rückläufig, ein komplettes Verschwinden droht. Immer strengere Import- und Handelsrichtlinien wie CITES sind die Folge. Deshalb haben wir Sonowood entwickelt: das Holz für Ihr Musikinstrument.
+   ## Wir haben Sonowood für den Bau von Musikinstrumenten entwickelt. Traditionell werden dafür Tropenhölzer verwendet, die sich dafür aus einer Vielzahl von Gründen eignen. Das Problem dabei: durch den weltweiten Raubbau sind die Bestände der meisten Tropenholzarten inzwischen stark rückläufig, ein komplettes Verschwinden droht. Immer strengere Import- und Handelsrichtlinien wie CITES sind die Folge. Deshalb haben wir Sonowood entwickelt: das Holz für Ihr Musikinstrument.
 
 </div>
 </div>

@@ -4,7 +4,7 @@ title: 'Médias'
 order: 7
 ---
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap">
 
 ## Swiss Wood Solutions en télévision

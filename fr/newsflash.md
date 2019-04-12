@@ -7,7 +7,7 @@ order: 6
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Highlights de nos développements actuels
+# Highlights de nos développements actuels.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 

@@ -22,7 +22,7 @@ L'équipe se caractérise par une combinaison unique et interdisciplinaire d'exp
 
 <a class="btn -red" href="/fr/contact">Contactez-nous ></a>
 
-# Our team
+# L'équipe
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
     ### Dr. Oliver Kläusler
