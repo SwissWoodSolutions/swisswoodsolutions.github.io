@@ -55,7 +55,16 @@ Dans son atelier spécialisé pour instruments à vent en bois à Zurich, Robert
 
 ## Bodio Guitars
 
-Mauro Bodio est un fabricant de guitares de Bâle. Dans son atelier, il propose une large gamme de guitares, y compris des guitares jazz. En août 2018, il a fabriqué la première guitare avec touche en épicéa de Sonowood.
+Mauro Bodio est un fabricant de guitares de Bâle. Dans son atelier, il propose une large gamme de guitares, y compris des guitares jazz. En août 2018, il a fabriqué les premières guitares avec touche en épicéa et en érable de Sonowood.
+
+- <img srcset="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
+     src="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>Guitare avec touche Sonowood.</figcaption>
+
+- <img srcset="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
+     src="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>Photos: Bodio Guitars.</figcaption>
+
 
 <a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
 

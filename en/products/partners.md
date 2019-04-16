@@ -64,7 +64,15 @@ Robert Stempfle is a trained woodwind instrument maker and clarinetist. In his s
 
 ## Bodio Guitars
 
-Mauro Bodio is a guitar manufacturer based in Basel. In his workshop he offers a wide range of guitars, including jazz guitars. In August 2018, he made the first guitar with a fingerboard from Sonowood spruce.
+Mauro Bodio is a guitar manufacturer based in Basel. In his workshop he offers a wide range of guitars, including jazz guitars. In August 2018, he made the first guitars with fingerboards from Sonowood spruce and Sonowood maple.
+
+- <img srcset="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
+     src="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>Guitar with Sonowood fingerboard.</figcaption>
+
+- <img srcset="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
+     src="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>Photos: Bodio Guitars.</figcaption>
 
 <a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
 
