@@ -52,11 +52,23 @@ Robert Stempfle ist gelernter Holzblasinstrumentenmacher und studierter Klarinet
 </div>
 
 <div class="full-width">
-<div class="wrap -cols2">
+<div class="wrap -cols3">
 
 ## Bodio Guitars
 
-Mauro Bodio baut in seiner Werkstatt in Basel Gitarren. Im August 2018 hat er die erste Gitarre mit Griffbrett aus Sonowood Fichte gebaut. 
+Mauro Bodio baut in seiner Werkstatt in Basel Gitarren. Im August 2018 hat er die ersten Gitarren mit Griffbrett aus Sonowood Fichte und Sonowood Ahorn gebaut. 
+
+- <img srcset="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
+     src="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>Gitarre mit Griffbrett aus Sonowood.</figcaption>
+
+- <img srcset="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
+     src="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>.Sonowood Maple Griffbrett</figcaption>
+
+- <img srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
+     src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>Fotos: Bodio Guitars.</figcaption>
 
 <a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
 
