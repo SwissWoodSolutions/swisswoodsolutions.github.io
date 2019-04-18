@@ -55,6 +55,11 @@ order: 2
 
 -----
 
+«Sonowood m'a convaincu visuellement et acoustiquement. Les fins anneaux de croissance sont clairement visibles et contribuent à une apparence noble. Le son est extrêmement clair et articulé avec une chaleur et une souplesse frappantes. Lorsqu’on le travail, il est immédiatement perceptible que Sonowood est très résistant et dur. Ceci a un effet positif sur la pose des frettes et le perçage. Le matériau se laisse très bien poncer et ne nécessite pas de bouche-pores. Il en résulte une excellente surface, en particulier lors de l'application d'un vernis à la gomme laque, Sonowood est nettement supérieur aux bois conventionnels.»  
+**— Jakob Frank, guitariste de Pforzheim (Allemagne), 27 novembre 2018**
+
+-----
+
 «Sonowood est si facile à travailler, le matériau est une petite sensation.»  
 **— Eric Fouilhé, fabricant d’instruments de Valence, 2 mars 2018**
 

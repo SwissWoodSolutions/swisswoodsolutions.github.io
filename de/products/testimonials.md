@@ -49,8 +49,8 @@ order: 2
 <div class="wrap -cols2">
 
 
-«Sonowood is soon going to revolutionize the manufacturing of wooden instruments.»  
-**— George Stoppani, violin manufacturer from Manchester (UK), 2nd March 2018**
+«Sonowood hat mich sowohl optisch als auch klanglich überzeugt. Die nahe aneinander liegenden Jahresringe sind deutlich zu erkennen und trägen zu einer edlen Optik bei. Das Klangbild ist äusserst klar und artikuliert bei auffallender Wärme und Geschmeidigkeit. Bei der Verarbeitung zu Bauteilen fällt sofort auf, dass Sonowood sehr zäh und hart ist. Dies wirkt sich positiv beim Bundieren und Bohren aus. Das Material lässt sich sehr hoch schleifen und benötigt keinerlei Porenfüller. Dadurch erreicht man eine hervorragende Oberfläche, gerade beim Auftragen einer Schellack-Politur ist Sonowood herkömmlichen Hölzern deutlich überlegen.»  
+**— Jakob Frank, Gitarrenbauer aus Pforzheim, 27. November 2018**
 
 -----
 
