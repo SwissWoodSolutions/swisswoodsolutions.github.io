@@ -60,8 +60,13 @@ November 2017**
 
 -----
 
+«Ever since the new Sonowood spruce saddle has been inserted on my cello, I have been completely satisfied with the response and sound. The overall sound of my cello has become fuller and warmer, and the strings are now much more balanced. Sonowood appears to be ideal for the transmission of vibrations from the string to the body.»  
+**— Susanne Müller, cellist in the Mozarteumorchester in Salzburg (Austria), 1st October 2018**
+
+-----
+
 «Sonowood offers such a straightforward workability, it is sensational.»  
-**— Eric Fouilhé, instrument manufacturer from Valence (FR), 2nd March
+**— Eric Fouilhé, instrument manufacturer from Valence (France), 2nd March
 2018**
 
 </div>
@@ -83,6 +88,11 @@ November 2017**
 
 «Sonowood is a very compact material. Nevertheless it is easier to plane and shape than ebony. A pleasant smooth surface results.»  
 **— Philip Ihle, violin manufacturer from London (UK), 2nd March 2018**
+
+-----
+
+«Sonowood has convinced me both visually and acoustically. The annual rings are clearly recognizable and contribute to a noble look. The sound is extremely clear and articulated with striking warmth. When processing into components, it becomes clear immediately that Sonowood is very dense and hard. This has a positive effect when bundling and drilling. The material can  be sanded easily and does not require any pore fillers. An excellent surface results, especially when applying a shellac polish. Sonowood is clearly superior to conventional woods.»  
+**— Jakob Frank, guitar manufacturer from Pforzheim (Germany), 27th November 2017**
 
 -----
 
