@@ -1,6 +1,6 @@
 ﻿---
 lang: de
-title: 'Sonowood'
+title: 'Gitarre'
 order: 1
 ---
 
