@@ -1,13 +1,13 @@
 ﻿---
 lang: de
-title: 'Geige/Bratsche/Cello'
+title: 'Streichinstrumente'
 order: 1
 ---
 
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Sonowood: das massgeschneiderte Holz für Streichinstrumente
+# Sonowood: massgeschneidert für Streichinstrumente
 
 ![](/assets/images/arrow-d-white.svg)
 

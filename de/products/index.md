@@ -76,7 +76,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 </div>
 </div>
 
-<div class="full-width-red">
+<div class="full-width">
 <div class="wrap -cols3">
 
   - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
@@ -86,7 +86,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
     <a class="btn -white" href="/de/products/streichinstrumente">Streichinstrumente ></a>
 
-  - ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
+  - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
     ### Gitarre
 
      Erfahren Sie mehr über die Anwendungen von Sonowood in Gitarren und E-Gitarren.
@@ -96,14 +96,14 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 - ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
     ### Referenzen
 
-     Wir finden Sonowood toll. Doch verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
+     Verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
 
     <a class="btn -white" href="/de/products/testimonials">Referenzen ></a>
 
 </div>
 </div>
 
-<div class="full-width" name="Sonowood-Types">
+<div class="full-width-grey" name="Sonowood-Types">
 <div class="wrap -cols2">
 
 ## Ausführungen von Sonowood
