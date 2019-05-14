@@ -130,29 +130,3 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
   - ![Sonowood full set für Geige](/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
         *Geige mit Sonowood Maple Griffbrett, Wirbel, Kinnhalter und Saitenhalter*
 
----
-
-  - ## Sonowood Spruce
-
-  - ### Erhältlich für Streichinstrumente und Gitarren
-
-  - #### Sortiment in Kantholzform
-
-      - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
-      - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
-      - ![ Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau](/assets/images/Sonowood_7_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Bratsche mit Griffbrett aus Sonowood Spruce. Bild: Wilhelm Geigenbau.*
-
-  - #### Technische Daten
-
-      - Fichte *(Picea abies)*
-      - Natürliche Holzfärbung
-      - Dichte: 1'300 – 1'400 kg/m³
-      - Brinellhärte: \> 100 N/mm²
-      - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe \~ 0.75, Breite \~0.33 %       
-      - Schallleitgeschwindigkeit: \> 5'500 m/s
-      - Dämpfung (logarithmisches Dekrement): \~ 0.04
-      - Dynamischer Elastizitätsmodul: \> 39'000 N/mm²
-
-</div>
-</div>
