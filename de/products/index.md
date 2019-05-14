@@ -98,7 +98,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
      Verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
 
-    <a class="btn -ref" href="/de/products/testimonials">Referenzen ></a>
+    <a class="btn -red" href="/de/products/testimonials">Referenzen ></a>
 
 </div>
 </div>
