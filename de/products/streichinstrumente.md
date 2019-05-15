@@ -51,14 +51,14 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap">
 
 ## Wie erhalte ich Sonowood?
 
 Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativen Revolution im Instrumentenbau.
 
-<a class="btn -red" href="/de/contact">Kontakt ></a>
+<a class="btn" href="/de/contact">Kontakt ></a>
 
 </div>
 </div>
