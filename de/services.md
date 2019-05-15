@@ -34,7 +34,7 @@ order: 3
 
 <img srcset="/assets/images/services_cover_2x.jpg"
      src="/assets/images/services_cover.jpg" alt="das Swiss Wood Team bei der Arbeit im Zürcher HB">
-<figcaption>Swiss Wood Solutions bei der Arbeit im Hauptbahnhof Zürich</figcaption>
+<figcaption>Swiss Wood Solutions bei der Arbeit im Hauptbahnhof Zürich.</figcaption>
 
 </div>
 </div>
