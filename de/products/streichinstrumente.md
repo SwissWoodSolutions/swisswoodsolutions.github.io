@@ -16,6 +16,39 @@ order: 1
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
+<div class="full-width">
+<div class="wrap -cols2">
+
+Der Streichinstrumentenbau ist emotional. Viele Instrumente sind Unikate, gefertigt in sorgsamer Handarbeit. Genau so verhält es sich bei Sonowood. Wir stellen jedes Stück einzeln her, kein Griffbrett ähnelt dem nächsten. Die Ästhetik und die aussergewöhnliche Härte und Dichte garantieren Höchstleistung in edlem Gewand. Angeboten werden sowohl Formteile als auch Rohlinge.
+
+</div>
+</div> 
+
+<div class="full-width-red" name="Sonowood-Types">
+<div class="wrap -cols2">
+
+## Sortiment
+
+---
+
+  - ## Formteile
+
+  - ## Rohlinge
+
+  - #### 
+
+      - **Violine**: Griffbrett, Saitenhalter, Endknopf, Kinnhalter
+      - **Bratsche**: Griffbrett, Saitenhalter, Endknopf, Kinnhalter
+      
+  - #### 
+
+      - **Violine**: Wirbel, Griffbrett, Saitenhalter, Endknopf, Kinnhalter, Ober- und Untersattel
+      - **Bratsche**: Wirbel, Griffbrett, Saitenhalter, Endknopf, Kinnhalter, Ober- und Untersattel
+      - **Cello**: Wirbel, Saitenhalter
+      
+</div>
+</div>
+
 <div class="full-width-grey">
 <div class="wrap">
 

@@ -114,7 +114,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
   - ### Erhältlich für Streichinstrumente und Gitarren
 
-  - #### Sortiment in Kantholzform:
+  - #### Sortiment:
 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
       - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
@@ -149,7 +149,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
   - ### Erhältlich für Streichinstrumente und Gitarren
 
-  - #### Sortiment in Kantholzform
+  - #### Sortiment
 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
       - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
