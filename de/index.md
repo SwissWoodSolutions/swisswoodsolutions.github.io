@@ -49,7 +49,7 @@ order: 1
 
   ### Forschung und Entwicklung
 
-    Neugierig? Wagen Sie einen Blick in unsere Labors, wo Innovation passiert.
+    Neugierig? Wagen Sie einen Blick in unsere Labors, wo Innovation passiert und Neues entsteht.
 
     <a class="btn" href="/de/projects">R&D ></a>
 
@@ -76,7 +76,7 @@ order: 1
 
   ### Neuigkeiten
 
-  Tauchen Sie ein in die Highlights unserer Neuentwicklungen und Prototypen.
+  Sehen Sie unsere Neuentwicklungen und Prototypen.
 
   <a class="btn" href="/de/newsflash">Newsflash ></a>
 
