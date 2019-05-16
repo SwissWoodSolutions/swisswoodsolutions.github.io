@@ -39,7 +39,7 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 </div>
 
 <div class="full-width-kenburns">
-<div class="wrap-bg-image">
+<div class="wrap-bg -center">
 
 </div>
 <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
