@@ -39,14 +39,6 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 </div>
 
 <div class="full-width">
-<div class="wrap-bg -center">
-
-</div>
-<img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
-     src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
-</div>
-
-<div class="full-width">
 <div class="wrap -center">
 
 <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"

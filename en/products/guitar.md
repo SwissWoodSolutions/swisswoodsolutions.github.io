@@ -39,7 +39,7 @@ Contact us for a price request and become part of the sustainable revolution in 
 </div>
 
 <div class="full-width">
-<div class="wrap-bg -center">
+<div class="wrap -center">
 
 <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
      src="/assets/images/services_cover.jpg" alt="Stradi">
