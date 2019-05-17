@@ -34,17 +34,23 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
   - ## Sonowood vous offre les avantages suivants:
 
-  - ![icon 100% wood](/assets/logo/100.svg)
+  - ![icon biodiversity](/assets/logo/biodiverse.svg)
 
-    ### 100% authentique
+    ### Préservation de la biodiversité
 
-    Sonowood n'est pas un matériau composite, c’est du bois et ça se travaille comme tel.
-
+    Sonowood est fabriqué à partir de bois européen durable.
+    
   - ![icon acoustics](/assets/logo/sound.svg)
 
     ### Propriétés acoustiques supérieures
 
     Vitesse du son élevée, faible amortissement. Approuvé par les musiciens et luthiers. 
+    
+  - ![icon 100% wood](/assets/logo/100.svg)
+
+    ### 100% authentique
+
+    Sonowood n'est pas un matériau composite, c’est du bois et ça se travaille comme tel.
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
@@ -52,17 +58,11 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
     La dureté, la densité ou la coloration - vous choisissez les propriétés de votre bois.
 
-  - ![icon biodiversity](/assets/logo/biodiverse.svg)
-
-    ### Préservation de la biodiversité
-
-    Sonowood est fabriqué à partir de bois européen durable.
-
   - ![icon no legal restrictions](/assets/logo/legal.svg)
 
     ### Aucune restriction légale 
 
-    Nos clients peuvent voyager l’esprit libre, Sonowood n’est pas concerné par les restrictions au commerce et à l'importation décrites par CITES.
+    Nos clients peuvent voyager l’esprit libre, Sonowood n’est pas concerné par les restrictions au commerce et à l'importation décrites     par CITES.
 
 </div>
 </div>
@@ -80,7 +80,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
   - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
     ### Guitares
 
-     En savoir plus sur les applications de Sonowood aux guitares et aux guitares électriques
+     En savoir plus sur les applications aux guitares et aux guitares électriques
 
     <a class="btn -red" href="/fr/products/guitar">Guitare ></a>
 
