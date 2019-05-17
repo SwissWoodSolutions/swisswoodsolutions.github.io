@@ -29,7 +29,7 @@ Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abi
 </div>
 </div> 
 
-<div class="full-width" name="Sonowood-Types">
+<div class="full-width-grey" name="Sonowood-Types">
 <div class="wrap -cols2">
 
 ## Gamme de produits
@@ -54,7 +54,7 @@ Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abi
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap">
 
 ## Comment obtenir Sonowood?
