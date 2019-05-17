@@ -64,7 +64,7 @@ Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abi
 
   Pour toutes questions commerciales ou techniques :
 
-<a class="btn -red" href="/fr/contact">Contact us ></a>
+<a class="btn -red" href="/fr/contact">Contactez-nous ></a>
 
 </div>
 </div>
