@@ -21,7 +21,7 @@ order: 4
 
 ## Wilhelm Geigenbau
 
-In March 2018, a workshop was held at Wilhelm Geigenbau. Various
+In March 2018, a workshop was held at [Wilhelm Geigenbau.](http://www.wilhelm-geigenbau.ch/index.php?id=2399) Various
 international violin manufacturers got introduced to **Sonowood** and
 manufactured fingerboards from the samples provided. The feedback on
 processability was uniformly positive.
@@ -31,15 +31,37 @@ Vienna held its inaugural concert with their instruments featuring
 Sonowood. The musicians reacted very positively to the improved sound
 characteristics of their respective instruments.
 
-The Swiss national TV captured the results of the workshop: [see the
-video on our News page, Schweiz Aktuell 02.03.2018.](/en/media)
-
-<a class="btn" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
+The Swiss national TV captured the results of the workshop, the
+video can be watched [here.](/en/media)
 
 </div>
 </div>
 
 <div class="full-width-grey">
+<div class="wrap -cols3">
+
+## Canna Guitars
+
+Under the label Canna Guitars and in cooperation with Norbert Schmid of DRUMPARAM, Jakob Frank manufactures instruments whose body is made of Hempstone, a patented natural fibre material made of hemp fibres and water. On his latest model, he used Sonowood for the fingerboard, bridge and the headstock. The result is an aesthetically and acoustically appealing guitar that is completely free of tropical woods.  
+
+ - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
+     src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
+ 	<figcaption>Canna Guitar by Jakob Frank.</figcaption>
+
+ - <img srcset="/assets/images/Cannaguitar_Steg.jpg"
+     src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
+	<figcaption>Sonowood bridge.</figcaption>
+
+ - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
+     src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
+	<figcaption>Sonowood headstock.</figcaption>
+
+More information on Hempstone can be found at [Canna Guitars](https://www.cannaguitars.com) and [DRUMPARAM](http://www.drumparam.at).
+
+</div>
+</div>
+
+<div class="full-width-red">
 <div class="wrap -cols2">
 
 ## Robert Stempfle manufactory for woodwind instruments
@@ -55,33 +77,6 @@ Robert Stempfle is a trained woodwind instrument maker and clarinetist. In his s
 	<figcaption>Pictures by Robert Stempfle woodwind manufactory.</figcaption>
 
 <a class="btn -red" href="https://stempfle.ch" target="_blank">Stempfle woodwind manufactory ></a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
-## Bodio Guitars
-
-Mauro Bodio is a guitar manufacturer based in Basel. In his workshop he offers a wide range of guitars, including jazz guitars. In August 2018, he made the first guitars with fingerboards from Sonowood spruce and Sonowood maple.
-
-- <img srcset="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
-     src="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
-	<figcaption>Guitar with Sonowood fingerboard.</figcaption>
-
-- <img srcset="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
-     src="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
-	<figcaption>Photos: Bodio Guitars.</figcaption>
-
-<a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
-
-</div>
-</div>
-
-Mauro Bodio est un fabricant de guitares de Bâle. Dans son atelier, il propose une large gamme de guitares, y compris des guitares jazz. En août 2018, il a fabriqué la première guitare avec touche en épicéa de Sonowood.
-
-<a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
 
 </div>
 </div>
