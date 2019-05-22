@@ -41,12 +41,13 @@ Begleiten Sie uns auf unserer Reise hin zu neuen Holzmaterialien und begutachten
 
   Kendō ist eine moderne Art des traditionellen japanischen Schwertkampfes der Samurai. Die Sportart erfordert ein extrem robustes und bruchfestes Holzmaterial - ein Fall wie gemalt wie für SWS. Die im Herbst 2018 gefertigten Prototypen sind bereits im Einsatz und erweisen sich als nahezu unzerstörbar. Zudem weiss das Material ästhetisch zu überzeugen. 
 
-- ### Gehäuse für hochwertige Kameras von ALPA 
+- ### Gehäuse für Kameras von ALPA 
   ![violin with sonowood](/assets/images/News_2_ALPA_Kamera_Griffe_Camera_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpg)
   *Holzgriffe für ein ALPA-Kameragehäuse.*
 
   Robust und stabil: genau die Anforderungen an High-End-Kameras, gefertigt vom Schweizer Kamerahersteller ALPA. Die hochwertigen und langlebigen Präzisionswerkzeuge werden mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden. Der Einsatz von verdichtetem Holz von SWS verleiht den Kameras eine natürlich-ästethische Note. 
-- ### Sonowood, nicht nur für Streicher
+
+- ### Sonowood für Holzblasinstrumente
   ![Klarinettenteile aus Sonowood](/assets/images/RD_clarinet.jpg)
   *Klarinettenteile aus Sonowood. Foto: Robert Stempfle.*
 

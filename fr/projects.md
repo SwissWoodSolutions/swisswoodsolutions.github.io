@@ -35,7 +35,7 @@ Rejoignez-nous dans notre voyage vers de nouveaux matériaux du bois et examinez
 
   <a class="btn" href="/fr/products/sonowood/">Sonowood ></a>
 
-- ### Les arts martiaux en ont besoin extra fort
+- ### Arts martiaux rencontre Budowood
   ![extra strong wood sword for kendo](/assets/images/3_news_kendo_Schwert_sword_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions.jpg)
   *Prototypes d'épée de kendo.*
 
