@@ -21,17 +21,39 @@ order: 4
 
 ## Wilhelm Geigenbau
 
-Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Premiumpartner Wilhelm Geigenbau aus Suhr einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwöchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
+Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Partner [Wilhelm Geigenbau] (http://www.wilhelm-geigenbau.ch/index.php?id=2399) aus Suhr einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwöchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
 
 
-Das Schweizer Fernsehen SRF hat den Workshop besucht. [Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie hier.](/de/media/)
-
-<a class="btn" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
+Das Schweizer Fernsehen SRF hat den Workshop besucht. Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie [hier].(/de/media/)
 
 </div>
 </div>
 
 <div class="full-width-grey">
+<div class="wrap -cols3">
+
+### Sonowood auf der Canna Guitar
+
+Jakob Frank baut in Kooperation mit Norbert Schmid von DRUMPARAM Instrumente unter dem Label Canna Guitars. Der Korpus ist dabei aus Hempstone gefertigt ist, einem patentierten Naturfaserwerkstoff aus Hanffasern und Wasser. Auf seinem Modell hat Jakob Frank Sonowood für Griffbrett, Steg und Auflage der Kopfplatte verwendet. Entstanden ist eine ästethisch und akustisch ansprechende Gitarre, die komplett frei von tropischen Hölzern ist.  
+
+  - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
+     src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
+	<figcaption>Canna Guitar von Jakob Frank.</figcaption>
+
+  - <img srcset="/assets/images/Cannaguitar_Steg.jpg"
+     src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
+	<figcaption>Steg aus Sonowood.</figcaption>
+
+  - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
+     src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
+	<figcaption>Kopfplatte aus Sonowood.</figcaption>
+
+Mehr Informationen zu Hempstone finden Sie unter [Canna Guitars](https://www.cannaguitars.com) bei Jakob Frank und [DRUMPARAM](http://www.drumparam.at) bei Norbert Schmid.
+
+</div>
+</div>
+
+<div class="full-width-red">
 <div class="wrap -cols2">
 
 ## Robert Stempfle - Fachwerkstatt für Holzblasinstrumente
@@ -51,26 +73,3 @@ Robert Stempfle ist gelernter Holzblasinstrumentenmacher und studierter Klarinet
 </div>
 </div>
 
-<div class="full-width">
-<div class="wrap -cols3">
-
-## Bodio Guitars
-
-Mauro Bodio baut in seiner Werkstatt in Basel Gitarren. Im August 2018 hat er die ersten Gitarren mit Griffbrett aus Sonowood Fichte und Sonowood Ahorn gebaut. 
-
-- <img srcset="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
-     src="/assets/images/Bodio1_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
-	<figcaption>Gitarre mit Griffbrett aus Sonowood.</figcaption>
-
-- <img srcset="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
-     src="/assets/images/Bodio2_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
-	<figcaption>Sonowood Maple Griffbrett.</figcaption>
-
-- <img srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
-     src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="Sonowood Klarinette von Robert Stempfle">
-	<figcaption>Fotos: Bodio Guitars.</figcaption>
-
-<a class="btn" href="https://bodio-guitars.com" target="_blank">Bodio Guitars ></a>
-
-</div>
-</div>

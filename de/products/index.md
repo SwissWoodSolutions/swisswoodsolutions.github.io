@@ -53,12 +53,11 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
     Hohe Schallleitgeschwindigkeit, geringe Dämpfung. Hochgeschätzt von Musikern und Instrumentenbauern.
     
-
   - ![icon customizable](/assets/logo/customizable.svg)
 
-    ### Justierbare Eigenschaften
+    ### Konsistente Qualität
 
-    Ob Oberflächenhärte, Dichte oder Farbe: Sie bestimmen die exakten Eigenschaften Ihres Holzes.
+    Obwohl es ein natürliches Material ist, garantieren wir Sonowood in gleichbleibender Qualität und konstanter Verfügbarkeit.
 
   - ![icon biodiversity](/assets/logo/biodiverse.svg)
 
