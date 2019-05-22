@@ -51,31 +51,6 @@ order: 6
 
   <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">Report de CITES</a>
 
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols3">
-
-### Sonowood recontre Canna Guitar
-
-Sous le label Canna Guitars et en collaboration avec Norbert Schmid de DRUMPARAM, Jakob Frank fabrique des instruments dont le corps est en pierre de chanvre, un matériau breveté en fibres naturelles de chanvre et en eau. Sur son dernier modèle, il a utilisé Sonowood pour la touche, le chevalet et la poupée. Le résultat est une guitare esthétiquement et acoustiquement attrayante qui ne contient aucun bois tropical.   
-
- - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
-     src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
- 	<figcaption>Canna Guitar de Jakob Frank.</figcaption>
-
- - <img srcset="/assets/images/Cannaguitar_Steg.jpg"
-     src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
-	<figcaption>Sonowood chevalet.</figcaption>
-
- - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
-     src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
-	<figcaption>Sonowood poupée.</figcaption>
-
-Plus d'informations sur Hempstone peuvent être trouvées à [Canna Guitars](https://www.cannaguitars.com) et [DRUMPARAM](http://www.drumparam.at).
-
 </div>
 </div>
 

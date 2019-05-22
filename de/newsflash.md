@@ -54,31 +54,6 @@ order: 6
 </div>
 </div>
 
-<div class="full-width-grey">
-<div class="wrap -cols3">
-
-### Sonowood auf der Canna Guitar
-
-Jakob Frank baut in Kooperation mit Norbert Schmid von DRUMPARAM Instrumente unter dem Label Canna Guitars. Der Korpus ist dabei aus Hempstone gefertigt ist, einem patentierten Naturfaserwerkstoff aus Hanffasern und Wasser. Auf seinem Modell hat Jakob Frank Sonowood für Griffbrett, Steg und Auflage der Kopfplatte verwendet. Entstanden ist eine ästethisch und akustisch ansprechende Gitarre, die komplett frei von tropischen Hölzern ist.  
-
-  - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
-     src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
-	<figcaption>Canna Guitar von Jakob Frank.</figcaption>
-
-  - <img srcset="/assets/images/Cannaguitar_Steg.jpg"
-     src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
-	<figcaption>Steg aus Sonowood.</figcaption>
-
-  - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
-     src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
-	<figcaption>Kopfplatte aus Sonowood.</figcaption>
-
-Mehr Informationen zu Hempstone finden Sie unter [Canna Guitars](https://www.cannaguitars.com) bei Jakob Frank und [DRUMPARAM](http://www.drumparam.at) bei Norbert Schmid.
-
-</div>
-</div>
-
-
 <div class="full-width">
 <div class="wrap -cols2">
 
