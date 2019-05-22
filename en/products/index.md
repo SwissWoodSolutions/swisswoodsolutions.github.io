@@ -1,4 +1,4 @@
----
+﻿---
 lang: en
 title: 'Sonowood'
 order: 2
@@ -63,10 +63,9 @@ technology offers adjustability of a wide range of parameters.
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
-    ### Tunable properties
+    ### Continuous availability
 
-    No matter if hardness, density or coloration – you choose the
-    properties of your wood.
+    Despite being a natural material, Sonowood is available in consistent quality anytime.
 
   - ![icon biodiversity](/assets/logo/biodiverse.svg)
 

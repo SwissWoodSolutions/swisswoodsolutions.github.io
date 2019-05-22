@@ -43,7 +43,7 @@ November 2017**
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-## *«The guitar with a fingerboard and bridge from Sonowood possesses a very warm acoustic color. My client is simply thrilled.»*
+## *«The guitar with a fretboard and bridge from Sonowood possesses a very warm acoustic color. My client is simply thrilled.»*
 
 **— Mauro Bodio, guitar manufacturer from Switzerland, 4th May 2018
 2017**
