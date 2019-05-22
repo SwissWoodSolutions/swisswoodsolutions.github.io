@@ -125,7 +125,7 @@ Zeitung followed.
   - [**Bouwbrief**  
     Houtverdichting: een nieuwe techniek van veredeling van klankhout,
     February 2018](/assets/docs/201802_Bouwbrief.pdf)
-  - [**Holrevue**  
+  - [**Holzrevue**  
     Wie die ETH mit Sonowood den Schmugglern das Handwerk erschwert,
     December 2016](/assets/docs/201612_Holzrevue.pdf)
 
