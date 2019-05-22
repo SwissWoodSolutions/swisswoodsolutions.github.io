@@ -21,10 +21,10 @@ order: 4
 
 ## Wilhelm Geigenbau
 
-Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Partner [Wilhelm Geigenbau] (http://www.wilhelm-geigenbau.ch/index.php?id=2399) aus Suhr einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwöchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
+Im März 2018 führte Swiss Wood Solutions gemeinsam mit unserem Partner [Wilhelm Geigenbau](http://www.wilhelm-geigenbau.ch/index.php?id=2399) aus Suhr einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwöchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
 
 
-Das Schweizer Fernsehen SRF hat den Workshop besucht. Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie [hier].(/de/media/)
+Das Schweizer Fernsehen SRF hat den Workshop besucht. Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie [hier.](/de/media/)
 
 </div>
 </div>
@@ -32,7 +32,7 @@ Das Schweizer Fernsehen SRF hat den Workshop besucht. Den Bericht in der Sendung
 <div class="full-width-grey">
 <div class="wrap -cols3">
 
-### Sonowood auf der Canna Guitar
+## Canna Guitars
 
 Jakob Frank baut in Kooperation mit Norbert Schmid von DRUMPARAM Instrumente unter dem Label Canna Guitars. Der Korpus ist dabei aus Hempstone gefertigt ist, einem patentierten Naturfaserwerkstoff aus Hanffasern und Wasser. Auf seinem Modell hat Jakob Frank Sonowood für Griffbrett, Steg und Auflage der Kopfplatte verwendet. Entstanden ist eine ästethisch und akustisch ansprechende Gitarre, die komplett frei von tropischen Hölzern ist.  
 
