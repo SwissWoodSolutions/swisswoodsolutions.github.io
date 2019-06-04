@@ -55,7 +55,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
     
   - ![icon customizable](/assets/logo/customizable.svg)
 
-    ### Konsistente Qualität
+    ### Konstante Verfügbarkeit
 
     Obwohl es ein natürliches Material ist, garantieren wir Sonowood in gleichbleibender Qualität und konstanter Verfügbarkeit.
 
