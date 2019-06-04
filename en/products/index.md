@@ -65,7 +65,7 @@ technology offers adjustability of a wide range of parameters.
 
     ### Continuous availability
 
-    Despite being a natural material, Sonowood is available in consistent quality anytime.
+    Despite being a natural material, Sonowood is available continuously in constant quality.
 
   - ![icon biodiversity](/assets/logo/biodiverse.svg)
 
