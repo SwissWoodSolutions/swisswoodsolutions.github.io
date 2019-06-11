@@ -94,7 +94,10 @@ Zeitung followed.
     15 June 2018](/assets/docs/201806_Republik.pdf)
   - [**Deutsche Bauzeitung**  
     Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor,
-    April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)¨
+    April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)
+  - [**AKUSTIK GITARRE**  
+    Canna Guitars,
+    February 2019](/assets/docs/20190201_AkustikGitarre.pdf)
   - [**St.Galler Tagblatt**  
     Schweizer Ersatz für Tropenholz,
     4 January 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 

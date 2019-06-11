@@ -63,6 +63,9 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
   - [**Deutsche Bauzeitung**  
     Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor,
     April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)
+  - [**AKUSTIK GITARRE**  
+    Canna Guitars,
+    Februar 2019](/assets/docs/20190201_AkustikGitarre.pdf)
   - [**St.Galler Tagblatt**  
     Schweizer Ersatz für Tropenholz,
     4. Januar 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 
