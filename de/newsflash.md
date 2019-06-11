@@ -27,7 +27,7 @@ order: 6
 
   Hohe Ehre für Swiss Wood Solutions! Im Oktober 2018 hat unser Partner [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag) eine Stradivari, Baujahr 1721, mit einem Sonowood-Griffbrett und -Saitenhalter ausgerüstet. Ausgangsmaterial dafür war Fichtentonholz aus Graubünden, welches mit der Sonowood-Technologie veredelt wurde. Der glückliche Besitzer berichtet über einen Gewinn an Klangfarbe.
 
-  <a class="btn" href="/de/products/sonowood">Sonowood ></a>
+  <a class="btn" href="/de/products/">Sonowood ></a>
 
 - ### Robustes Holz für die Kampfkunst
   ![Holzschwert, Model](/assets/images/3_news_kendo_Schwert_sword_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions.jpg)

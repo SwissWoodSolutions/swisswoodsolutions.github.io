@@ -27,7 +27,7 @@ order: 6
 
   Exceptional honor for Swiss Wood Solutions! This Stradivari violin from 1721 was equipped with a Sonowood fingerboard and tailpiece by our partner [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag). The material was procured in the Swiss region Grisons (Graubünden). The owner's courage to opt for such an innovative material has paid off. A clear gain in tone color and volume is registered.
 
-  <a class="btn" href="/en/products/sonowood/">Sonowood ></a>
+  <a class="btn" href="/en/products/">Sonowood ></a>
 
 - ### Martial arts need it extra strong
   ![extra strong wood sword for kendo](/assets/images/3_news_kendo_Schwert_sword_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions.jpg)
