@@ -57,6 +57,12 @@ blockquote {
   margin: 2em;
   font-style: normal;
 }
+@media (max-width: 700px) {
+  /* small mobile */
+  .instagram-media, .facebook-media {
+  display: none;
+  }
+}
 video {
   max-width: 100%;
   border: solid #41393d 1px;
@@ -700,5 +706,50 @@ footer a {
     display: block;
   }
 }
+/*
+ * FORMS
+ */
+ .input-line {
+  border: 0;
+  border-bottom: solid #41393d 3px;
+  outline: 0;
+  padding: 1em 1em 0.5em 0em;
+  text-decoration: none;
+  margin: 0 0 1em 0;
+  width: 26em;
+  font-family: 'Fira Sans', sans-serif;
+  font-style: italic;
+  font-size: 1em;
+  background-color: rgba(255,255,255,0);
+ }
+ .input-field {
+   padding: 1em;
+   background-color: rgba(255,255,255,0);
+   border: solid #41393d 3px;
+   width: 25em;
+   min-height: 5em;
+   font-family: 'Fira Sans', sans-serif;
+   font-style: italic;
+   font-size: 1em;
+   margin-top: 2em;
+ }
+ .form-submit {
+   color: #41393d;
+   padding: 1em 2em 1em 2em;
+   border: solid #41393d 3px;
+   background-color: rgba(255,255,255,0);
+   text-decoration: none;
+   text-align: center;
+   margin-top: 2em;
+   transition: background-color 0.2s linear 0.1s;
+   font-family: 'Fira Sans', sans-serif;
+   font-size: 1em;
+ }
+ .form-submit:hover {
+   background-color: #41393d;
+   color: white;
+ }
+
+
 
 /* no grid support? TO BE ADDED*/

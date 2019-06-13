@@ -19,7 +19,7 @@ order: 4
 <div class="full-width">
 <div class="wrap">
 
-Begleiten Sie uns auf unserer Reise hin zu neuen Holzmaterialien und begutachten Sie Highlights unserer aktuellen Entwicklungen. Wir forschen weiter, ganz bestimmt.
+## Begleiten Sie uns auf unserer Reise hin zu neuen Holzmaterialien und begutachten Sie Highlights unserer aktuellen Entwicklungen. Wir forschen weiter, ganz bestimmt.
 
 </div>
 </div>
@@ -39,13 +39,13 @@ Begleiten Sie uns auf unserer Reise hin zu neuen Holzmaterialien und begutachten
   ![Holzschwert, Model](/assets/images/3_news_kendo_Schwert_sword_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions.jpg)
   *Prototyp eines Holzschwertes für Kendō.*
 
-  Kendō ist eine moderne Art des traditionellen japanischen Schwertkampfes der Samurai. Die Sportart erfordert ein extrem robustes und bruchfestes Holzmaterial - ein Fall wie gemalt wie für SWS. Die im Herbst 2018 gefertigten Prototypen sind bereits im Einsatz und erweisen sich als nahezu unzerstörbar. Zudem weiss das Material ästhetisch zu überzeugen. 
+  Kendō ist eine moderne Art des traditionellen japanischen Schwertkampfes der Samurai. Die Sportart erfordert ein extrem robustes und bruchfestes Holzmaterial - ein Fall wie gemalt wie für SWS. Die im Herbst 2018 gefertigten Prototypen sind bereits im Einsatz und erweisen sich als nahezu unzerstörbar. Zudem weiss das Material ästhetisch zu überzeugen.
 
-- ### Gehäuse für Kameras von ALPA 
+- ### Gehäuse für Kameras von ALPA
   ![violin with sonowood](/assets/images/News_2_ALPA_Kamera_Griffe_Camera_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpg)
   *Holzgriffe für ein ALPA-Kameragehäuse.*
 
-  Robust und stabil: genau die Anforderungen an High-End-Kameras, gefertigt vom Schweizer Kamerahersteller ALPA. Die hochwertigen und langlebigen Präzisionswerkzeuge werden mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden. Der Einsatz von verdichtetem Holz von SWS verleiht den Kameras eine natürlich-ästethische Note. 
+  Robust und stabil: genau die Anforderungen an High-End-Kameras, gefertigt vom Schweizer Kamerahersteller ALPA. Die hochwertigen und langlebigen Präzisionswerkzeuge werden mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden. Der Einsatz von verdichtetem Holz von SWS verleiht den Kameras eine natürlich-ästethische Note.
 
 - ### Sonowood für Holzblasinstrumente
   ![Klarinettenteile aus Sonowood](/assets/images/RD_clarinet.jpg)

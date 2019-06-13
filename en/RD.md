@@ -19,7 +19,7 @@ order: 4
 <div class="full-width">
 <div class="wrap">
 
-Join us on our journey towards new wood materials and get a glimpse of our current developments. We keep researching.
+## Join us on our journey towards new wood materials and get a glimpse of our current developments. We keep researching.
 
 </div>
 </div>
@@ -166,4 +166,3 @@ violins and violas, market readiness has been achieved.
 
 </div>
 </div>
-

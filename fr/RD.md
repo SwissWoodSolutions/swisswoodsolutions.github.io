@@ -19,7 +19,7 @@ order: 4
 <div class="full-width">
 <div class="wrap">
 
-Rejoignez-nous dans notre voyage vers de nouveaux matériaux du bois et examinez les points saillants de nos développements actuels.
+## Rejoignez-nous dans notre voyage vers de nouveaux matériaux du bois et examinez les points saillants de nos développements actuels.
 
 </div>
 </div>
@@ -52,7 +52,7 @@ Rejoignez-nous dans notre voyage vers de nouveaux matériaux du bois et examinez
   ![clarinet parts made of Sonowood](/assets/images/RD_clarinet.jpg)
   *Pièces de clarinette de Robert Stempfle.*
 
-  Les instruments à cordes ne sont pas les seuls à être fabriqués à partir de bois tropicaux. En outre, les instruments à vent tels que les clarinettes ou les flûtes pourraient également bénéficier d'une autre source de bois. Nous sommes en train de peaufiner **Sonowood** pour les bois. 
+  Les instruments à cordes ne sont pas les seuls à être fabriqués à partir de bois tropicaux. En outre, les instruments à vent tels que les clarinettes ou les flûtes pourraient également bénéficier d'une autre source de bois. Nous sommes en train de peaufiner **Sonowood** pour les bois.
 
 </div>
 </div>
@@ -97,13 +97,13 @@ Sur le plan écologique, le projet contribue à la conservation de la biodiversi
 <div class="full-width">
 <div class="wrap -cols2">
 
-## Swiss Ebony en collaboration avec Gebert Rüf Foundation 
+## Swiss Ebony en collaboration avec Gebert Rüf Foundation
 
 Depuis mars 2016, Swiss Wood Solutions est soutenu par la Fondation Gebert Rüf. La Fondation pour la science et l'innovation soutient des projets orientés vers l'application développés dans les hautes écoles suisses. Avec un budget annuel de 15 millions de francs, la Fondation renforce la Suisse comme place d’innovation.
 
 Gebert Rüf a rendu possible deux projets de Swiss Wood Solutions. Dans le cadre du projet Swiss Ebony, le spin-off a réussi à obtenir la stabilité dimensionnelle de l'ébène naturel à partir de bois indigènes densifiés. Le gonflement en cas de changement d'humidité a pu être réduit au minimum. Cela rend le matériau approprié pour la fabrication d'instruments de musique.
 
-Dans le cadre du Swiss Ebony Project II, Swiss Wood Solutions travaille sur l'ajustabilité des propriétés physiques, mécaniques et optiques du matériau compacté. En permettant d'adapter individuellement des paramètres importants tels que la densité et la couleur aux besoins des clients, Swiss Wood Solutions obtient un argument de vente unique sur le marché des instruments musicaux. 
+Dans le cadre du Swiss Ebony Project II, Swiss Wood Solutions travaille sur l'ajustabilité des propriétés physiques, mécaniques et optiques du matériau compacté. En permettant d'adapter individuellement des paramètres importants tels que la densité et la couleur aux besoins des clients, Swiss Wood Solutions obtient un argument de vente unique sur le marché des instruments musicaux.
 
 Grâce au précieux soutien de la Fondation Gebert Rüf, Swiss Wood Solutions a pu lancer la ligne de production pilote Swiss Ebony, caractérisée par une couleur brun foncé. Le niveau de maturité technologique 6 a été atteint (technology readiness level, bref: TRL). Cela signifie que les premiers prototypes ont été intégrés dans des instruments à cordes. Les retours des facteurs d'instruments et des musiciens sont très positifs.
 

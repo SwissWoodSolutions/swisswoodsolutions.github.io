@@ -27,9 +27,11 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
 **Sonowood** ist das beste alternative Holz für Ihr Musikinstrument, hergestellt aus 100% echtem UND einheimischem Holz. Weitere Informationen finden Sie auf dem Flyer.
 
-<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a> 
+<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a>
 
-Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unterliegt es keinerlei rechtlichen Einschränkungen. Unsere Kunden reisen sorgenfrei über Landesgrenzen mit der Gewissheit, nicht mit dem Gesetz in Konflikt zu geraten. Im Gegensatz dazu bestehen für Produkte aus Tropenholz umfangreiche Handels- und Reisebeschränkungen. Das Artenschutzabkommen CITES regelt den Handel mit vom Aussterben gefährdeten Holzarten. Musiker mit Instrumenten, die teilweise aus Tropenholz gefertigt sind, kommen so unversehens in die Bredouille. Können keine Dokumente vorgelegt werden, welche die Legalität des enthaltenen Materials explizit bestätigen, werden die Instrumente von Zollbehörden konfisziert. Zudem drohen hohe Bussgelder. Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie in den Berichten von Elias Wick.
+Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unterliegt es keinerlei rechtlichen Einschränkungen. Unsere Kunden reisen sorgenfrei über Landesgrenzen mit der Gewissheit, nicht mit dem Gesetz in Konflikt zu geraten. Im Gegensatz dazu bestehen für Produkte aus Tropenholz umfangreiche Handels- und Reisebeschränkungen. Das Artenschutzabkommen CITES regelt den Handel mit vom Aussterben gefährdeten Holzarten. Musiker mit Instrumenten, die teilweise aus Tropenholz gefertigt sind, kommen so unversehens in die Bredouille. Können keine Dokumente vorgelegt werden, welche die Legalität des enthaltenen Materials explizit bestätigen, werden die Instrumente von Zollbehörden konfisziert. Zudem drohen hohe Bussgelder.
+
+Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie in den Berichten von Elias Wick:
 
 <a class="btn" href="/assets/docs/2018_CITES_CH.pdf">Schweiz</a> <a class="btn" href="/assets/docs/2018_CITES_DE.pdf">Deutschland</a>
 
@@ -52,7 +54,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
     ### Verbesserte Klangeigenschaften
 
     Hohe Schallleitgeschwindigkeit, geringe Dämpfung. Hochgeschätzt von Musikern und Instrumentenbauern.
-    
+
   - ![icon customizable](/assets/logo/customizable.svg)
 
     ### Konstante Verfügbarkeit
@@ -83,21 +85,21 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
     Erfahren Sie mehr über die Anwendungen von Sonowood in Geigen, Bratschen und Cellos.
 
-    <a class="btn -red" href="/de/products/strings">Streichinstrumente ></a>
+    <a class="btn" href="/de/products/strings">Streichinstrumente ></a>
 
   - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
     ### Gitarre
 
      Erfahren Sie mehr über die Anwendungen von Sonowood in Gitarren und E-Gitarren.
 
-    <a class="btn -red" href="/de/products/guitar">Gitarre ></a>
+    <a class="btn" href="/de/products/guitar">Gitarre ></a>
 
 - ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
     ### Referenzen
 
      Verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
 
-    <a class="btn -red" href="/de/products/testimonials">Referenzen ></a>
+    <a class="btn" href="/de/products/testimonials">Referenzen ></a>
 
 </div>
 </div>
