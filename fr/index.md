@@ -72,12 +72,12 @@ order: 1
 
     <a class="btn" href="/fr/media">Médias ></a>
 
-- <img src="/assets/images/home_events.jpg"
-  srcset="/assets/images/home_events_2x.jpg" alt="generic event image">
+- <img src="/assets/images/criterion2019.jpg"
+  srcset="/assets/images/criterion2019.jpg" alt="generic event image">
 
-  ### On the road
+  ### Événements
 
-  See our products and meet us personally at these upcoming events and trade shows.
+  Nous nous réjouissions de vous recontrer en personne lors d'un événements.
 
   <a class="btn" href="/en/events">Events ></a>
 
@@ -110,7 +110,7 @@ order: 1
   </div>
 
 - ## SWS chez Facebook
-  Suivez l'actualité de Swiss Wood Solutions and Sonowood sur Facebook.
+  Suivez l'actualité de Swiss Wood Solutions et Sonowood sur Facebook.
 
   <a class="btn" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook ></a>
 
