@@ -72,7 +72,7 @@ order: 1
 
     <a class="btn" href="/fr/media">Médias ></a>
 
-- <img src="/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
+- <img src="/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg"
   srcset="/assets/images/genericimage.jpg" alt="generic event image">
 
   ### Événements
