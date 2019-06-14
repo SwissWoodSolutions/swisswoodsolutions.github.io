@@ -71,14 +71,14 @@ order: 1
 
     <a class="btn" href="/de/media">Medien ></a>
 
-- <img src="/assets/images/home_events.jpg"
+- <img src="/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
   srcset="/assets/images/home_events_2x.jpg" alt="generic event image">
 
   ### Veranstaltungen
 
   Wir freuen uns, Sie bald an einer Veranstaltung persönlich zu treffen.
 
-  <a class="btn" href="/en/events">Events ></a>
+  <a class="btn" href="/de/events">Events ></a>
 
 </div>
 </div>

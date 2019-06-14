@@ -72,14 +72,14 @@ order: 1
 
     <a class="btn" href="/fr/media">Médias ></a>
 
-- <img src="/assets/images/criterion2019.jpg"
-  srcset="/assets/images/criterion2019.jpg" alt="generic event image">
+- <img src="/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
+  srcset="/assets/images/genericimage.jpg" alt="generic event image">
 
   ### Événements
 
   Nous nous réjouissions de vous recontrer en personne lors d'un événements.
 
-  <a class="btn" href="/en/events">Events ></a>
+  <a class="btn" href="/fr/events">Events ></a>
 
 </div>
 </div>
