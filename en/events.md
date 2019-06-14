@@ -45,11 +45,16 @@ order: 6
 <div class="full-width-grey">
 <div class="wrap -center">
 
-### Past events we attended:
+### Past events:
 
-  - **Event XYZ** Date, Location
-  - **Event XYZ** Date, Location
-  - **Event XYZ** Date, Location
+  - **Criterion Festival 2019**, March 2019, Zurich
+  - **New Material and Design Forum Shanghai**, March 2019, Shanghai
+  - **Strings attached**, November 2018, Bern
+  - **Cremona Mondomusica 2018**, September 2018, Cremona, Italy
+  - **Guitar Summit 2018**, September 2018, Mannheim, Germany
+  - **ETH Industry Day 2018**, September 2018, Zurich
+  - **ETH Week 2017**, September 2017, Zurich
+  - **ETH Industry Day 2017**, September 2017, Zurich
 
 </div>
 </div>

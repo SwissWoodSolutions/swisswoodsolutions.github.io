@@ -7,7 +7,7 @@ order: 6
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Coming soon to events near you.
+# Bientôt à un événement près de chez vous.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
@@ -19,22 +19,22 @@ order: 6
 <div class="full-width">
 <div class="wrap -cols2">
 
-### We're looking forward to meeting you at:
+### Nous nous réjouissons de vous rencontrer au:
 
 ---
 
 - ## Guitar Summit
 
-  ### September 27th – 29th, Mannheim, Germany
+  ### 27-29 septembre, Mannheim, l'Allemagne
 
-  The <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> is dedicated to everything guitar. For the third time, Mannheim becomes the centre of the international guitar world. Meet us and Sonowood at the Guitar Summit from September 27th – 29th.
+  Le Guitar Summit est dédié à tout ce qui concerne la guitare. Pour la troisième fois, Mannheim devient le centre du monde international de la guitare. Rencontrez-nous et Sonowood au <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> du 27 au 29 septembre.
 
 - <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
 
 - ## Cremona Mondomusica
-  ### September 27th – 29th, Cremona, Italy
+  ### 27-29 septembre, Cremona, l'Italie
 
-  Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Meet us and Sonowood at <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> from September 27th – 29th.
+  Cremona Mondomusica est la plus grande et la plus importante exposition de lutherie au monde. Cremona est la capitale mondiale de la lutherie et l'origine la plus célèbre famille de luthiers. Rencontrez-nous et Sonowood à <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> du 27 au 29 septembre.
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
@@ -44,11 +44,16 @@ order: 6
 <div class="full-width-grey">
 <div class="wrap -center">
 
-### Past events we attended:
+### Événements passés:
 
-  - **Event XYZ** Date, Location
-  - **Event XYZ** Date, Location
-  - **Event XYZ** Date, Location
+  - **Criterion Festival 2019**, mars 2019, Zurich
+  - **New Material and Design Forum Shanghai**, mars 2019, Shanghai
+  - **Strings attached**, novembre 2018, Bern
+  - **Cremona Mondomusica 2018**, septembre 2018, Cremona, l'Italie
+  - **Guitar Summit 2018**, septembre 2018, Mannheim, l'Allemagne
+  - **ETH Industry Day 2018**, septembre 2018, Zurich
+  - **ETH Week 2017**, septembre 2017, Zurich
+  - **ETH Industry Day 2017**, septembre 2017, Zurich
 
 </div>
 </div>

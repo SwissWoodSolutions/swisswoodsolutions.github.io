@@ -7,7 +7,7 @@ order: 6
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Coming soon to events near you.
+# Lassen Sie uns Sonowood persönlich vorstellen.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
@@ -25,14 +25,14 @@ order: 6
 
 - ## Guitar Summit
 
-  ### September 27th – 29th, Mannheim, Germany
+  ### 27. bis 29. September 2019, Mannheim, Deutschland
 
   Der <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> widmet sich voll und ganz dem Thema Gitarre. Zum dritten Mal wird Mannheim vom 27. bis 29. September 2019 zum Zentrum der internationalen Gitarrenwelt. Treffen Sie uns in Mannheim und erfahren Sie mehr über den Einsatz von Sonowood als Fretboard, Steg, Rahmen und vieles mehr für Ihre Gitarren.
 
 - <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
 
 - ## Cremona Mondomusica
-  ### September 27th – 29th, Cremona, Italy
+  ### 27. bis 29. September 2019, Cremona, Italien
 
    Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> vom 27. bis 29. September 2019.
 
@@ -47,10 +47,13 @@ order: 6
 ### Vergangene Events:
 
   - **Criterion Festival 2019**, März 2019, Zürich
+  - **New Material and Design Forum Shanghai**, März 2019, Shanghai
   - **Strings attached**, November 2018, Bern
   - **Cremona Mondomusica 2018**, September 2018, Cremona (Italien)
   - **Guitar Summit 2018**, September 2018, Mannheim
+  - **ETH Industry Day 2018**, September 2018, Zürich
   - **ETH Week 2017**, September 2017, Zürich
+  - **ETH Industry Day 2017**, September 2017, Zürich
 
 
 </div>
