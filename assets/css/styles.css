@@ -744,6 +744,7 @@ footer a {
    transition: background-color 0.2s linear 0.1s;
    font-family: 'Fira Sans', sans-serif;
    font-size: 1em;
+   display: block;
  }
  .form-submit:hover {
    background-color: #41393d;

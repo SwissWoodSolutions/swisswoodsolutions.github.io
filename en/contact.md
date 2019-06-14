@@ -43,19 +43,12 @@ Tel. +41 44 633 62 12 <br/>
   <script type="text/javascript">var submitted=false;</script>
   <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='';}"></iframe>
 
-  <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-  <div>
+  <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
   <input type="text" name="entry.1998489538" class="input-line" placeholder="My name*" required minlength="2">
-  </div>
-  <div>
   <input type="email" name="entry.913371209" class="input-line" placeholder="My e-mail address*">
-  </div>
-  <div>
   <textarea name="entry.1789398419" class="input-field" placeholder="My questions or comments"></textarea>
-  </div>
-  <div>
-  <button type="submit" class="form-submit" onclick="return confirm('Thank you for your interest! We will get in touch as soon as possible')">Submit</button>
-  </div>
+  <input type="hidden" name="entry.298481630" value="EN">
+  <button type="submit" class="form-submit">Submit</button>
 </form>
 
 </div>
