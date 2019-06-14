@@ -19,7 +19,7 @@ order: 6
 <div class="full-width">
 <div class="wrap -cols2">
 
-### We're looking forward to meeting you at:
+### Wir freuen uns, Sie an einer Veranstaltung zu treffen:
 
 ---
 
@@ -27,14 +27,14 @@ order: 6
 
   ### September 27th – 29th, Mannheim, Germany
 
-  The <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> is dedicated to everything guitar. For the third time, Mannheim becomes the centre of the international guitar world. Meet us and Sonowood at the Guitar Summit from September 27th – 29th.
+  Der <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> widmet sich voll und ganz dem Thema Gitarre. Zum dritten Mal wird Mannheim vom 27. bis 29. September 2019 zum Zentrum der internationalen Gitarrenwelt. Treffen Sie uns in Mannheim und erfahren Sie mehr über den Einsatz von Sonowood als Fretboard, Steg, Rahmen und vieles mehr für Ihre Gitarren.
 
 - <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
 
 - ## Cremona Mondomusica
   ### September 27th – 29th, Cremona, Italy
 
-  Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Meet us and Sonowood at <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> from September 27th – 29th.
+   Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> vom 27. bis 29. September 2019.
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
@@ -44,11 +44,14 @@ order: 6
 <div class="full-width-grey">
 <div class="wrap -center">
 
-### Past events we attended:
+### Vergangene Events:
 
-  - **Event XYZ** Date, Location
-  - **Event XYZ** Date, Location
-  - **Event XYZ** Date, Location
+  - **Criterion Festival 2019**, März 2019, Zürich
+  - **Strings attached**, November 2018, Bern
+  - **Cremona Mondomusica 2018**, September 2018, Cremona (Italien)
+  - **Guitar Summit 2018**, September 2018, Mannheim
+  - **ETH Week 2017**, September 2017, Zürich
+
 
 </div>
 </div>
