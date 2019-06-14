@@ -74,9 +74,9 @@ order: 1
 - <img src="/assets/images/home_events.jpg"
   srcset="/assets/images/home_events_2x.jpg" alt="generic event image">
 
-  ### On the road
+  ### Veranstaltungen
 
-  See our products and meet us personally at these upcoming events and trade shows.
+  Wir freuen uns, Sie bald an einer Veranstaltung persönlich zu treffen.
 
   <a class="btn" href="/en/events">Events ></a>
 
@@ -112,6 +112,8 @@ order: 1
 - ## SWS bei Facebook
 
   Folgen Sie uns bei Instagram und erfahren Sie laufend alle Neuigkeiten rund um SWS.
+
+  <a class="btn" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook ></a>
 
   <iframe class="facebook-media" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSwiss-Wood-Solutions-1539292799446076%2F&tabs=timeline&height=800&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
