@@ -38,6 +38,13 @@ order: 6
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
+- ## Swiss Alpine Musuem
+  ### October 18th 2019 - September 27th 2020, Bern
+
+  Sonowood spruce is made from domestic Swiss spruce from above 1’000 metres above sea level. Up there, the vegetation period is shorter, leading to narrow growth ring formation. Experience Sonowood from Swiss Alps sources as part of the upcoming Alpine Workshop Exhibition in the <a href="https://www.alpinesmuseum.ch/en/exhibitions/annual-programme" target="_blank">Swiss Alpine Museum</a> in Bern. 
+
+- <a href="https://www.alpinesmuseum.ch/en/exhibitions/annual-programme" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
+
 </div>
 </div>
 

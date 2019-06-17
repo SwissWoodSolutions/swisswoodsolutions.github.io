@@ -38,6 +38,13 @@ order: 6
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
+- ## Alpines Museum der Schweiz
+  ### 18. Oktober 2019 bis 27. September 2020, Bern
+
+  Sonowood spruce est fabriqué d'épicéas domestiques suisses situés à plus de 1'000 mètres d'altitude. Vivez l'expérience Sonowood de sources alpines suisses dans l'exposition Atelier Alpes au <a href="https://www.alpinesmuseum.ch/fr/expositions/programme-annuel" target="_blank">Musée Alpin Suisse</a> à Berne. 
+
+- <a href="https://www.alpinesmuseum.ch/fr/expositions/programme-annuel" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
+
 </div>
 </div>
 
