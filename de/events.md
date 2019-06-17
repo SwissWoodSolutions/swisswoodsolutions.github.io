@@ -38,6 +38,13 @@ order: 6
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
+- ## Alpines Museum der Schweiz
+  ### 18. Oktober 2019 bis 27. September 2020, Bern
+
+   Handwerkerinnen und Handwerker aus den Bergen verwandeln das <a href="https://www.alpinesmuseum.ch/de/ausstellungen/werkstatt-alpen" target="_blank">Alpine Museum der Schweiz</a> in Bern bald in eine Werkstatt. Erleben Sie Sonowood aus Schweizer Fichte aus Höhenlagen oberhalb von 1'000 Metern über Meer an der neuen Ausstellung von Oktober 2019 bis September 2020.
+
+- <a href="https://www.alpinesmuseum.ch/de/ausstellungen/werkstatt-alpen" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
+
 </div>
 </div>
 
