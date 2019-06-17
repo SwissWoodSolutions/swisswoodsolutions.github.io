@@ -19,12 +19,14 @@ order: 2
 <div class="full-width">
 <div class="wrap -cols2">
 
-Die extreme Härte und hohe Dichte von Sonowood sorgen für akustische Höchstleistungen Ihrer Gitarren und E-Gitarren. Sonowood eignet sich dafür als Griffbrett, Steg und Kopfplatte. 
+Die extreme Härte und hohe Dichte von Sonowood sorgen für akustische Höchstleistungen Ihrer Gitarren und E-Gitarren. Sonowood eignet sich dafür als Griffbrett, Steg und Kopfplatte.
 
 Angeboten werden Fichte (Picea abies) und Ahorn (Acer pseudoplatanus). Für unsere Produkte verwenden wir Holz aus nachhaltiger Forstwirtschaft, vornehmlich aus den Kantonen Zürich und Graubünden.
 
+**Technische Daten** für Sonowood Maple and Sonowood Spruce <a href="/de/products/#technicaldata">finden Sie hier</a> auf der Sonowood-Seite.
+
 </div>
-</div> 
+</div>
 
 <div class="full-width-red">
 <div class="wrap">
@@ -63,5 +65,3 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 
 </div>
 </div>
-
-

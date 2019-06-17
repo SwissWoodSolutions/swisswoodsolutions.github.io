@@ -19,12 +19,14 @@ order: 2
 <div class="full-width">
 <div class="wrap -cols2">
 
-La dureté et la densité exceptionnelles de Sonowood une performance acoustique maximaleassurent à vos guitares et guitares électriques. Sonowood peut être utilisé comme touche et chevalet. 
+La dureté et la densité exceptionnelles de Sonowood une performance acoustique maximaleassurent à vos guitares et guitares électriques. Sonowood peut être utilisé comme touche et chevalet.
 
 Les produits disponibles sont l'épicéa (Picea abies) et l'érable (Acer pseudoplatanus). Pour nos produits, nous utilisons que du bois issu d'une sylviculture durable, surtout des cantons de Zurich et des Grisons.
 
+Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce <a href="/fr/products/#technicaldata">ici à la page principale de Sonowood.</a>
+
 </div>
-</div> 
+</div>
 
 <div class="full-width-red">
 <div class="wrap">

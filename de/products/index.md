@@ -104,7 +104,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 </div>
 </div>
 
-<div class="full-width-grey" name="Sonowood-Types">
+<div class="full-width-grey" name="Sonowood-Types" id="technicaldata">
 <div class="wrap -cols2">
 
 ## Ausführungen von Sonowood

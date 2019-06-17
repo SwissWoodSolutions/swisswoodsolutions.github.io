@@ -19,12 +19,15 @@ order: 2
 <div class="full-width">
 <div class="wrap -cols2">
 
-The extreme hardness and high density of Sonowood ensure that your guitars and electric guitars deliver highest acoustic performances. Sonowood is suitable for fretboards, bridges and headstocks. 
+The extreme hardness and high density of Sonowood ensure that your acoustic and electric guitars deliver highest acoustic performances. Sonowood is suitable for **fretboards, bridges and headstocks.**
 
 The offerings includes Sonowood from spruce (Picea abies) and maple (Acer pseudoplatanus). For our products, we use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
 
+**Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/products/#technicaldata">can be found here</a> on the Sonowood main page.
+
+
 </div>
-</div> 
+</div>
 
 <div class="full-width-red">
 <div class="wrap">
@@ -33,7 +36,7 @@ The offerings includes Sonowood from spruce (Picea abies) and maple (Acer pseudo
 
 Contact us for a price request and become part of the sustainable revolution in instrument manufacturing.
 
-<a class="btn" href="/en/contact">Contact ></a>
+<a class="btn -white" href="/en/contact">Contact ></a>
 
 </div>
 </div>

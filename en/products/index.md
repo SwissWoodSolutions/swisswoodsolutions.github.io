@@ -110,7 +110,7 @@ technology offers adjustability of a wide range of parameters.
 </div>
 </div>
 
-<div class="full-width" name="Sonowood-Types">
+<div class="full-width" name="Sonowood-Types" id="technicaldata">
 <div class="wrap -cols2">
 
 ## Types of Sonowood

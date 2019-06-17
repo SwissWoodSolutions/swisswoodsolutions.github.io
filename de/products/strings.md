@@ -19,12 +19,14 @@ order: 1
 <div class="full-width">
 <div class="wrap -cols2">
 
-Der Streichinstrumentenbau ist emotional. Viele Instrumente sind Unikate, gefertigt in sorgsamer Handarbeit. Genau so verhält es sich bei Sonowood. Wir stellen jedes Stück einzeln her, kein Griffbrett ähnelt dem nächsten. Die Ästhetik und die aussergewöhnliche Härte und Dichte garantieren Höchstleistung in edlem Gewand. 
+Der Streichinstrumentenbau ist emotional. Viele Instrumente sind Unikate, gefertigt in sorgsamer Handarbeit. Genau so verhält es sich bei Sonowood. Wir stellen jedes Stück einzeln her, kein Griffbrett ähnelt dem nächsten. Die Ästhetik und die aussergewöhnliche Härte und Dichte garantieren Höchstleistung in edlem Gewand.
 
 Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und Ahorn (Acer pseudoplatanus). Für unsere Produkte verwenden wir Holz aus nachhaltiger Forstwirtschaft, vornehmlich aus den Kantonen Zürich und Graubünden.
 
+**Technische Daten** für Sonowood Maple and Sonowood Spruce <a href="/de/products/#technicaldata">finden Sie hier</a> auf der Sonowood-Seite.
+
 </div>
-</div> 
+</div>
 
 <div class="full-width-grey" name="Sonowood-Types">
 <div class="wrap -cols2">
@@ -37,17 +39,17 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
 
   - ## Rohlinge
 
-  - #### 
+  - ####
 
       - **Violine**: Griffbrett, Saitenhalter, Endknopf, Kinnhalter
       - **Bratsche**: Griffbrett, Saitenhalter, Endknopf, Kinnhalter
-      
-  - #### 
+
+  - ####
 
       - **Violine**: Wirbel, Griffbrett, Saitenhalter, Endknopf, Kinnhalter, Ober- und Untersattel
       - **Bratsche**: Wirbel, Griffbrett, Saitenhalter, Endknopf, Kinnhalter, Ober- und Untersattel
       - **Cello**: Wirbel, Saitenhalter
-      
+
 </div>
 </div>
 
@@ -92,4 +94,3 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 
 </div>
 </div>
-

@@ -94,7 +94,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-grey" id="technicaldata">
 <div class="wrap -cols2">
 
 ## Gamme de produits

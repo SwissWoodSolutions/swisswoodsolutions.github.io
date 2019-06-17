@@ -19,35 +19,39 @@ order: 1
 <div class="full-width">
 <div class="wrap -cols2">
 
-String instrument making is emotional. Many instruments are unique and carefully handcrafted. This is exactly the case with Sonowood as well. We manufacture each piece individually, no fingerboard resembles the next. The aesthetics and the extraordinary hardness and density guarantee excellent performance. 
+**String instrument making is emotional.** Many instruments are unique and carefully handcrafted. This is exactly the case with Sonowood as well. We manufacture each piece individually, no fingerboard resembles the next. The aesthetics and the extraordinary hardness and density guarantee excellent performance.
 
 We offer fittings as well as squared timbers in spruce (Picea abies) and maple (Acer pseudoplatanus). For our products, we use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
 
+**Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/products/#technicaldata">can be found here</a> on the Sonowood main page.
+
 </div>
-</div> 
+</div>
 
 <div class="full-width-grey" name="Sonowood-Types">
 <div class="wrap -cols2">
 
-## Assortment
+## Assortment for strings
 
 ---
 
-  - ## Fittings
-
-  - ## Squared timbers
-
-  - #### 
-
+  - ## Sonowood Fittings
       - **Violin**: Fingerboard, tailpiece, end button, chinrest
       - **Viola**: Fingerboard, tailpiece, end button, chinrest
-      
-  - #### 
+      - *all available in maple or spruce*
 
-      - **Violin**: Peg, fingerboard, tailpiece, end button, chinrest 
-      - **Viola**: Peg, fingerboard, tailpiece, end button, chinrest 
+
+  - ###
+
+  - ## Sonowood Squared Timbers
+
+      - **Violin**: Peg, fingerboard, tailpiece, end button, chinrest
+      - **Viola**: Peg, fingerboard, tailpiece, end button, chinrest
       - **Cello**: Peg, tailpiece
-      
+      - *all available in maple or spruce*
+
+  - ###
+
 </div>
 </div>
 
@@ -58,7 +62,7 @@ We offer fittings as well as squared timbers in spruce (Picea abies) and maple (
 
 Contact us for a price request and become part of the sustainable revolution in instrument manufacturing.
 
-<a class="btn" href="/en/contact">Contact ></a>
+<a class="btn -white" href="/en/contact">Contact ></a>
 
 </div>
 </div>

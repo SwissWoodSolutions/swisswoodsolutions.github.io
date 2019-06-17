@@ -22,12 +22,14 @@ order: 1
 <div class="full-width">
 <div class="wrap -cols2">
 
-La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments sont des expemplaires uniques. C'est exactement le cas de Sonowood. Nous fabriquons chaque pièce individuellement. Aucune touche ne ressemble à la suivante. L'esthétique et la dureté et densité extraordinaire garantissent des performances maximales. 
+La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments sont des expemplaires uniques. C'est exactement le cas de Sonowood. Nous fabriquons chaque pièce individuellement. Aucune touche ne ressemble à la suivante. L'esthétique et la dureté et densité extraordinaire garantissent des performances maximales.
 
 Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abies) et en érable (Acer pseudoplatanus). Pour nos produits, nous utilisons que du bois issu d'une sylviculture durable, surtout des cantons de Zurich et des Grisons.
 
+Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce <a href="/fr/products/#technicaldata">ici à la page principale de Sonowood.</a>
+
 </div>
-</div> 
+</div>
 
 <div class="full-width-grey" name="Sonowood-Types">
 <div class="wrap -cols2">
@@ -40,17 +42,17 @@ Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abi
 
   - ## Ébauches
 
-  - #### 
+  - ####
 
       - **Violon**: Touche, cordier, bouton, mentonnière
       - **Alto**: Touche, cordier, bouton, mentonnière
-      
-  - #### 
+
+  - ####
 
       - **Violon**: Chevilles, touche, cordier, bouton, mentonnière
       - **Alto**: Chevilles, touche, cordier, bouton, mentonnière
       - **Violoncelle**: Chevilles, cordier
-  
+
 </div>
 </div>
 
@@ -59,7 +61,7 @@ Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abi
 
 ## Comment obtenir Sonowood?
 
-   Sonowood est actuellement disponible pour violon, alto, violoncelle, contrebasse et guitare. 
+   Sonowood est actuellement disponible pour violon, alto, violoncelle, contrebasse et guitare.
    Bientôt disponible : Sonowood pour vents en bois comme les clarinettes.
 
   Pour toutes questions commerciales ou techniques :
