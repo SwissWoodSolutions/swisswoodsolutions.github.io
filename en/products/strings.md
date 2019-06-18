@@ -37,7 +37,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 
 ## Sonowood Fittings
 
-**All fittings available in Maple or Spruce, for violin and viola.** <br/>
+**All fittings available in maple or spruce for violin and viola.** <br/>
 *Click on an image for larger size*
 
 #### Fingerboard
@@ -106,11 +106,6 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
         <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg"/>
       </a>
     </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg" alt="sonowood spruce tailpiece">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg"/>
-      </a>
-    </li>
   </ul>    
 </div>
 
@@ -151,7 +146,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 ---
 
 ## Sonowood Squared Timbers
-**All squared timbers available in Maple or Spruce, for Violin and Viola. For Cello: Pegs and Tailpieces only.**
+**All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.**
 
 <div class="picturegallery" id="">
   <ul class="" id="lightgallery">
