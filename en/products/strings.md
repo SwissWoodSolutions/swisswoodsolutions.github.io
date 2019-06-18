@@ -28,13 +28,6 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 </div>
 </div>
 
-<div class="full-width-grey" name="Sonowood-Types">
-<div class="wrap">
-
-### Sonowood Assortment for Strings
-
----
-
 ## Sonowood Fittings
 
 **All fittings available in maple or spruce for violin and viola.** <br/>
