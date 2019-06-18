@@ -751,6 +751,42 @@ footer a {
    color: white;
  }
 
+/* LIGHTGALLERY */
+
+.picturegallery > ul {
+  margin-bottom: 2em;
+}
+
+.picturegallery > ul > li {
+  margin-bottom: 2px;
+  display: inline-block;
+  margin-right: 2px;
+  width: 150px;
+  list-style: outside none none;
+}
+
+.picturegallery > ul > li a {
+  display: block;
+  overflow: hidden;
+  position: relative;
+  float: left;
+}
+
+.picturegallery > ul > li a > img {
+  -webkit-transition: -webkit-transform 0.15s ease 0s;
+  -moz-transition: -moz-transform 0.15s ease 0s;
+  -o-transition: -o-transform 0.15s ease 0s;
+  transition: transform 0.15s ease 0s;
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  height: 120px;
+  object-fit: cover;
+}
+
+.picturegallery > ul > li a:hover > img {
+  -webkit-transform: scale3d(1.1, 1.1, 1.1);
+  transform: scale3d(1.1, 1.1, 1.1);
+}
 
 
 /* no grid support? TO BE ADDED*/

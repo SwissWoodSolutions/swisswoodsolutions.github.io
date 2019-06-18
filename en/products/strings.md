@@ -21,36 +21,171 @@ order: 1
 
 **String instrument making is emotional.** Many instruments are unique and carefully handcrafted. This is exactly the case with Sonowood as well. We manufacture each piece individually, no fingerboard resembles the next. The aesthetics and the extraordinary hardness and density guarantee excellent performance.
 
-We offer fittings as well as squared timbers in spruce (Picea abies) and maple (Acer pseudoplatanus). For our products, we use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
+We offer **fittings as well as squared timbers in spruce (Picea abies) and maple (Acer pseudoplatanus).** We use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
 
-**Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/products/#technicaldata">can be found here</a> on the Sonowood main page.
+Find our current assortment below. **Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/products/#technicaldata">can be found here</a> on the Sonowood main page.
 
 </div>
 </div>
 
 <div class="full-width-grey" name="Sonowood-Types">
-<div class="wrap -cols2">
+<div class="wrap">
 
-## Assortment for strings
+### Sonowood Assortment for Strings
 
 ---
 
+## Sonowood Fittings
+
+**All fittings available in Maple or Spruce, for violin and viola.** <br/>
+*Click on an image for larger size*
+
+#### Fingerboard
+
+<div class="picturegallery" id="">
+  <ul class="" id="lightgallery">
+    <li data-sub-html="<p>Caption Text</p>">
+      <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+        <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="sonowood maple fingerboard"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
+        <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg"/ alt="sonowood maple fingerboard">
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg"/ alt="sonowood spruce fingerboard">
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg"/ alt="sonowood spruce fingerboard">
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg"/ alt="sonowood spruce fingerboard">
+      </a>
+    </li>
+  </ul>    
+</div>
+
+#### Tailpiece
+
+<div class="picturegallery" id="">
+  <ul class="" id="lightgallery">
+    <li data-sub-html="<p>Caption Text</p>">
+      <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="sonowood maple tailpiece">
+        <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="sonowood maple tailpiece">
+        <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="sonowood maple tailpiece">
+        <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="sonowood maple tailpiece">
+        <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="sonowood spruce tailpiece">
+        <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="sonowood spruce tailpiece">
+        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg" alt="sonowood spruce tailpiece">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg"/>
+      </a>
+    </li>
+  </ul>    
+</div>
+
+#### Chinrest
+
+<div class="picturegallery" id="">
+  <ul class="" id="lightgallery">
+    <li data-sub-html="<p>Caption Text</p>">
+      <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
+        <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="sonowood maple chinrest"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
+        <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg"/ alt="sonowood maple chinrest">
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
+        <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg"/ alt="sonowood maple chinrest">
+      </a>
+    </li>
+  </ul>    
+</div>
+
+#### Endbutton
+
+<div class="picturegallery" id="">
+  <ul class="" id="lightgallery">
+    <li data-sub-html="<p>Caption Text</p>">
+      <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
+        <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="sonowood maple endbutton"/>
+      </a>
+    </li>
+  </ul>    
+</div>
+
+---
+
+## Sonowood Squared Timbers
+**All squared timbers available in Maple or Spruce, for Violin and Viola. For Cello: Pegs and Tailpieces only.**
+
+<div class="picturegallery" id="">
+  <ul class="" id="lightgallery">
+    <li data-sub-html="<p>Caption Text</p>">
+      <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
+        <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="sonowood maple pegs"/>
+      </a>
+    </li>
+    <li>
+      <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
+        <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg"/ alt="sonowood spruce pegs">
+      </a>
+    </li>
+  </ul>    
+</div>
+
+<!--
   - ## Sonowood Fittings
-      - **Violin**: Fingerboard, tailpiece, end button, chinrest
-      - **Viola**: Fingerboard, tailpiece, end button, chinrest
-      - *all available in maple or spruce*
+        - **Violin**: Fingerboard, tailpiece, end button, chinrest
+        - **Viola**: Fingerboard, tailpiece, end button, chinrest
+        - *all available in maple or spruce*
 
 
-  - ###
+    - ###
 
-  - ## Sonowood Squared Timbers
+    - ## Sonowood Squared Timbers
 
-      - **Violin**: Peg, fingerboard, tailpiece, end button, chinrest
-      - **Viola**: Peg, fingerboard, tailpiece, end button, chinrest
-      - **Cello**: Peg, tailpiece
-      - *all available in maple or spruce*
+        - **Violin**: Peg, fingerboard, tailpiece, end button, chinrest
+        - **Viola**: Peg, fingerboard, tailpiece, end button, chinrest
+        - **Cello**: Peg, tailpiece
+        - *all available in maple or spruce*
 
-  - ###
+    - ###
+-->
 
 </div>
 </div>
@@ -74,25 +209,7 @@ Contact us for a price request and become part of the sustainable revolution in 
      src="/assets/images/services_cover.jpg" alt="Stradi">
 <figcaption>Stradivarius from 1721 with a fingerboard and tailpiece from Sonowood spruce.</figcaption>
 
-<img srcset="/assets/images/violin_sonowood_maple.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Violin equipped with a fingerboard and chinrest from Sonowood maple.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_spruce.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Tailpiece from Sonowood spruce.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_spruce_closeup.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Tailpiece from Sonowood spruce.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_maple.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Tailpiece from Sonowood maple.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_maple_closeup.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Tailpiece from Sonowood maple.</figcaption>
-
 </div>
 </div>
+
+<script src="/assets/js/lightgallery/js/lightgallery.min.js"></script>
