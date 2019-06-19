@@ -715,7 +715,7 @@ footer a {
   outline: 0;
   padding: 1em 1em 0.5em 0em;
   text-decoration: none;
-  margin: 0 0 1em 0;
+  margin: 0 0 2em 0;
   width: 26em;
   font-family: 'Fira Sans', sans-serif;
   font-style: italic;
@@ -731,7 +731,7 @@ footer a {
    font-family: 'Fira Sans', sans-serif;
    font-style: italic;
    font-size: 1em;
-   margin-top: 2em;
+   margin-top: 1em;
  }
  .form-submit {
    color: #41393d;
@@ -750,6 +750,51 @@ footer a {
    background-color: #41393d;
    color: white;
  }
+ .checkbox-wrapper {
+  position: relative;
+ }
+input[type="checkbox"] {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 20px;
+  width: 20px;
+  -webkit-appearance: none;
+ }
+ .checkbox-label {
+   display: flex;
+   position: relative;
+   margin-bottom: 1em;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ .checkbox-label:before, .checkbox-label:after {
+   pointer-events: none;
+ }
+ .checkbox-label:before {
+  display:  flex;
+  content: ' ';
+  height: 20px;
+  width: 20px;
+  border: solid #41393d 3px;
+  background-color: rgba(255,255,255,0);
+  margin-right: 1em;
+}
+.checkbox-label:after {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  display: flex;
+  content: ' ';
+  height: 13px;
+  width: 13px;
+  transform: scale(0);
+  background-color: #41393d;
+  transition:  transform .3s ease;
+}
+.checkbox-wrapper input[type="checkbox"]:checked + .checkbox-label:after {
+  transform:  scale(1);
+}
 
 /* LIGHTGALLERY */
 

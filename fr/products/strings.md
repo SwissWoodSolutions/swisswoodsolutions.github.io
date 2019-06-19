@@ -16,11 +16,8 @@ order: 1
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood on violin">
 </div>
 
-<div class="full-width">
+<div class="full-width-red">
 <div class="wrap">
-
-<div class="full-width">
-<div class="wrap -cols2">
 
 La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments sont des expemplaires uniques. C'est exactement le cas de Sonowood. Nous fabriquons chaque pièce individuellement. Aucune touche ne ressemble à la suivante. L'esthétique et la dureté et densité extraordinaire garantissent des performances maximales.
 
@@ -31,7 +28,7 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 </div>
 </div>
 
-<div class="full-width-grey" name="Sonowood-Types">
+<div class="full-width" name="Sonowood-Types">
 <div class="wrap -cols2">
 
 ## Gamme de produits
@@ -56,17 +53,35 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 </div>
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap">
 
 ## Comment obtenir Sonowood?
 
-   Sonowood est actuellement disponible pour violon, alto, violoncelle, contrebasse et guitare.
-   Bientôt disponible : Sonowood pour vents en bois comme les clarinettes.
+Sonowood est actuellement disponible pour violon, alto, violoncelle, contrebasse et guitare. Bientôt disponible : Sonowood pour vents en bois comme les clarinettes.
 
-  Pour toutes questions commerciales ou techniques :
+Pour toutes questions commerciales ou techniques:
 
-<a class="btn -red" href="/fr/contact">Contactez-nous ></a>
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='';}"></iframe>
+
+<form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
+      <input type="text" name="entry.1998489538" class="input-line" placeholder="Mon nom*" required minlength="2">
+      <input type="email" name="entry.913371209" class="input-line" placeholder="Mon adresse e-mail*">
+      <p>Je m'interesse à Sonowood pour des:</p>
+      <div class="checkbox-wrapper">
+        <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Instruments à cordes</label>
+      </div>
+      <div class="checkbox-wrapper">
+        <input type="checkbox" name="entry.471260229" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitares</label>
+      </div>
+      <div class="checkbox-wrapper">
+        <input type="checkbox" name="entry.471260229" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Autres instruments our produits</label>
+      </div>
+      <textarea name="entry.1789398419" class="input-field" placeholder="Mon message et mes questions"></textarea>
+      <input type="hidden" name="entry.298481630" value="FR">
+      <button type="submit" class="form-submit">Envoyer</button>
+</form>
 
 </div>
 </div>

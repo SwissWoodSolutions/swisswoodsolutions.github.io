@@ -16,7 +16,7 @@ order: 2
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
-<div class="full-width">
+<div class="full-width-red">
 <div class="wrap -cols2">
 
 La dureté et la densité exceptionnelles de Sonowood une performance acoustique maximaleassurent à vos guitares et guitares électriques. Sonowood peut être utilisé comme touche et chevalet.
@@ -28,40 +28,33 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 </div>
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap">
 
 ## Comment obtenir Sonowood?
 
-Pour toutes questions commerciales et techniques:
+Pour toutes questions commerciales ou techniques:
 
-<a class="btn" href="/de/contact">Contactez-nous ></a>
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='';}"></iframe>
 
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -center">
-
-<img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Canna Guitare avec touche, chevalet et tête en Sonowood érable .</figcaption>
-
-<img srcset="/assets/images/Cannaguitar_Steg.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Chevalet en Sonowood érable.</figcaption>
-
-<img srcset="/assets/images/eguitar_sonowood_maple.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Guitare électrique de Canna Guitars avec touche en Sonowood érable.</figcaption>
-
-<img srcset="/assets/images/eguitar_sonowood_maple_totale.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Guitare électrique de Canna Guitar.</figcaption>
-
-<img srcset="/assets/images/eguitar_sonowood_maple_fretboard.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Touche en Sonowood érable.</figcaption>
+<form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
+      <input type="text" name="entry.1998489538" class="input-line" placeholder="Mon nom*" required minlength="2">
+      <input type="email" name="entry.913371209" class="input-line" placeholder="Mon adresse e-mail*">
+      <p>Je m'interesse à Sonowood pour des:</p>
+      <div class="checkbox-wrapper">
+        <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Instruments à cordes</label>
+      </div>
+      <div class="checkbox-wrapper">
+        <input type="checkbox" name="entry.471260229" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitares</label>
+      </div>
+      <div class="checkbox-wrapper">
+        <input type="checkbox" name="entry.471260229" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Autres instruments our produits</label>
+      </div>
+      <textarea name="entry.1789398419" class="input-field" placeholder="Mon message et mes questions"></textarea>
+      <input type="hidden" name="entry.298481630" value="FR">
+      <button type="submit" class="form-submit">Envoyer</button>
+</form>
 
 </div>
 </div>
