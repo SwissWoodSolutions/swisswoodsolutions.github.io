@@ -203,4 +203,4 @@ Contact us for a price request and become part of the sustainable revolution in 
 </div>
 </div>
 
-<script src="/assets/js/lightgallery/js/lightgallery.min.js"></script>
+<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
