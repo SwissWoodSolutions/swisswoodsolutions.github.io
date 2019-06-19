@@ -38,8 +38,8 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 
 #### Fingerboard
 
-<div class="picturegallery" id="">
-  <ul class="" id="lightgallery">
+<div class="picturegallery">
+  <ul class="lightgallery">
     <li data-sub-html="<p>Caption Text</p>">
       <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
         <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="sonowood maple fingerboard"/>
@@ -70,8 +70,8 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 
 #### Tailpiece
 
-<div class="picturegallery" id="">
-  <ul class="" id="lightgallery">
+<div class="picturegallery">
+  <ul class="lightgallery">
     <li data-sub-html="<p>Caption Text</p>">
       <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="sonowood maple tailpiece">
         <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg"/>
@@ -107,8 +107,8 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 
 #### Chinrest
 
-<div class="picturegallery" id="">
-  <ul class="" id="lightgallery">
+<div class="picturegallery">
+  <ul class="lightgallery">
     <li data-sub-html="<p>Caption Text</p>">
       <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
         <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="sonowood maple chinrest"/>
@@ -129,8 +129,8 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 
 #### Endbutton
 
-<div class="picturegallery" id="">
-  <ul class="" id="lightgallery">
+<div class="picturegallery">
+  <ul class="lightgallery">
     <li data-sub-html="<p>Caption Text</p>">
       <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
         <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="sonowood maple endbutton"/>
@@ -204,3 +204,7 @@ Contact us for a price request and become part of the sustainable revolution in 
 </div>
 
 <script src="/assets/lightgallery/js/lightgallery.min.js"></script>
+<script type="text/javascript">
+  $(".lightgallery").lightgallery();
+</script>
+<script src="/assets/js/jquery.min.js"></script>
