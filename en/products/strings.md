@@ -16,7 +16,7 @@ order: 1
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 **String instrument making is emotional.** Many instruments are unique and carefully handcrafted. This is exactly the case with Sonowood as well. We manufacture each piece individually, no fingerboard resembles the next. The aesthetics and the extraordinary hardness and density guarantee excellent performance.
@@ -36,7 +36,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 **All fittings available in maple or spruce for violin and viola.** <br/>
 *Click on an image for larger size*
 
-#### Fingerboard
+### Fingerboard
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
@@ -56,7 +56,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
   </a>
 </div>
 
-#### Tailpiece
+### Tailpiece
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Sonowood Maple tailpiece">
@@ -79,7 +79,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
   </a>   
 </div>
 
-#### Chinrest
+### Chinrest
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
@@ -93,7 +93,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
   </a>
 </div>
 
-#### Endbutton
+### Endbutton
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
