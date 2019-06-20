@@ -16,7 +16,7 @@ order: 1
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood on violin">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap">
 
 La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments sont des expemplaires uniques. C'est exactement le cas de Sonowood. Nous fabriquons chaque pièce individuellement. Aucune touche ne ressemble à la suivante. L'esthétique et la dureté et densité extraordinaire garantissent des performances maximales.

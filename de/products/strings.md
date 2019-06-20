@@ -16,7 +16,7 @@ order: 1
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 Der Streichinstrumentenbau ist emotional. Viele Instrumente sind Unikate, gefertigt in sorgsamer Handarbeit. Genau so verhält es sich bei Sonowood. Wir stellen jedes Stück einzeln her, kein Griffbrett ähnelt dem nächsten. Die Ästhetik und die aussergewöhnliche Härte und Dichte garantieren Höchstleistung in edlem Gewand.
