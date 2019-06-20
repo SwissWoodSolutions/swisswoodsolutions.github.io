@@ -41,7 +41,8 @@ Contact us for a price request and become part of the sustainable revolution in 
 
   <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
     <input type="text" name="entry.1998489538" class="input-line" placeholder="My name*" required minlength="2">
-    <input type="email" name="entry.913371209" class="input-line" placeholder="My e-mail address*">
+    <input type="email" name="entry.913371209" class="input-line" placeholder="My e-mail address*" required minlength="3">
+    <input type="text" name="entry.14292811" class="input-line" placeholder="I live in (Country)" required minlength="2">
     <p>I'm interested in Sonowood for:</p>
     <div class="checkbox-wrapper">
       <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Strings</label>

@@ -48,7 +48,8 @@ Tel. +41 44 633 62 12
 
   <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
     <input type="text" name="entry.1998489538" class="input-line" placeholder="Mein Name*" required minlength="2">
-    <input type="email" name="entry.913371209" class="input-line" placeholder="Meine E-Mail*">
+    <input type="email" name="entry.913371209" class="input-line" placeholder="Meine E-Mail*" required minlength="3">
+    <input type="text" name="entry.14292811" class="input-line" placeholder="Ich wohne in (Land)" required minlength="2">
     <p>Ich interessiere mich für Sonowood für:</p>
     <div class="checkbox-wrapper">
       <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Streichinstrumente</label>

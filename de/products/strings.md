@@ -28,27 +28,92 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
 </div>
 </div>
 
-<div class="full-width" name="Sonowood-Types">
-<div class="wrap -cols2">
+<div class="full-width">
+<div class="wrap">
 
-## Sortiment
+## Sonowood Fittings
+
+**All fittings available in maple or spruce for violin and viola.** <br/>
+*Click on an image for larger size*
+
+#### Fingerboard
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Sonowood Maple fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Sonowood Maple fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood Spruce fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Sonowood Spruce fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Sonowood Spruce fingerboard">
+  </a>
+</div>
+
+#### Tailpiece
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Sonowood Spruce tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Sonowood Spruce tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg">
+  </a>   
+</div>
+
+#### Chinrest
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Sonowood Maple chinrest">
+  </a>
+  <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Sonowood Maple chinrest">
+  </a>
+  <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Sonowood Maple chinrest">
+  </a>
+</div>
+
+#### Endbutton
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Sonowood Maple endbutton">
+  </a>
+</div>
 
 ---
 
-  - ## Formteile
+## Sonowood Squared Timbers
+**All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.**
 
-  - ## Rohlinge
-
-  - ####
-
-      - **Violine**: Griffbrett, Saitenhalter, Endknopf, Kinnhalter
-      - **Bratsche**: Griffbrett, Saitenhalter, Endknopf, Kinnhalter
-
-  - ####
-
-      - **Violine**: Wirbel, Griffbrett, Saitenhalter, Endknopf, Kinnhalter, Ober- und Untersattel
-      - **Bratsche**: Wirbel, Griffbrett, Saitenhalter, Endknopf, Kinnhalter, Ober- und Untersattel
-      - **Cello**: Wirbel, Saitenhalter
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+  </a>
+  <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Pegs made from Sonowood Spruce squared timbers">
+  </a>  
+</div>
 
 </div>
 </div>
@@ -65,7 +130,8 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 
 <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
   <input type="text" name="entry.1998489538" class="input-line" placeholder="Mein Name*" required minlength="2">
-  <input type="email" name="entry.913371209" class="input-line" placeholder="Meine E-Mail*">
+  <input type="email" name="entry.913371209" class="input-line" placeholder="Meine E-Mail*" required minlength="3">
+  <input type="text" name="entry.14292811" class="input-line" placeholder="Ich wohne in (Land)" required minlength="2">
   <p>Ich interessiere mich für Sonowood für:</p>
   <div class="checkbox-wrapper">
     <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Streichinstrumente</label>
@@ -85,31 +151,23 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 </div>
 
 <div class="full-width">
-<div class="wrap -center">
+<div class="wrap">
 
 <img srcset="/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
+     src="/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg">
 <figcaption>Stradivarius von 1721 mit Griffbrett und Saitenhalter aus Sonowood spruce.</figcaption>
 
-<img srcset="/assets/images/violin_sonowood_maple.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Violine ausgestattet mit Griffbrett und Kinnhalter aus Sonowood maple.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_spruce.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Saitenhalter aus Sonowood spruce.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_spruce_closeup.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Saitenhalter aus Sonowood spruce.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_maple.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Saitenhalter aus Sonowood maple.</figcaption>
-
-<img srcset="/assets/images/violin_tailpiece_sonowood_maple_closeup.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Saitenhalter aus Sonowood maple.</figcaption>
-
 </div>
 </div>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
+<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
+<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="/assets/lightgallery/js/lg-share.min.js"></script>
+<script type="text/javascript">
+  $(".picturegallery").lightGallery({
+      download: false,
+      googlePlus: false,
+    });
+</script>

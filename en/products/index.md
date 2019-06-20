@@ -83,7 +83,7 @@ technology offers adjustability of a wide range of parameters.
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols3">
 
   - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
@@ -113,7 +113,7 @@ technology offers adjustability of a wide range of parameters.
 <div class="full-width" name="Sonowood-Types" id="technicaldata">
 <div class="wrap -cols2">
 
-## Types of Sonowood
+### Types of Sonowood
 
 ---
 
