@@ -39,104 +39,66 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 #### Fingerboard
 
 <div class="picturegallery">
-  <ul class="lightgallery">
-    <li data-sub-html="<p>Caption Text</p>">
-      <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="sonowood maple fingerboard"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg"/ alt="sonowood maple fingerboard">
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg"/ alt="sonowood spruce fingerboard">
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg"/ alt="sonowood spruce fingerboard">
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg"/ alt="sonowood spruce fingerboard">
-      </a>
-    </li>
-  </ul>    
+  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Sonowood Maple fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Sonowood Maple fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood Spruce fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Sonowood Spruce fingerboard">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Sonowood Spruce fingerboard">
+  </a>
 </div>
 
 #### Tailpiece
 
 <div class="picturegallery">
-  <ul class="lightgallery">
-    <li data-sub-html="<p>Caption Text</p>">
-      <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="sonowood maple tailpiece">
-        <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="sonowood maple tailpiece">
-        <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="sonowood maple tailpiece">
-        <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="sonowood maple tailpiece">
-        <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="sonowood spruce tailpiece">
-        <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="sonowood spruce tailpiece">
-        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg"/>
-      </a>
-    </li>
-  </ul>    
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Sonowood Maple tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Sonowood Spruce tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Sonowood Spruce tailpiece">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg">
+  </a>   
 </div>
 
 #### Chinrest
 
 <div class="picturegallery">
-  <ul class="lightgallery">
-    <li data-sub-html="<p>Caption Text</p>">
-      <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-        <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="sonowood maple chinrest"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
-        <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg"/ alt="sonowood maple chinrest">
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
-        <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg"/ alt="sonowood maple chinrest">
-      </a>
-    </li>
-  </ul>    
+  <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Sonowood Maple chinrest">
+  </a>
+  <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Sonowood Maple chinrest">
+  </a>
+  <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Sonowood Maple chinrest">
+  </a>
 </div>
 
 #### Endbutton
 
 <div class="picturegallery">
-  <ul class="lightgallery">
-    <li data-sub-html="<p>Caption Text</p>">
-      <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
-        <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="sonowood maple endbutton"/>
-      </a>
-    </li>
-  </ul>    
+  <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Sonowood Maple endbutton">
+  </a>
 </div>
 
 ---
@@ -144,39 +106,14 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 ## Sonowood Squared Timbers
 **All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.**
 
-<div class="picturegallery" id="">
-  <ul class="" id="lightgallery">
-    <li data-sub-html="<p>Caption Text</p>">
-      <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-        <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="sonowood maple pegs"/>
-      </a>
-    </li>
-    <li>
-      <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
-        <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg"/ alt="sonowood spruce pegs">
-      </a>
-    </li>
-  </ul>    
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+  </a>
+  <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Pegs made from Sonowood Spruce squared timbers">
+  </a>  
 </div>
-
-<!--
-  - ## Sonowood Fittings
-        - **Violin**: Fingerboard, tailpiece, end button, chinrest
-        - **Viola**: Fingerboard, tailpiece, end button, chinrest
-        - *all available in maple or spruce*
-
-
-    - ###
-
-    - ## Sonowood Squared Timbers
-
-        - **Violin**: Peg, fingerboard, tailpiece, end button, chinrest
-        - **Viola**: Peg, fingerboard, tailpiece, end button, chinrest
-        - **Cello**: Peg, tailpiece
-        - *all available in maple or spruce*
-
-    - ###
--->
 
 </div>
 </div>
@@ -222,8 +159,11 @@ Contact us for a price request and become part of the sustainable revolution in 
 </div>
 </div>
 
-<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
-<script type="text/javascript">
-  $(".lightgallery").lightgallery();
-</script>
 <script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
+<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
+<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="/assets/lightgallery/js/lg-share.min.js"></script>
+<script type="text/javascript">
+  $(".picturegallery").lightGallery();
+</script>

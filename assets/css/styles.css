@@ -798,26 +798,22 @@ input[type="checkbox"] {
 
 /* LIGHTGALLERY */
 
-.picturegallery > ul {
+.picturegallery {
+  display: inline-block;
   margin-bottom: 2em;
 }
 
-.picturegallery > ul > li {
-  margin-bottom: 2px;
-  display: inline-block;
-  margin-right: 2px;
+.picturegallery a {
+  margin-bottom: 3px;
+  margin-right: 3px;
   width: 150px;
-  list-style: outside none none;
-}
-
-.picturegallery > ul > li a {
-  display: block;
-  overflow: hidden;
-  position: relative;
   float: left;
+  overflow: hidden;
+  display: block;
 }
 
-.picturegallery > ul > li a > img {
+
+.picturegallery > a > img {
   -webkit-transition: -webkit-transform 0.15s ease 0s;
   -moz-transition: -moz-transform 0.15s ease 0s;
   -o-transition: -o-transform 0.15s ease 0s;
@@ -828,7 +824,7 @@ input[type="checkbox"] {
   object-fit: cover;
 }
 
-.picturegallery > ul > li a:hover > img {
+.picturegallery > a:hover > img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
   transform: scale3d(1.1, 1.1, 1.1);
 }
