@@ -31,6 +31,12 @@
   top: 50%;
   z-index: 1080;
 }
+@media (max-width: 700px) {
+  /* mobile */
+  .lg-actions .lg-next, .lg-actions .lg-prev {
+  font-size: 25px;
+  }
+}
 .lg-actions .lg-next.disabled, .lg-actions .lg-prev.disabled {
   pointer-events: none;
   opacity: 0.5;

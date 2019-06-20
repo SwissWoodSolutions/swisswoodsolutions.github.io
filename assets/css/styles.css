@@ -812,7 +812,6 @@ input[type="checkbox"] {
   display: block;
 }
 
-
 .picturegallery > a > img {
   -webkit-transition: -webkit-transform 0.15s ease 0s;
   -moz-transition: -moz-transform 0.15s ease 0s;
@@ -829,5 +828,16 @@ input[type="checkbox"] {
   transform: scale3d(1.1, 1.1, 1.1);
 }
 
+@media (max-width: 700px) {
+  /* mobile */
+.picturegallery a {
+  margin-bottom: 2px;
+  margin-right: 2px;
+  width: 100px;
+}
+.picturegallery > a > img {
+  height: 80px;
+}
+}
 
 /* no grid support? TO BE ADDED*/
