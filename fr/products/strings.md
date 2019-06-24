@@ -33,10 +33,10 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 
 ## Pièces de forme en Sonowood
 
-**All fittings available in maple or spruce for violin and viola.** <br/>
+All fittings available in maple or spruce for violin and viola. <br/>
 *Click on an image for larger size*
 
-#### Fingerboard
+### Touche
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
@@ -56,7 +56,7 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
   </a>
 </div>
 
-#### Tailpiece
+### Cordier
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Sonowood Maple tailpiece">
@@ -79,7 +79,7 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
   </a>   
 </div>
 
-#### Chinrest
+### Mentionnière
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
@@ -93,7 +93,7 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
   </a>
 </div>
 
-#### Endbutton
+### Bouton 
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
@@ -103,9 +103,17 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 
 ---
 
-## Sonowood Ébauches
-**All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.**
+## Sonowood ébauches
+All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.
 
+<div class="picturegallery">
+  <a href="/assets/images/strings/Kantholz_ahorn.jpg">
+    <img src="/assets/images/strings/Kantholz_ahorn.jpg" alt="Sonowood maple as square timber">
+  </a>
+<div class="picturegallery">
+  <a href="/assets/images/strings/Kantholz_spruce.jpg">
+    <img src="/assets/images/strings/Kantholz_spruce.jpg" alt="Sonowood spruce as sqaure timber">
+  </a>
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">

@@ -33,10 +33,10 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
 
 ## Sonowood Formteile
 
-**Alle Formteile sind in Ahorn und Fichte (ohne Kinnhalter, in Entwicklung) erhältlich für Violinen und Bratschen.** <br/>
+Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ahorn und Fichte (ausser Kinnhalter) angeboten. <br/>
 *Für Vergrösserung auf das Bild klicken*
 
-#### Griffbrett
+### Griffbrett
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
@@ -56,7 +56,7 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
   </a>
 </div>
 
-#### Saitenhalter
+### Saitenhalter
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Saitenhalter aus Sonowood Ahorn">
@@ -79,7 +79,7 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
   </a>   
 </div>
 
-#### Kinnhalter
+### Kinnhalter
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
@@ -93,7 +93,7 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
   </a>
 </div>
 
-#### Endknopf
+### Endknopf
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
@@ -104,7 +104,7 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
 ---
 
 ## Sonowood Rohlinge
-**Für Violinen und Bratschen sind Rohlinge passend für die Fertigung sämtlicher Formteile erhältlich in Ahorn und Fichte (ausser Kinnhalter, in Entwicklung). Für Cellos und Kontrabasse sind Saitenhalter und Wirbel erhältlich. Rohlinge für weitere Formteile auf Anfrage.**
+Für Violinen und Bratschen sind Rohlinge passend für die Fertigung sämtlicher Formteile erhältlich in Ahorn und Fichte (ausser Kinnhalter, in Entwicklung). Für Cellos und Kontrabasse sind Saitenhalter und Wirbel erhältlich. Rohlinge für weitere Formteile auf Anfrage.
 
 <div class="picturegallery">
   <a href="/assets/images/strings/Kantholz_ahorn.jpg">
