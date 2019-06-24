@@ -31,87 +31,93 @@ Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und 
 <div class="full-width">
 <div class="wrap">
 
-## Sonowood Fittings
+## Sonowood Formteile
 
-**All fittings available in maple or spruce for violin and viola.** <br/>
-*Click on an image for larger size*
+**Alle Formteile sind in Ahorn und Fichte (ohne Kinnhalter, in Entwicklung) erhältlich für Violinen und Bratschen.** <br/>
+*Für Vergrösserung auf das Bild klicken*
 
-#### Fingerboard
+#### Griffbrett
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Sonowood Maple fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Sonowood Maple fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood Spruce fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Sonowood Spruce fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Sonowood Spruce fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
   </a>
 </div>
 
-#### Tailpiece
+#### Saitenhalter
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Saitenhalter aus Sonowood Ahorn">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Saitenhalter aus Sonowood Ahorn">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Saitenhalter aus Sonowood Ahorn">
     <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Saitenhalter aus Sonowood Ahorn">
     <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Sonowood Spruce tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Saitenhalter aus Sonowood Fichte">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Sonowood Spruce tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Saitenhalter aus Sonowood Fichte">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg">
   </a>   
 </div>
 
-#### Chinrest
+#### Kinnhalter
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Sonowood Maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Sonowood Maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Sonowood Maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn">
   </a>
 </div>
 
-#### Endbutton
+#### Endknopf
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Sonowood Maple endbutton">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Endknopf aus Sonowood Ahorn">
   </a>
 </div>
 
 ---
 
-## Sonowood Squared Timbers
-**All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.**
+## Sonowood Rohlinge
+**Für Violinen und Bratschen sind Rohlinge passend für die Fertigung sämtlicher Formteile erhältlich in Ahorn und Fichte (ausser Kinnhalter, in Entwicklung). Für Cellos und Kontrabasse sind Saitenhalter und Wirbel erhältlich. Rohlinge für weitere Formteile auf Anfrage.**
 
 <div class="picturegallery">
+  <a href="/assets/images/strings/Kantholz_ahorn.jpg">
+    <img src="/assets/images/strings/Kantholz_ahorn.jpg" alt="Rohling aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/strings/Kantholz_spruce.jpg">
+    <img src="/assets/images/strings/Kantholz_spruce.jpg" alt="Rohling aus Sonowood Fichte">
+  </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Pegs made from Sonowood Spruce squared timbers">
+    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Wirbel aus Sonowood Fichte">
   </a>  
 </div>
 
@@ -142,7 +148,7 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
   <div class="checkbox-wrapper">
     <input type="checkbox" name="entry.471260229" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Andere Instrumente oder Produkte</label>
   </div>
-  <textarea name="entry.1789398419" class="input-field" placeholder="Meine Nachricht"></textarea>
+  <textarea name="entry.1789398419" class="input-field" placeholder="Meine Nachricht..."></textarea>
   <input type="hidden" name="entry.298481630" value="DE">
   <button type="submit" class="form-submit">Senden</button>
 </form>
