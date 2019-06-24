@@ -7,7 +7,7 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Sonowood : Le bois durable et taillé sur mesure pour votre instrument à cordes
+# Sonowood: Le bois durable et taillé sur mesure pour votre instrument à cordes
 
 ![](/assets/images/arrow-d-white.svg)
 
@@ -33,48 +33,48 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 
 ## Pièces de forme en Sonowood
 
-All fittings available in maple or spruce for violin and viola. <br/>
-*Click on an image for larger size*
+Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour violon et alto (sans mentionnière en épicéa). <br/>
+*Cliquez sur image pour agrandissement*
 
 ### Touche
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Sonowood Maple fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Touche de Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Sonowood Maple fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Touche de Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood Spruce fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Touche de Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Sonowood Spruce fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Touche de Sonowood épicéa">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Sonowood Spruce fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Touche de Sonowood épicéa">
   </a>
 </div>
 
 ### Cordier
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Cordier de Sonowood érable">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Cordier de Sonowood érable">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Cordier de Sonowood érable">
     <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Sonowood Maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Cordier de Sonowood érable">
     <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Sonowood Spruce tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Cordier de Sonowood épicéa">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Sonowood Spruce tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Cordier de Sonowood épicéa">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg">
   </a>   
 </div>
@@ -83,13 +83,13 @@ All fittings available in maple or spruce for violin and viola. <br/>
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Sonowood Maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Mentionnière de Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Sonowood Maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Mentionnière de Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Sonowood Maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Mentionnière de Sonowood érable">
   </a>
 </div>
 
@@ -104,22 +104,22 @@ All fittings available in maple or spruce for violin and viola. <br/>
 ---
 
 ## Sonowood ébauches
-All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.
+Tous les ébauches sont disponible en Sonowood érable et Sonowood épicéa pour violon et alto. Pour violoncello et contrebasse: chevilles et cordiers.
 
 <div class="picturegallery">
   <a href="/assets/images/strings/Kantholz_ahorn.jpg">
-    <img src="/assets/images/strings/Kantholz_ahorn.jpg" alt="Sonowood maple as square timber">
+    <img src="/assets/images/strings/Kantholz_ahorn.jpg" alt="Ébauche de Sonowood érable">
   </a>
 <div class="picturegallery">
   <a href="/assets/images/strings/Kantholz_spruce.jpg">
-    <img src="/assets/images/strings/Kantholz_spruce.jpg" alt="Sonowood spruce as sqaure timber">
+    <img src="/assets/images/strings/Kantholz_spruce.jpg" alt="Ébauche de Sonowood épicéa">
   </a>
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Pegs made from Sonowood Spruce squared timbers">
+    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Chevilles fraisé de Sonowood épicéa">
   </a>  
 </div>
 

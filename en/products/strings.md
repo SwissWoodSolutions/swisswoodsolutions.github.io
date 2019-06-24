@@ -33,7 +33,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 
 ## Sonowood Fittings
 
-**All fittings available in maple or spruce for violin and viola.** <br/>
+All fittings available in maple or spruce for violin and viola. <br/>
 *Click on an image for larger size*
 
 ### Fingerboard
@@ -104,7 +104,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 ---
 
 ## Sonowood Squared Timbers
-**All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.**
+All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.
 
 <div class="picturegallery">
   <a href="/assets/images/strings/Kantholz_ahorn.jpg">
@@ -116,7 +116,7 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
   </a>
 </div>
 
-**Square timbers are available in sizes suitable for fingerboards, tailpieces, chinrests, pegs and end buttons. For cello: pegs and tailpieces only, the remaining sizes coming soon.**
+Square timbers are available in sizes suitable for fingerboards, tailpieces, chinrests, pegs and end buttons. For cello: pegs and tailpieces only, the remaining sizes coming soon.
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
