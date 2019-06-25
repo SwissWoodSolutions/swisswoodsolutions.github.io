@@ -29,6 +29,68 @@ The offerings includes Sonowood from spruce (Picea abies) and maple (Acer pseudo
 </div>
 </div>
 
+<div class="full-width">
+<div class="wrap">
+
+## Sonowood for Guitar
+
+All fittings available in maple or spruce. <br/>
+*Click on an image for larger size*
+
+### Fretboard
+
+<div class="picturegallery">
+      <a href="/assets/images/guitars/sonowood_guitar_fretboard1.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_guitar_fretboard2.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_guitar_fretboard3.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard3_thumb.jpg" alt="Fretboard in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
+      </a>
+</div>
+
+### Bridge
+
+<div class="picturegallery">
+      <a href="/assets/images/guitars/sonowood_guitar_bridge1.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Bridge in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Bridge in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_guitar_bridge4.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Bridge in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Bridge in Sonowood">
+      </a>
+</div>
+
+### Headstock
+
+<div class="picturegallery">
+      <a href="/assets/images/guitars/sonowood_guitar_headstock2.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Headstock in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_guitar_headstock1.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Headstock in Sonowood">
+      </a>
+      <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
+          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Headstock in Sonowood">
+      </a>
+</div>
+
+</div>
+</div>
+
 <div class="full-width-grey">
 <div class="wrap">
 
@@ -61,28 +123,14 @@ Contact us for a price request and become part of the sustainable revolution in 
 </div>
 </div>
 
-<div class="full-width">
-<div class="wrap -center">
-
-<img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Canna Guitar with fretboard, bridge and headstock from Sonowood maple.</figcaption>
-
-<img srcset="/assets/images/Cannaguitar_Steg.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Bridge from Sonowood bridge.</figcaption>
-
-<img srcset="/assets/images/eguitar_sonowood_maple.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>E-guitar from Canna Guitars with fretboard from Sonowood maple.</figcaption>
-
-<img srcset="/assets/images/eguitar_sonowood_maple_totale.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>E-guitar from Canna Guitars.</figcaption>
-
-<img srcset="/assets/images/eguitar_sonowood_maple_fretboard.jpg"
-     src="/assets/images/services_cover.jpg" alt="Stradi">
-<figcaption>Fretboard from Sonowood maple.</figcaption>
-
-</div>
-</div>
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
+<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
+<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="/assets/lightgallery/js/lg-share.min.js"></script>
+<script type="text/javascript">
+  $(".picturegallery").lightGallery({
+      download: false,
+      googlePlus: false,
+    });
+</script>

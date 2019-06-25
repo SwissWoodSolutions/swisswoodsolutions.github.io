@@ -123,7 +123,7 @@ technology offers adjustability of a wide range of parameters.
 
   - #### Product range:
 
-      - **Fingerboards** for violin, viola, guitar and cello; as square
+      - **Fingerboards** for violin, viola, cello and guitar; as square
         timbers
       - **Tailpieces** for violin, viola, cello and double bass
       - **Pegs** square timbers are provided for violin, viola and cello
@@ -143,14 +143,19 @@ technology offers adjustability of a wide range of parameters.
       - Dynamic elastic modulus:  
         \> 23'000 N/mm²
 
-  - ![Sonowood Maple chinrest](/assets/images/Sonowood_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood Maple chinrest close-up*
+<br/>
 
-    ![Sonowood Maple chinrest](/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood Maple guitar fingerboard*
-
-  - ![Sonowood full set violin](/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Violin with Sonowood Maple fingerboard, chinrest, pegs*
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
+    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Sonowood maple as square timber (top), original wood below">
+  </a>
+  <a href="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg">
+    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola_thumb.jpg" alt="Sonowood Maple guitar fingerboard">
+  </a>
+  <a href="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola_thumb.jpg" alt="Violin with Sonowood Maple fingerboard, chinrest, pegs">
+  </a>
+</div>
 
 ---
 
@@ -160,11 +165,11 @@ technology offers adjustability of a wide range of parameters.
 
   -  #### Product range
 
-      - **Fingerboards** for violin, viola, guitar and cello; as square
+      - **Fingerboards** for violin, viola, cello and guitar; as square
         timbers
       - **Tailpieces** for violin, viola, cello and double bass
       - ![Sonowood spruce on viola. Picture: Wilhelm Geigenbau](/assets/images/Sonowood_7_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood spruce on viola. Picture: Wilhelm Geigenbau.*
+              *Sonowood spruce on viola. Picture: Wilhelm Geigenbau.*
 
   -  #### Technical data
 
@@ -178,6 +183,20 @@ technology offers adjustability of a wide range of parameters.
       - Damping (log. decrement): \~ 0.04
       - Dynamic elastic modulus:  
         \> 39'000 N/mm²
+
+        <br/>
+
+<div class="picturegallery">
+    <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
+        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Sonowood spruce as square timber (top), original wood below">
+    </a>
+    <a href="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg">
+        <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola_thumb.jpg" alt="Sonowood Maple guitar fingerboard">
+    </a>
+    <a href="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg">
+        <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola_thumb.jpg" alt="Violin with Sonowood Maple fingerboard, chinrest, pegs">
+    </a>
+</div>
 
 </div>
 </div>
@@ -194,3 +213,15 @@ technology offers adjustability of a wide range of parameters.
 
 </div>
 </div>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
+<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
+<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="/assets/lightgallery/js/lg-share.min.js"></script>
+<script type="text/javascript">
+  $(".picturegallery").lightGallery({
+      download: false,
+      googlePlus: false,
+    });
+</script>
