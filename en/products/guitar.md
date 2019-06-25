@@ -84,7 +84,7 @@ All fittings available in maple or spruce. <br/>
           <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Headstock in Sonowood">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar in Sonowood">
       </a>
 </div>
 

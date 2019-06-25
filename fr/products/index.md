@@ -126,14 +126,25 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
       - Module d’élasticité dynamique:  
         \> 23'000 N/mm²
 
-  - ![Sonowood Maple chinrest](/assets/images/Sonowood_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood Maple mentionnières*
+<br/>
 
-    ![Sonowood Maple chinrest](/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood Maple touche guitare*
-
-  - ![Sonowood full set violin](/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Violon avec touche, mentonnière et chevilles en érable Sonowood.*
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
+    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Sonowood maple as square timber (top), original wood below">
+  </a>
+  <a href="/assets/images/sonowood_maple-02_2x.jpg">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violin with all fittings in Sonowood Maple">
+  </a>
+  <a href="/assets/images/sonowood_cover2_2x.jpg">
+    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Guitar fretboard in Sonowood maple">
+  </a>
+  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+  </a>
+  <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar in Sonowood">
+  </a>
+</div>
 
 ---
 
@@ -145,8 +156,6 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
       - **Touches** pour violon, alto, violoncelle et guitare
       - **Cordiers** pour violon, alto, violoncelle et contrebasse
-      - ![Sonowood spruce on viola. Picture: Wilhelm Geigenbau](/assets/images/Sonowood_7_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg)
-        *Sonowood spruce en alto. Photo: Wilhelm Geigenbau.*
 
   -  #### Données techniques:
 
@@ -160,6 +169,23 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
       - Amortissement (décrément logarithmique): \~ 0.04
       - Module d’élasticité dynamique:  
         \> 39'000 N/mm²
+
+<br/>
+
+<div class="picturegallery">
+    <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
+        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Sonowood spruce as square timber (top), original wood below">
+    </a>
+    <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
+        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Sonowood spruce tailpiece for strings">
+    </a>
+    <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard for strings">
+    </a>
+    <a href="/assets/images/guitars/sonowood_guitar_fretboard3.jpg">
+        <img src="/assets/images/guitars/sonowood_guitar_fretboard3_thumb.jpg" alt="Sonowood spruce fretboard on guitar">
+    </a>
+</div>
 
 </div>
 </div>
@@ -176,3 +202,15 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
 </div>
 </div>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
+<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
+<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="/assets/lightgallery/js/lg-share.min.js"></script>
+<script type="text/javascript">
+  $(".picturegallery").lightGallery({
+      download: false,
+      googlePlus: false,
+    });
+</script>
