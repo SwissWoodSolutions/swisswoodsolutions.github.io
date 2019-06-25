@@ -104,21 +104,15 @@ All fittings available in maple or spruce for violin and viola. <br/>
 ---
 
 ## Sonowood Squared Timbers
-All squared timbers available in maple or spruce for violin and viola. For cello: pegs and tailpieces only.
+Square timbers in maple and spruce are available in sizes suitable for fingerboards, tailpieces, chinrests, pegs and end buttons. For cello: pegs and tailpieces only, the remaining sizes coming soon.
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/Kantholz_ahorn.jpg">
-    <img src="/assets/images/strings/Kantholz_ahorn.jpg" alt="Sonowood maple as square timber">
+  <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
+    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Sonowood maple as square timber (top), original wood below">
   </a>
-<div class="picturegallery">
-  <a href="/assets/images/strings/Kantholz_spruce.jpg">
-    <img src="/assets/images/strings/Kantholz_spruce.jpg" alt="Sonowood spruce as sqaure timber">
+  <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
+    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Sonowood spruce as square timber (top), original wood below">
   </a>
-</div>
-
-Square timbers are available in sizes suitable for fingerboards, tailpieces, chinrests, pegs and end buttons. For cello: pegs and tailpieces only, the remaining sizes coming soon.
-
-<div class="picturegallery">
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
   </a>

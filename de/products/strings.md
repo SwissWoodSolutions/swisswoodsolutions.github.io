@@ -107,11 +107,11 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
 Für Violinen und Bratschen sind Rohlinge passend für die Fertigung sämtlicher Formteile erhältlich in Ahorn und Fichte (ausser Kinnhalter, in Entwicklung). Für Cellos und Kontrabasse sind Saitenhalter und Wirbel erhältlich. Rohlinge für weitere Formteile auf Anfrage.
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/Kantholz_ahorn.jpg">
-    <img src="/assets/images/strings/Kantholz_ahorn.jpg" alt="Rohling aus Sonowood Ahorn">
+  <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
+    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Rohling aus Sonowood Ahorn">
   </a>
-  <a href="/assets/images/strings/Kantholz_spruce.jpg">
-    <img src="/assets/images/strings/Kantholz_spruce.jpg" alt="Rohling aus Sonowood Fichte">
+  <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
+    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Rohling aus Sonowood Fichte">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn">

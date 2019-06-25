@@ -93,7 +93,7 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
   </a>
 </div>
 
-### Bouton 
+### Bouton
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
@@ -107,14 +107,12 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
 Tous les ébauches sont disponible en Sonowood érable et Sonowood épicéa pour violon et alto. Pour violoncello et contrebasse: chevilles et cordiers.
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/Kantholz_ahorn.jpg">
-    <img src="/assets/images/strings/Kantholz_ahorn.jpg" alt="Ébauche de Sonowood érable">
+  <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
+    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Ébauche de Sonowood érable">
   </a>
-<div class="picturegallery">
-  <a href="/assets/images/strings/Kantholz_spruce.jpg">
-    <img src="/assets/images/strings/Kantholz_spruce.jpg" alt="Ébauche de Sonowood épicéa">
+  <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
+    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Ébauche de Sonowood épicéa">
   </a>
-<div class="picturegallery">
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable">
   </a>
