@@ -16,7 +16,7 @@ order: 2
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 Die extreme Härte und hohe Dichte von Sonowood sorgen für akustische Höchstleistungen Ihrer Gitarren und E-Gitarren. Sonowood eignet sich dafür als Griffbrett, Steg und Kopfplatte.
@@ -31,59 +31,56 @@ Angeboten werden Fichte (Picea abies) und Ahorn (Acer pseudoplatanus). Für unse
 <div class="full-width">
 <div class="wrap">
 
-## Sonowood for Guitar
+## Sonowood für Ihre Gitarren
 
-All fittings available in maple or spruce. <br/>
-*Click on an image for larger size*
+Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für weitere Teile benützen? Kontaktieren Sie uns, der Kreativität sind keine Grenzen gesetzt. <br/>
+*Für Vergrösserung auf das Bild klicken.*
 
-### Fretboard
+### Griffbrett
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
-      </a>
-      <a href="/assets/images/guitars/sonowood_guitar_fretboard3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard3_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
 </div>
 
-### Bridge
+### Steg
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_bridge1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg"Steg aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge4.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
 </div>
 
-### Headstock
+### Kopfplatte
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_headstock2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Kopfplatte aus Sonowood auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_headstock1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Kopfplatte aus Sonowood auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar mit Griffbrett, Steg und Kopfplatte aus Sonowood Ahorn">
       </a>
 </div>
 

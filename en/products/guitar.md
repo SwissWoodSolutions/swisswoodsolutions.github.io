@@ -16,7 +16,7 @@ order: 2
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 The extreme hardness and high density of Sonowood ensure that your acoustic and electric guitars deliver highest acoustic performances. Sonowood is suitable for **fretboards, bridges and headstocks.**
@@ -32,28 +32,25 @@ The offerings includes Sonowood from spruce (Picea abies) and maple (Acer pseudo
 <div class="full-width">
 <div class="wrap">
 
-## Sonowood for Guitar
+## Our offering
 
-All fittings available in maple or spruce. <br/>
-*Click on an image for larger size*
+All pieces are available in maple or spruce. <br/>
+*Click on images for larger size*
 
 ### Fretboard
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumb.jpg" alt="Fretboard from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
-      </a>
-      <a href="/assets/images/guitars/sonowood_guitar_fretboard3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard3_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Fretboard from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Fretboard from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Fretboard from Sonowood maple on a CannaGuitar">
       </a>
 </div>
 
@@ -61,16 +58,16 @@ All fittings available in maple or spruce. <br/>
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_bridge1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge4.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Bridge from Sonowood maple">
       </a>
 </div>
 
@@ -78,13 +75,13 @@ All fittings available in maple or spruce. <br/>
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_headstock2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Headstock from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_headstock1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Headstock in Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar with fretboard, bridge and headstock from Sonowood">
       </a>
 </div>
 
@@ -96,7 +93,7 @@ All fittings available in maple or spruce. <br/>
 
 ## How do I get Sonowood?
 
-Contact us for a price request and become part of the sustainable revolution in instrument manufacturing.
+Contact us for a price request and become part of the sustainable revolution in instrument making.
 
   <script type="text/javascript">var submitted=false;</script>
   <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='';}"></iframe>
