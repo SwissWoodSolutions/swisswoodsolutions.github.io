@@ -182,9 +182,6 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
     <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
         <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard for strings">
     </a>
-    <a href="/assets/images/guitars/sonowood_guitar_fretboard3.jpg">
-        <img src="/assets/images/guitars/sonowood_guitar_fretboard3_thumb.jpg" alt="Sonowood spruce fretboard on guitar">
-    </a>
 </div>
 
 </div>
