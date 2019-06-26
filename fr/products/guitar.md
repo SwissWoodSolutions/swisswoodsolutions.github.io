@@ -36,12 +36,9 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
 *Cliquez sur une image pour agrandissement*
 
-### Fretboard
+### Touche
 
 <div class="picturegallery">
-      <a href="/assets/images/guitars/sonowood_guitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumbio.jpg" alt="Touche en Sonowood érable">
-      </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard2.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Touche en Sonowood érable">
       </a>
@@ -53,34 +50,34 @@ Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
       </a>
 </div>
 
-### Bridge
+### Chevalet
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_bridge1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Chevalet en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Chevalet en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge4.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Chevalet en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Bridge in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Chevalet en Sonowood érable">
       </a>
 </div>
 
-### Headstock
+### Tête
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_headstock2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Tête en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_headstock1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Tête en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Headstock in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar avec touche, chevalet et tête en Sonowood érable">
       </a>
 </div>
 
