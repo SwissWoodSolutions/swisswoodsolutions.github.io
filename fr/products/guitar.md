@@ -1,4 +1,4 @@
----
+﻿---
 lang: fr
 title: 'Guitares'
 order: 2
@@ -16,7 +16,7 @@ order: 2
      src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
 </div>
 
-<div class="full-width-red">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 La dureté et la densité exceptionnelles de Sonowood une performance acoustique maximaleassurent à vos guitares et guitares électriques. Sonowood peut être utilisé comme touche et chevalet.
@@ -31,28 +31,25 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 <div class="full-width">
 <div class="wrap">
 
-## Sonowood for Guitar
+## Sonowood pour votre guitares
 
-All fittings available in maple or spruce. <br/>
-*Click on an image for larger size*
+Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
+*Cliquez sur une image pour agrandissement*
 
 ### Fretboard
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumbio.jpg" alt="Touche en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
-      </a>
-      <a href="/assets/images/guitars/sonowood_guitar_fretboard3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard3_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Touche en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Touche en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Fretboard in Sonowood">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Touche en Sonowood érable">
       </a>
 </div>
 
