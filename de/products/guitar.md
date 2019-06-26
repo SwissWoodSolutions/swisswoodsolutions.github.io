@@ -39,9 +39,6 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 ### Griffbrett
 
 <div class="picturegallery">
-      <a href="/assets/images/guitars/sonowood_guitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard1_thumbio.JPG" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
-      </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard2.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
