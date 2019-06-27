@@ -84,8 +84,31 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 </div>
 </div>
 
-<div class="full-width-grey">
-<div class="wrap">
+<div class="full-width-red">
+<div class="wrap -center">
+
+## Vorteile für den Gitarristen:
+
+  - Ausgezeichneter Sustain dank hoher Steifigkeit und tiefer Schalldämpfung
+  - Hervorragender Attack dank hoher Schallleitgeschwindigkeit
+  - Dank komplettem Porenverschluss ist Sonowood langlebig und kratzfest. Zeichen von Abnutzung und Schmutzeintrag sind stark reduziert.
+  - Optimale Bespielbarkeit dank harter und glatter Oberfläche und damit geringerem Reibungswiderstand der Saiten
+  - Keine Reisebeschränkungen dank Verzicht auf gefährdete Holzarten
+
+## Vorteile für den Gitarrenbauer
+
+  - Sonowood lässt sich besonders gut und präzise fräsen. Damit eignet es sich ideal für filigrane Bauteile (Stege, Stegplatten und Pins) sowie Intarsien. 
+  - Bei Neu- und Wiederbundierungen besteht bei Sonowood Ahorn eine sehr geringe Gefahr des Faserausrisses.
+  - Die Bünde lassen sich gut einschlagen und verankern vorzüglich im Holz. Achtung: die Bundschlitze sollten nicht zu eng sein, da sich Sonowood im Gegensatz zu herkömmlichen Hölzern nicht verdrängen lässt. Die Bundschlitze werden bei Sonowood Ahorn am besten maschinell gesägt. Aufgrund der extremen  Härte ist dies von Hand nur schwer zu bewerkstelligen. Sonowood Walnuss hingegen lässt sich problemlos von Hand sägen.
+  - Dank komplettem Porenverschluss durch die Verdichtung sind keine Porenfüller nötig.
+  - Sonowood lässt sich sehr gut hochschleifen.
+  - Eine glatte Oberfläche wird bereits durch Anwendung von Schleifpapier mit niedrigem Körnungsgrad (240) erreicht.
+  - Sonowood besteht aus natürlichem Holz (kein Holzplastik-Kompositmaterial), weshalb der Gebrauch mit Förderung von nachhaltiger, heimischer Forstwirtschaft verbunden ist.
+  - Fortwährende Verfügbarkeit in konstanter Qualität
+  - Keine Handeslbeschränkungen dank Verzicht auf gefährdete Holzarten
+
+</div>
+</div>
 
 ## Wie erhalte ich Sonowood?
 
