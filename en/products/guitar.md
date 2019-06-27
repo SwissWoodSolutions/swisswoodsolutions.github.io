@@ -86,7 +86,7 @@ All pieces are available in maple or spruce. <br/>
 </div>
 
 <div class="full-width-red">
-<div class="wrap-center">
+<div class="wrap -center">
 
 ## Advantages for the guitarist:
 
