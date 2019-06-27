@@ -22,6 +22,15 @@ order: 6
 ### We're looking forward to meeting you at:
 
 ---
+- ## Museum Füssen
+
+  ### August 31st, Füssen, Germany
+
+  Dr. Oliver Kläusler, inventor of Sonowood, speaks at the museum of the city of Füssen in Bavaria, Germany, as part of a two-part lecture. First, an overview will be given on the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and its impact on the construction and trade of musical instruments. In the second part, Dr. Kläusler presents Sonowood as an alternative to the use of overused woods.
+
+
+
+- <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
 
 - ## Guitar Summit
 
