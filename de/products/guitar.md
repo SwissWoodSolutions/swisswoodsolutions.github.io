@@ -85,7 +85,7 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 </div>
 
 <div class="full-width-red">
-<div class="wrap -center">
+<div class="wrap-center">
 
 ## Vorteile für den Gitarristen:
 
@@ -94,6 +94,7 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
   - Dank komplettem Porenverschluss ist Sonowood langlebig und kratzfest. Zeichen von Abnutzung und Schmutzeintrag sind stark reduziert.
   - Optimale Bespielbarkeit dank harter und glatter Oberfläche und damit geringerem Reibungswiderstand der Saiten
   - Keine Reisebeschränkungen dank Verzicht auf gefährdete Holzarten
+
 
 ## Vorteile für den Gitarrenbauer
 
@@ -109,6 +110,9 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 
 </div>
 </div>
+
+<div class="full-width-grey">
+<div class="wrap">
 
 ## Wie erhalte ich Sonowood?
 
