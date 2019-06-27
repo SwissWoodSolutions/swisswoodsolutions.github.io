@@ -88,7 +88,9 @@ All pieces are available in maple or spruce. <br/>
 <div class="full-width-red">
 <div class="wrap -center">
 
-## Advantages for the guitarist:
+## All advantages of Sonowood:
+
+### For the guitarist:
 
   - Excellent sustain thanks to high stiffness and low sound attenuation
   - Outstanding attack thanks to high sound-propagation velocity
@@ -97,7 +99,10 @@ All pieces are available in maple or spruce. <br/>
   - No travel restrictions thanks to the avoidance of endangered wood species
 
 
-## Advantages for the luthier:
+
+##
+
+### For the luthier: 
 
   - Sonowood can be milled particularly well and precisely. This makes it ideal for filigree components (bridges, bridge plates and pins) as well as inlays. 
   - Sonowood maple has a very low risk of fibre tearing when rebonded. 
