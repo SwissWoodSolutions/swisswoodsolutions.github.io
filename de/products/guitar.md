@@ -106,7 +106,7 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
   - Eine glatte Oberfläche wird bereits durch Anwendung von Schleifpapier mit niedrigem Körnungsgrad (240) erreicht.
   - Sonowood besteht aus natürlichem Holz (kein Holzplastik-Kompositmaterial), weshalb der Gebrauch mit Förderung von nachhaltiger, heimischer Forstwirtschaft verbunden ist.
   - Fortwährende Verfügbarkeit in konstanter Qualität
-  - Keine Handeslbeschränkungen dank Verzicht auf gefährdete Holzarten
+  - Keine Handelsbeschränkungen dank Verzicht auf gefährdete Holzarten
 
 </div>
 </div>

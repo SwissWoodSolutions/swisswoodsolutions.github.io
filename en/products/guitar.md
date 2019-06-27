@@ -85,6 +85,33 @@ All pieces are available in maple or spruce. <br/>
 </div>
 </div>
 
+<div class="full-width-red">
+<div class="wrap-center">
+
+## Advantages for the guitarist:
+
+  - Excellent sustain thanks to high stiffness and low sound attenuation
+  - Outstanding attack thanks to high sound-propagation velocity
+  - Sonowood is durable and scratch-resistant thanks to complete pore closure. Signs of wear and dirt are greatly reduced.
+  - Optimum playability thanks to hard and smooth surface and thus lower friction resistance of the strings.
+  - No travel restrictions thanks to the avoidance of endangered wood species
+
+
+## Advantages for the luthier:
+
+  - Sonowood can be milled particularly well and precisely. This makes it ideal for filigree components (bridges, bridge plates and pins) as well as inlays. 
+  - Sonowood maple has a very low risk of fibre tearing when rebonded. 
+  - The frets can be hammered in easily and anchor well in the wood. Attention: the slots shall not be too narrow as Sonowood, unlike conventional woods, can hardly be adjusted. The slots of Sonowood maple are best sawn by machine. On the other hand, Sonowood walnut can easily be sawn manually.
+  - No pore fillers are necessary thanks to the complete pore closure.
+  - Sonowood can be sanded very well.
+  - A smooth surface is already achieved by using low grit sandpaper (240).
+  - Sonowood consists of natural wood (no wood plastic-composite material), which is why its use is associated with the promotion of sustainable, domestic forestry.
+  - Continuous availability in constant quality
+  - No trade restrictions thanks to the avoidance of endangered wood species
+
+</div>
+</div>
+
 <div class="full-width-grey">
 <div class="wrap">
 
