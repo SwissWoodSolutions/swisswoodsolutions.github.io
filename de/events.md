@@ -22,6 +22,13 @@ order: 6
 ### Wir freuen uns, Sie an einer Veranstaltung zu treffen:
 
 ---
+- ## Museum Füssen
+
+  ### 31. August 2019, Füssen, Deutschland
+
+  Dr. Oliver Kläusler, Gründer von Swiss Wood Solutions, ist zu Gast im Museum der Stadt Füssen im Rahmen eines zweiteiligen Vortrages. Zunächst wird ein Überblick über das Washingtoner Artenschutzübereinkommen CITES und seine Auswirkungen auf den Bau und den Handel von Musikinstrumenten gewährt. Im zweiten Teil präsentiert Dr. Kläusler Sonowood als Alternative zum Einsatz von übernutzen Hölzern.
+
+- <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/MuseumFüssen.JPG)</a>
 
 - ## Guitar Summit
 
