@@ -85,9 +85,11 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 </div>
 
 <div class="full-width-red">
-<div class="wrap">
+<div class="wrap -center">
 
 ## Vorteile für den Gitarristen:
+
+### Wir bieten:
 
   - Ausgezeichneter Sustain dank hoher Steifigkeit und tiefer Schalldämpfung
   - Hervorragender Attack dank hoher Schallleitgeschwindigkeit
@@ -97,6 +99,8 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 
 
 ## Vorteile für den Gitarrenbauer
+
+### Wir bieten:
 
   - Sonowood lässt sich besonders gut und präzise fräsen. Damit eignet es sich ideal für filigrane Bauteile (Stege, Stegplatten und Pins) sowie Intarsien. 
   - Bei Neu- und Wiederbundierungen besteht bei Sonowood Ahorn eine sehr geringe Gefahr des Faserausrisses.
