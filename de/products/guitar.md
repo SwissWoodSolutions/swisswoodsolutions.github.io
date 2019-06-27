@@ -85,7 +85,7 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 </div>
 
 <div class="full-width-red">
-<div class="wrap-center">
+<div class="wrap">
 
 ## Vorteile für den Gitarristen:
 
