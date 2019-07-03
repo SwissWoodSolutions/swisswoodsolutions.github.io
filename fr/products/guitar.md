@@ -84,6 +84,38 @@ Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
 </div>
 </div>
 
+<div class="full-width-red">
+<div class="wrap -center">
+
+## Tous les avantages de Sonowood:
+
+### Pour le guitariste:
+
+  - Excellente tenue grâce à une grande rigidité et une faible atténuation du son
+  - Attaque exceptionnelle grâce à une haute vitesse de propagation du son 
+  - Sonowood est durable et résistant aux rayures grâce à la fermeture complète des pores. Les signes d'usure et de saleté sont considérablement réduits.
+  - Jouabilité optimale grâce à une surface dure et lisse, ce qui réduit la résistance au frottement des cordes.
+  - Aucune restriction de voyage grâce à l'évitement des espèces de bois menacées d'extinction
+
+
+
+##
+
+### Pour les luthiers: 
+
+  - Sonowood peut être fraisé particulièrement bien et avec haute précision. Il est donc idéal pour les composants filigranes (ponts, plaques de pont et broches) ainsi que pour les incrustations.
+  - Sonowood érable a un très faible risque de déchirure des fibres lorsqu'il est collé de nouveau.
+  - Les frettes peuvent être martelées facilement et s'ancrent bien dans le bois. Attention: les fentes ne doivent pas être trop étroites, parce que Sonowood, contrairement aux bois conventionnels, peut difficilement être ajusté. Les fentes de Sonowood érable sont mieux sciées à la machine. D'autre part, les fentes de Sonowood noix peut facilement être scié manuellement.
+  - Grâce à la fermeture complète des pores, aucun bouche-pores n'est nécessaire.
+  - Sonowood peut être poncé très bien .
+  - Une surface lisse est déjà obtenue en utilisant du papier d'émeri à faible granulométrie (240).
+  - Sonowood se compose de bois naturel (pas de composite en bois et plastique), c'est pourquoi son utilisation est associée à la promotion de la sylviculture durable et domestique.
+  - Disponibilité continue et qualité constante
+  - Pas de restrictions commerciales grâce à l'évitement des espèces de bois menacées d'extinction
+
+</div>
+</div>
+
 <div class="full-width-grey">
 <div class="wrap">
 
