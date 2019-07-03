@@ -40,13 +40,13 @@ All fittings available in maple or spruce for violin and viola. <br/>
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Sonowood maple fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Sonowood maple fingerboard. Picture by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Sonowood maple fingerboard">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard. Picture by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Sonowood spruce fingerboard">
@@ -59,22 +59,22 @@ All fittings available in maple or spruce for violin and viola. <br/>
 ### Tailpiece
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" 
-    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Sonowood maple tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Sonowood maple tailpiece. Picture by Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Sonowood maple tailpiece">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg" alt="Sonowood maple tailpiece">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Sonowood maple tailpiece">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" 
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Sonowood spruce tailpiece">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg"> 
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Sonowood spruce tailpiece. Picture by Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Sonowood spruce tailpiece">
   </a>   
 </div>
@@ -83,13 +83,13 @@ All fittings available in maple or spruce for violin and viola. <br/>
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Sonowood maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Sonowood maple chinrest. Picture by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Sonowood maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Sonowood maple chinrest. Picture by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Sonowood maple chinrest">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Sonowood maple chinrest. Picture by Wilhelm Geigenbau">
   </a>
 </div>
 
@@ -97,7 +97,7 @@ All fittings available in maple or spruce for violin and viola. <br/>
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Sonowood maple endbutton">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Sonowood maple endbutton. Picture by Wilhelm Geigenbau">
   </a>
 </div>
 
@@ -114,10 +114,10 @@ Square timbers in maple and spruce are available in sizes suitable for fingerboa
     <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Sonowood spruce as square timber (top), native spruce below">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood maple">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood maple. Picture by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Pegs made from Sonowood spruce">
+    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Pegs made from Sonowood spruce. Picture by Mihail Dron & Andreas Hochuli">
   </a>  
 </div>
 

@@ -40,13 +40,13 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Touche de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Touche de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Touche de Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Touche de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Touche de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Touche de Sonowood épicéa">
@@ -59,22 +59,22 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
 ### Cordier
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" 
-    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Cordier de Sonowood érable">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Cordier de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Cordier de Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg" alt="Cordier de Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Cordier de Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" 
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Cordier de Sonowood épicéa">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg"> 
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Cordier de Sonowood épicéa. Photo Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" 
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier de Sonowood épicéa">
   </a>   
 </div>
@@ -83,13 +83,13 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Mentionnière de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Mentionnière de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Mentionnière de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Mentionnière de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Mentionnière de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Mentionnière de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
 </div>
 
@@ -97,7 +97,7 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Bouton de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Bouton de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
 </div>
 
@@ -114,10 +114,10 @@ Tous les ébauches sont disponible en Sonowood érable et Sonowood épicéa pour
     <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Ébauche de Sonowood épicéa, épicéa naturel au-dessous">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Chevilles fraisé de Sonowood épicéa">
+    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Chevilles fraisé de Sonowood épicéa. Photo Mihail Dron & Andreas Hochuli">
   </a>  
 </div>
 
