@@ -33,7 +33,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
 Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie in den Berichten von Elias Wick:
 
-<a class="btn" href="/assets/docs/2018_CITES_CH.pdf">Schweiz</a> <a class="btn" href="/assets/docs/2018_CITES_DE.pdf">Deutschland</a>
+<a class="btn" href="/assets/docs/2018_CITES_CH.pdf">Schweiz</a> <a class="btn" href="/assets/docs/2018_CITES_DE.pdf">Deutschland</a> <a class="btn" href="/assets/docs/2019_CITES_USA.pdf">Vereinigte Staaten</a>
 
 </div>
 </div>

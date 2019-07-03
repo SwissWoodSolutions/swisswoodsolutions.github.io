@@ -39,6 +39,14 @@ technology offers adjustability of a wide range of parameters.
 
 <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
 
+Sonowood is made from Swiss woods. Thus, it is not subject to any legal restrictions. Our customers travel carefree across national borders with the certainty that they are not in conflict with the law. In contrast, tropical timber products are subject to extensive trade and travel restrictions. The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) regulates trade in endangered species. Musicians with instruments that are partly made of tropical woods suddenly find themselves in a predicament. If no documents can be presented that explicitly confirm the legality of the material contained, the instruments are confiscated by customs authorities. There is also the threat of heavy fines.
+
+
+
+Learn more about the country-specific impact of CITES regulations on stakeholders in the music industry in Elias Wick's report.
+
+<a class="btn" href="/assets/docs/2019_CITES_USA.pdf">United States</a>
+
 </div>
 </div>
 
