@@ -59,23 +59,23 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
 ### Cordier
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Cordier de Sonowood érable">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Cordier de Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Cordier de Sonowood érable">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Cordier de Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Cordier de Sonowood érable">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg" alt="Cordier de Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Cordier de Sonowood érable">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Cordier de Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Cordier de Sonowood épicéa">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Cordier de Sonowood épicéa">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Cordier de Sonowood épicéa">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier de Sonowood épicéa">
   </a>   
 </div>
 
@@ -97,7 +97,7 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Sonowood Maple endbutton">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Bouton de Sonowood érable">
   </a>
 </div>
 
@@ -108,10 +108,10 @@ Tous les ébauches sont disponible en Sonowood érable et Sonowood épicéa pour
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
-    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Ébauche de Sonowood érable">
+    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Ébauche de Sonowood érable, érable naturel au-dessous">
   </a>
   <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
-    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Ébauche de Sonowood épicéa">
+    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Ébauche de Sonowood épicéa, épicéa naturel au-dessous">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable">

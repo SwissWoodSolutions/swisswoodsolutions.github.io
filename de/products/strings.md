@@ -59,23 +59,23 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
 ### Saitenhalter
 
 <div class="picturegallery">
-  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" alt="Saitenhalter aus Sonowood Ahorn">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" alt="Saitenhalter aus Sonowood Ahorn">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" alt="Saitenhalter aus Sonowood Ahorn">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" alt="Saitenhalter aus Sonowood Ahorn">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" alt="Saitenhalter aus Sonowood Fichte">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" alt="Saitenhalter aus Sonowood Fichte">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg">
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg" 
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
   </a>   
 </div>
 
@@ -108,10 +108,10 @@ Für Violinen und Bratschen sind Rohlinge passend für die Fertigung sämtlicher
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
-    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Rohling aus Sonowood Ahorn">
+    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Rohling aus Sonowood Ahorn, natives Ahornholz darunter">
   </a>
   <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
-    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Rohling aus Sonowood Fichte">
+    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Rohling aus Sonowood Fichte, natives Fichtenholz darunter">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn">
