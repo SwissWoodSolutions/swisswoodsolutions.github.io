@@ -19,11 +19,11 @@ order: 2
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-La dureté et la densité exceptionnelles de Sonowood une performance acoustique maximaleassurent à vos guitares et guitares électriques. Sonowood peut être utilisé comme touche et chevalet.
+La dureté et la densité exceptionnelles de Sonowood assurent des excellentes performances acoustiques à vos guitares et guitares électriques. Sonowood peut être utilisé pour fabriquer la touche et le chevalet. 
 
-Les produits disponibles sont l'épicéa (Picea abies) et l'érable (Acer pseudoplatanus). Pour nos produits, nous utilisons que du bois issu d'une sylviculture durable, surtout des cantons de Zurich et des Grisons.
+Sonowood peut être fabriqué à partir des différentes essences, l’épicéa (Picea abies) et l’érable (Acer pseudoplatanus). Pour nos produits, nous n’utilisons que du bois issu d’une sylviculture durable, provenant principalement des cantons de Zurich et des Grisons.
 
-Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce <a href="/fr/products/#technicaldata">ici à la page principale de Sonowood.</a>
+Vous trouverez **les données techniques** sur Sonowood érable et Sonowood épicéa <a href="/fr/products/#technicaldata">ici à la page principale de Sonowood.</a>
 
 </div>
 </div>
@@ -91,27 +91,26 @@ Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
 
 ### Pour le guitariste:
 
-  - Excellente tenue grâce à une grande rigidité et une faible atténuation du son
+  - Excellente tenue du son grâce à une grande rigidité et à un faible amortissement
   - Attaque exceptionnelle grâce à une haute vitesse de propagation du son 
-  - Sonowood est durable et résistant aux rayures grâce à la fermeture complète des pores. Les signes d'usure et de saleté sont considérablement réduits.
+  - Sonowood est durable et résistant aux rayures grâce à sa structure très dense. Les traces d’usure et de saleté sont considérablement réduites.
   - Jouabilité optimale grâce à une surface dure et lisse, ce qui réduit la résistance au frottement des cordes.
-  - Aucune restriction de voyage grâce à l'évitement des espèces de bois menacées d'extinction
-
+  - Aucune restriction de voyage comme il ne s’agit pas d’une espèce de bois exotique menacé	
 
 
 ##
 
 ### Pour les luthiers: 
 
-  - Sonowood peut être fraisé particulièrement bien et avec haute précision. Il est donc idéal pour les composants filigranes (ponts, plaques de pont et broches) ainsi que pour les incrustations.
-  - Sonowood érable a un très faible risque de déchirure des fibres lorsqu'il est collé de nouveau.
-  - Les frettes peuvent être martelées facilement et s'ancrent bien dans le bois. Attention: les fentes ne doivent pas être trop étroites, parce que Sonowood, contrairement aux bois conventionnels, peut difficilement être ajusté. Les fentes de Sonowood érable sont mieux sciées à la machine. D'autre part, les fentes de Sonowood noix peut facilement être scié manuellement.
-  - Grâce à la fermeture complète des pores, aucun bouche-pores n'est nécessaire.
+  - Sonowood se laisse fraiser facilement et avec haute précision. Il est donc idéal pour les composants filigranes (chevalets, plaques de chevalet et chevilles) ainsi que pour la marqueterie.
+  - Sonowood érable peut facilement être décollé puis recollé sans risque d’arrachage de la fibre
+  - Les frettes peuvent être facilement ajustées et restent bien ancrées dans le bois. Attention toutefois, les fentes ne doivent pas être trop étroites comme Sonowood est bien plus dur que les bois conventionnels. Il est préférable de scier les fentes à la machine pour Sonowood érable. Un sciage à la main est facilement réalisable avec Sonowood noyer et Sonowood épicéa.
+  - Aucun bouche-pores n’est nécessaire grâce à sa structure très dense.
   - Sonowood peut être poncé très bien .
-  - Une surface lisse est déjà obtenue en utilisant du papier d'émeri à faible granulométrie (240).
-  - Sonowood se compose de bois naturel (pas de composite en bois et plastique), c'est pourquoi son utilisation est associée à la promotion de la sylviculture durable et domestique.
-  - Disponibilité continue et qualité constante
-  - Pas de restrictions commerciales grâce à l'évitement des espèces de bois menacées d'extinction
+  - Sonowood se laisse très facilement poncer. Une surface lisse est déjà obtenue en utilisant du papier de verre relativement grossier (240).
+  - Sonowood provient de bois naturel (aucun matériau composite bois-plastique), c’est pourquoi son utilisation est associé à la promotion d’une sylviculture locale et durable.
+  - Disponible de manière continue en qualité constante
+  - Aucune restriction de commerce comme il ne s’agit pas d’une espèce de bois exotique menacé 
 
 </div>
 </div>

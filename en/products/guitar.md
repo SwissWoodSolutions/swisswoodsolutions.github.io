@@ -105,8 +105,8 @@ All pieces are available in maple or spruce. <br/>
 ### For the luthier: 
 
   - Sonowood can be milled particularly well and precisely. This makes it ideal for filigree components (bridges, bridge plates and pins) as well as inlays. 
-  - Sonowood maple has a very low risk of fibre tearing when rebonded. 
-  - The frets can be hammered in easily and anchor well in the wood. Attention: the slots shall not be too narrow as Sonowood, unlike conventional woods, can hardly be adjusted. The slots of Sonowood maple are best sawn by machine. On the other hand, Sonowood walnut can easily be sawn manually.
+  - Sonowood maple can easily be debonded prior to rebonding with a low risk of fibre tearing
+  - The frets can be hammered in easily and anchor well in the wood. Attention: the slots shall not be too narrow as Sonowood is much harder than conventional woods. The slots of Sonowood maple are best sawn by machine. On the other hand, Sonowood walnut can easily be sawn manually.
   - No pore fillers are necessary thanks to the complete pore closure.
   - Sonowood can be sanded very well.
   - A smooth surface is already achieved by using low grit sandpaper (240).
