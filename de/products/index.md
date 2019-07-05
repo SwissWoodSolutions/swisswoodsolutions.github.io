@@ -33,7 +33,7 @@ Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unte
 
 Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie in den Berichten von Elias Wick:
 
-<a class="btn" href="/assets/docs/2018_CITES_CH.pdf">Schweiz</a> <a class="btn" href="/assets/docs/2018_CITES_DE.pdf">Deutschland</a> <a class="btn" href="/assets/docs/2019_CITES_USA.pdf">Vereinigte Staaten</a>
+<a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">Schweiz</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">Deutschland</a> <a class="btn -red" href="/assets/docs/2019_CITES_USA.pdf">Vereinigte Staaten</a>
 
 </div>
 </div>
@@ -111,7 +111,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
 ---
 
-  - ## Sonowood Maple
+  - ## Sonowood Ahorn
 
   - ### Erhältlich für Streichinstrumente und Gitarren
 
@@ -139,25 +139,25 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
-    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Sonowood maple as square timber (top), original wood below">
+    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Rohling aus Sonowood Ahorn, natives Ahornholz darunter">
   </a>
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
-    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violin with all fittings in Sonowood Maple">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violine mit Formteilen aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/sonowood_cover2_2x.jpg">
-    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Guitar fretboard in Sonowood maple">
+    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Gitarrengriffbrett aus Sonwoood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar in Sonowood">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar mit Griffbrett, Brücke und Kopfplatte aus Sonowood Ahorn">
   </a>
 </div>
 
 ---
 
-  - ## Sonowood Spruce
+  - ## Sonowood Fichte
 
   - ### Erhältlich für Streichinstrumente und Gitarren
 
@@ -181,13 +181,13 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
 <div class="picturegallery">
     <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
-        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Sonowood spruce as square timber (top), original wood below">
+        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Rohling aus Sonowood Fichte, natürliches Fichtenholz darunter">
     </a>
     <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
-        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Sonowood spruce tailpiece for strings">
+        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
     </a>
     <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard for strings">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violine mit Formteilen aus Sonowood Fichte">
     </a>
 </div>
 

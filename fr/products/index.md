@@ -101,7 +101,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
 ---
 
-  - ## Sonowood Maple
+  - ## Sonowood érable
 
   - ### Disponible pour instruments à cordes et guitares
 
@@ -130,25 +130,25 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
-    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Sonowood maple as square timber (top), original wood below">
+    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Ébauche de Sonowood érable, érable naturel au-dessous">
   </a>
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
-    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violin with all fittings in Sonowood Maple">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violon avec des pièces de forme en Sonowood érable">
   </a>
   <a href="/assets/images/sonowood_cover2_2x.jpg">
-    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Guitar fretboard in Sonowood maple">
+    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Guitare touche en Sonowood érable">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar in Sonowood">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar avec touche, chevalet et tête en Sonowood érable">
   </a>
 </div>
 
 ---
 
-  - ## Sonowood Spruce
+  - ## Sonowood épicéa
 
   - ### Disponible pour instruments à cordes et guitares
 
@@ -174,13 +174,13 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
 <div class="picturegallery">
     <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
-        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Sonowood spruce as square timber (top), original wood below">
+        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Ébauche de Sonowood épicéa, épicéa naturel au-dessous">
     </a>
     <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
-        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Sonowood spruce tailpiece for strings">
+        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier de Sonowood épicéa">
     </a>
     <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard for strings">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violon avec des pièces de forme en Sonowood épicéa">
     </a>
 </div>
 
