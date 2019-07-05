@@ -31,6 +31,8 @@ Le 2 mars 2018, la télévision a de nouveau pris Swiss Wood Solutions pour suje
 
 ## Plus sur Swiss Wood Solutions à la télévision et à la radio
 
+  - [**Science Stories**  
+    03 juillet 2019](https://www.youtube.com/watch?v=SI2FyJS_ofc)
   - [**Falling Walls Lab, Presentation**  
     Berlin,
     Novembre 2017](https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&showinfo=0)
@@ -65,6 +67,8 @@ En octobre 2017, la technologie a été présentée à un large public dans un a
 <div class="full-width-grey">
 <div class="wrap -cols3">
 
+  - [**Science Stories**  
+    03 juillet 2019](https://science-stories.ch/swisswood/)
   - [**NZZ**  
     Ein Schweizer Esatz für tropisches Ebenholz aus dem Labor,
     24 octobre 2017](https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798)
