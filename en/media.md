@@ -44,6 +44,8 @@ subsequent concert of the Pacific Quartet Vienna on their instruments fitted wit
 
 ## More of Swiss Wood Solutions on TV and Radio
 
+  - [**Science Stories**  
+    03.07.2019](https://www.youtube.com/watch?v=SI2FyJS_ofc)
   - [**Falling Walls Lab, Presentation**  
     Berlin,
     11.2017](https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&showinfo=0)
@@ -86,12 +88,18 @@ Zeitung followed.
 <div class="full-width-grey">
 <div class="wrap -cols3">
 
+  - [**Science Stories**  
+    When Swiss spruce turns into something like ebony,
+    03.07.2019](https://science-stories.ch/swisswood/)
+  - [**EMPA Quarterly**  
+    «...as black as ebony»,
+    19.10.2017](/assets/docs/201710_EmpaQuarterly.pdf)
   - [**NZZ**  
     Ein Schweizer Esatz für tropisches Ebenholz aus dem Labor,
-    24 October 2017](https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798)
+    24.10.2017](https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798)
   - [**Republik**  
     Das Geheimrezept,
-    15 June 2018](/assets/docs/201806_Republik.pdf)
+    15.06.2018](/assets/docs/201806_Republik.pdf)
   - [**Deutsche Bauzeitung**  
     Von Holznägeln, Heufurnieren und Ebenholz aus dem Labor,
     April 2018](/assets/docs/201804_Deutsche-Bauzeitung.pdf)
@@ -100,7 +108,7 @@ Zeitung followed.
     February 2019](/assets/docs/20190201_AkustikGitarre.pdf)
   - [**St.Galler Tagblatt**  
     Schweizer Ersatz für Tropenholz,
-    4 January 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 
+    04.01.2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 
   - [**Energieforum**  
     Im Einklang,
     February 2018](/assets/docs/201802_Energieforum.pdf)
@@ -109,22 +117,19 @@ Zeitung followed.
     February 2018](/assets/docs/201802_Designreport.pdf)
   - [**Startupticker.ch**  
     Instrumente ohne Ebenholz,
-    31 October 2017](https://www.startupticker.ch/en/news/october-2017/instrumente-ohne-tropenholz) 
+    31.10.2017](https://www.startupticker.ch/en/news/october-2017/instrumente-ohne-tropenholz) 
   - [**die Umwelt**  
     Auf Schweizer Bergahorn spielen,
     January 2018](/assets/docs/201801_die-umwelt.pdf)
   - [**Blick**  
     Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau,
-    24 October 2017](https://www.blick.ch/news/schweiz/materialforschung-ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-id7502187.html)
+    24.10.2017](https://www.blick.ch/news/schweiz/materialforschung-ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-id7502187.html)
   - [**Limmattaler Zeitung**  
     Ein Schweizer Ersatz für tropisches Ebenholz im Instrumentenbau,
-    24 October 2017](https://www.limmattalerzeitung.ch/limmattal/zuerich/ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-131836740)
+    24.10.2017](https://www.limmattalerzeitung.ch/limmattal/zuerich/ein-schweizer-ersatz-fuer-ebenholz-im-instrumentenbau-131836740)
   - [**Zoo Zurich**  
     Schweizer «Ebenholz» für Instrumente,
-    24 October 2017](https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente)
-  - [**EMPA Quarterly**  
-    «...as black as ebony»,
-    19 October 2017](/assets/docs/201710_EmpaQuarterly.pdf)
+    24.10.2017](https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente)
   - [**Bouwbrief**  
     Houtverdichting: een nieuwe techniek van veredeling van klankhout,
     February 2018](/assets/docs/201802_Bouwbrief.pdf)

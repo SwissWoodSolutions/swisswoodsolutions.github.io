@@ -31,6 +31,7 @@ Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. I
 
 ## Mehr über Swiss Wood Solutions in Radio und TV
 
+  - [**Science Stories** 03.07.2019](https://www.youtube.com/watch?v=SI2FyJS_ofc)
   - [**Falling Walls Lab, Presentation** Berlin, 11.2017](https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&showinfo=0)
   - [**Die Deutsche Welle** 05.07.2018](https://p.dw.com/p/30uK3)
   - [**TV RSI, Telegiornale** 28.11.2017](https://www.rsi.ch/play/tv/telegiornale/video/28-11-2017-legno-indigeno-peri-liutai?id=9841570&station=rete-uno)
@@ -54,6 +55,9 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
 <div class="full-width-grey">
 <div class="wrap -cols3">
 
+  - [**Science Stories**  
+    Wenn aus Schweizer Fichte so etwas wie Ebenholz wird,
+    03.07.2019](https://science-stories.ch/swisswood/?lang=de)
   - [**NZZ**  
     Ein Schweizer Esatz für tropisches Ebenholz aus dem Labor,
     24. Oktober 2017](https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798)
