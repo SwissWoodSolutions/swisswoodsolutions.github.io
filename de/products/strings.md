@@ -77,6 +77,12 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
   <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
   </a>   
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Saitenhalter aus Sonowood Fichte. Foto Wilhelm Geigenbau">
+  </a>  
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Saitenhalter aus Sonowood Fichte. Foto Wilhelm Geigenbau">
+  </a>  
 </div>
 
 ### Kinnhalter
