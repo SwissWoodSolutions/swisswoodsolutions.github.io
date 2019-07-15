@@ -40,14 +40,17 @@ Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Touche en Sonowood érable">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard2_thumb.jpg" alt="Touche en Sonowood érable sur une CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Touche en Sonowood érable">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1_thumb.jpg" alt="Touche en Sonowood érable sur une CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Touche en Sonowood érable">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Touche en Sonowood érable sur une CannaGuitar">
       </a>
+      <a href="/assets/images/guitars/sonowood_guitar_fretboard5.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard5.jpg" alt="Touche en Sonowood érable sur une CannaGuitar">
+      </a> 
 </div>
 
 ### Chevalet

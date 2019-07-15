@@ -49,6 +49,9 @@ All pieces are available in maple or spruce. <br/>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg">
           <img src="/assets/images/guitars/sonowood_eguitar_fretboard2_thumb.jpg" alt="Fretboard from Sonowood maple on a CannaGuitar">
       </a>
+      <a href="/assets/images/guitars/sonowood_guitar_fretboard5.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard5.jpg" alt="Fretboard from Sonowood maple on a CannaGuitar">
+      </a>
 </div>
 
 ### Bridge
