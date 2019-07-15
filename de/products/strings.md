@@ -54,6 +54,18 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
   <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
   </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto Andreas Hochuli">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli_zoom.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli_zoom.jpg" alt="Griffbrett aus Sonowood Fichte. Foto Andreas Hochuli">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.jpg" alt="Violine Charles Gaillard aus 1863 mit Griffbrett und Saitenhalter aus Sonowood Fichte. Foto Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg" alt="Italienische Bratsche mit Griffbrett und Saitenhalter aus Sonowood Fichte. Foto Wilhelm Geigenbau">
+  </a>
 </div>
 
 ### Saitenhalter
@@ -81,7 +93,16 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Saitenhalter aus Sonowood Fichte. Foto Wilhelm Geigenbau">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Saitenhalter aus Sonowood Fichte. Foto Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Saitenhalter aus Sonowood Fichte und Ahorn. Foto Wilhelm Geigenbau">
+  </a>  
+  <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello-Saitenhalter aus Sonowood Ahorn und Ahorn. Foto Wilhelm Geigenbau">
+  </a>  
+  <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello-Saitenhalter aus Sonowood Ahorn und Ahorn. Foto Wilhelm Geigenbau">
+  </a>  
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Saitenhalter aus Sonowood Fichte auf einer Amati Violine. Foto Wilhelm Geigenbau">
   </a>  
 </div>
 
