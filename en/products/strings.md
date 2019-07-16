@@ -93,7 +93,7 @@ All fittings available in maple or spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_tailpiece.jpg" alt="Tailpiece from Sonowood maple (left) and Sonowood spruce (right). Picture by Wilhelm Geigenbau">
   </a>   
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Tailpiece from Sonowood spruce. Picture by Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Tailpiece from Sonowood maple and spruce. Picture by Wilhelm Geigenbau">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Tailpiece from Sonowood maple and spruce. Picture by Wilhelm Geigenbau">
