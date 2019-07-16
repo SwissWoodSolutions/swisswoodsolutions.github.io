@@ -51,6 +51,12 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
       <a href="/assets/images/guitars/sonowood_guitar_fretboard5.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_fretboard5.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
+      <a href="/assets/images/guitars/sonowood_guitar_fretboard6.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard6.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
+      </a>
+      <a href="/assets/images/guitars/sonowood_guitar_fretboard3.jpg">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard3.jpg" alt="Gitarre von Mauro Bodio mit Griffbrett und Steg aus Sonowood Ahorn">
+      </a>
 </div>
 
 ### Steg
@@ -66,7 +72,7 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
           <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer Gitarre von Mauro Bodio">
       </a>
 </div>
 
