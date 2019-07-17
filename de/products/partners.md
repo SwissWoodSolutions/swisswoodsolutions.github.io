@@ -34,7 +34,7 @@ Das Schweizer Fernsehen SRF hat den Workshop besucht. Den Bericht in der Sendung
 
 ## Canna Guitars
 
-Jakob Frank baut in Kooperation mit Norbert Schmid von DRUMPARAM Instrumente unter dem Label Canna Guitars. Der Korpus ist dabei aus Hempstone gefertigt ist, einem patentierten Naturfaserwerkstoff aus Hanffasern und Wasser. Auf seinem Modell hat Jakob Frank Sonowood für Griffbrett, Steg und Auflage der Kopfplatte verwendet. Entstanden ist eine ästethisch und akustisch ansprechende Gitarre, die komplett frei von tropischen Hölzern ist.  
+Jakob Frank baut in Kooperation mit Norbert Schmid von DRUMPARAM Instrumente unter dem Label Canna Guitars. Der Korpus ist dabei aus Hempstone gefertigt ist, einem patentierten Naturfaserwerkstoff aus Hanffasern und Wasser. Auf seinen Modellen verwendet Jakob Frank Sonowood für Griffbrett, Steg und Auflage der Kopfplatte. Es entstehen ästhetisch und akustisch ansprechende Gitarren, die komplett frei von tropischen Hölzern sind.  
 
   - <img srcset="/assets/images/cannaguitar_ganzeGitarre.jpg"
      src="/assets/images/cannaguitar_ganzeGitarre.jpg" alt="Canna Guitar von Jakob Frank mit Griffbrett, Steg und Kopfplatte aus Sonowood.">
@@ -53,7 +53,27 @@ Mehr Informationen zu Hempstone finden Sie unter [Canna Guitars](https://www.can
 </div>
 </div>
 
-<div class="full-width-red">
+<div class="full-width">
+<div class="wrap -cols2">
+
+## Berdani Feinste Bestandteile
+
+Berdani bietet feinste Bestandteile für Streichinstrumente aller Art. Im Online Shop erhalten Sie Kinnhalter, Saitenhalter, Wirbel und Endknöpfe für Violine, Viola und Cello handgefertigt aus Sonowood und mit viel Liebe zum Detail.
+
+- <img srcset="/assets/images/partner_berdani1.jpg"
+     src="/assets/images/partner_berdani1.jpg" alt="Sonowood Formteilset von Berdani">
+	<figcaption>Sonowood Formteilset von Berdani.</figcaption>
+
+- <img srcset="/assets/images/partner_berdani2.jpg"
+     src="/assets/images/partner_berdani2.jpg" alt="Kinnhalter aus Sonowood Ahorn von Berdani">
+	<figcaption>Kinnhalter aus Sonowood Ahorn von Berdani.</figcaption>
+
+<a class="btn -red" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 ## Robert Stempfle - Fachwerkstatt für Holzblasinstrumente
