@@ -135,9 +135,6 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
     <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violon avec des pièces de forme en Sonowood érable">
   </a>
-  <a href="/assets/images/sonowood_cover2_2x.jpg">
-    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Guitare touche en Sonowood érable">
-  </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable. Photo Wilhelm Geigenbau">
   </a>

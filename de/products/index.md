@@ -144,9 +144,6 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
     <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violine mit Formteilen aus Sonowood Ahorn">
   </a>
-  <a href="/assets/images/sonowood_cover2_2x.jpg">
-    <img src="/assets/images/Sonowood_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Gitarrengriffbrett aus Sonwoood Ahorn">
-  </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn">
   </a>

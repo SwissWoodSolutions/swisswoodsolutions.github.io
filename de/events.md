@@ -30,20 +30,51 @@ order: 6
 
 - <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
 
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Guitar Summit
 
   ### 27. bis 29. September 2019, Mannheim, Deutschland
 
-  Der <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> widmet sich voll und ganz dem Thema Gitarre. Zum dritten Mal wird Mannheim vom 27. bis 29. September 2019 zum Zentrum der internationalen Gitarrenwelt. Treffen Sie uns in Mannheim und erfahren Sie mehr über den Einsatz von Sonowood als Fretboard, Steg, Rahmen und vieles mehr für Ihre Gitarren.
+  Der Guitar Summit widmet sich voll und ganz dem Thema Gitarre. Zum dritten Mal wird Mannheim vom 27. bis 29. September 2019 zum Zentrum der internationalen Gitarrenwelt. Treffen Sie uns in Mannheim und erfahren Sie mehr über den Einsatz von Sonowood als Fretboard, Steg, Rahmen und vieles mehr für Ihre Gitarren.
 
 - <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
 
 - ## Cremona Mondomusica
   ### 27. bis 29. September 2019, Cremona, Italien
 
-   Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> vom 27. bis 29. September 2019.
+   Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der Cremona Mondomusica vom 27. bis 29. September 2019.
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
+- ## The 2020 NAMM Show
+  ### 16. bis 19. Januar 2020, Anaheim, Kalifornien, USA
+
+   Wir bringen Sonowood über den Teich an die NAMM Show in Kalifornien. An der NAMM Show (National Association of Music Merchants) treffen sich tausende Aussteller und Besucher aus über 140 Ländern, um sich über die neusten Produkte und Trends in der Musikbranche auszutauschen. 
+
+- <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
 
 - ## Alpines Museum der Schweiz
   ### 18. Oktober 2019 bis 27. September 2020, Bern
