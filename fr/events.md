@@ -45,8 +45,15 @@ order: 6
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
+- ## The 2020 NAMM Show
+  ### 16-19 janvier 2020, Anaheim, Californie, USA
+
+   On porte Sonowood de l'autre côté de l'atlantique au NAMM Show en Californie. Le NAMM Show (National Association of Music Merchants) rassemble des milliers d'exposants et de visiteurs de plus de 140 pays pour discuter des derniers produits et tendances de l'industrie musicale. 
+
+- <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/event_namm2020.jpg)</a>
+
 - ## Alpines Museum der Schweiz
-  ### 18. Oktober 2019 bis 27. September 2020, Bern
+  ### 18 octobre 2019 - 27 septembre 2020, Berne
 
   Sonowood spruce est fabriqué d'épicéas domestiques suisses situés à plus de 1'000 mètres d'altitude. Vivez l'expérience Sonowood de sources alpines suisses dans l'exposition Atelier Alpes au <a href="https://www.alpinesmuseum.ch/fr/expositions/programme-annuel" target="_blank">Musée Alpin Suisse</a> à Berne. 
 

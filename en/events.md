@@ -36,21 +36,28 @@ order: 6
 
   ### September 27th – 29th, Mannheim, Germany
 
-  The <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> is dedicated to everything guitar. For the third time, Mannheim becomes the centre of the international guitar world. Meet us and Sonowood at the Guitar Summit from September 27th – 29th.
+  The Guitar Summit is dedicated to everything guitar. For the third time, Mannheim becomes the centre of the international guitar world. Meet us and Sonowood at the Guitar Summit from September 27th – 29th.
 
 - <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
 
 - ## Cremona Mondomusica
   ### September 27th – 29th, Cremona, Italy
 
-  Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Meet us and Sonowood at <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> from September 27th – 29th.
+  Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Meet us and Sonowood at Cremona Mondomusica from September 27th – 29th.
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
-- ## Swiss Alpine Museum
-  ### October 18th 2019 - September 27th 2020, Bern
+- ## The 2020 NAMM Show
+  ### January 16th - 19th 2020, Anaheim, California, United States
 
-  Sonowood spruce is made from domestic Swiss spruce from above 1’000 metres above sea level. Up there, the vegetation period is shorter, leading to narrow growth ring formation. Experience Sonowood from Swiss Alps sources as part of the upcoming Alpine Workshop Exhibition in the <a href="https://www.alpinesmuseum.ch/en/exhibitions/annual-programme" target="_blank">Swiss Alpine Museum</a> in Bern.
+   We are coming across the pond to the NAMM Show in California to introduce you to Sonowood. The NAMM Show (National Association of Music Merchants) is the global corssroad of the music, sound and entertainment technology products with thousands of registrants from 139 countries.
+
+- <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/event_namm2020.jpg)</a>
+
+- ## Swiss Alpine Museum
+  ### October 18th 2019 - September 27th 2020, Bern, Switzerland
+
+  Sonowood spruce is made from domestic Swiss spruce from above 1’000 metres above sea level. Up there, the vegetation period is shorter, leading to narrow growth ring formation. Experience Sonowood from Swiss Alps sources as part of the upcoming Alpine Workshop Exhibition in the Swiss Alpine Museum in Bern.
 
 - <a href="https://www.alpinesmuseum.ch/en/exhibitions/annual-programme" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
 
