@@ -72,7 +72,7 @@ Berdani bietet feinste Bestandteile für Streichinstrumente aller Art. Im Online
      src="/assets/images/partner_berdani2.jpg" alt="Kinnhalter aus Sonowood Ahorn von Berdani">
 	<figcaption>Kinnhalter aus Sonowood Ahorn von Berdani.</figcaption>
 
-<a class="btn -red" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
+<a class="btn" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
 
 </div>
 </div>

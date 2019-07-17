@@ -72,7 +72,7 @@ Berdani offers the finest components for string instruments of all kinds. In the
      src="/assets/images/partner_berdani2.jpg" alt="Kinnhalter aus Sonowood Ahorn von Berdani">
 	<figcaption>Chinrest from Sonowood maple from Berdani.</figcaption>
 
-<a class="btn -red" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
+<a class="btn" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
 
 </div>
 </div>

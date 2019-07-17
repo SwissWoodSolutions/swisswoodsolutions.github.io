@@ -72,7 +72,7 @@ Berdani offre les meilleurs composants pour instruments à cordes de toutes sort
      src="/assets/images/partner_berdani2.jpg" alt="Kinnhalter aus Sonowood Ahorn von Berdani">
 	<figcaption>Mentionnière en Sonowood érable de Berdani.</figcaption>
 
-<a class="btn -red" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
+<a class="btn" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
 
 </div>
 </div>
