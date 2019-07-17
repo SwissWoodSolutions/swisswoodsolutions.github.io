@@ -15,30 +15,30 @@ order: 4
      src="/assets/images/partner_cover.jpg" alt="home_materials_2x">
 </div>
 
-<div class="full-width">
-<div class="wrap">
-
+<div class="full-width-grey">
+<div class="wrap -cols2">
 
 ## Wilhelm Geigenbau
 
-In March 2018, a workshop was held at [Wilhelm Geigenbau.](http://www.wilhelm-geigenbau.ch/index.php?id=2399) Various
-international violin manufacturers got introduced to **Sonowood** and
-manufactured fingerboards from the samples provided. The feedback on
-processability was uniformly positive.
+Wilhelm Geigenbau has been a partner of Swiss Wood Solutions since 2016. Numerous violins, violas and cellos have been equipped with Sonowood. In March 2018, a workshop was held to evaluate the competitiveness of Sonowood in comparison to tropical woods. Various international violin makers got introduced to Sonowood and manufactured fingerboards from the samples provided. The feedback on processability was uniformly positive. To finish off the one-week workshop on a high note, the Pacific Quartet Vienna held its inaugural concert with their instruments featuring Sonowood. The musicians reacted very positively to the improved sound characteristics of their respective instruments.
 
-To finish the one-week workshop on a high note, the Pacific Quartet
-Vienna held its inaugural concert with their instruments featuring
-Sonowood. The musicians reacted very positively to the improved sound
-characteristics of their respective instruments.
+The Swiss national TV captured the results of the workshop in a [broadcast.](/en/media)
 
-The Swiss national TV captured the results of the workshop, the
-video can be watched [here.](/en/media)
+<a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
+
+- <img srcset="/assets/images/partner_wilhelm1.jpg"
+     src="/assets/images/partner_wilhelm1.jpg" alt="Violine mit Griffbrett aus Sonowood Ahorn">
+	<figcaption>Violine mit Griffbrett aus Sonowood Ahorn</figcaption>
+
+  - <img srcset="/assets/images/partner_wilhelm2.jpg"
+     src="/assets/images/partner_wilhelm2.jpg" alt="Violine mit Griffbrett aus Sonowood Fichte">
+	<figcaption>Violine mit Griffbrett aus Sonowood Fichte</figcaption>
 
 </div>
 </div>
 
 <div class="full-width-grey">
-<div class="wrap -cols3">
+<div class="wrap -cols2">
 
 ## Canna Guitars
 
@@ -52,16 +52,31 @@ Under the label Canna Guitars and in cooperation with Norbert Schmid of DRUMPARA
      src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
 	<figcaption>Sonowood bridge.</figcaption>
 
- - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
-     src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
-	<figcaption>Sonowood headstock.</figcaption>
-
-More information on Hempstone can be found at [Canna Guitars](https://www.cannaguitars.com) and [DRUMPARAM](http://www.drumparam.at).
+<a class="btn -red" href="https://www.cannaguitars.com" target="_blank">Canna Guitars ></a> <a class="btn -red" href="http://www.drumparam.at" target="_blank">DRUMPARAM ></a>
 
 </div>
 </div>
 
 <div class="full-width-red">
+<div class="wrap -cols2">
+
+## Berdani Feinste Bestandteile
+
+Berdani offers the finest components for string instruments of all kinds. In the online shop, you find chinrests, tailpieces, pegs and endbuttons for violins, violas and cellos handcrafted from Sonowood with great attention to detail. Bernd and Daniel Hiller from Markneukirchen (Germany) are happy to refine your instrument with Sonowood.
+
+- <img srcset="/assets/images/partner_berdani1.jpg"
+     src="/assets/images/partner_berdani1.jpg" alt="Sonowood Formteilset von Berdani">
+	<figcaption>Sonowood fittings from Berdani.</figcaption>
+
+- <img srcset="/assets/images/partner_berdani2.jpg"
+     src="/assets/images/partner_berdani2.jpg" alt="Kinnhalter aus Sonowood Ahorn von Berdani">
+	<figcaption>Chinrest from Sonowood maple from Berdani.</figcaption>
+
+<a class="btn -red" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
+
+</div>
+</div>
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 ## Robert Stempfle manufactory for woodwind instruments
