@@ -15,20 +15,22 @@ order: 4
      src="/assets/images/partner_cover.jpg" alt="home_materials_2x">
 </div>
 
-<div class="full-width">
-<div class="wrap">
+<div class="full-width-grey">
+<div class="wrap -cols2">
 
 ## Wilhelm Geigenbau
 
-En mars 2018, Swiss Wood Solutions, en collaboration avec son partenaire [Wilhelm Geigenbau](http://www.wilhelm-geigenbau.ch/index.php?id=2399) de Suhr, a organisé un atelier avec des luthiers suisses et internationaux. Le produit Sonowood a été présenté aux experts afin d’être testé. A la fin de l'atelier d'une semaine, le Pacific Quartet Vienna a donné un concert avec leurs instruments à cordes équipés en Sonowood. Tant les luthiers que les musiciens ont été ravis des caractéristiques sonores de Sonowood et de sa facilité d'utilisation.
+Wilhelm Geigenbau de Suhr est partenaire de Swiss Wood Solutions depuis 2016. Pendant ce temps, de nombreux violons, altos et violoncelles sont équipés de Sonowood. En 2018, Wilhelm Geigenbau a organisé un atelier avec des luthiers suisses et étrangers pour tester le nouveau matériau. A la fin de l'atelier d'une semaine, le Pacific Quartet Vienna a donné un concert avec leurs instruments à cordes équipés en Sonowood. Tant les luthiers que les musiciens ont été ravis des caractéristiques sonores de Sonowood et de sa facilité d'utilisation.
 
 La télévision suisse SRF a participé à l'atelier. Vous trouverez le rapport dans le programme Schweiz aktuell du 2 mars 2018 [ici.](/fr/media)  
 
+<a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
+
 </div>
 </div>
 
-<div class="full-width-grey">
-<div class="wrap -cols3">
+<div class="full-width">
+<div class="wrap -cols2">
 
 ## Canna Guitars
 
@@ -42,11 +44,27 @@ Sous le label Canna Guitars et en collaboration avec Norbert Schmid de DRUMPARAM
      src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
 	<figcaption>Sonowood chevalet.</figcaption>
 
- - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
-     src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
-	<figcaption>Sonowood poupée.</figcaption>
+<a class="btn -red" href="https://www.cannaguitars.com" target="_blank">Canna Guitars ></a> <a class="btn -red" href="http://www.drumparam.at" target="_blank">DRUMPARAM ></a>
 
-Plus d'informations sur Hempstone peuvent être trouvées à [Canna Guitars](https://www.cannaguitars.com) et [DRUMPARAM](http://www.drumparam.at).
+</div>
+</div>
+
+<div class="full-width-red">
+<div class="wrap -cols2">
+
+## Berdani Feinste Bestandteile
+
+Berdani offre les meilleurs composants pour instruments à cordes de toutes sortes. Dans la boutique en ligne, vous trouverez des mentonnières, cordiers, chevilles et boutons pour violon, alto et violoncelle fabriqués à la main par Sonowood avec une grande attention aux détails. Bernd et Daniel Hiller de Markneukirchen (Allemagne) sont heureux d'affiner votre instrument avec Sonowood.
+
+- <img srcset="/assets/images/partner_berdani1.jpg"
+     src="/assets/images/partner_berdani1.jpg" alt="Sonowood Formteilset von Berdani">
+	<figcaption>Pièces de forme en Sonowood de Berdani.</figcaption>
+
+- <img srcset="/assets/images/partner_berdani2.jpg"
+     src="/assets/images/partner_berdani2.jpg" alt="Kinnhalter aus Sonowood Ahorn von Berdani">
+	<figcaption>Mentionnière en Sonowood érable de Berdani.</figcaption>
+
+<a class="btn -red" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
 
 </div>
 </div>
