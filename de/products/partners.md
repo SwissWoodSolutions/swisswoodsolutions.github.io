@@ -16,7 +16,7 @@ order: 4
 </div>
 
 <div class="full-width-grey">
-<div class="wrap">
+<div class="wrap -cols2">
 
 
 ## Wilhelm Geigenbau
@@ -25,13 +25,21 @@ Wilhelm Geigenbau aus Suhr ist seit 2016 Partner von Swiss Wood Solutions. In di
 
 Das Schweizer Fernsehen SRF hat den Workshop besucht. Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie [hier.](/de/media/)
 
+- <img srcset="/assets/images/partner_wilhelm1.jpg"
+     src="/assets/images/partner_wilhelm1.jpg" alt="Violine mit Griffbrett aus Sonowood Ahorn">
+	<figcaption>Violine mit Griffbrett aus Sonowood Ahorn</figcaption>
+
+  - <img srcset="/assets/images/partner_wilhelm2.jpg"
+     src="/assets/images/partner_wilhelm2.jpg" alt="Violine mit Griffbrett aus Sonowood Fichte">
+	<figcaption>Violine mit Griffbrett aus Sonowood Fichte</figcaption>
+
 <a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
 
 </div>
 </div>
 
 <div class="full-width">
-<div class="wrap -cols3">
+<div class="wrap -cols2">
 
 ## Canna Guitars
 
@@ -44,10 +52,6 @@ Jakob Frank baut in Kooperation mit Norbert Schmid von DRUMPARAM Instrumente unt
   - <img srcset="/assets/images/Cannaguitar_Steg.jpg"
      src="/assets/images/Cannaguitar_Steg.jpg" alt="Steg aus Sonowood auf der Canna Guitar von Jakob Frank.">
 	<figcaption>Steg aus Sonowood.</figcaption>
-
-  - <img srcset="/assets/images/cannaguitar_kopfplatte.jpg"
-     src="/assets/images/cannaguitar_kopfplatte.jpg" alt="Kopfplatte aus Sonowood auf der Canna Guitar von Jakob Frank.">
-	<figcaption>Kopfplatte aus Sonowood.</figcaption>
 
 <a class="btn -red" href="https://www.cannaguitars.com" target="_blank">Canna Guitars ></a> <a class="btn -red" href="http://www.drumparam.at" target="_blank">DRUMPARAM ></a>
 
