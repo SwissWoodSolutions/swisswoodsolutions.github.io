@@ -32,6 +32,12 @@ order: 6
 
 - <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
 
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Guitar Summit
 
   ### September 27th – 29th, Mannheim, Germany
@@ -40,6 +46,13 @@ order: 6
 
 - <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
 
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
 - ## Cremona Mondomusica
   ### September 27th – 29th, Cremona, Italy
 
@@ -47,12 +60,24 @@ order: 6
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## The 2020 NAMM Show
   ### January 16th - 19th 2020, Anaheim, California, United States
 
    We are coming across the pond to the NAMM Show in California to introduce you to Sonowood. The NAMM Show (National Association of Music Merchants) is the global corssroad of the music, sound and entertainment technology products with thousands of registrants from 139 countries.
 
 - <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
 
 - ## Swiss Alpine Museum
   ### October 18th 2019 - September 27th 2020, Bern, Switzerland
