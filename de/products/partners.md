@@ -18,14 +18,13 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-
 ## Wilhelm Geigenbau
 
 Wilhelm Geigenbau aus Suhr ist seit 2016 Partner von Swiss Wood Solutions. In dieser Zeit wurden zahlreiche Geigen, Bratschen und Celli mit Sonowood ausgerüstet. Zur Erprobung des neuen Materials führte Wilhelm Geigenbau 2018 einen Workshop mit Instrumentenbauern aus dem In- und Ausland durch. Den Fachleuten wurde das Produkt Sonowood vorgestellt und zum Bearbeiten überlassen. Zum Abschluss des einwöchigen Workshops gab das Pacific Quartet Vienna ein Konzert mit ihren auf Sonowood umgerüsteten Streichinstrumenten. Sowohl die Instrumentenbauer als auch die Musiker zeigten sich hocherfreut über die Klangeigenschaften und benutzerfreundliche Verarbeitbarkeit von Sonowood.
 
 Das Schweizer Fernsehen SRF hat den Workshop besucht. Den Bericht in der Sendung Schweiz aktuell vom 2. März 2018 finden Sie [hier.](/de/media/)
 
-- <img srcset="/assets/images/partner_wilhelm1.jpg"
+  - <img srcset="/assets/images/partner_wilhelm1.jpg"
      src="/assets/images/partner_wilhelm1.jpg" alt="Violine mit Griffbrett aus Sonowood Ahorn">
 	<figcaption>Violine mit Griffbrett aus Sonowood Ahorn</figcaption>
 

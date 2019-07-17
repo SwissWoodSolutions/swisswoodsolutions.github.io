@@ -26,7 +26,7 @@ The Swiss national TV captured the results of the workshop in a [broadcast.](/en
 
 <a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
 
-- <img srcset="/assets/images/partner_wilhelm1.jpg"
+  - <img srcset="/assets/images/partner_wilhelm1.jpg"
      src="/assets/images/partner_wilhelm1.jpg" alt="Violine mit Griffbrett aus Sonowood Ahorn">
 	<figcaption>Violine mit Griffbrett aus Sonowood Ahorn</figcaption>
 
