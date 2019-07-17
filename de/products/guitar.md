@@ -98,11 +98,11 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
   - Keine Reisebeschränkungen dank Verzicht auf gefährdete Holzarten
 
 
-## 
+##
 
 ### Für den Gitarrenbauer:
 
-  - Sonowood lässt sich besonders gut und präzise fräsen. Damit eignet es sich ideal für filigrane Bauteile (Stege, Stegplatten und Pins) sowie Intarsien. 
+  - Sonowood lässt sich besonders gut und präzise fräsen. Damit eignet es sich ideal für filigrane Bauteile (Stege, Stegplatten und Pins) sowie Intarsien.
   - Bei Neu- und Wiederbundierungen besteht bei Sonowood Ahorn eine sehr geringe Gefahr des Faserausrisses.
   - Die Bünde lassen sich gut einschlagen und verankern vorzüglich im Holz. Achtung: die Bundschlitze sollten nicht zu eng sein, da sich Sonowood im Gegensatz zu herkömmlichen Hölzern nicht verdrängen lässt. Die Bundschlitze werden bei Sonowood Ahorn am besten maschinell gesägt. Aufgrund der extremen  Härte ist dies von Hand nur schwer zu bewerkstelligen. Sonowood Walnuss hingegen lässt sich problemlos von Hand sägen.
   - Dank komplettem Porenverschluss durch die Verdichtung sind keine Porenfüller nötig.
@@ -131,13 +131,13 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
   <input type="text" name="entry.14292811" class="input-line" placeholder="Ich wohne in (Land)" required minlength="2">
   <p>Ich interessiere mich für Sonowood für:</p>
   <div class="checkbox-wrapper">
-    <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Streichinstrumente</label>
+    <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Streichinstrumente</label>
   </div>
   <div class="checkbox-wrapper">
-    <input type="checkbox" name="entry.471260229" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Gitarren</label>
+    <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Gitarren</label>
   </div>
   <div class="checkbox-wrapper">
-    <input type="checkbox" name="entry.471260229" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Andere Instrumente oder Produkte</label>
+    <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Andere Instrumente oder Produkte</label>
   </div>
   <textarea name="entry.1789398419" class="input-field" placeholder="Meine Nachricht"></textarea>
   <input type="hidden" name="entry.298481630" value="DE">
