@@ -80,7 +80,7 @@ Berdani offers the finest components for string instruments of all kinds. In the
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-## Robert Stempfle manufactory for woodwind instruments
+## Robert Stempfle 
 
 Robert Stempfle is a trained woodwind instrument maker and clarinetist. In his specialist workshop for woodwind instruments in Zurich, he carries out all repairs and revisions of woodwind instruments. He has been a development partner of Swiss Wood Solutions since 2015. In January 2019, Robert Stempfle made the first clarinet from Sonowood.
 

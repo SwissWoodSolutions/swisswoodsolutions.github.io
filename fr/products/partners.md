@@ -80,7 +80,7 @@ Berdani offre les meilleurs composants pour instruments à cordes de toutes sort
 <div class="full-width">
 <div class="wrap -cols2">
 
-## Manufacture Robert Stempfle pour instruments à vent en bois
+## Robert Stempfle 
 
 Dans son atelier spécialisé pour instruments à vent en bois à Zurich, Robert Stempfle effectue toutes les réparations et révisions d'instruments à vent en bois. Il est partenaire de développement de Swiss Wood Solutions depuis 2015. En janvier 2019, Robert Stempfle a fabriqué la première clarinette de Sonowood.
 
