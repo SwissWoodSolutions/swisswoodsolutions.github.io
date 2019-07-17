@@ -50,7 +50,7 @@ order: 6
 
    Wir bringen Sonowood über den Teich an die NAMM Show in Kalifornien. An der NAMM Show (National Association of Music Merchants) treffen sich tausende Aussteller und Besucher aus über 140 Ländern, um sich über die neusten Produkte und Trends in der Musikbranche auszutauschen. 
 
-- <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/event_namm2020.jpg)</a>
+- <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
 
 - ## Alpines Museum der Schweiz
   ### 18. Oktober 2019 bis 27. September 2020, Bern
