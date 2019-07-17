@@ -19,45 +19,69 @@ order: 6
 <div class="full-width">
 <div class="wrap -cols2">
 
-### Nous nous réjouissons de vous rencontrer au:
+### Wir freuen uns, Sie an einer Veranstaltung zu treffen:
 
 ---
-### 31 août, Füssen, l'Allemagne
+- ## Museum Füssen
 
-  Dr. Oliver Kläusler, inventeur de Sonowood, intervient au musée de la ville de Füssen pour une conférence en deux parties. Dans la première partie, un aperçu de Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) et de son impact sur la construction et le commerce des instruments de musique sera présenté. Dans la deuxième partie, Dr. Kläusler présente Sonowood comme une alternative à l'utilisation de bois surutilisés.
+  ### 31. August 2019, Füssen, Deutschland
 
-
+  Dr. Oliver Kläusler, Erfinder von Sonowood, ist zu Gast im Museum der Stadt Füssen im Rahmen eines zweiteiligen Vortrages. Zunächst wird ein Überblick über das Washingtoner Artenschutzübereinkommen CITES und seine Auswirkungen auf den Bau und den Handel von Musikinstrumenten gewährt. Im zweiten Teil präsentiert Dr. Kläusler Sonowood als Alternative zum Einsatz von übernutzten Hölzern.
 
 - <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
 
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Guitar Summit
 
-  ### 27-29 septembre, Mannheim, l'Allemagne
+  ### 27. bis 29. September 2019, Mannheim, Deutschland
 
-  Le Guitar Summit est dédié à tout ce qui concerne la guitare. Pour la troisième fois, Mannheim devient le centre du monde international de la guitare. Rencontrez-nous et Sonowood au <a href="https://www.guitarsummit.de" target="_blank">Guitar Summit</a> du 27 au 29 septembre.
+  Der Guitar Summit widmet sich voll und ganz dem Thema Gitarre. Zum dritten Mal wird Mannheim vom 27. bis 29. September 2019 zum Zentrum der internationalen Gitarrenwelt. Treffen Sie uns in Mannheim und erfahren Sie mehr über den Einsatz von Sonowood als Fretboard, Steg, Rahmen und vieles mehr für Ihre Gitarren.
 
 - <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
 
-- ## Cremona Mondomusica
-  ### 27-29 septembre, Cremona, l'Italie
+</div>
+</div>
 
-  Cremona Mondomusica est la plus grande et la plus importante exposition de lutherie au monde. Cremona est la capitale mondiale de la lutherie et l'origine la plus célèbre famille de luthiers. Rencontrez-nous et Sonowood à <a href="http://www.cremonamusica.com" target="_blank">Cremona Mondomusica</a> du 27 au 29 septembre.
+<div class="full-width">
+<div class="wrap -cols2">
+
+- ## Cremona Mondomusica
+  ### 27. bis 29. September 2019, Cremona, Italien
+
+   Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der Cremona Mondomusica vom 27. bis 29. September 2019.
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
 
-- ## The 2020 NAMM Show
-  ### 16-19 janvier 2020, Anaheim, Californie, USA
+</div>
+</div>
 
-   On porte Sonowood de l'autre côté de l'atlantique au NAMM Show en Californie. Le NAMM Show (National Association of Music Merchants) rassemble des milliers d'exposants et de visiteurs de plus de 140 pays pour discuter des derniers produits et tendances de l'industrie musicale. 
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
+- ## The 2020 NAMM Show
+  ### 16. bis 19. Januar 2020, Anaheim, Kalifornien, USA
+
+   Wir bringen Sonowood über den Teich an die NAMM Show in Kalifornien. An der NAMM Show (National Association of Music Merchants) treffen sich tausende Aussteller und Besucher aus über 140 Ländern, um sich über die neusten Produkte und Trends in der Musikbranche auszutauschen. 
 
 - <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
 
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
 - ## Alpines Museum der Schweiz
-  ### 18 octobre 2019 - 27 septembre 2020, Berne
+  ### 18. Oktober 2019 bis 27. September 2020, Bern
 
-  Sonowood spruce est fabriqué d'épicéas domestiques suisses situés à plus de 1'000 mètres d'altitude. Vivez l'expérience Sonowood de sources alpines suisses dans l'exposition Atelier Alpes au <a href="https://www.alpinesmuseum.ch/fr/expositions/programme-annuel" target="_blank">Musée Alpin Suisse</a> à Berne. 
+   Handwerkerinnen und Handwerker aus den Bergen verwandeln das <a href="https://www.alpinesmuseum.ch/de/ausstellungen/werkstatt-alpen" target="_blank">Alpine Museum der Schweiz</a> in Bern bald in eine Werkstatt. Erleben Sie Sonowood aus Schweizer Fichte aus Höhenlagen oberhalb von 1'000 Metern über Meer an der neuen Ausstellung von Oktober 2019 bis September 2020.
 
-- <a href="https://www.alpinesmuseum.ch/fr/expositions/programme-annuel" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
+- <a href="https://www.alpinesmuseum.ch/de/ausstellungen/werkstatt-alpen" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
 
 </div>
 </div>
