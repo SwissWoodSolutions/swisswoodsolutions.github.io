@@ -24,6 +24,14 @@ Wilhelm Geigenbau de Suhr est partenaire de Swiss Wood Solutions depuis 2016. Pe
 
 La télévision suisse SRF a participé à l'atelier. Vous trouverez le rapport dans le programme Schweiz aktuell du 2 mars 2018 [ici.](/fr/media)  
 
+ - <img srcset="/assets/images/partner_wilhelm1.jpg"
+     src="/assets/images/partner_wilhelm1.jpg" alt="Violine mit Griffbrett aus Sonowood Ahorn">
+	<figcaption>Violine mit Griffbrett aus Sonowood Ahorn</figcaption>
+
+  - <img srcset="/assets/images/partner_wilhelm2.jpg"
+     src="/assets/images/partner_wilhelm2.jpg" alt="Violine mit Griffbrett aus Sonowood Fichte">
+	<figcaption>Violine mit Griffbrett aus Sonowood Fichte</figcaption>
+
 <a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
 
 </div>
@@ -69,7 +77,7 @@ Berdani offre les meilleurs composants pour instruments à cordes de toutes sort
 </div>
 </div>
 
-<div class="full-width-red">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## Manufacture Robert Stempfle pour instruments à vent en bois

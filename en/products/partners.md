@@ -37,7 +37,7 @@ The Swiss national TV captured the results of the workshop in a [broadcast.](/en
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## Canna Guitars
@@ -76,6 +76,7 @@ Berdani offers the finest components for string instruments of all kinds. In the
 
 </div>
 </div>
+
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
