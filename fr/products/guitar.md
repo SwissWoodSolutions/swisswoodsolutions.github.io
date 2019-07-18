@@ -19,7 +19,7 @@ order: 2
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-La dureté et la densité exceptionnelles de Sonowood assurent des excellentes performances acoustiques à vos guitares et guitares électriques. Sonowood peut être utilisé pour fabriquer la touche et le chevalet. 
+La dureté et la densité exceptionnelles de Sonowood assurent des excellentes performances acoustiques à vos guitares et guitares électriques. Sonowood peut être utilisé pour fabriquer la touche et le chevalet.
 
 Sonowood peut être fabriqué à partir des différentes essences, l’épicéa (Picea abies) et l’érable (Acer pseudoplatanus). Pour nos produits, nous n’utilisons que du bois issu d’une sylviculture durable, provenant principalement des cantons de Zurich et des Grisons.
 
@@ -95,15 +95,15 @@ Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
 ### Pour le guitariste:
 
   - Excellente tenue du son grâce à une grande rigidité et à un faible amortissement
-  - Attaque exceptionnelle grâce à une haute vitesse de propagation du son 
+  - Attaque exceptionnelle grâce à une haute vitesse de propagation du son
   - Sonowood est durable et résistant aux rayures grâce à sa structure très dense. Les traces d’usure et de saleté sont considérablement réduites.
   - Jouabilité optimale grâce à une surface dure et lisse, ce qui réduit la résistance au frottement des cordes.
-  - Aucune restriction de voyage comme il ne s’agit pas d’une espèce de bois exotique menacé	
+  - Aucune restriction de voyage comme il ne s’agit pas d’une espèce de bois exotique menacé
 
 
 ##
 
-### Pour les luthiers: 
+### Pour les luthiers:
 
   - Sonowood se laisse fraiser facilement et avec haute précision. Il est donc idéal pour les composants filigranes (chevalets, plaques de chevalet et chevilles) ainsi que pour la marqueterie.
   - Sonowood érable peut facilement être décollé puis recollé sans risque d’arrachage de la fibre
@@ -113,7 +113,7 @@ Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
   - Sonowood se laisse très facilement poncer. Une surface lisse est déjà obtenue en utilisant du papier de verre relativement grossier (240).
   - Sonowood provient de bois naturel (aucun matériau composite bois-plastique), c’est pourquoi son utilisation est associé à la promotion d’une sylviculture locale et durable.
   - Disponible de manière continue en qualité constante
-  - Aucune restriction de commerce comme il ne s’agit pas d’une espèce de bois exotique menacé 
+  - Aucune restriction de commerce comme il ne s’agit pas d’une espèce de bois exotique menacé
 
 </div>
 </div>
@@ -134,13 +134,13 @@ Pour toutes questions commerciales ou techniques:
       <input type="text" name="entry.14292811" class="input-line" placeholder="J'habite en (Pays)" required minlength="2">
       <p>Je m'interesse à Sonowood pour des:</p>
       <div class="checkbox-wrapper">
-        <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Instruments à cordes</label>
+        <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Instruments à cordes</label>
       </div>
       <div class="checkbox-wrapper">
-        <input type="checkbox" name="entry.471260229" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitares</label>
+        <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitares</label>
       </div>
       <div class="checkbox-wrapper">
-        <input type="checkbox" name="entry.471260229" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Autres instruments ou produits</label>
+        <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Autres instruments ou produits</label>
       </div>
       <textarea name="entry.1789398419" class="input-field" placeholder="Mon message et mes questions"></textarea>
       <input type="hidden" name="entry.298481630" value="FR">

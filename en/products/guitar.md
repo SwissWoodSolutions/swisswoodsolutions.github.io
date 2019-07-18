@@ -105,9 +105,9 @@ All pieces are available in maple or spruce. <br/>
 
 ##
 
-### For the luthier: 
+### For the luthier:
 
-  - Sonowood can be milled particularly well and precisely. This makes it ideal for filigree components (bridges, bridge plates and pins) as well as inlays. 
+  - Sonowood can be milled particularly well and precisely. This makes it ideal for filigree components (bridges, bridge plates and pins) as well as inlays.
   - Sonowood maple can easily be debonded prior to rebonding with a low risk of fibre tearing
   - The frets can be hammered in easily and anchor well in the wood. Attention: the slots shall not be too narrow as Sonowood is much harder than conventional woods. The slots of Sonowood maple are best sawn by machine. On the other hand, Sonowood walnut can easily be sawn manually.
   - No pore fillers are necessary thanks to the complete pore closure.
@@ -136,13 +136,13 @@ Contact us for a price request and become part of the sustainable revolution in 
     <input type="text" name="entry.14292811" class="input-line" placeholder="I live in (Country)" required minlength="2">
     <p>I'm interested in Sonowood for:</p>
     <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Strings</label>
+      <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Strings</label>
     </div>
     <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.471260229" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitar</label>
+      <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitar</label>
     </div>
     <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.471260229" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Other instruments or products</label>
+      <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Other instruments or products</label>
     </div>
     <textarea name="entry.1789398419" class="input-field" placeholder="My questions or comments"></textarea>
     <input type="hidden" name="entry.298481630" value="EN">

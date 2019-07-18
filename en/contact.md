@@ -49,13 +49,13 @@ Tel. +41 44 633 62 12 <br/>
     <input type="text" name="entry.14292811" class="input-line" placeholder="Country where I live" required minlength="2">
     <p>I'm interested in Sonowood for:</p>
     <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.471260229" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Strings</label>
+      <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Strings</label>
     </div>
     <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.471260229" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitar</label>
+      <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitar</label>
     </div>
     <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.471260229" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Other instruments or products</label>
+      <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Other instruments or products</label>
     </div>
     <textarea name="entry.1789398419" class="input-field" placeholder="My questions or comments"></textarea>
     <input type="hidden" name="entry.298481630" value="EN">
