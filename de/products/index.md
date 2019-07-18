@@ -29,11 +29,9 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
 <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a>
 
-Sonowood wird aus nicht-gefährdeten Schweizer Holzbeständen gefertigt. So unterliegt es keinerlei rechtlichen Einschränkungen. Unsere Kunden reisen sorgenfrei über Landesgrenzen mit der Gewissheit, nicht mit dem Gesetz in Konflikt zu geraten. Im Gegensatz dazu bestehen für Produkte aus Tropenholz umfangreiche Handels- und Reisebeschränkungen. Das Artenschutzabkommen CITES regelt den Handel mit vom Aussterben gefährdeten Holzarten. Musiker mit Instrumenten, die teilweise aus Tropenholz gefertigt sind, kommen so unversehens in die Bredouille. Können keine Dokumente vorgelegt werden, welche die Legalität des enthaltenen Materials explizit bestätigen, werden die Instrumente von Zollbehörden konfisziert. Zudem drohen hohe Bussgelder.
+Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie.
 
-Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie in den Berichten von Elias Wick:
-
-<a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">Schweiz</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">Deutschland</a> <a class="btn -red" href="/assets/docs/2019_CITES_USA.pdf">Vereinigte Staaten</a>
+<a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in der Schweiz</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Deutschland</a> <a class="btn -red" href="/assets/docs/2019_CITES_USA.pdf">CITES in den Vereinigten Staaten</a>
 
 </div>
 </div>
