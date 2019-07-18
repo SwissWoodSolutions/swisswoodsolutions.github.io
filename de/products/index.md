@@ -122,11 +122,13 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
       - **Wirbel** für Geigen, Bratschen und Celli
       - **Kinnhalter** für alle Streichinstrumente
       - **Komplettes Set** der oben genannten Instrumententeile
+      - **Stege und Kopfplatten** für Gitarren
+
 
   - #### Technische Daten:
 
       - Berg-Ahorn *(Acer pseudoplatanus)*
-      - Dunkle Färbung
+      - Dunkelbraune Färbung
       - Dichte: 1'200 – 1'400 kg/m³
       - Brinellhärte: \> 80 N/mm²
       - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe 0.7%, Breite 0.3%
@@ -187,6 +189,28 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
         <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violine mit Formteilen aus Sonowood Fichte">
     </a>
 </div>
+
+---
+
+  - ## Sonowood Nuss
+
+  - ### Erhältlich für Streichinstrumente und Gitarren
+
+  - #### Sortiment
+
+      - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
+   
+  - #### Technische Daten
+
+      - Echte Walnuss *(Juglans regia)*
+      - Dunkelbraune bis schwarze Färbung
+      - Dichte: 1'200 – 1'400 kg/m³
+      - Brinellhärte: \> 80 N/mm²
+      - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe \~ 0.29, Breite \~0.3 %       
+      - Schallleitgeschwindigkeit: \> 4'400 m/s
+      - Dynamischer Elastizitätsmodul: \> 23'000 N/mm²
+
+<br/>
 
 </div>
 </div>
