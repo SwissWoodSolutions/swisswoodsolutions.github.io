@@ -39,13 +39,10 @@ technology offers adjustability of a wide range of parameters.
 
 <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
 
-Sonowood is made from Swiss woods. Thus, it is not subject to any legal restrictions. Our customers travel carefree across national borders with the certainty that they are not in conflict with the law. In contrast, tropical timber products are subject to extensive trade and travel restrictions. The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) regulates trade in endangered species. Musicians with instruments that are partly made of tropical woods suddenly find themselves in a predicament. If no documents can be presented that explicitly confirm the legality of the material contained, the instruments are confiscated by customs authorities. There is also the threat of heavy fines.
 
+Learn more about the country-specific impacts of the CITES regulations on stakeholders in the music industry.
 
-
-Learn more about the country-specific impact of CITES regulations on stakeholders in the music industry in Elias Wick's report.
-
-<a class="btn" href="/assets/docs/2019_CITES_USA.pdf">United States</a>
+<a class="btn" href="/assets/docs/2019_CITES_USA.pdf">CITES in the United States</a> <a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in Switzerland</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Germany</a> <a class="btn -red"
 
 </div>
 </div>
@@ -127,7 +124,7 @@ Learn more about the country-specific impact of CITES regulations on stakeholder
 
   - ## Sonowood Maple
 
-  - ### Available for stringed instruments and guitars
+  - ### For string instruments and guitars
 
   - #### Product range:
 
@@ -144,8 +141,8 @@ Learn more about the country-specific impact of CITES regulations on stakeholder
       - Colour: mocha
       - Density: 1'200 – 1'400 kg/m³
       - Brinell hardness: \> 80 N/mm²
-      - Dimensional stability: height \~ 0.7,  
-        width \~ 0.3 % per % moisture content change
+      - Dimensional stability: height \~ 0.7%,  
+        width \~ 0.3% per % moisture content change
       - Sound velocity: \> 4'400 m/s
       - Damping (log. decrement): \~ 0.053
       - Dynamic elastic modulus:  
@@ -172,7 +169,7 @@ Learn more about the country-specific impact of CITES regulations on stakeholder
 
   - ## Sonowood Spruce
 
-  - ### Available for stringed instruments and guitars
+  - ### For string instruments and guitars
 
   -  #### Product range
 
@@ -206,6 +203,31 @@ Learn more about the country-specific impact of CITES regulations on stakeholder
         <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard for strings">
     </a>
 </div>
+
+---
+
+  - ## Sonowood Walnut
+
+  - ### For string instruments and guitars
+
+  - #### Product range:
+
+      - **Fingerboards** for violin, viola, cello and guitar; as square
+        timbers
+
+  -  #### Technical data:
+
+      - Walnut *(Juglans regia)*
+      - Colour: darkbrown to black
+      - Density: 1'200 – 1'400 kg/m³
+      - Brinell hardness: \> 80 N/mm²
+      - Dimensional stability: height \~ 0.29%,  
+        width \~ 0.3% per % moisture content change
+      - Sound velocity: \> 4'400 m/s
+      - Dynamic elastic modulus:  
+        \> 23'000 N/mm²
+
+<br/>
 
 </div>
 </div>
