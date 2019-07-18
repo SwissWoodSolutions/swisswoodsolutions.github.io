@@ -119,8 +119,8 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
       - Couleur: moka
       - Densité: 1'200 – 1'400 kg/m³
       - Dureté Brinell: \> 80 N/mm²
-      - Stabilité dimensionnelle: hauteur \~ 0.7,  
-        largeur \~ 0.3 % par % de variation d'humidité
+      - Stabilité dimensionnelle: hauteur \~ 0.7%,  
+        largeur \~ 0.3% par % de variation d'humidité
       - Vitesse de propagation du son: \> 4'400 m/s
       - Amortissement (décrément logarithmique): \~ 0.053
       - Module d’élasticité dynamique:  
@@ -160,8 +160,8 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
       - Couleur: caramel
       - Densité: 1'300 – 1'400 kg/m³
       - Dureté Brinell: \> 100 N/mm²
-      - Stabilité dimensionnelle: hauteur \~ 0.75,  
-        largeur \~ 0.33 % par % de variation d'humidité
+      - Stabilité dimensionnelle: hauteur \~ 0.75%,  
+        largeur \~ 0.33% par % de variation d'humidité
       - Vitesse de propagation du son: \> 5'500 m/s
       - Amortissement (décrément logarithmique): \~ 0.04
       - Module d’élasticité dynamique:  
@@ -180,6 +180,30 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
         <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violon avec des pièces de forme en Sonowood épicéa">
     </a>
 </div>
+
+---
+
+  - ## Sonowood noix
+
+  - ### Disponible pour instruments à cordes et guitares
+
+  - #### Gamme de produits:
+
+      - **Touches** pour violon, alto, violoncelle et guitare
+      
+  -  #### Données techniques:
+
+      - Type de bois: érable sycomore *(Acer pseudoplatanus)*
+      - Couleur: brun foncé et noir
+      - Densité: 1'200 – 1'400 kg/m³
+      - Dureté Brinell: \> 80 N/mm²
+      - Stabilité dimensionnelle: hauteur \~ 0.29%,  
+        largeur \~ 0.3% par % de variation d'humidité
+      - Vitesse de propagation du son: \> 4'400 m/s
+      - Module d’élasticité dynamique:  
+        \> 23'000 N/mm²
+
+<br/>
 
 </div>
 </div>
