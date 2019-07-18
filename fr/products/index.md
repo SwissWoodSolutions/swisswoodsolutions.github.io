@@ -103,7 +103,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
   - ## Sonowood érable
 
-  - ### Disponible pour instruments à cordes et guitares
+  - ### Pour instruments à cordes et guitares
 
   - #### Gamme de produits:
 
@@ -147,7 +147,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
   - ## Sonowood épicéa
 
-  - ### Disponible pour instruments à cordes et guitares
+  - ### Pour instruments à cordes et guitares
 
   -  #### Gamme de produits:
 
@@ -185,7 +185,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
   - ## Sonowood noix
 
-  - ### Disponible pour instruments à cordes et guitares
+  - ### Pour instruments à cordes et guitares
 
   - #### Gamme de produits:
 

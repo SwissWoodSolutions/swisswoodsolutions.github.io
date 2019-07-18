@@ -111,7 +111,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
   - ## Sonowood Ahorn
 
-  - ### Erhältlich für Streichinstrumente und Gitarren
+  - ### Für Streichinstrumente und Gitarren
 
   - #### Sortiment:
 
@@ -156,7 +156,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
   - ## Sonowood Fichte
 
-  - ### Erhältlich für Streichinstrumente und Gitarren
+  - ### Für Streichinstrumente und Gitarren
 
   - #### Sortiment
 
@@ -192,7 +192,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
   - ## Sonowood Nuss
 
-  - ### Erhältlich für Streichinstrumente und Gitarren
+  - ### Für Streichinstrumente und Gitarren
 
   - #### Sortiment
 
