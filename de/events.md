@@ -66,7 +66,7 @@ order: 6
 - ## Guitars & More
   ### 24. November 2019, Wettingen, Schweiz
 
-  Bereits zum vierten Mal präsentiert Guitars & More innovative und kreative Gitarrenbauer. Besucher dürfen erneut gespannt sein auf die Präsentation von bahnbrechenden Neuigkeiten aus der Gitarrenwelt. Sonwood darf dabei natürlich nicht fehlen.
+  Bereits zum vierten Mal präsentiert Guitars & More innovative und kreative Gitarrenbauer. Besucher dürfen erneut gespannt sein auf die Präsentation von bahnbrechenden Neuigkeiten aus der Gitarrenwelt. Sonowood darf dabei natürlich nicht fehlen.
 
 - <a href="https://www.guitarsandmore.ch/welcome/index.html" target="_blank">![Guitarsandmore](/assets/images/events_guitarsandmore.jpg)</a>
 
