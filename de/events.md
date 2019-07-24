@@ -86,7 +86,7 @@ order: 6
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Alpines Museum der Schweiz
