@@ -23,7 +23,7 @@ Der Streichinstrumentenbau ist emotional. Viele Instrumente sind Unikate, gefert
 
 Angeboten werden sowohl Formteile als auch Rohlinge in Fichte (Picea abies) und Ahorn (Acer pseudoplatanus). Für unsere Produkte verwenden wir Holz aus nachhaltiger Forstwirtschaft, vornehmlich aus den Kantonen Zürich und Graubünden.
 
-**Technische Daten** für Sonowood Maple and Sonowood Spruce <a href="/de/products/#technicaldata">finden Sie hier</a> auf der Sonowood-Seite.
+**Technische Daten** für Sonowood Maple and Sonowood Spruce <a href="/de/sonowood/#technicaldata">finden Sie hier</a>.
 
 </div>
 </div>

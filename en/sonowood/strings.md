@@ -23,7 +23,7 @@ order: 1
 
 We offer **fittings as well as squared timbers in spruce (Picea abies) and maple (Acer pseudoplatanus).** We use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
 
-Find our current assortment below. **Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/products/#technicaldata">can be found here</a> on the Sonowood main page.
+Find our current assortment below. **Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/sonowood/#technicaldata">can be found here</a>.
 
 </div>
 </div>

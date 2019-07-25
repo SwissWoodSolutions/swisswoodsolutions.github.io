@@ -23,7 +23,7 @@ La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments
 
 Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abies) et en érable (Acer pseudoplatanus). Pour nos produits, nous utilisons que du bois issu d'une sylviculture durable, surtout des cantons de Zurich et des Grisons.
 
-Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce <a href="/fr/products/#technicaldata">ici à la page principale de Sonowood.</a>
+Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce <a href="/fr/sonowood/#technicaldata">ici.</a>
 
 </div>
 </div>

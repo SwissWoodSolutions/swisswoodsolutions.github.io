@@ -33,7 +33,7 @@ order: 4
 
   Hohe Ehre für Swiss Wood Solutions! Im Oktober 2018 hat unser Partner [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag) eine Stradivari, Baujahr 1721, mit einem Sonowood-Griffbrett und -Saitenhalter ausgerüstet. Ausgangsmaterial dafür war Fichtentonholz aus Graubünden, welches mit der Sonowood-Technologie veredelt wurde. Der glückliche Besitzer berichtet über einen Gewinn an Klangfarbe.
 
-  <a class="btn" href="/de/products/sonowood">Sonowood ></a>
+  <a class="btn" href="/de/sonowood/index">Sonowood ></a>
 
 - ### Robustes Holz für die Kampfkunst
   ![Holzschwert, Model](/assets/images/3_news_kendo_Schwert_sword_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions.jpg)
@@ -105,7 +105,7 @@ Bereits seit März 2016 wurde Swiss Wood Solutions von der Gebert Rüf Stiftung 
 Gebert Rüf hat zwei Projekte von Swiss Wood Solutions ermöglicht. **Im Rahmen des Swiss Ebony Projektes gelang es dem Spin-off, die Dimensionsstabilität von natürlichem Ebenholz auch bei verdichteten einheimischen Hölzern zu erreichen**. Das Rückquellen bei Feuchteänderungen konnte auf ein minimales Mass reduziert werden. Dadurch eignet sich das Material für die Fertigung von Musikinstrumenten.
 
 Im Swiss Ebony Projekt II arbeitet Swiss Wood Solutions an der Justierbarkeit der physikalisch-mechanischen und optischen Eigenschaften des verdichteten Materials. Indem wichtige Parameter wie die Dichte und Farbe individuell den Kundenwünschen angepasst werden können, erlangt Swiss Wood Solutions ein Alleinstellungsmerkmal im Instrumentenmarkt.
-Dank der wertvollen Unterstützung durch die Gebert Rüf Stiftung konnte das Spin-off die Pilotproduktionslinie Swiss Ebony in Gang setzen, charakterisiert durch eine dunkelbraune Färbung. Der Technologie-Reifegrad 6 wurde erreicht (technology readiness level, kurz: TRL). Dies bedeutet, dass erste Prototypen in Streichinstrumente integriert wurden. Die [Rückmeldungen von Instrumentenbauern und Musikern](/Testimonials_DE) sind durchwegs positiv.
+Dank der wertvollen Unterstützung durch die Gebert Rüf Stiftung konnte das Spin-off die Pilotproduktionslinie Swiss Ebony in Gang setzen, charakterisiert durch eine dunkelbraune Färbung. Der Technologie-Reifegrad 6 wurde erreicht (technology readiness level, kurz: TRL). Dies bedeutet, dass erste Prototypen in Streichinstrumente integriert wurden. Die [Rückmeldungen von Instrumentenbauern und Musikern](de/sonowood/testimonials/) sind durchwegs positiv.
 
 <a class="btn" href="https://www.grstiftung.ch/de.html" target="_blank">Gebert Rüf Stiftung ></a>
 

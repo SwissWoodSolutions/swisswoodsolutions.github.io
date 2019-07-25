@@ -75,21 +75,21 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
     En savoir plus sur les applications de Sonowood aux violons, altos et violoncelles.
 
-    <a class="btn" href="/fr/products/strings">Cordes ></a>
+    <a class="btn" href="/fr/sonowood/strings">Cordes ></a>
 
   - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
     ### Guitares
 
      En savoir plus sur les applications aux guitares et aux guitares électriques
 
-    <a class="btn" href="/fr/products/guitar">Guitares ></a>
+    <a class="btn" href="/fr/sonowood/guitar">Guitares ></a>
 
 - ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
     ### Témoignages
 
      Ne nous croyez pas sur parole: lisez ce qu’en disent les utilisateurs.
 
-    <a class="btn" href="/fr/products/testimonials">Témoignages ></a>
+    <a class="btn" href="/fr/sonowood/testimonials">Témoignages ></a>
 
 </div>
 </div>
