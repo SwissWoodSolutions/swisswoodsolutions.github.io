@@ -20,18 +20,14 @@ order: 2
 
 ## Sonowood lässt Ihr Instrument besser klingen.
 
-Wir haben **Sonowood** für den Bau von Musikinstrumenten entwickelt. Traditionell werden dafür Tropenhölzer verwendet, die sich dafür aus einer Vielzahl von Gründen eignen. Sie besitzen eine hohe Oberflächenhärte und Dichte, sind dimensionsstabil und weisen eine ästhetisch-dunkle Färbung auf. Das Problem dabei: durch den weltweiten Raubbau sind die Bestände der meisten Tropenholzarten inzwischen stark rückläufig, ein komplettes Verschwinden droht. Immer strengere Import- und Handelsrichtlinien wie
+Wir haben **Sonowood** für den Bau von Musikinstrumenten entwickelt. Traditionell werden dafür Tropenhölzer verwendet. Das Problem dabei: durch den weltweiten Raubbau sind die Bestände der meisten Tropenholzarten inzwischen stark rückläufig, ein komplettes Verschwinden droht. Immer strengere Import- und Handelsrichtlinien wie
 [CITES](https://www.cites.org/eng/disc/species.php) sind die Folge.
 
 Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachhaltiger Forstwirtschaft** modifiziert. Dank der umweltfreundlichen Produktion ergeben sich keinerlei rechtliche Beschränkungen oder ethisch-moralische Bedenken. Der Kunde profitiert von einem hochwertigen Material, welches die hochgeschätzten physikalisch-mechanischen Eigenschaften von Tropenholz erreicht.
 
-**Sonowood** ist das beste alternative Holz für Ihr Musikinstrument, hergestellt aus 100% echtem UND einheimischem Holz. Weitere Informationen finden Sie auf dem Flyer.
+**Sonowood** ist das beste alternative Holz für Ihr Musikinstrument, hergestellt aus 100% einheimischem Holz. Weitere Informationen finden Sie auf dem Flyer.
 
 <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a>
-
-Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie.
-
-<a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in der Schweiz</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Deutschland</a> <a class="btn -red" href="/assets/docs/2019_CITES_USA.pdf">CITES in den Vereinigten Staaten</a>
 
 </div>
 </div>
@@ -98,6 +94,16 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
      Verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
 
     <a class="btn" href="/de/sonowood/testimonials">Referenzen ></a>
+
+</div>
+</div>
+
+<div class="full-width-red">
+<div class="wrap">
+
+Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie.
+
+<a class="btn" href="/assets/docs/2018_CITES_CH.pdf">CITES in der Schweiz</a> <a class="btn" href="/assets/docs/2018_CITES_DE.pdf">CITES in Deutschland</a> <a class="btn" href="/assets/docs/2019_CITES_USA.pdf">CITES in den Vereinigten Staaten</a>
 
 </div>
 </div>
