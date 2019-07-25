@@ -33,7 +33,7 @@ order: 4
 
   Un honneur exceptionnel pour Swiss Wood Solutions! Ce violon Stradivari de 1721 a été équipé d'une touche et d'un cordier Sonowood par notre partenaire [Wilhelm Geigenbau](http://wilhelm.geigenbau.ag). Le bois a été trouvé dans la région suisse des Grisons (Grisons). Le courage du propriétaire d'opter pour un matériau aussi innovant a porté ses fruits. Un gain net en couleur et en volume est enregistré.
 
-  <a class="btn" href="/fr/products/sonowood/">Sonowood ></a>
+  <a class="btn" href="/fr/sonowood/">Sonowood ></a>
 
 - ### Arts martiaux rencontre Budowood
   ![extra strong wood sword for kendo](/assets/images/3_news_kendo_Schwert_sword_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions.jpg)
