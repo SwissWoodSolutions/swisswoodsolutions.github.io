@@ -125,7 +125,7 @@ order: 6
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -center">
 
 ### Vergangene Events:
