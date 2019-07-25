@@ -63,6 +63,19 @@ order: 6
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
+- ## SHG Music Show
+  ### 23. und 24. November 2019, Mailand, Italien
+
+  An der SHG Music Show in Mailand nehmen viele Mitglieder der Europäischen Gitarrenbauer Vereinigung EGB teil. Sonowood wird im Messezentrum in Mailand auf zahlreichen neuen Instrumenten zu erleben sein. 
+
+- <a href="https://www.facebook.com/SHGMusicShowMilano/" target="_blank">![SHG](/assets/images/events_shg.png)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
 - ## Guitars & More
   ### 24. November 2019, Wettingen, Schweiz
 
@@ -73,7 +86,7 @@ order: 6
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## The 2020 NAMM Show
@@ -82,6 +95,19 @@ order: 6
    Wir bringen Sonowood über den Teich an die NAMM Show in Kalifornien. An der NAMM Show (National Association of Music Merchants) treffen sich tausende Aussteller und Besucher aus über 140 Ländern, um sich über die neusten Produkte und Trends in der Musikbranche auszutauschen. 
 
 - <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+- ## The Holy Grail Guitar Show 
+  ### 2. und 3. Mai 2020, Berlin, Deutschland
+
+    Eine heilige Stätte des Gitarrenbaus! Zum fünften Mal zeigen an der Holy Grail Guitar Show internationale Gitarrenbauer ihre neusten Schöpfungen. 2020 in Berlin zum ersten Mal dabei: Sonowood.
+
+- <a href="https://www.holygrailguitarshow.com/" target="_blank">![NAMM Show 2020](/assets/images/events_holygrail.png)</a>
 
 </div>
 </div>
