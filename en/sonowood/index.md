@@ -42,7 +42,7 @@ technology offers adjustability of a wide range of parameters.
 
 Learn more about the country-specific impacts of the CITES regulations on stakeholders in the music industry.
 
-<a class="btn" href="/assets/docs/2019_CITES_USA.pdf">CITES in the United States</a> <a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in Switzerland</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Germany</a> <a class="btn -red"
+<a class="btn" href="/assets/docs/2019_CITES_USA.pdf">CITES in the United States</a> <a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in Switzerland</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Germany</a> 
 
 </div>
 </div>
@@ -96,21 +96,21 @@ Learn more about the country-specific impacts of the CITES regulations on stakeh
 
     Learn more about the application of Sonowood in violins, violas and cellos.
 
-    <a class="btn" href="/en/products/strings">Strings ></a>
+    <a class="btn" href="/en/sonowood/strings">Strings ></a>
 
   - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
     ### Guitars
 
      Learn more about the applications of Sonowood in guitars and e-guitars.
 
-    <a class="btn" href="/en/products/guitar">Guitars ></a>
+    <a class="btn" href="/en/sonowood/guitar">Guitars ></a>
 
 - ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
     ### Testimonials
 
     We think Sonowood is the best. But don't just take our word for it: read what the users say.
 
-    <a class="btn" href="/en/products/testimonials">Testimonials ></a>
+    <a class="btn" href="/en/sonowood/testimonials">Testimonials ></a>
 
 </div>
 </div>

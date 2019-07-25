@@ -35,7 +35,7 @@ order: 1
 
   Our sustainable product line for the music industry matches the properties of tropical wood.
 
-  <a class="btn" href="/en/products/index">Sonowood ></a>
+  <a class="btn" href="/en/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">

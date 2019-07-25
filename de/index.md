@@ -34,7 +34,7 @@ order: 1
 
   Wir entwickeln innovative Materialien mit neuen und verbesserten Eigenschaften. 100% Holz, kein Plastikanteil.
 
-  <a class="btn" href="/de/products/index">Sonowood ></a>
+  <a class="btn" href="/de/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">

@@ -34,7 +34,7 @@ order: 1
 
   Notre gamme de produits durables pour l'industrie de la musique correspond aux propriétés des bois tropicaux.
 
-  <a class="btn" href="/fr/products/index">Sonowood ></a>
+  <a class="btn" href="/fr/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
