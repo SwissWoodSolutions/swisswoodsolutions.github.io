@@ -1,71 +1,239 @@
 ﻿---
 lang: de
-title: 'Sonowood2'
+title: 'Sonowood'
 order: 9
 ---
 
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
+# Sonowood: das nachhaltige Holz für Ihr Musikinstrument.
 
-![](/assets/images/arrow-d-white.svg)
-
+![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg"
-     src="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg" alt="Holzwürfel auf Tisch">
+<img srcset="/assets/images/products_cover_2x.jpg"
+     src="/assets/images/products_cover.jpg" alt="Sonowood Kinnhalter für Geige">
 </div>
 
 <div class="full-width">
 <div class="wrap">
 
-## Technologisch modifiziertes Holz, massgeschneidert nach Ihren Anforderungen?
-Wir machen es möglich.
+## Sonowood lässt Ihr Instrument besser klingen.
 
-Haben wir Ihr Interesse geweckt und möchten Sie unsere Produkte kaufen?
-Fragen zu unserem Holzberatungs- und Serviceangebot? Kontaktieren Sie uns.
+Wir haben **Sonowood** für den Bau von Musikinstrumenten entwickelt. Traditionell werden dafür Tropenhölzer verwendet, die sich dafür aus einer Vielzahl von Gründen eignen. Sie besitzen eine hohe Oberflächenhärte und Dichte, sind dimensionsstabil und weisen eine ästhetisch-dunkle Färbung auf. Das Problem dabei: durch den weltweiten Raubbau sind die Bestände der meisten Tropenholzarten inzwischen stark rückläufig, ein komplettes Verschwinden droht. Immer strengere Import- und Handelsrichtlinien wie
+[CITES](https://www.cites.org/eng/disc/species.php) sind die Folge.
 
-### Swiss Wood Solutions AG
+Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachhaltiger Forstwirtschaft** modifiziert. Dank der umweltfreundlichen Produktion ergeben sich keinerlei rechtliche Beschränkungen oder ethisch-moralische Bedenken. Der Kunde profitiert von einem hochwertigen Material, welches die hochgeschätzten physikalisch-mechanischen Eigenschaften von Tropenholz erreicht.
 
-Stefano-Franscini-Platz 3  
-c/o ETH Zürich  
-HIF E 29.1  
-CH – 8093 Zürich
+**Sonowood** ist das beste alternative Holz für Ihr Musikinstrument, hergestellt aus 100% echtem UND einheimischem Holz. Weitere Informationen finden Sie auf dem Flyer.
 
-Tel. +41 44 633 62 12
+<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_DE_screen.pdf">Sonowood Flyer</a>
 
-<a class="btn -red" href="mailto:info@swisswoodsolutions.ch">info@swisswoodsolutions.ch</a>
+Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie.
+
+<a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in der Schweiz</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Deutschland</a> <a class="btn -red" href="/assets/docs/2019_CITES_USA.pdf">CITES in den Vereinigten Staaten</a>
 
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap">
 
-## Anfrageformular
+  - ## Sonowood bietet eine Vielzahl von Vorteilen:
 
-  <script type="text/javascript">var submitted=false;</script>
-  <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='';}"></iframe>
+  - ![icon 100% wood](/assets/logo/100.svg)
 
-  <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
-    <input type="text" name="entry.1998489538" class="input-line" placeholder="Mein Name*" required minlength="2">
-    <input type="email" name="entry.913371209" class="input-line" placeholder="Meine E-Mail*" required minlength="3">
-    <input type="text" name="entry.14292811" class="input-line" placeholder="Ich wohne in (Land)" required minlength="2">
-    <p>Ich interessiere mich für Sonowood für:</p>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Streichinstrumente</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Gitarren</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Andere Instrumente oder Produkte</label>
-    </div>
-    <textarea name="entry.1789398419" class="input-field" placeholder="Meine Nachricht"></textarea>
-    <input type="hidden" name="entry.298481630" value="DE">
-    <button type="submit" class="form-submit">Senden</button>
-</form>
+    ### 100% Authentizität
+
+    Sonowood ist kein Plastikkomposit, es ist echtes Holz ohne Zusätze und lässt sich wie solches bearbeiten.
+
+  - ![icon acoustics](/assets/logo/sound.svg)
+
+    ### Verbesserte Klangeigenschaften
+
+    Hohe Schallleitgeschwindigkeit, geringe Dämpfung. Hochgeschätzt von Musikern und Instrumentenbauern.
+
+  - ![icon customizable](/assets/logo/customizable.svg)
+
+    ### Konstante Verfügbarkeit
+
+    Obwohl es ein natürliches Material ist, garantieren wir Sonowood in gleichbleibender Qualität und konstanter Verfügbarkeit.
+
+  - ![icon biodiversity](/assets/logo/biodiverse.svg)
+
+    ### Erhalt der Artenvielfalt
+
+    Sonowood wird aus nachhaltigen Beständen heimischer Hölzer gefertigt.
+
+  - ![icon no legal restrictions](/assets/logo/legal.svg)
+
+    ### Keine rechtlichen Beschränkungen
+
+    Unsere Kunden reisen sorgenfrei über Landesgrenzen, unberührt von den CITES-Bestimmungen.
+
 
 </div>
 </div>
 
-<iframe class="googlemap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2700.1155189649708!2d8.5039514!3d47.4096879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900aff953b798f%3A0x863c7256ee1e8786!2sHIF%2C+8049+Z%C3%BCrich!5e0!3m2!1sde!2sch!4v1533558275573" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="full-width">
+<div class="wrap -cols3">
+
+  - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
+    ### Streichinstrumente
+
+    Erfahren Sie mehr über die Anwendungen von Sonowood in Geigen, Bratschen und Cellos.
+
+    <a class="btn" href="/de/products/strings">Streichinstrumente ></a>
+
+  - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
+    ### Gitarre
+
+     Erfahren Sie mehr über die Anwendungen von Sonowood in Gitarren und E-Gitarren.
+
+    <a class="btn" href="/de/products/guitar">Gitarre ></a>
+
+- ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
+    ### Referenzen
+
+     Verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
+
+    <a class="btn" href="/de/products/testimonials">Referenzen ></a>
+
+</div>
+</div>
+
+<div class="full-width-grey" name="Sonowood-Types" id="technicaldata">
+<div class="wrap -cols2">
+
+## Ausführungen von Sonowood
+
+---
+
+  - ## Sonowood Ahorn
+
+  - ### Für Streichinstrumente und Gitarren
+
+  - #### Sortiment:
+
+      - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
+      - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
+      - **Wirbel** für Geigen, Bratschen und Celli
+      - **Kinnhalter** für alle Streichinstrumente
+      - **Komplettes Set** der oben genannten Instrumententeile
+      - **Stege und Kopfplatten** für Gitarren
+
+
+  - #### Technische Daten:
+
+      - Berg-Ahorn *(Acer pseudoplatanus)*
+      - Dunkelbraune Färbung
+      - Dichte: 1'200 – 1'400 kg/m³
+      - Brinellhärte: \> 80 N/mm²
+      - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe 0.7%, Breite 0.3%
+      - Schallleitgeschwindigkeit: \> 4'400 m/s
+      - Dämpfung (logarithmisches Dekrement): \~ 0.053
+      - Dynamischer Elastizitätsmodul:
+        \> 23'000 N/mm²
+
+<br/>
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
+    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Rohling aus Sonowood Ahorn, natives Ahornholz darunter">
+  </a>
+  <a href="/assets/images/sonowood_maple-02_2x.jpg">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violine mit Formteilen aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar mit Griffbrett, Brücke und Kopfplatte aus Sonowood Ahorn">
+  </a>
+</div>
+
+---
+
+  - ## Sonowood Fichte
+
+  - ### Für Streichinstrumente und Gitarren
+
+  - #### Sortiment
+
+      - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
+      - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
+
+  - #### Technische Daten
+
+      - Fichte *(Picea abies)*
+      - Natürliche Holzfärbung
+      - Dichte: 1'300 – 1'400 kg/m³
+      - Brinellhärte: \> 100 N/mm²
+      - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe \~ 0.75%, Breite \~0.33%       
+      - Schallleitgeschwindigkeit: \> 5'500 m/s
+      - Dämpfung (logarithmisches Dekrement): \~ 0.04
+      - Dynamischer Elastizitätsmodul: \> 39'000 N/mm²
+
+<br/>
+
+<div class="picturegallery">
+    <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
+        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Rohling aus Sonowood Fichte, natürliches Fichtenholz darunter">
+    </a>
+    <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
+        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
+    </a>
+    <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violine mit Formteilen aus Sonowood Fichte">
+    </a>
+</div>
+
+---
+
+  - ## Sonowood Nuss
+
+  - ### Für Streichinstrumente und Gitarren
+
+  - #### Sortiment
+
+      - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
+   
+  - #### Technische Daten
+
+      - Echte Walnuss *(Juglans regia)*
+      - Dunkelbraune bis schwarze Färbung
+      - Dichte: 1'200 – 1'400 kg/m³
+      - Brinellhärte: \> 80 N/mm²
+      - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe \~ 0.29%, Breite \~0.3%       
+      - Schallleitgeschwindigkeit: \> 4'400 m/s
+      - Dynamischer Elastizitätsmodul: \> 23'000 N/mm²
+
+<br/>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap">
+
+## Eine kurze Einführung in die Welt von Sonowood
+
+<div class="videocontainer">
+<iframe src="https://www.youtube.com/embed/VzBaJULayc8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe>
+</div>
+
+</div>
+</div>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
+<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
+<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
+<script src="/assets/lightgallery/js/lg-share.min.js"></script>
+<script type="text/javascript">
+  $(".picturegallery").lightGallery({
+      download: false,
+      googlePlus: false,
+    });
+</script>
