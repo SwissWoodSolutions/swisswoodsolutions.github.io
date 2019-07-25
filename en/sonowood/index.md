@@ -39,11 +39,6 @@ technology offers adjustability of a wide range of parameters.
 
 <a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
 
-
-Learn more about the country-specific impacts of the CITES regulations on stakeholders in the music industry.
-
-<a class="btn" href="/assets/docs/2019_CITES_USA.pdf">CITES in the United States</a> <a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in Switzerland</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Germany</a> 
-
 </div>
 </div>
 
@@ -111,6 +106,16 @@ Learn more about the country-specific impacts of the CITES regulations on stakeh
     We think Sonowood is the best. But don't just take our word for it: read what the users say.
 
     <a class="btn" href="/en/sonowood/testimonials">Testimonials ></a>
+
+</div>
+</div>
+
+<div class="full-width-red">
+<div class="wrap">
+
+Learn more about the country-specific impacts of the CITES regulations on various stakeholders in the music industry.
+
+<a class="btn -white" href="/assets/docs/2019_CITES_USA.pdf">CITES in the United States</a> <a class="btn -white" href="/assets/docs/2018_CITES_CH.pdf">CITES in Switzerland</a> <a class="btn -white" href="/assets/docs/2018_CITES_DE.pdf">CITES in Germany</a>
 
 </div>
 </div>
