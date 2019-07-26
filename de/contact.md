@@ -7,6 +7,7 @@ order: 8
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
+# Technologisch modifiziertes Holz, massgeschneidert nach Ihren Anforderungen? 
 
 ![](/assets/images/arrow-d-white.svg)
 
@@ -18,8 +19,7 @@ order: 8
 <div class="full-width">
 <div class="wrap">
 
-## Technologisch modifiziertes Holz, massgeschneidert nach Ihren Anforderungen?
-Wir machen es möglich.
+## Wir machen es möglich.
 
 Haben wir Ihr Interesse geweckt und möchten Sie unsere Produkte kaufen?
 Fragen zu unserem Holzberatungs- und Serviceangebot? Kontaktieren Sie uns.
