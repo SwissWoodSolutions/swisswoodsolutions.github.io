@@ -21,7 +21,7 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-Bijouwood ist ein technologisch hochwertiges und ästhetisches Holzmaterial, das aus heimischen Holzarten wie Eiche, Nuss, Ahorn, Esche, Kirsche, hellem und dunklem Riegelahorn gefertigt wird. Bijouwood eignet sich für zahllose Anwendungen in Lifestyle- und Hochpräzisionsapplikationen sowie für Dekorationszwecke.
+Bijouwood is a technologically advanced and aesthetic wood material made from local wood species such as oak, walnut, maple, ash, cherry, light and dark figured maple. Bijouwood is suitable for countless applications in lifestyle and high-precision applications as well as for decorative purposes.
 
 </div>
 </div>
