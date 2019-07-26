@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 title: 'Bijouwood'
-order: 4
+order: 3
 ---
 
 ---
@@ -31,7 +31,7 @@ Bijouwood is a technologically advanced and aesthetic wood material made from lo
 
 ### ALPA of Switzerland
 
-Robust und stabil: genau die Anforderungen an High-End-Kameras, gefertigt vom Schweizer Kamerahersteller ALPA. Die hochwertigen und langlebigen Präzisionswerkzeuge werden mit Leidenschaft und handwerklichem Geschick für eine kleine Gruppe von Kennern gefertigt werden. Der Einsatz von Bijouwood verleiht den Kameras eine natürlich-ästethische Note.
+Robust and stable: exactly the requirements for high-end cameras, manufactured by the Swiss camera manufacturer ALPA. The high-quality and durable precision tools are manufactured with passion and craftsmanship for a small group of connoisseurs. The use of Bijouwood gives the cameras a natural-esthetic touch.
 
 <div class="picturegallery">
   <a href="/assets/images/bijouwood/ALPA1.jpg">
@@ -48,7 +48,7 @@ Robust und stabil: genau die Anforderungen an High-End-Kameras, gefertigt vom Sc
   </a>
 </div>
 
-### Schreibwaren von Jean-Frédéric Fesseler
+### Stationery Jean-Frédéric Fesseler
 
 <div class="picturegallery">
   <a href="/assets/images/bijouwood/Stifte1.jpg">
