@@ -29,29 +29,6 @@ Bijouwood is a technologically advanced and aesthetic wood material made from lo
 <div class="full-width">
 <div class="wrap">
 
-### Fingerboard
-
-<div class="picturegallery">
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg" alt="Fingerboard and tailpiece from Sonowood spruce. Picture by Andreas Hochuli">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 with fingerboard and tailpiece from Sonowood spruce equipped by Wilhelm Geigenbau. Picture by the Strad Magazine">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Fingerboard from Sonowood spruce. Picture by Wilhelm Geigenbau">
-  </a>
-  <a href="/assets/images/strings/sonowood_hagenweiseahorn.JPG">
-    <img src="/assets/images/strings/sonowood_hagenweiseahorn.JPG" alt="Il Cannone violin with fingerboard and tailpiece from Sonowood maple. Picture by Hagen Weise Violins">
-  </a>
-  <a href="/assets/images/strings/sonowood_hagenweisefichte.jpg">
-    <img src="/assets/images/strings/sonowood_hagenweisefichte.jpg" alt="Il Cannone violin with fingerboard and tailpiece from Sonowood spruce. Picture by Hagen Weise Violins">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg" alt="Italian viola with fingerboard and tailpiece from Sonowood spruce. Picture by Wilhelm Geigenbau">
-  </a>
-</div>
-
 ### ALPA of Switzerland
 
 Robust and stable: exactly the requirements for high-end cameras, manufactured by the Swiss camera manufacturer ALPA. The high-quality and durable precision tools are manufactured with passion and craftsmanship for a small group of connoisseurs. The use of Bijouwood gives the cameras a natural-esthetic touch.

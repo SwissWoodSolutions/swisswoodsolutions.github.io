@@ -39,8 +39,8 @@ All fittings available in maple or spruce for violin and viola. <br/>
 ### Fingerboard
 
 <div class="picturegallery">
-  <a href="/assets/images/bijouwood/ALPA1.jpg">
-    <img src="/assets/images/bijouwood/ALPA1.jpg" alt="Fingerboard from Sonowood maple. Picture by Wilhelm Geigenbau">
+  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1.jpg" alt="Fingerboard from Sonowood maple. Picture by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Fingerboard from Sonowood maple">
