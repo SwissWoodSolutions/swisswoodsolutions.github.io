@@ -50,6 +50,12 @@ ALPA-Kameras bieten höchste Präzision in edlem Gewand. Dieses Modell wurde mit
       </a>
 </div>
 
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap">
+     
 ### Stifte von Jean-Frédéric Fesseler
 
 Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibgeräte her. In seiner neuesten Kollektion kommt dabei Bijouwood aus Fichte, Ahorn sowie hellem und dunklem Riegelahorn zum Einsatz. 
