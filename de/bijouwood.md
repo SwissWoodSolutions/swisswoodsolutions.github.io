@@ -12,8 +12,8 @@ order: 4
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/bijouwood/Stifte4.jpg"
-     src="/assets/images/bijouwood/Stifte4.jpg" alt="Bijouwood Stifte">
+<img srcset="/assets/images/bijouwood/cover_bijouwood.jpg"
+     src="/assets/images/bijouwood/cover_bijouwood.jpg" alt="Bijouwood Stifte">
 </div>
 
 <div class="full-width-grey">
@@ -60,6 +60,96 @@ Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der 
       <a href="/assets/images/bijouwood/Stifte3.jpg">
           <img src="/assets/images/bijouwood/Stifte3.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
       </a>
+</div>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap">
+
+## Sonowood Formteile
+
+Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ahorn und Fichte (ausser Kinnhalter) angeboten. <br/>
+*Für Vergrösserung auf das Bild klicken*
+
+### Griffbrett
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Andreas Hochuli">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 mit Griffbrett und Saitenhalter aus Sonowood Fichte von Wilhelm Geigenbau. Foto: The Strad Magazine">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Griffbrett aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_hagenweiseahorn.JPG">
+    <img src="/assets/images/strings/sonowood_hagenweiseahorn.JPG" alt="Il Cannone Violine mit Griffbrett und Saitenhalter aus Sonowood Ahorn. Foto: Hagen Weise Violins">
+  </a>
+  <a href="/assets/images/strings/sonowood_hagenweisefichte.jpg">
+    <img src="/assets/images/strings/sonowood_hagenweisefichte.jpg" alt="Il Cannone Violine mit Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Hagen Weise Violins">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg" alt="Italienische Bratsche mit Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>
+</div>
+
+### Saitenhalter
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
+  </a>   
+  <a href="/assets/images/strings/sonowood_tailpiece.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece.jpg" alt="Saitenhalter aus Sonowood Ahorn (links) und Sonowood Fichte (rechts). Foto: Wilhelm Geigenbau">
+  </a>   
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Saitenhalter aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>  
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Saitenhalter aus Sonowood Fichte und Ahorn. Foto: Wilhelm Geigenbau">
+  </a> 
+  <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Saiten- und Kinnhalter aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello-Saitenhalter aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+  </a>   
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Saitenhalter aus Sonowood Fichte auf einer Amati Violine. Foto: Wilhelm Geigenbau">
+  </a> 
+  <a href="/assets/images/strings/sonowood_tailpiece_sizes.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_sizes.jpg" alt="Saitenhalter aus Sonowood für alle Streichinstrumente. Foto: Wilhelm Geigenbau">
+  </a>    
 </div>
 
 </div>
