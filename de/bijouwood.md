@@ -154,3 +154,52 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
 
 </div>
 </div>
+
+<div class="full-width">
+<div class="wrap">
+
+## Sonowood Formteile
+
+Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ahorn und Fichte (ausser Kinnhalter) angeboten. <br/>
+*Für Vergrösserung auf das Bild klicken*
+
+### Griffbrett
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Andreas Hochuli">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 mit Griffbrett und Saitenhalter aus Sonowood Fichte von Wilhelm Geigenbau. Foto: The Strad Magazine">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Griffbrett aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_hagenweiseahorn.JPG">
+    <img src="/assets/images/strings/sonowood_hagenweiseahorn.JPG" alt="Il Cannone Violine mit Griffbrett und Saitenhalter aus Sonowood Ahorn. Foto: Hagen Weise Violins">
+  </a>
+  <a href="/assets/images/strings/sonowood_hagenweisefichte.jpg">
+    <img src="/assets/images/strings/sonowood_hagenweisefichte.jpg" alt="Il Cannone Violine mit Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Hagen Weise Violins">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg" alt="Italienische Bratsche mit Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+  </a>
+</div>
+
+</div>
+</div>
