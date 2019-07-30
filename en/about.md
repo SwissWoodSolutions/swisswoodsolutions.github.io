@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 title: 'About'
-order: 5
+order: 6
 ---
 
 <div class="full-width-kenburns">

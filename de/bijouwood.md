@@ -33,6 +33,8 @@ Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der 
 
 ### ALPA of Switzerland
 
+ALPA-Kameras bieten höchste Präzision in edlem Gewand. Dieses Modell wurde mit Handgriffen aus Bijouwood Nuss ausgestattet. Die angenehme Haptik und gleichzeitige Robustheit von Bijouwood sorgen für Komfort. 
+
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/ALPA1.jpg">
           <img src="/assets/images/bijouwood/ALPA1.jpg" alt="ALPA of Switzerland Kamera mit Handgriffen aus Bijouwood Nuss">
@@ -49,6 +51,8 @@ Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der 
 </div>
 
 ### Stifte von Jean-Frédéric Fesseler
+
+Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibgeräte her. In seiner neuesten Kollektion kommt dabei Bijouwood aus Fichte, Ahorn sowie hellem und dunklem Riegelahorn zum Einsatz. 
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/Stifte1.jpg">
