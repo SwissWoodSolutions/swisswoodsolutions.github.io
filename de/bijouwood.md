@@ -12,7 +12,7 @@ order: 4
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/bijouwood/Bijouwood_Titelbild2.jpg"
+<img srcset="/assets/images/bijouwood/Bijouwood_Titelbi.jpg"
      src="/assets/images/bijouwood/Bijouwood_Titelbild2.jpg" alt="Bijouwood Stifte">
 </div>
 
