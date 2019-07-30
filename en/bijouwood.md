@@ -19,11 +19,9 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-Bijouwood ist ein technologisch hochwertiges und ästhetisch ansprechendes Holzmaterial, das aus heimischen Holzarten wie Eiche, Ahorn, Esche, Kirsche und vielen anderen Holzarten hergestellt wird. Dabei werden nur Hölzer aus nachhaltiger Forstwirtschaft verwendet. Bijouwood ist sehr dicht (1'300-1'400 kg/m3), extrem hart (Brinellhärte > 100 N/mm2), formstabil sowie kratz- und abriebfest. Bijouwood besteht zu 100% aus Holz und enthält keinen Kunststoff oder Harz und ist somit zu 100% biologisch abbaubar.
+Bijouwood is a technologically enhanced and aesthetically appealing wood material comprised of domestic wood species such as oak, figured maple, ash, cherry and many other wood species from sustainable forests. Bijouwood is highly dense (1’300-1’400 kg/m3), extremely hard (Brinell hardness > 100 N/mm2), dimensionally stable as well as scratch- and abrasion-resistant. Bijouwood consists of 100% wood and does not contain any plastic or resin, it therefore is 100% biodegradable. The material can readily be engraved with a CO2 laser without burn marks.
 
-Variationen werden speziell für Lifestyle- und Hochpräzisionsanwendungen entwickelt, die eine ansprechende Ästhetik und Haptik erfordern. Bijouwood kann problemlos mit einem CO2-Laser ohne Brandspuren graviert werden.
-
-Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der Kreativität sind keine Grenzen gesetzt.
+Bijouwood is designed for lifestyle and high precision applications. Would you like to use Bijouwood for your application? Contact us, there are no limits to your creativity.
 
 </div>
 </div>
