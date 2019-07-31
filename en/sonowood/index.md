@@ -249,15 +249,3 @@ Learn more about the country-specific impacts of the CITES regulations on variou
 
 </div>
 </div>
-
-<script src="/assets/js/jquery.min.js"></script>
-<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
-<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
-<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
-<script src="/assets/lightgallery/js/lg-share.min.js"></script>
-<script type="text/javascript">
-  $(".picturegallery").lightGallery({
-      download: false,
-      googlePlus: false,
-    });
-</script>

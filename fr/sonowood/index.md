@@ -190,7 +190,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
   - #### Gamme de produits:
 
       - **Touches** pour violon, alto, violoncelle et guitare
-      
+
   -  #### Données techniques:
 
       - Type de bois: érable sycomore *(Acer pseudoplatanus)*
@@ -220,15 +220,3 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
 </div>
 </div>
-
-<script src="/assets/js/jquery.min.js"></script>
-<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
-<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
-<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
-<script src="/assets/lightgallery/js/lg-share.min.js"></script>
-<script type="text/javascript">
-  $(".picturegallery").lightGallery({
-      download: false,
-      googlePlus: false,
-    });
-</script>

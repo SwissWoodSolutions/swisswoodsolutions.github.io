@@ -203,7 +203,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
   - #### Sortiment
 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
-   
+
   - #### Technische Daten
 
       - Echte Walnuss *(Juglans regia)*
@@ -231,15 +231,3 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
 </div>
 </div>
-
-<script src="/assets/js/jquery.min.js"></script>
-<script src="/assets/lightgallery/js/lightgallery.min.js"></script>
-<script src="/assets/lightgallery/js/lg-zoom.min.js"></script>
-<script src="/assets/lightgallery/js/lg-thumbnail.min.js"></script>
-<script src="/assets/lightgallery/js/lg-share.min.js"></script>
-<script type="text/javascript">
-  $(".picturegallery").lightGallery({
-      download: false,
-      googlePlus: false,
-    });
-</script>
