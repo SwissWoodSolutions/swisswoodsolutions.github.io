@@ -1,7 +1,7 @@
 ﻿---
 lang: fr
 title: 'Médias'
-order: 7
+order: 8
 ---
 
 <div class="full-width-grey">
