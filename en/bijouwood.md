@@ -35,16 +35,16 @@ Cameras from ALPA combine highest precision and noble style. This model is equip
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/ALPA1.jpg">
-          <img src="/assets/images/bijouwood/ALPA1.jpg" alt="ALPA of Switzerland Kamera mit Handgriffen aus Bijouwood Nuss">
+          <img src="/assets/images/bijouwood/ALPA1.jpg" alt="ALPA of Switzerland camera with handles from Bijouwood nut">
       </a>
       <a href="/assets/images/bijouwood/ALPA2.jpg">
-          <img src="/assets/images/bijouwood/ALPA2.jpg" alt="ALPA of Switzerland Kamera mit Handgriffen aus Bijouwood Nuss">
+          <img src="/assets/images/bijouwood/ALPA2.jpg" alt="ALPA of Switzerland camera with handles from Bijouwood nut">
       </a>
       <a href="/assets/images/bijouwood/ALPA3.jpg">
-          <img src="/assets/images/bijouwood/ALPA3.jpg" alt="ALPA of Switzerland Kamera mit Handgriffen aus Bijouwood Nuss">
+          <img src="/assets/images/bijouwood/ALPA3.jpg" alt="ALPA of Switzerland camera with handles from Bijouwood nut">
       </a>
       <a href="/assets/images/bijouwood/ALPA4.jpg">
-          <img src="/assets/images/bijouwood/ALPA4.jpg" alt="ALPA of Switzerland Kamera mit Handgriffen aus Bijouwood Nuss">
+          <img src="/assets/images/bijouwood/ALPA4.jpg" alt="ALPA of Switzerland camera with handles from Bijouwood nut">
       </a>
 </div>
 
@@ -60,55 +60,55 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/Stifte1.jpg">
-          <img src="/assets/images/bijouwood/Stifte1.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Stifte1.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte7.jpg">
-          <img src="/assets/images/bijouwood/Stifte7.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Stifte7.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte2.jpg">
-          <img src="/assets/images/bijouwood/Stifte2.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Stifte2.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte3.jpg">
-          <img src="/assets/images/bijouwood/Stifte3.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Stifte3.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte4.jpg">
-          <img src="/assets/images/bijouwood/Stifte4.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Stifte4.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte5.jpg">
-          <img src="/assets/images/bijouwood/Stifte5.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Stifte5.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte6.jpg">
-          <img src="/assets/images/bijouwood/Stifte6.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Stifte6.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Spruce_kurz_dick.jpg">
-          <img src="/assets/images/bijouwood/Spruce_kurz_dick.jpg" alt="Stift aus Bijouwood Fichte von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Spruce_kurz_dick.jpg" alt="Pen from Bijouwood spruce by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Spruce_lang_dunn.jpg">
-          <img src="/assets/images/bijouwood/Spruce_lang_dunn.jpg" alt="Stift aus Bijouwood Fichte von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Spruce_lang_dunn.jpg" alt="Pen from Bijouwood spruce by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Spruce_mittel_dick.jpg">
-          <img src="/assets/images/bijouwood/Spruce_mittel_dick.jpg" alt="Stift aus Bijouwood Fichte von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Spruce_mittel_dick.jpg" alt="Pen from Bijouwood spruce by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Figured_maple_dark_dick.jpg">
-          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Pen from Bijouwood dark figured maple by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_dick.jpg">
-          <img src="/assets/images/bijouwood/Figured_maple_light_dick.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Figured_maple_light_dick.jpg" alt="Pen from Bijouwood light figured maple by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_kurz.jpg">
-          <img src="/assets/images/bijouwood/Figured_maple_light_kurz.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Figured_maple_light_kurz.jpg" alt="Pen from Bijouwood light figured maple by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_lang.jpg">
-          <img src="/assets/images/bijouwood/Figured_maple_light_lang.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Figured_maple_light_lang.jpg" alt="Pen from Bijouwood light figured maple by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Maple_kurz.jpg">
-          <img src="/assets/images/bijouwood/Maple_kurz.jpg" alt="Stift aus Bijouwood Ahorn von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Maple_kurz.jpg" alt="Pen from Bijouwood maple by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Maple_lang_dick.jpg">
-          <img src="/assets/images/bijouwood/Maple_lang_dick.jpg" alt="Stift aus Bijouwood Ahorn von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Maple_lang_dick.jpg" alt="Pen from Bijouwood maple by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Maple_lang_dunn.jpg">
-          <img src="/assets/images/bijouwood/Maple_lang_dunn.jpg" alt="Stift aus Bijouwood Ahorn von Jean-Frédéric Fesseler">
+          <img src="/assets/images/bijouwood/Maple_lang_dunn.jpg" alt="Pen from Bijouwood maple by Jean-Frédéric Fesseler">
       </a>
 </div>
 
