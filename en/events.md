@@ -24,7 +24,7 @@ order: 7
 ---
 - ## Museum Füssen
 
-  ### August 31st, Füssen, Germany
+  ### August 31, Füssen, Germany
 
   Dr. Oliver Kläusler, inventor of Sonowood, speaks at the museum of the city of Füssen in Bavaria, Germany, as part of a two-part lecture. First, an overview will be given on the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and its impact on the construction and trade of musical instruments. In the second part, Dr. Kläusler presents Sonowood as an alternative to the use of overused woods.
 
@@ -40,7 +40,7 @@ order: 7
 
 - ## Guitar Summit
 
-  ### September 27th – 29th, Mannheim, Germany
+  ### September 27–29, Mannheim, Germany
 
   The Guitar Summit is dedicated to everything guitar. For the third time, Mannheim becomes the centre of the international guitar world. Meet us and Sonowood at the Guitar Summit from September 27th – 29th.
 
@@ -54,7 +54,7 @@ order: 7
 <div class="wrap -cols2">
 
 - ## Cremona Mondomusica
-  ### September 27th – 29th, Cremona, Italy
+  ### September 27–29, Cremona, Italy
 
   Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Meet us and Sonowood at Cremona Mondomusica from September 27th – 29th.
 
@@ -66,8 +66,34 @@ order: 7
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
+- ## SHG Music Show
+  ### November 23-24, Milan, Italy
+
+  At the SHG Music Show in Milan, many members of the European Guitar Builders e. V. (EGB) are going to take part. Sonowood will be present on numerous new instruments at the Milan Exhibition Centre. 
+
+- <a href="https://www.facebook.com/SHGMusicShowMilano/" target="_blank">![SHG](/assets/images/events_shg.png)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+- ## Guitars & More
+  ### November 24, Wettingen, Switzerland
+
+  For the fourth time, Guitars & More presents innovative and creative guitar builders. Visitors can once again look forward to the presentation of groundbreaking news from the world of guitars. Sonowood will be exhibited on a newly developed series of guitars.
+
+- <a href="https://www.guitarsandmore.ch/welcome/index.html" target="_blank">![Guitarsandmore](/assets/images/events_guitarsandmore.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## The 2020 NAMM Show
-  ### January 16th - 19th 2020, Anaheim, California, United States
+  ### January 16-19, 2020, Anaheim, California, United States
 
    We are coming across the pond to the NAMM Show in California to introduce you to Sonowood. The NAMM Show (National Association of Music Merchants) is the global corssroad of the music, sound and entertainment technology products with thousands of registrants from 139 countries.
 
@@ -79,8 +105,21 @@ order: 7
 <div class="full-width">
 <div class="wrap -cols2">
 
+- ## The Holy Grail Guitar Show 
+  ### May 2-3, 2020, Berlin, Germany
+
+   Truly a holy place of guitar building! For the fifth time, international guitar builders show their latest creations at the Holy Grail Guitar Show. Sonowood will make its debut in Berlin in 2020.
+
+- <a href="https://www.holygrailguitarshow.com/" target="_blank">![NAMM Show 2020](/assets/images/events_holygrail.png)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Swiss Alpine Museum
-  ### October 18th 2019 - September 27th 2020, Bern, Switzerland
+  ### October 18, 2019 - September 27, 2020, Bern, Switzerland
 
   Sonowood spruce is made from domestic Swiss spruce from above 1’000 metres above sea level. Up there, the vegetation period is shorter, leading to narrow growth ring formation. Experience Sonowood from Swiss Alps sources as part of the upcoming Alpine Workshop Exhibition in the Swiss Alpine Museum in Bern.
 
