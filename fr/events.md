@@ -63,6 +63,32 @@ order: 7
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
+- ## SHG Music Show
+  ### 23-24 novembre, Milan, l'Italie
+
+  De nombreux membres de l'European Guitar Builders e. V. (EGB) participeront au SHG Music Show à Milan. Sonowood sera présent sur de nombreux instruments neufs au Parc des Expositions de Milan. 
+
+- <a href="https://www.facebook.com/SHGMusicShowMilano/" target="_blank">![SHG](/assets/images/events_shg.png)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+- ## Guitars & More
+  ### 24 novembre, Wettingen, Suisse
+
+  Pour la quatrième fois, Guitars & More présente des luthiers innovants et créatifs. Les visiteurs peuvent à nouveau se réjouir de la présentation d'informations innovantes sur le monde de la guitare. Sonowood sera exposé sur une nouvelle série de guitares.
+
+- <a href="https://www.guitarsandmore.ch/welcome/index.html" target="_blank">![Guitarsandmore](/assets/images/events_guitarsandmore.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## The 2020 NAMM Show
   ### 16-19 janvier 2020, Anaheim, Californie, USA
 
@@ -76,8 +102,21 @@ order: 7
 <div class="full-width">
 <div class="wrap -cols2">
 
+- ## The Holy Grail Guitar Show 
+  ### 2-3 mai 2020, Berlin, l'Allemagne
+
+   Vraiment un lieu sacré de fabrication de guitares! Pour la cinquième fois, des luthiers internationaux présentent leurs meilleures créations au Holy Grail Guitar Show. Sonowood fera ses débuts à Berlin en 2020.
+
+- <a href="https://www.holygrailguitarshow.com/" target="_blank">![NAMM Show 2020](/assets/images/events_holygrail.png)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Alpines Museum der Schweiz
-  ### 18 octobre 2019 - 27 septembre 2020, Berne
+  ### 18 octobre 2019 - 27 septembre 2020, Berne, Suisse
 
   Sonowood spruce est fabriqué d'épicéas domestiques suisses situés à plus de 1'000 mètres d'altitude. Vivez l'expérience Sonowood de sources alpines suisses dans l'exposition Atelier Alpes au Musée Alpin Suisse à Berne. 
 
