@@ -48,6 +48,8 @@ Les caméras d'ALPA allient la plus haute précision et un style noble. Ce modè
       </a>
 </div>
 
+[ALPA of Switzerland](https://www.alpa.ch/en)
+
 </div>
 </div>
 
@@ -105,6 +107,8 @@ Dans son atelier à Berlin, Jean-Frédéric Fesseler fabrique de la papeterie ex
           <img src="/assets/images/bijouwood/Maple_lang_dunn.jpg" alt="Crayons en Bijouwood érable par Jean-Frédéric Fesseler">
       </a>
 </div>
+
+[Atelier Fesseler](https://atelierfesseler.de)
 
 </div>
 </div>

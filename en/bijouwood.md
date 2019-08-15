@@ -48,6 +48,8 @@ Cameras from ALPA combine highest precision and noble style. This model is equip
       </a>
 </div>
 
+[ALPA of Switzerland](https://www.alpa.ch/en)
+
 </div>
 </div>
 
@@ -68,17 +70,11 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
       <a href="/assets/images/bijouwood/Stifte2.jpg">
           <img src="/assets/images/bijouwood/Stifte2.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
-      <a href="/assets/images/bijouwood/Stifte3.jpg">
-          <img src="/assets/images/bijouwood/Stifte3.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
-      </a>
       <a href="/assets/images/bijouwood/Stifte4.jpg">
           <img src="/assets/images/bijouwood/Stifte4.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte5.jpg">
           <img src="/assets/images/bijouwood/Stifte5.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
-      </a>
-      <a href="/assets/images/bijouwood/Stifte6.jpg">
-          <img src="/assets/images/bijouwood/Stifte6.jpg" alt="Stationery from Bijouwood by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Spruce_kurz_dick.jpg">
           <img src="/assets/images/bijouwood/Spruce_kurz_dick.jpg" alt="Pen from Bijouwood spruce by Jean-Frédéric Fesseler">
@@ -89,9 +85,6 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
       <a href="/assets/images/bijouwood/Spruce_mittel_dick.jpg">
           <img src="/assets/images/bijouwood/Spruce_mittel_dick.jpg" alt="Pen from Bijouwood spruce by Jean-Frédéric Fesseler">
       </a>
-      <a href="/assets/images/bijouwood/Figured_maple_dark_dick.jpg">
-          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Pen from Bijouwood dark figured maple by Jean-Frédéric Fesseler">
-      </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_dick.jpg">
           <img src="/assets/images/bijouwood/Figured_maple_light_dick.jpg" alt="Pen from Bijouwood light figured maple by Jean-Frédéric Fesseler">
       </a>
@@ -100,6 +93,9 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
       </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_lang.jpg">
           <img src="/assets/images/bijouwood/Figured_maple_light_lang.jpg" alt="Pen from Bijouwood light figured maple by Jean-Frédéric Fesseler">
+      </a>
+      <a href="/assets/images/bijouwood/Figured_maple_dark_dick.jpg">
+          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Pen from Bijouwood dark figured maple by Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Maple_kurz.jpg">
           <img src="/assets/images/bijouwood/Maple_kurz.jpg" alt="Pen from Bijouwood maple by Jean-Frédéric Fesseler">
@@ -112,6 +108,8 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
       </a>
 </div>
 
+[Atelier Fesseler](https://atelierfesseler.de)
+
 </div>
 </div>
 
@@ -120,7 +118,7 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
 
 ### Guldimann Cutlery Shop
 
-In the [Guldimann cutlery shop](https://dasmesser.ch/2019/07/hellcat/#more-2021), every knife is handcrafted. For the knife handles of the Hellcat model, Marco Guldimann uses Bijouwood maple, which is ideally suited thanks to its high density and hardness, robustness and aesthetics.
+In the Guldimann cutlery shop, every knife is handcrafted. For the knife handles of the Hellcat model, Marco Guldimann uses Bijouwood maple, which is ideally suited thanks to its high density and hardness, robustness and aesthetics.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
@@ -136,6 +134,8 @@ In the [Guldimann cutlery shop](https://dasmesser.ch/2019/07/hellcat/#more-2021)
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
       </a>
 </div>
+
+[Guldimann cutlery shop](https://dasmesser.ch/2019/07/hellcat/#more-2021)
 
 </div>
 </div>
