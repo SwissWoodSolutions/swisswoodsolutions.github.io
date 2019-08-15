@@ -32,12 +32,21 @@ order: 1
 
   ### Sonowood pour la musique
 
-  Notre gamme de produits durables pour l'industrie de la musique correspond aux propriétés des bois tropicaux.
+  Sonowood est le bois durable pour les instruments de musique. Fabriqué à 100% en bois domestique, sans plastique.
 
   <a class="btn" href="/fr/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
+
+  ### Bijouwood pour style de vie et haute précision
+
+    Bijouwood est le bois esthétique et robuste pour des applications de style de vie et de haute précision.
+
+    <a class="btn" href="/fr/bijouwood">Bijouwood ></a>
+
+- <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
+    srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
 
   ### Expertise pour l'industrie du bois
 
@@ -47,15 +56,6 @@ order: 1
 
 - <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
-
-  ### Recherche & développement
-
-    Jetez un coup d'œil et joignez-vous à nous à la fine pointe de l'innovation dans le domaine du bois.
-
-    <a class="btn" href="/fr/RD">R&D ></a>
-
-- <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-    srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
 
   ### A propos de nous
 
