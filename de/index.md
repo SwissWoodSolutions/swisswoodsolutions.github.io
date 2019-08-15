@@ -32,21 +32,21 @@ order: 1
 
   ### Sonowood für die Musikbranche
 
-  Sonowood ist das nachhaltige Material für Musikinstrumente. Gefertigt aus heimischen Hölzern, 100% Holz, kein Plastikanteil.
+  Sonowood ist das nachhaltige Material für Musikinstrumente. Gefertigt aus 100% heimischen Hölzern, kein Plastikanteil.
 
   <a class="btn" href="/de/sonowood/index">Sonowood ></a>
 
-- <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
-    srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
+- <img src="/assets/images/ALPAcover.jpg"
+    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
   ### Bijouwood für Lifestyle und Hochpräzision
 
-    Bijouwood ist das technologisch und ästhetisch hochwertige, robuste Holz für Lifestyle- und Hochpräzisionsanwendungen
+    Bijouwood ist das technologisch und ästhetisch hochwertige, robuste Holz für Lifestyle- und Hochpräzisionsanwendungen.
 
     <a class="btn" href="/de/bijouwood">Bijouwood ></a>
 
-- <img src="/assets/images/ALPAcover.jpg"
-    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
+- <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
+    srcset="/assets/images/home_services_2x.jpg" alt="Services Cover">
 
   ### Beratung für die Industrie
   
