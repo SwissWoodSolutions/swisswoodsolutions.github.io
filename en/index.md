@@ -29,22 +29,22 @@ order: 1
 <div class="wrap">
 
 - <img src="/assets/images/Home1Geige.jpg"
-    srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple on violin">
+    srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
 
-  ### Sonowood for music
+  ### Sonowood for music instruments
 
-  Our sustainable product line for the music industry matches the properties of tropical wood.
+  Sonowood is the sustainable material for your music instrument. 100% wood, no plastics.
 
   <a class="btn -red" href="/en/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
- ### Bijouwood for lifestyle and high precision
+  ### Bijouwood for lifestyle and high precision
 
-   Bijouwood is the the aesthetic, robust wood for lifestyle and high precision applications.
+    Bijouwood is the the aesthetic, robust wood for lifestyle and high precision applications.
 
-   <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
+    <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
 
 - <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
