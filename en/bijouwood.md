@@ -124,16 +124,16 @@ In the [Guldimann cutlery shop](https://dasmesser.ch/2019/07/hellcat/#more-2021)
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorns">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
       </a>
 </div>
 

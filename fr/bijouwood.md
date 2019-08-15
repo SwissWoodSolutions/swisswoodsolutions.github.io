@@ -68,17 +68,11 @@ Dans son atelier à Berlin, Jean-Frédéric Fesseler fabrique de la papeterie ex
       <a href="/assets/images/bijouwood/Stifte2.jpg">
           <img src="/assets/images/bijouwood/Stifte2.jpg" alt="Crayons en Bijouwood par Jean-Frédéric Fesseler">
       </a>
-      <a href="/assets/images/bijouwood/Stifte3.jpg">
-          <img src="/assets/images/bijouwood/Stifte3.jpg" alt="Crayons en Bijouwood par Jean-Frédéric Fesseler">
-      </a>
       <a href="/assets/images/bijouwood/Stifte4.jpg">
           <img src="/assets/images/bijouwood/Stifte4.jpg" alt="Crayons en Bijouwood par Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte5.jpg">
           <img src="/assets/images/bijouwood/Stifte5.jpg" alt="Crayons en Bijouwood par Jean-Frédéric Fesseler">
-      </a>
-      <a href="/assets/images/bijouwood/Stifte6.jpg">
-          <img src="/assets/images/bijouwood/Stifte6.jpg" alt="Crayons en Bijouwood par Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Spruce_kurz_dick.jpg">
           <img src="/assets/images/bijouwood/Spruce_kurz_dick.jpg" alt="Crayons en Bijouwood épicéa par Jean-Frédéric Fesseler">
@@ -89,9 +83,6 @@ Dans son atelier à Berlin, Jean-Frédéric Fesseler fabrique de la papeterie ex
       <a href="/assets/images/bijouwood/Spruce_mittel_dick.jpg">
           <img src="/assets/images/bijouwood/Spruce_mittel_dick.jpg" alt="Crayons en Bijouwood épicéa par Jean-Frédéric Fesseler">
       </a>
-      <a href="/assets/images/bijouwood/Figured_maple_dark_dick.jpg">
-          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Crayons en Bijouwood érable à figure par Jean-Frédéric Fesseler">
-      </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_dick.jpg">
           <img src="/assets/images/bijouwood/Figured_maple_light_dick.jpg" alt="Crayons en Bijouwood érable à figure par Jean-Frédéric Fesseler">
       </a>
@@ -100,6 +91,9 @@ Dans son atelier à Berlin, Jean-Frédéric Fesseler fabrique de la papeterie ex
       </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_lang.jpg">
           <img src="/assets/images/bijouwood/Figured_maple_light_lang.jpg" alt="Crayons en Bijouwood érable à figure par Jean-Frédéric Fesseler">
+      </a>
+      <a href="/assets/images/bijouwood/Figured_maple_dark_dick.jpg">
+          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Crayons en Bijouwood érable à figure par Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Maple_kurz.jpg">
           <img src="/assets/images/bijouwood/Maple_kurz.jpg" alt="Crayons en Bijouwood érable par Jean-Frédéric Fesseler">
@@ -111,6 +105,33 @@ Dans son atelier à Berlin, Jean-Frédéric Fesseler fabrique de la papeterie ex
           <img src="/assets/images/bijouwood/Maple_lang_dunn.jpg" alt="Crayons en Bijouwood érable par Jean-Frédéric Fesseler">
       </a>
 </div>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap">
+
+### Coutelier Guldimann
+
+Chez le coutelier Guldimann, chaque couteau est fait main. Marco Guldimann utilise Bijouwood d'érable pour les manches des couteaux du modèle Hellcat, qui convient parfaitement grâce à la haute densité et dureté, la robustesse et l'esthétique.
+
+<div class="picturegallery">
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
+      </a>
+</div>
+
+[Coutelier Guldimann](https://dasmesser.ch/2019/07/hellcat/#more-2021)
 
 </div>
 </div>
