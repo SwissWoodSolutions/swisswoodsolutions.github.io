@@ -114,3 +114,28 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
 
 </div>
 </div>
+
+<div class="full-width">
+<div class="wrap">
+
+### Guldimann Cutlery Shop
+
+In the [Guldimann cutlery shop](https://dasmesser.ch/2019/07/hellcat/#more-2021), every knife is handcrafted. For the knife handles of the Hellcat model, Marco Guldimann uses Bijouwood maple, which is ideally suited thanks to its high density and hardness, robustness and aesthetics.
+
+<div class="picturegallery">
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorns">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+      </a>
+</div>
+
+</div>
+</div>
