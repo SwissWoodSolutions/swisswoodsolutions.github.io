@@ -49,7 +49,7 @@ order: 1
 - <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
 
-  ### Expertise for industry
+  ### Expertise for the industry
   Years of experience and expertise in wood chemistry and engineering at your service.
 
   <a class="btn -red" href="/en/services">Services ></a>
