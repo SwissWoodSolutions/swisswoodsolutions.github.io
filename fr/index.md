@@ -34,7 +34,7 @@ order: 1
 
   Sonowood est le bois durable pour les instruments de musique. Fabriqué à 100% en bois domestique, sans plastique.
 
-  <a class="btn" href="/fr/sonowood/index">Sonowood ></a>
+  <a class="btn -red" href="/fr/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
@@ -43,7 +43,7 @@ order: 1
 
     Bijouwood est le bois esthétique et robuste pour des applications de style de vie et de haute précision.
 
-    <a class="btn" href="/fr/bijouwood">Bijouwood ></a>
+    <a class="btn -red" href="/fr/bijouwood">Bijouwood ></a>
 
 - <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
@@ -52,7 +52,7 @@ order: 1
 
   Des années d'expérience et d'expertise en chimie et ingénierie du bois à votre service.
 
-  <a class="btn" href="/fr/services">Services ></a>
+  <a class="btn -red" href="/fr/services">Services ></a>
 
 - <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
@@ -61,7 +61,7 @@ order: 1
 
   Notre équipe allie des compétences scientifiques et techniques uniques.
 
-  <a class="btn" href="/fr/about">Rencontrez l'équipe ></a>
+  <a class="btn -red" href="/fr/about">Rencontrez l'équipe ></a>
 
 - <img src="/assets/images/Home_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz interview Sonowood">
@@ -70,7 +70,7 @@ order: 1
 
   Swiss Wood Solutions et Sonowood à la télévision, à la radio et aux médias imprimés.
 
-    <a class="btn" href="/fr/media">Médias ></a>
+    <a class="btn -red" href="/fr/media">Médias ></a>
 
 - <img src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
   srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="generic event image">
@@ -79,7 +79,7 @@ order: 1
 
   Nous nous réjouissions de vous recontrer en personne lors d'un événements.
 
-  <a class="btn" href="/fr/events">Events ></a>
+  <a class="btn -red" href="/fr/events">Events ></a>
 
 </div>
 </div>

@@ -35,33 +35,33 @@ order: 1
 
   Our sustainable product line for the music industry matches the properties of tropical wood.
 
-  <a class="btn" href="/en/sonowood/index">Sonowood ></a>
+  <a class="btn -red" href="/en/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
-  ### Expertise for industry
-  Years of experience and expertise in wood chemistry and engineering at your service.
+ ### Bijouwood for lifestyle and high precision
 
-  <a class="btn" href="/en/services">Services ></a>
+    Bijouwood is the the aesthetic, robust wood for lifestyle and high precision applications.
 
-- <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-      srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
-
-  ### Research & Development
-
-    Curious what's cooking? Take a peek and join us at the front edge of wood innovation!
-
-    <a class="btn" href="/en/RD">R&D ></a>
+    <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
 
 - <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
+
+  ### Expertise for industry
+  Years of experience and expertise in wood chemistry and engineering at your service.
+
+  <a class="btn -red" href="/en/services">Services ></a>
+
+- <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
+      srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
 
   ### About us
 
   Our team fuses extensive know-how with unique scientific and technical skills.
 
-  <a class="btn" href="/en/about">Meet the team ></a>
+  <a class="btn -red" href="/en/about">Meet the team ></a>
 
 - <img src="/assets/images/Home_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz interview Sonowood">
@@ -70,7 +70,7 @@ order: 1
 
   Swiss Wood Solutions and Sonowood on Swiss national TV and in other media.
 
-    <a class="btn" href="/en/media">Media ></a>
+    <a class="btn -red" href="/en/media">Media ></a>
 
 - <img src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
     srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="generic event image">
