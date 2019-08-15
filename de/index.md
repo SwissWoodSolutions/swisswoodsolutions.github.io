@@ -32,29 +32,30 @@ order: 1
 
   ### Sonowood für die Musikbranche
 
-  Wir entwickeln innovative Materialien mit neuen und verbesserten Eigenschaften. 100% Holz, kein Plastikanteil.
+  Sonowood ist das nachhaltige Material für Musikinstrumente. Gefertigt aus heimischen Hölzern, 100% Holz, kein Plastikanteil.
 
   <a class="btn" href="/de/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
 
+  ### Bijouwood für Lifestyle und Hochpräzision
+
+    Bijouwood ist das technologisch und ästhetisch hochwertige, robuste Holz für Lifestyle- und Hochpräzisionsanwendungen
+
+    <a class="btn" href="/de/bijouwood">Bijouwood ></a>
+
+- <img src="/assets/images/ALPAcover.jpg"
+    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
+
   ### Beratung für die Industrie
+  
   Jahrelange Erfahrung an der Spitze der Holzinnovation, individuelle Serviceleistungen, immer projektspezifisch.
 
   <a class="btn" href="/de/services">Services ></a>
 
 - <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
-
-  ### Forschung und Entwicklung
-
-    Neugierig? Wagen Sie einen Blick in unsere Labors, wo Innovation passiert und Neues entsteht.
-
-    <a class="btn" href="/de/RD">R&D ></a>
-
-- <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-    srcset="/assets/images/home_about_2x.jpg" alt="Walter mit einer Sonowood-Probe">
 
   ### Über uns
 
