@@ -50,6 +50,8 @@ ALPA-Kameras bieten höchste Präzision in edlem Gewand. Dieses Modell wurde mit
       </a>
 </div>
 
+[ALPA of Switzerland](https://www.alpa.ch/de)
+
 </div>
 </div>
 
@@ -108,6 +110,8 @@ Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibger�
       </a>
 </div>
 
+[Atelier Fesseler](https://atelierfesseler.de)
+
 </div>
 </div>
 
@@ -116,7 +120,7 @@ Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibger�
 
 ### Messerschmiede Guldimann
 
-In der [Messerschmiede Guldimann](https://dasmesser.ch/2019/07/hellcat/#more-2021) entsteht jedes Messer durch Handarbeit. Für die Messergriffe des Modells Hellcat verwendet Marco Guldimann Bijouwood Ahorn, welches sich dafür aufgrund seiner hohen Dichte und Härte, Robustheit und Ästhetik optimal eignet.
+In der Messerschmiede Guldimann entsteht jedes Messer durch Handarbeit. Für die Messergriffe des Modells Hellcat verwendet Marco Guldimann Bijouwood Ahorn, welches sich dafür aufgrund seiner hohen Dichte und Härte, Robustheit und Ästhetik optimal eignet.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
@@ -132,6 +136,8 @@ In der [Messerschmiede Guldimann](https://dasmesser.ch/2019/07/hellcat/#more-202
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
       </a>
 </div>
+
+[Messerschmiede Guldimann](https://dasmesser.ch/2019/07/hellcat/#more-2021)
 
 </div>
 </div>
