@@ -32,12 +32,12 @@ order: 1
 
   ### Sonowood pour la musique
 
-  Sonowood est le bois durable pour les instruments de musique. Fabriqué à 100% en bois domestique, sans plastique.
+  Sonowood est le bois durable pour les instruments de musique. 100% en bois domestique, sans plastique.
 
   <a class="btn -red" href="/fr/sonowood/index">Sonowood ></a>
 
-- <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
-    srcset="/assets/images/home_services_2x.jpg" alt="testing wood construction on site">
+- <img src="/assets/images/ALPAcover.jpg"
+    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
   ### Bijouwood pour style de vie et haute précision
 
@@ -45,8 +45,8 @@ order: 1
 
     <a class="btn -red" href="/fr/bijouwood">Bijouwood ></a>
 
-- <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-    srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
+- <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
+    srcset="/assets/images/home_services_2x.jpg" alt="Walter testing Sonowood">
 
   ### Expertise pour l'industrie du bois
 
