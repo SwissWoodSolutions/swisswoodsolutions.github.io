@@ -4,7 +4,7 @@ lang: de
 order: 8
 ---
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap">
 
 ## Swiss Wood Solutions im TV
@@ -108,7 +108,7 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap -cols3">
 
 - ## SWS bei Instagram

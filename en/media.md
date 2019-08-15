@@ -4,7 +4,7 @@ title: 'Media'
 order: 8
 ---
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap">
 
 ## Swiss Wood Solutions on TV
@@ -140,7 +140,7 @@ Zeitung followed.
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap -cols3">
 
 - ## SWS on Instagram

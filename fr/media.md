@@ -118,7 +118,7 @@ En octobre 2017, la technologie a été présentée à un large public dans un a
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap -cols3">
 
 - ## SWS chez Instagram
