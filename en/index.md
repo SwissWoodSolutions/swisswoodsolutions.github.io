@@ -33,7 +33,7 @@ order: 1
 
   ### Sonowood for music instruments
 
-  Sonowood is the sustainable material for your music instrument. 100% wood, no plastics.
+  Sonowood is the sustainable material for your music instrument. 
 
   <a class="btn -red" href="/en/sonowood/index">Sonowood ></a>
 
@@ -42,7 +42,7 @@ order: 1
 
   ### Bijouwood for lifestyle and high precision
 
-    Bijouwood is the the aesthetic, robust wood for lifestyle and high precision applications.
+    Bijouwood is the aesthetic, robust wood for lifestyle and high precision applications.
 
     <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
 
@@ -75,11 +75,11 @@ order: 1
 - <img src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
     srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="generic event image">
 
-  ### On the road
+  ### Coming to you
 
    Experience our products and meet us personally at one of the upcoming events.
 
-  <a class="btn" href="/en/events">Events ></a>
+  <a class="btn -red" href="/en/events">Events ></a>
 
 </div>
 </div>
