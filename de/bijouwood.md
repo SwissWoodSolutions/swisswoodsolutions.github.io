@@ -120,16 +120,16 @@ In der [Messerschmiede Guldimann](https://dasmesser.ch/2019/07/hellcat/#more-202
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
-          <img src="/assets/images/bijouwood/ALPA1.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
-          <img src="/assets/images/bijouwood/ALPA2.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorns">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorns">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
-          <img src="/assets/images/bijouwood/ALPA3.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
-          <img src="/assets/images/bijouwood/ALPA4.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
       </a>
 </div>
 
