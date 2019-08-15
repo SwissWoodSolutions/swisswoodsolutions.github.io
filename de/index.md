@@ -34,7 +34,7 @@ order: 1
 
   Sonowood ist das nachhaltige Material für Musikinstrumente. Gefertigt aus 100% heimischen Hölzern, kein Plastikanteil.
 
-  <a class="btn" href="/de/sonowood/index">Sonowood ></a>
+  <a class="btn -red" href="/de/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
@@ -43,7 +43,7 @@ order: 1
 
     Bijouwood ist das technologisch und ästhetisch hochwertige, robuste Holz für Lifestyle- und Hochpräzisionsanwendungen.
 
-    <a class="btn" href="/de/bijouwood">Bijouwood ></a>
+    <a class="btn -red" href="/de/bijouwood">Bijouwood ></a>
 
 - <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
     srcset="/assets/images/home_services_2x.jpg" alt="Services Cover">
@@ -52,7 +52,7 @@ order: 1
   
   Jahrelange Erfahrung an der Spitze der Holzinnovation, individuelle Serviceleistungen, immer projektspezifisch.
 
-  <a class="btn" href="/de/services">Services ></a>
+  <a class="btn -red" href="/de/services">Services ></a>
 
 - <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
       srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
@@ -61,7 +61,7 @@ order: 1
 
   Wir vereinen Holzexperten aus der Industrie, Forschung und Entwicklung.
 
-  <a class="btn" href="/de/about">Unser Team ></a>
+  <a class="btn -red" href="/de/about">Unser Team ></a>
 
 - <img src="/assets/images/Home_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
     srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz, Interview Sonowood">
@@ -70,7 +70,7 @@ order: 1
 
   Berichterstattung über Swiss Wood Solutions in Printmedien, Radio und TV.
 
-    <a class="btn" href="/de/media">Medien ></a>
+    <a class="btn -red" href="/de/media">Medien ></a>
 
 - <img src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
   srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="generic event image">
@@ -79,7 +79,7 @@ order: 1
 
   Wir freuen uns, Sie bald an einer Veranstaltung persönlich zu treffen.
 
-  <a class="btn" href="/de/events">Events ></a>
+  <a class="btn -red" href="/de/events">Events ></a>
 
 </div>
 </div>
