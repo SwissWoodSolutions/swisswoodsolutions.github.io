@@ -70,17 +70,11 @@ Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibger�
       <a href="/assets/images/bijouwood/Stifte2.jpg">
           <img src="/assets/images/bijouwood/Stifte2.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
       </a>
-      <a href="/assets/images/bijouwood/Stifte3.jpg">
-          <img src="/assets/images/bijouwood/Stifte3.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
-      </a>
       <a href="/assets/images/bijouwood/Stifte4.jpg">
           <img src="/assets/images/bijouwood/Stifte4.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Stifte5.jpg">
           <img src="/assets/images/bijouwood/Stifte5.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
-      </a>
-      <a href="/assets/images/bijouwood/Stifte6.jpg">
-          <img src="/assets/images/bijouwood/Stifte6.jpg" alt="Stifte aus Bijouwood von Jean-Frédéric Fesseler">
       </a>
       <a href="/assets/images/bijouwood/Spruce_kurz_dick.jpg">
           <img src="/assets/images/bijouwood/Spruce_kurz_dick.jpg" alt="Stift aus Bijouwood Fichte von Jean-Frédéric Fesseler">
@@ -91,9 +85,6 @@ Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibger�
       <a href="/assets/images/bijouwood/Spruce_mittel_dick.jpg">
           <img src="/assets/images/bijouwood/Spruce_mittel_dick.jpg" alt="Stift aus Bijouwood Fichte von Jean-Frédéric Fesseler">
       </a>
-      <a href="/assets/images/bijouwood/Figured_maple_dark_dick.jpg">
-          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
-      </a>
       <a href="/assets/images/bijouwood/Figured_maple_light_dick.jpg">
           <img src="/assets/images/bijouwood/Figured_maple_light_dick.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
       </a>
@@ -103,6 +94,9 @@ Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibger�
       <a href="/assets/images/bijouwood/Figured_maple_light_lang.jpg">
           <img src="/assets/images/bijouwood/Figured_maple_light_lang.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
       </a>
+      <a href="/assets/images/bijouwood/Figured_maple_dark_dick.jpg">
+          <img src="/assets/images/bijouwood/Figured_maple_dark_dick.jpg" alt="Stift aus Bijouwood Riegelahorn von Jean-Frédéric Fesseler">
+      </a>
       <a href="/assets/images/bijouwood/Maple_kurz.jpg">
           <img src="/assets/images/bijouwood/Maple_kurz.jpg" alt="Stift aus Bijouwood Ahorn von Jean-Frédéric Fesseler">
       </a>
@@ -111,6 +105,31 @@ Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibger�
       </a>
       <a href="/assets/images/bijouwood/Maple_lang_dunn.jpg">
           <img src="/assets/images/bijouwood/Maple_lang_dunn.jpg" alt="Stift aus Bijouwood Ahorn von Jean-Frédéric Fesseler">
+      </a>
+</div>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap">
+
+### Messerschmiede Guldimann
+
+In der [Messerschmiede Guldimann](https://dasmesser.ch/2019/07/hellcat/#more-2021) entsteht jedes Messer durch Handarbeit. Für die Messergriffe des Modells Hellcat verwendet Marco Guldimann Bijouwood Ahorn, welches sich dafür aufgrund seiner hohen Dichte und Härte, Robustheit und Ästhetik optimal eignet.
+
+<div class="picturegallery">
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
+          <img src="/assets/images/bijouwood/ALPA1.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
+          <img src="/assets/images/bijouwood/ALPA2.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorns">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
+          <img src="/assets/images/bijouwood/ALPA3.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
+          <img src="/assets/images/bijouwood/ALPA4.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
       </a>
 </div>
 
