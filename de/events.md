@@ -55,7 +55,7 @@ order: 7
 
   Das Swiss Innovation Forum (SIF) schlägt die Brücke von der Wissenschaft zur Wirtschaft. Das vielfältige Programm mit 25 Referenten aus dem In- und Ausland sorgt für nachhaltige Impressionen. Treffen Sie Swiss Wood Solutions im Congress Center Basel und lassen Sie sich unsere innovative Technologie persönlich vorstellen. 
 
-- <a href="https://www.swiss-innovation.com" target="_blank">![Swiss Innovation Forum](/assets/images/events_swissinnovationfourm.png)</a>
+- <a href="https://www.swiss-innovation.com" target="_blank">![Swiss Innovation Forum](/assets/images/event_swissinnovationforum.png)</a>
 
 </div>
 </div>
