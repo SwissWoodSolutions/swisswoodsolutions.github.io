@@ -22,19 +22,6 @@ order: 7
 ### Wir freuen uns, Sie an einer Veranstaltung zu treffen:
 
 ---
-- ## Museum Füssen
-
-  ### 31. August 2019, Füssen, Deutschland
-
-  Dr. Oliver Kläusler, Erfinder von Sonowood, ist zu Gast im Museum der Stadt Füssen im Rahmen eines zweiteiligen Vortrages. Zunächst wird ein Überblick über das Washingtoner Artenschutzübereinkommen CITES und seine Auswirkungen auf den Bau und den Handel von Musikinstrumenten gewährt. Im zweiten Teil präsentiert Dr. Kläusler Sonowood als Alternative zum Einsatz von übernutzten Hölzern.
-
-- <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
 
 - ## Guitar Summit
 
@@ -122,13 +109,28 @@ order: 7
 
 - <a href="https://www.alpinesmuseum.ch/de/ausstellungen/werkstatt-alpen" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
 
-</div>
-</div>
-
 <div class="full-width">
-<div class="wrap -center">
+<div class="wrap -cols2">
 
 ### Vergangene Events:
+
+---
+
+- ## Museum Füssen
+
+  ### 31. August 2019, Füssen, Deutschland
+
+  Dr. Oliver Kläusler, Erfinder von Sonowood, war zu Gast im Museum der Stadt Füssen im Rahmen eines zweiteiligen Vortrages. Zunächst wurde ein Überblick über das Washingtoner Artenschutzübereinkommen CITES und seine Auswirkungen auf den Bau und den Handel von Musikinstrumenten gewährt. Im zweiten Teil präsentierte Dr. Kläusler Sonowood als Alternative zum Einsatz von übernutzten Hölzern.
+
+- <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -center">
+
+### Weitere Events:
 
   - **Criterion Festival 2019**, März 2019, Zürich
   - **New Material and Design Forum Shanghai**, März 2019, Shanghai
@@ -138,7 +140,6 @@ order: 7
   - **ETH Industry Day 2018**, September 2018, Zürich
   - **ETH Week 2017**, September 2017, Zürich
   - **ETH Industry Day 2017**, September 2017, Zürich
-
 
 </div>
 </div>
