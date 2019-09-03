@@ -74,9 +74,6 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Tailpiece from Sonowood maple">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg" alt="Tailpiece from Sonowood maple">
-  </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Tailpiece from Sonowood maple">
   </a>
@@ -104,9 +101,6 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Tailpiece from Sonowood spruce on a Amati violin. Picture by Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_sizes.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_sizes.jpg" alt="Tailpieces for all kind of string instruments. Picture by Wilhelm Geigenbau">
-  </a>    
 </div>
 
 ### Chinrest

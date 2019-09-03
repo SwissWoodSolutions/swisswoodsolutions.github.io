@@ -74,9 +74,6 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Cordier en Sonowood érable">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple3_thumb.jpg" alt="Cordier en Sonowood érable">
-  </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Cordier en Sonowood érable">
   </a>
@@ -104,9 +101,6 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Cordier en Sonowood épicéa à un Amati violon. Photo de Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_sizes.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_sizes.jpg" alt="Cordiers pour tous les instruments à cordes. Photo de Wilhelm Geigenbau">
-  </a>    
 </div>
 
 ### Mentionnière
