@@ -23,7 +23,7 @@ order: 1
 
 We offer **fittings as well as squared timbers in spruce (Picea abies) and maple (Acer pseudoplatanus).** We use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
 
-Find our current assortment below. **Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/sonowood/#technicaldata">can be found here</a>.
+Find our current assortment below. **Technical data** on Sonowood maple, Sonowood walnut and Sonowood spruce <a href="/en/sonowood/#technicaldata">can be found here</a>.
 
 </div>
 </div>
@@ -33,12 +33,15 @@ Find our current assortment below. **Technical data** on Sonowood Maple and Sono
 
 ## Sonowood Fittings
 
-All fittings available in maple or spruce for violin and viola. <br/>
+All fittings available from maple, walnut and spruce for violin and viola. <br/>
 *Click on an image for larger size*
 
 ### Fingerboard
 
 <div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Fingerboard from Sonowood spruce (left), Sonowood maple (center) und Sonowood walnut (right). Picture by Berdani Feinste Bestandteile">
+  </a>   
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple1.jpg" alt="Fingerboard from Sonowood maple. Picture by Wilhelm Geigenbau">
   </a>
@@ -62,15 +65,6 @@ All fittings available in maple or spruce for violin and viola. <br/>
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Fingerboard from Sonowood spruce. Picture by Wilhelm Geigenbau">
-  </a>
-  <a href="/assets/images/strings/sonowood_hagenweiseahorn.JPG">
-    <img src="/assets/images/strings/sonowood_hagenweiseahorn.JPG" alt="Il Cannone violin with fingerboard and tailpiece from Sonowood maple. Picture by Hagen Weise Violins">
-  </a>
-  <a href="/assets/images/strings/sonowood_hagenweisefichte.jpg">
-    <img src="/assets/images/strings/sonowood_hagenweisefichte.jpg" alt="Il Cannone violin with fingerboard and tailpiece from Sonowood spruce. Picture by Hagen Weise Violins">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg" alt="Italian viola with fingerboard and tailpiece from Sonowood spruce. Picture by Wilhelm Geigenbau">
   </a>
 </div>
 

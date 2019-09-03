@@ -23,7 +23,7 @@ La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments
 
 Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abies) et en érable (Acer pseudoplatanus). Pour nos produits, nous utilisons que du bois issu d'une sylviculture durable, surtout des cantons de Zurich et des Grisons.
 
-Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce <a href="/fr/sonowood/#technicaldata">ici.</a>
+Vous trouverez **les données techniques** sur Sonowood érable, Sonowood noix et Sonowood épicéa <a href="/fr/sonowood/#technicaldata">ici.</a>
 
 </div>
 </div>
@@ -33,12 +33,15 @@ Vous trouverez **les données techniques** sur Sonowood Maple et Sonowood Spruce
 
 ## Pièces de forme en Sonowood
 
-Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour violon et alto (sans mentionnière en épicéa). <br/>
+Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et Sonowood épicéa pour violon et alto (sans mentionnière en épicéa). <br/>
 *Cliquez sur image pour agrandissement*
 
 ### Touche
 
 <div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Touche en Sonowood épicéa (à gauche), Sonowood érable (centre) und Sonowood noix (à droite). Photo de Berdani Feinste Bestandteile">
+  </a>    
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Touche en Sonowood érable. Photo de Wilhelm Geigenbau">
   </a>
@@ -62,15 +65,6 @@ Tous les pièces de forme sont disponible en Sonowood érable et épicéa pour v
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Touche en Sonowood épicéa. Photo de Wilhelm Geigenbau">
-  </a>
-  <a href="/assets/images/strings/sonowood_hagenweiseahorn.JPG">
-    <img src="/assets/images/strings/sonowood_hagenweiseahorn.JPG" alt="Il Cannone violin avec touche et cordier en Sonowood érable. Photo de Hagen Weise Violins">
-  </a>
-  <a href="/assets/images/strings/sonowood_hagenweisefichte.jpg">
-    <img src="/assets/images/strings/sonowood_hagenweisefichte.jpg" alt="Il Cannone violin avec touche et cordier en Sonowood épicéa. Photo de Hagen Weise Violins">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_viola.jpg" alt="Alto italien avec touche et corider en Sonowood épicéa. Photo de Wilhelm Geigenbau">
   </a>
 </div>
 
