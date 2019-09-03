@@ -22,19 +22,6 @@ order: 7
 ### Nous nous réjouissons de faire votre connaissance au:
 
 ---
-- ## Museum Füssen
-
-  ### 31 août, Füssen, l'Allemagne
-
-  Dr. Oliver Kläusler, inventeur de Sonowood, intervient au musée de la ville de Füssen pour une conférence en deux parties. Dans la première partie, un aperçu de Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) et de son impact sur la construction et le commerce des instruments de musique sera présenté. Dans la deuxième partie, Dr. Kläusler présente Sonowood comme une alternative à l'utilisation de bois surutilisés.
-
-- <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
 
 - ## Guitar Summit
 
@@ -47,7 +34,7 @@ order: 7
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Cremona Mondomusica
@@ -56,6 +43,19 @@ order: 7
   Cremona Mondomusica est la plus grande et la plus importante exposition de lutherie au monde. Cremona est la capitale mondiale de la lutherie et l'origine la plus célèbre famille de luthiers. Rencontrez-nous et Sonowood à Cremona Mondomusica du 27 au 29 septembre.
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+- ## Swiss Innovation Forum
+  ### 21 novembre, Bâle, Suisse
+
+  Le Swiss Innovation Forum (SIF) comble le fossé entre la science et l'industrie. Le programme varié avec 25 conférenciers suisses et étrangers vous laissera des impressions profondes. Rencontrez Swiss Wood Solutions au Congress Center Bâle et profitez d'une présentation personnelle de notre technologie innovante. 
+
+- <a href="https://www.swiss-innovation.com/en/" target="_blank">![Swiss Innovation Forum](/assets/images/event_swissinnovationforum.png)</a>
 
 </div>
 </div>
@@ -126,9 +126,26 @@ order: 7
 </div>
 
 <div class="full-width">
-<div class="wrap -center">
+<div class="wrap -cols2">
 
 ### Événements passés:
+
+---
+- ## Museum Füssen
+
+  ### 31 août, Füssen, l'Allemagne
+
+  Dr. Oliver Kläusler, inventeur de Sonowood, a intervenu au musée de la ville de Füssen pour une conférence en deux parties. Dans la première partie, un aperçu de Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) et de son impact sur la construction et le commerce des instruments de musique a été présenté. Dans la deuxième partie, Dr. Kläusler a présenté Sonowood comme une alternative à l'utilisation de bois surutilisés.
+
+- <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
+
+</div>
+</div>
+
+<div class="full-width-red">
+<div class="wrap -center">
+
+### Plus d'événements passés:
 
   - **Criterion Festival 2019**, mars 2019, Zurich
   - **New Material and Design Forum Shanghai**, mars 2019, Shanghai
