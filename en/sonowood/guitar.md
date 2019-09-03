@@ -63,7 +63,7 @@ All pieces are available in maple or spruce. <br/>
       <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
-      <a href="/assets/images/guitars/sonowood_guitar_bridge4.jpg">
+      <a href="/assets/images/guitars/sonowood_guitars_bridge4.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">

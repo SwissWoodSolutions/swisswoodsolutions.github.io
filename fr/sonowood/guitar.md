@@ -62,7 +62,7 @@ Toutes les pièces sont disponibles en érable ou en épicéa. <br/>
       <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Chevalet en Sonowood érable">
       </a>
-      <a href="/assets/images/guitars/sonowood_guitar_bridge4.jpg">
+      <a href="/assets/images/guitars/sonowood_guitars_bridge4.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Chevalet en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
