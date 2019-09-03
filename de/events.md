@@ -34,15 +34,28 @@ order: 7
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Cremona Mondomusica
   ### 27. bis 29. September 2019, Cremona, Italien
 
-   Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der Cremona Mondomusica vom 27. bis 29. September 2019.
+  Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der Cremona Mondomusica vom 27. bis 29. September 2019.
 
 - <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+- ## Swiss Innovation Forum
+  ### 21. November, Basel, Schweiz
+
+  Das Swiss Innovation Forum (SIF) schlägt die Brücke von der Wissenschaft zur Wirtschaft. Das vielfältige Programm mit 25 Referenten aus dem In- und Ausland sorgt für nachhaltige Impressionen. Treffen Sie Swiss Wood Solutions im Congress Center Basel und lassen Sie sich unsere innovative Technologie persönlich vorstellen. 
+
+- <a href="https://www.swiss-innovation.com" target="_blank">![Swiss Innovation Forum](/assets/images/events_swissinnovationfourm.png)</a>
 
 </div>
 </div>
@@ -109,6 +122,9 @@ order: 7
 
 - <a href="https://www.alpinesmuseum.ch/de/ausstellungen/werkstatt-alpen" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
 
+</div>
+</div>
+
 <div class="full-width">
 <div class="wrap -cols2">
 
@@ -127,7 +143,7 @@ order: 7
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width-red">
 <div class="wrap -center">
 
 ### Weitere Events:
