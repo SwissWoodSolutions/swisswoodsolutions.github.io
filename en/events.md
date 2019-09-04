@@ -51,7 +51,7 @@ order: 7
 <div class="wrap -cols2">
 
 - ## Swiss Innovation Forum
-  ### November 21, Basel, Schweiz
+  ### November 21, Basel, Switzerland
 
   The Swiss Innovation Forum (SIF) bridges the gap between science and industry. The programme is varied and guarantees lasting impressions, with 25 speakers from Switzerland and abroad. Meet Swiss Wood Solutions at the Congress Center Basel and learn more about our innovative technology.
 
