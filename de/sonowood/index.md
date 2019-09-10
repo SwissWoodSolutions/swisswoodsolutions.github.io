@@ -134,7 +134,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
       - Berg-Ahorn *(Acer pseudoplatanus)*
       - Dunkelbraune Färbung
       - Dichte: 1'200 – 1'400 kg/m³
-      - Brinellhärte: \> 80 N/mm²
+      - Brinellhärte: 90 - 140 N/mm²
       - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe 0.7%, Breite 0.3%
       - Schallleitgeschwindigkeit: \> 4'400 m/s
       - Dämpfung (logarithmisches Dekrement): \~ 0.053
@@ -174,7 +174,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
       - Fichte *(Picea abies)*
       - Natürliche Holzfärbung
       - Dichte: 1'300 – 1'400 kg/m³
-      - Brinellhärte: \> 100 N/mm²
+      - Brinellhärte: 100 - 150 N/mm²
       - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe \~ 0.75%, Breite \~0.33%       
       - Schallleitgeschwindigkeit: \> 5'500 m/s
       - Dämpfung (logarithmisches Dekrement): \~ 0.04
@@ -206,10 +206,10 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
   - #### Technische Daten
 
-      - Echte Walnuss *(Juglans regia)*
+      - Echte Walnuss *(Juglans spp.)*
       - Dunkelbraune bis schwarze Färbung
       - Dichte: 1'200 – 1'400 kg/m³
-      - Brinellhärte: \> 80 N/mm²
+      - Brinellhärte: 90 - 140 N/mm²
       - Dimensionsstabilität: differentielles Quellmass in % pro % Holzfeuchteänderung: Höhe \~ 0.29%, Breite \~0.3%       
       - Schallleitgeschwindigkeit: \> 4'400 m/s
       - Dynamischer Elastizitätsmodul: \> 23'000 N/mm²

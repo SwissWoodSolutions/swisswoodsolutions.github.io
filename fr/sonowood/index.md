@@ -118,7 +118,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
       - Type de bois: érable sycomore *(Acer pseudoplatanus)*
       - Couleur: moka
       - Densité: 1'200 – 1'400 kg/m³
-      - Dureté Brinell: \> 80 N/mm²
+      - Dureté Brinell: 90 - 140 N/mm²
       - Stabilité dimensionnelle: hauteur \~ 0.7%,  
         largeur \~ 0.3% par % de variation d'humidité
       - Vitesse de propagation du son: \> 4'400 m/s
@@ -159,7 +159,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
       - Type de bois: épicéa *(Picea abies)*
       - Couleur: caramel
       - Densité: 1'300 – 1'400 kg/m³
-      - Dureté Brinell: \> 100 N/mm²
+      - Dureté Brinell: 100 - 150 N/mm²
       - Stabilité dimensionnelle: hauteur \~ 0.75%,  
         largeur \~ 0.33% par % de variation d'humidité
       - Vitesse de propagation du son: \> 5'500 m/s
@@ -196,7 +196,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
       - Type de bois: érable sycomore *(Acer pseudoplatanus)*
       - Couleur: brun foncé et noir
       - Densité: 1'200 – 1'400 kg/m³
-      - Dureté Brinell: \> 80 N/mm²
+      - Dureté Brinell: 90 - 140 N/mm²
       - Stabilité dimensionnelle: hauteur \~ 0.29%,  
         largeur \~ 0.3% par % de variation d'humidité
       - Vitesse de propagation du son: \> 4'400 m/s
