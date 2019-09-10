@@ -145,7 +145,7 @@ Learn more about the country-specific impacts of the CITES regulations on variou
       - Sycamore maple *(Acer pseudoplatanus)*
       - Colour: mocha
       - Density: 1'200 – 1'400 kg/m³
-      - Brinell hardness: \> 80 N/mm²
+      - Brinell hardness: 90 - 140 N/mm²
       - Dimensional stability: height \~ 0.7%,  
         width \~ 0.3% per % moisture content change
       - Sound velocity: \> 4'400 m/s
@@ -187,7 +187,7 @@ Learn more about the country-specific impacts of the CITES regulations on variou
       - Made of Spruce *(Picea abies)*
       - Colour: caramel
       - Density: 1'300 – 1'400 kg/m³
-      - Brinell hardness: \> 100 N/mm²
+      - Brinell hardness: 100 - 150 N/mm²
       - Dimensional stability: height \~ 0.75,  
         width \~0.33 % per % moisture content change
       - Sound velocity: \> 5'500 m/s
@@ -222,10 +222,10 @@ Learn more about the country-specific impacts of the CITES regulations on variou
 
   -  #### Technical data:
 
-      - Walnut *(Juglans regia)*
+      - Walnut *(Juglans spp.)*
       - Colour: darkbrown to black
       - Density: 1'200 – 1'400 kg/m³
-      - Brinell hardness: \> 80 N/mm²
+      - Brinell hardness: 90-140 N/mm²
       - Dimensional stability: height \~ 0.29%,  
         width \~ 0.3% per % moisture content change
       - Sound velocity: \> 4'400 m/s
