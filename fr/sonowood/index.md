@@ -24,7 +24,7 @@ Nous avons développé Sonowood spécifiquement comme bois pour la construction 
 
 C’est pour répondre à cette problématique que nous avons développé Sonowood. Notre concept est d’utiliser du bois local provenant de forêts gérées de manière durable et de le modifier afin d’obtenir des propriétés physico-mécaniques similaires à celles des bois tropicaux. Notre démarche est basée sur une production respectueuse de l’environnement associée à une recherche d’innovation continue. Ceci afin d’offrir au client un matériau de haute qualité sans restrictions légales ni préoccupations éthiques ou morales.
 
-<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
+<a class="btn -red" href="/assets/docs/Sonowood_Strings_EN.pdf">Brochure des instruments à cordes</a> <a class="btn -red" href="/assets/docs/Sonowood_Guitars_EN.pdf">Brochure des guitares</a>
 
 </div>
 </div>

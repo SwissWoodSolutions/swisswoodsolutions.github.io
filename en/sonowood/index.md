@@ -37,7 +37,7 @@ technology offers adjustability of a wide range of parameters.
 
 **Sonowood** is the best alternative wood for your musical instrument, made of 100% real AND indigenous wood. Further detailed information is presented on the Sonowood flyer available for download.
 
-<a class="btn -red" href="/assets/docs/Flyer_Sonowood_A4-Trifold_EN_screen.pdf">Sonowood Flyer</a>
+<a class="btn -red" href="/assets/docs/Sonowood_Strings_EN.pdf">String instruments flyer</a> <a class="btn -red" href="/assets/docs/Sonowood_Guitars_EN.pdf">Guitar flyer</a>
 
 </div>
 </div>
