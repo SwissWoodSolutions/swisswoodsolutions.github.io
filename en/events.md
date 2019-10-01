@@ -131,6 +131,31 @@ order: 7
 ### Past events
 
 ---
+
+- ## Cremona Mondomusica 2019
+  
+  Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Together with our premium partner Wilhelm Geigenbau, we presented Sonowood at Mondomusica 2019.
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
+<img srcset="/assets/images/Cremona2019.JPG"
+     src="/assets/images/Cremona2019.JPG" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
+<figcaption>From left: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (both Wilhelm Geigenbau) and Dr. Munish Chanana (SWS) in Cremona.</figcaption>
+
+<img srcset="/assets/images/Cremona2019_2.JPG"
+     src="/assets/images/Cremona2019_2.JPG" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
+<figcaption>Presentation of Sonowood.</figcaption>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Museum Füssen
 
   ### August 31, Füssen, Germany

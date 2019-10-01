@@ -101,7 +101,7 @@ order: 7
 <div class="full-width">
 <div class="wrap -cols2">
 
-### Vergangene Events:
+## Vergangene Events:
 
 ---
 
@@ -112,7 +112,7 @@ order: 7
 
 <img srcset="/assets/images/Cremona2019.JPG"
      src="/assets/images/Cremona2019.JPG" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
-<figcaption>V. l. n. r.: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (Wilhelm Geigenbau) und Dr. Munish Chanana an der Mondomusica in Cremona.</figcaption>
+<figcaption>Von links: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (beide Wilhelm Geigenbau) und Dr. Munish Chanana (SWS) in Cremona.</figcaption>
 
 </div>
 </div>
@@ -136,6 +136,7 @@ order: 7
 
 ### Weitere Events:
 
+  - **Guitar Summit 2019, September 2019, Mannheim
   - **Criterion Festival 2019**, März 2019, Zürich
   - **New Material and Design Forum Shanghai**, März 2019, Shanghai
   - **Strings attached**, November 2018, Bern
