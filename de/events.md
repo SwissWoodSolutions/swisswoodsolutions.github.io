@@ -23,33 +23,6 @@ order: 7
 
 ---
 
-- ## Guitar Summit
-
-  ### 27. bis 29. September 2019, Mannheim, Deutschland
-
-  Der Guitar Summit widmet sich voll und ganz dem Thema Gitarre. Zum dritten Mal wird Mannheim vom 27. bis 29. September 2019 zum Zentrum der internationalen Gitarrenwelt. Treffen Sie uns in Mannheim und erfahren Sie mehr über den Einsatz von Sonowood als Fretboard, Steg, Rahmen und vieles mehr für Ihre Gitarren.
-
-- <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
-- ## Cremona Mondomusica
-  ### 27. bis 29. September 2019, Cremona, Italien
-
-  Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Treffen Sie uns und Sonowood an der Cremona Mondomusica vom 27. bis 29. September 2019.
-
-- <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
 - ## Swiss Innovation Forum
   ### 21. November, Basel, Schweiz
 
@@ -131,6 +104,21 @@ order: 7
 ### Vergangene Events:
 
 ---
+
+- ## Cremona Mondomusica
+  ### 27. bis 29. September 2019, Cremona, Italien
+
+  Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Zusammen mit unserem Partner Wilhelm Geigenbau durften wir dem internationlen und fachkundigen Publikum Sonowood vorstellen.
+
+<img srcset="/assets/images/Cremona2019.jpg"
+     src="/assets/images/services_cover.jpg" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
+<figcaption>V. l. n. r.: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (Wilhelm Geigenbau) und Dr. Munish Chanana an der Mondomusica in Cremona.</figcaption>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
 
 - ## Museum Füssen
 
