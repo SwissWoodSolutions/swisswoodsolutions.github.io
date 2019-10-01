@@ -23,33 +23,6 @@ order: 7
 
 ---
 
-- ## Guitar Summit
-
-  ### September 27–29, Mannheim, Germany
-
-  The Guitar Summit is dedicated to everything guitar. For the third time, Mannheim becomes the centre of the international guitar world. Meet us and Sonowood at the Guitar Summit from September 27th – 29th.
-
-- <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
-- ## Cremona Mondomusica
-  ### September 27–29, Cremona, Italy
-
-  Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Meet us and Sonowood at Cremona Mondomusica from September 27th – 29th.
-
-- <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
 - ## Swiss Innovation Forum
   ### November 21, Basel, Switzerland
 

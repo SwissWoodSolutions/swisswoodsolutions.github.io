@@ -23,33 +23,6 @@ order: 7
 
 ---
 
-- ## Guitar Summit
-
-  ### 27-29 septembre, Mannheim, l'Allemagne
-
-  Le Guitar Summit est dédié à tout ce qui concerne la guitare. Pour la troisième fois, Mannheim devient le centre du monde international de la guitare. Rencontrez-nous et Sonowood au Guitar Summit du 27 au 29 septembre.
-
-- <a href="https://www.guitarsummit.de" target="_blank">![Guitar Summit 2019](/assets/images/event_201909_guitarsummit.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
-- ## Cremona Mondomusica
-  ### 27-29 septembre, Cremona, l'Italie
-
-  Cremona Mondomusica est la plus grande et la plus importante exposition de lutherie au monde. Cremona est la capitale mondiale de la lutherie et l'origine la plus célèbre famille de luthiers. Rencontrez-nous et Sonowood à Cremona Mondomusica du 27 au 29 septembre.
-
-- <a href="http://www.cremonamusica.com" target="_blank">![Cremona 2019](/assets/images/event_201909_cremona.png)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
 - ## Swiss Innovation Forum
   ### 21 novembre, Bâle, Suisse
 
@@ -138,7 +111,7 @@ order: 7
 
 <img srcset="/assets/images/Cremona2019.JPG"
      src="/assets/images/Cremona2019.JPG" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
-     <figcaption>De gauche: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (beide Wilhelm Geigenbau) et Dr. Munish Chanana (SWS) à Cremona.</figcaption>
+     <figcaption>De gauche: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (les deux Wilhelm Geigenbau) et Dr. Munish Chanana (SWS) à Cremona.</figcaption>
 
 <img srcset="/assets/images/Cremona2019_2.JPG"
      src="/assets/images/Cremona2019_2.JPG" alt="Presentation von Sonowood">

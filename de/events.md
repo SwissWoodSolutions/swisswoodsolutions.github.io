@@ -139,7 +139,7 @@ order: 7
 
 ### Weitere Events:
 
-  - **Guitar Summit 2019, September 2019, Mannheim
+  - **Guitar Summit 2019**, September 2019, Mannheim
   - **Criterion Festival 2019**, März 2019, Zürich
   - **New Material and Design Forum Shanghai**, März 2019, Shanghai
   - **Strings attached**, November 2018, Bern
