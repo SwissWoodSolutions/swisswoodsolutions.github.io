@@ -131,6 +131,25 @@ order: 7
 ### Événements passés:
 
 ---
+
+## Cremona Mondomusica 2019
+  
+  Cremona Mondomusica est la plus grande et la plus importante exposition de lutherie au monde. Cremona est la capitale mondiale de la lutherie et l'origine la plus célèbre famille de luthiers. Avec notre partenaire Wilhelm Geigenbau, nous avons pu présenter Sonowood à un public international.
+
+<img srcset="/assets/images/Cremona2019.JPG"
+     src="/assets/images/Cremona2019.JPG" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
+     <figcaption>De gauche: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (beide Wilhelm Geigenbau) et Dr. Munish Chanana (SWS) à Cremona.</figcaption>
+
+<img srcset="/assets/images/Cremona2019_2.JPG"
+     src="/assets/images/Cremona2019_2.JPG" alt="Presentation von Sonowood">
+     <figcaption></figcaption>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Museum Füssen
 
   ### 31 août, Füssen, l'Allemagne

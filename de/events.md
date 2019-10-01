@@ -105,14 +105,17 @@ order: 7
 
 ---
 
-- ## Cremona Mondomusica
-  ### 27. bis 29. September 2019, Cremona, Italien
+  ## Cremona Mondomusica 2019
 
   Cremona Mondomusica ist die größte und bedeutendste Messe der Welt für den Streichinstrumentenbau. Cremona ist die Welthauptstadt des Geigenbaus und Heimat der berühmtesten Geigenbauerfamilie. Zusammen mit unserem Partner Wilhelm Geigenbau durften wir dem internationlen und fachkundigen Publikum Sonowood vorstellen.
 
 <img srcset="/assets/images/Cremona2019.JPG"
      src="/assets/images/Cremona2019.JPG" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
-<figcaption>Von links: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (beide Wilhelm Geigenbau) und Dr. Munish Chanana (SWS) in Cremona.</figcaption>
+     <figcaption>Von links: Dr. Oliver Kläusler (SWS), Boris Haug, Mark Wilhem (beide Wilhelm Geigenbau) und Dr. Munish Chanana (SWS) in Cremona.</figcaption>
+
+<img srcset="/assets/images/Cremona2019_2.JPG"
+     src="/assets/images/Cremona2019_2.JPG" alt="Presentation von Sonowood">
+     <figcaption></figcaption>
 
 </div>
 </div>
