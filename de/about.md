@@ -26,6 +26,12 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
 <a class="btn -red" href="/de/contact">Kontaktieren Sie uns ></a>
 
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 # Unser Team
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)

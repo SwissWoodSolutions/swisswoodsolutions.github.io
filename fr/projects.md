@@ -9,8 +9,8 @@ order: 7
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/About_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebony_Ebenholz_Swiss_Wood_Solutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg"
-     src="/assets/images/team_cover.jpg" alt="The SWS Team in 2018">
+<img srcset="/assets/images/event_cover_cubestower_2x.jpg"
+     src="/assets/images/event_cover_cubestower.jpg" alt="Wood cubes on table">
 </div>
 
 <div class="full-width-grey">

@@ -9,24 +9,16 @@ order: 7
 
 
 ![arrow down](/assets/images/arrow-d-white.svg)
+
 </div>
-<img srcset="/assets/images/About_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebony_Ebenholz_Swiss_Wood_Solutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg"
-     src="/assets/images/team_cover_2x.jpg" alt="das Swiss Wood Solutions Team in 2018">
+<img srcset="/assets/images/event_cover_cubestower_2x.jpg"
+     src="/assets/images/event_cover_cubestower.jpg" alt="Wood cubes on table">
 </div>
 
 <div class="full-width">
 <div class="wrap">
 
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
 Zusätzlich zur ETH Zürich und Empa kooperieren wir mit weiteren öffentlichen und privaten Institutionen im Rahmen von Forschungs- und Entwicklungsprojekten.
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
 
 ## TEEWood mit Horizon 2020
 

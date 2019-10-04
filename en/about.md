@@ -27,6 +27,12 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 <a class="btn -red" href="/en/contact">Get in touch ></a>
 
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 # Our team
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
