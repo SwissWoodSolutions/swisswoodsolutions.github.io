@@ -12,8 +12,8 @@ order: 8
 ![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/Cremona2019_3.jpg"
-     src="/assets/images/Cremona2019_3.jpg" alt="Cremona 2019">
+<img srcset="/assets/images/event_cover_cubestower_2x.jpg"
+     src="/assets/images/event_cover_cubestower.jpg" alt="Wood cubes on table">
 </div>
 
 <div class="full-width">
