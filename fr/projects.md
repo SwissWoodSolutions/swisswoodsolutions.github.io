@@ -13,21 +13,10 @@ order: 7
      src="/assets/images/team_cover.jpg" alt="The SWS Team in 2018">
 </div>
 
-<div class="full-width">
-<div class="wrap -cols2">
-
-Swiss Wood Solutions AG a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf. Tous les membres de notre équipe ont travaillé à l'ETH et/ou à l'Empa avant leur engagement chez Swiss Wood Solutions. L'ETH Zurich (Ecole polytechnique fédérale de Zurich) est l'une des meilleures universités scientifiques au monde et se classe constamment parmi les meilleures au monde. L'Empa (Laboratoire fédéral suisse de science des matériaux et de technologie) est un institut de recherche interdisciplinaire suisse pour la science appliquée des matériaux avec différents campus à travers la Suisse. Nous sommes dans une position avantageuse de bénéficier du soutien infrastructurel, technique et de savoir-faire de ces deux institutions suisses. Swiss Wood Solutions agit néanmoins en tant qu'entreprise indépendante et détient ses propres droits de propriété intellectuelle.
-
-  - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
-  - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
-
-Outre l'ETH Zurich et l'Empa, nous coopérons avec d'autres institutions publiques et privées pour la réalisation de projets R\&D.
-
-</div>
-</div>
-
 <div class="full-width-grey">
 <div class="wrap">
+
+Outre l'ETH Zurich et l'Empa, nous coopérons avec d'autres institutions publiques et privées pour la réalisation de projets R\&D.
 
 ## TEEWood en collaboration avec Horizon 2020
 

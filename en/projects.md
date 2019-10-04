@@ -14,29 +14,11 @@ order: 7
      src="/assets/images/team_cover.jpg" alt="The SWS Team in 2018">
 </div>
 
-## Support
-
-All of our team members have worked at ETH and/or Empa prior to their engagement at Swiss Wood Solutions. ETH Zurich (Swiss Federal Institute of Technology)
-is a globally leading science university and constantly ranks among the
-top universities worldwide. Empa (Swiss Federal Laboratories for
-Materials Science and Technology) is an interdisciplinary Swiss research
-institute for applied materials science with various campuses across
-Switzerland. We are in the advantageous position
-to benefit from infrastructural, technical and know-how support from
-these two Swiss institutions. Regardless, Swiss Wood Solutions acts as
-an independent company and holds its own intellectual property
-rights.
-
-  - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
-  - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
+<div class="full-width">
+<div class="wrap">
 
 In addition to ETH Zurich and Empa, we cooperate with further public and private institutions to carry out R\&D projects.
 
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap">
 
 ## TEEWood project with Horizon 2020
 
