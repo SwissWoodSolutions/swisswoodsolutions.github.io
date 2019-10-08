@@ -43,13 +43,13 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
     <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Griffbrett aus Sonowood Fichte (links), Sonowood Ahorn (mitte) und Sonowood Walnuss (rechts). Foto: Berdani Feinste Bestandteile">
   </a>  
   <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
@@ -64,7 +64,7 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 mit Griffbrett und Saitenhalter aus Sonowood Fichte von Wilhelm Geigenbau. Foto: The Strad Magazine">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Griffbrett aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Griffbrett aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>
 </div>
 
@@ -81,25 +81,25 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
   </a>   
   <a href="/assets/images/strings/sonowood_tailpiece.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece.jpg" alt="Saitenhalter aus Sonowood Ahorn (links) und Sonowood Fichte (rechts). Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece.jpg" alt="Saitenhalter aus Sonowood Ahorn (links) und Sonowood Fichte (rechts) gefertigt von Wilhelm Geigenbau">
   </a>   
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Saitenhalter aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Saitenhalter aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Saitenhalter aus Sonowood Fichte und Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Saitenhalter aus Sonowood Fichte und Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Saiten- und Kinnhalter aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Saiten- und Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello-Saitenhalter aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello-Saitenhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>   
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Saitenhalter aus Sonowood Fichte auf einer Amati Violine. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Saitenhalter aus Sonowood Fichte auf einer Amati Violine ausgerüstet von Wilhelm Geigenbau">
   </a>
 </div>
 
@@ -107,13 +107,13 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple4.jpg">
     <img src="/assets/images/strings/sonowood_chinrest_maple4.jpg" alt="Kinnhalter aus Sonowood Ahorn. Foto: Berdani Feinste Bestandteile">
@@ -127,7 +127,7 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Endknopf aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Endknopf aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple2.jpg">
     <img src="/assets/images/strings/sonowood_endbutton_maple2.jpg" alt="Endknopf aus Sonowood Ahorn. Foto: Berdani Feinste Bestandteile">
@@ -150,7 +150,7 @@ Für Violinen und Bratschen sind Rohlinge passend für die Fertigung sämtlicher
     <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Rohling aus Sonowood Fichte, natives Fichtenholz darunter">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn. Foto: Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
     <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Wirbel aus Sonowood Fichte. Foto: Andreas Hochuli">
@@ -197,7 +197,7 @@ Kontaktieren Sie uns für eine Preisübersicht und werden Sie Teil der innovativ
 
 <img srcset="/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg"
      src="/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg">
-<figcaption>Stradivarius von 1721 mit Griffbrett und Saitenhalter aus Sonowood spruce.</figcaption>
+<figcaption>Stradivarius von 1721 mit Griffbrett und Saitenhalter aus Sonowood Fichte ausgerüstet von Wilhelm Geigenbau.</figcaption>
 
 </div>
 </div>
