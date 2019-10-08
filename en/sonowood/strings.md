@@ -71,6 +71,9 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
 ### Tailpiece
 
 <div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG" alt="Tailpiece from Sonowood spruce, maple and walnut made by Wilhelm Geigenbau. Picture by the Strad Magazine">
+  </a>    
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Tailpiece from Sonowood maple">
   </a>
@@ -86,9 +89,6 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Tailpiece from Sonowood maple and spruce made by Wilhelm Geigenbau">
   </a>  
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Tailpiece from Sonowood maple and spruce made by Wilhelm Geigenbau">
-  </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Tailpiece and chinrest from Sonowood maple made by Wilhelm Geigenbau">
   </a>

@@ -38,7 +38,7 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
 
 ### Touche
 
-<div class="picturegallery">
+<div class="picturegallery"> 
   <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
     <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Touche en Sonowood épicéa (à gauche), Sonowood érable (centre) und Sonowood noix (à droite). Photo de Berdani Feinste Bestandteile">
   </a>    
@@ -71,6 +71,9 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
 ### Cordier
 
 <div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG" alt="Cordiers en Sonowood épicéa, érable et noix fabriqués par Wilhelm Geigenbau. Photo de Strad Magazine">
+  </a>    
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Cordier en Sonowood érable">
   </a>
@@ -86,9 +89,6 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Cordier en Sonowood érable et épicéa fabriqué par Wilhelm Geigenbau">
   </a>  
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_kranz.JPG" alt="Cordier en Sonowood érable et épicéa fabriqué par Wilhelm Geigenbau">
-  </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Cordier et mentionnière en Sonowood érable fabriqués par Wilhelm Geigenbau">
   </a>
