@@ -149,13 +149,13 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
     <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Rohling aus Sonowood Ahorn, natives Ahornholz darunter">
   </a>
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
-    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violine mit Formteilen aus Sonowood Ahorn">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violine mit Formteilen aus Sonowood Ahorn von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Wirbel aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar mit Griffbrett, Brücke und Kopfplatte aus Sonowood Ahorn">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar mit Griffbrett, Brücke und Kopfplatte aus Sonowood Ahorn von Canna Guitars">
   </a>
 </div>
 
@@ -191,7 +191,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
         <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
     </a>
     <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violine mit Formteilen aus Sonowood Fichte">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violine mit Formteilen aus Sonowood Fichte von Wilhelm Geigenbau">
     </a>
 </div>
 

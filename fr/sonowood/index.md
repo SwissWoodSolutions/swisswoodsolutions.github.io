@@ -133,13 +133,13 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
     <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Ébauche de Sonowood érable, érable naturel au-dessous">
   </a>
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
-    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violon avec des pièces de forme en Sonowood érable">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violon avec des pièces de forme en Sonowood érable fabriquées par Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable. Photo Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar avec touche, chevalet et tête en Sonowood érable">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar de Canna Guitars avec touche, chevalet et tête en Sonowood érable">
   </a>
 </div>
 
@@ -177,7 +177,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
         <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier de Sonowood épicéa">
     </a>
     <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violon avec des pièces de forme en Sonowood épicéa">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violon avec des pièces de forme en Sonowood épicéa équipé de Wilhelm Geigenbau">
     </a>
 </div>
 

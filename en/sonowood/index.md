@@ -160,13 +160,13 @@ Learn more about the country-specific impacts of the CITES regulations on variou
     <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Sonowood maple as square timber (top), original wood below">
   </a>
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
-    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violin with all fittings in Sonowood Maple">
+    <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violin with all fittings from Sonowood maple made by Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood Maple squared timbers">
+  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg"
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood maple squared timbers">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar in Sonowood">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar with fingerboard and bridge from Sonowood maple by Canna Guitars">
   </a>
 </div>
 
@@ -202,10 +202,10 @@ Learn more about the country-specific impacts of the CITES regulations on variou
         <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Sonowood spruce as square timber (top), original wood below">
     </a>
     <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
-        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Sonowood spruce tailpiece for strings">
+        <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Tailpiece from Sonowood spruce">
     </a>
     <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Sonowood spruce fingerboard for strings">
+        <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Violin with a fingerboard from Sonowood spruce equipped by Wilhelm Geigenbau">
     </a>
 </div>
 
