@@ -197,7 +197,7 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
 ---
 
-  - ## Sonowood Nuss
+  - ## Sonowood Walnuss
 
   - ### Für Streichinstrumente und Gitarren
 
