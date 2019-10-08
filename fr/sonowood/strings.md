@@ -12,8 +12,8 @@ order: 1
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/strings/sonowood_chinrest_maple2.jpg"
-     src="/assets/images/strings/sonowood_chinrest_maple2.jpg" alt="Sonowood on violin">
+<img srcset="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG"
+     src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Sonowood on violin">
 </div>
 
 <div class="full-width-grey">

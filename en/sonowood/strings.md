@@ -12,8 +12,8 @@ order: 1
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/Sonowood_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg"
-     src="/assets/images/sonowood_cover.jpg" alt="Sonowood Geige">
+<img srcset="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG"
+     src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Sonowood Geige">
 </div>
 
 <div class="full-width-grey">
