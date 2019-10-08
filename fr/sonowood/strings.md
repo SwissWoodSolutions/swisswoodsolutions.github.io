@@ -130,10 +130,10 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
     <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Bouton en Sonowood érable fabriqué par Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple2.jpg" alt="Bouton en Sonowood érable fabriquée par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_maple2.jpg" alt="Bouton en Sonowood érable fabriqué par Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple3.jpg" alt="Bouton en Sonowood érable fabriquée par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_maple3.jpg" alt="Bouton en Sonowood érable fabriqué par Berdani Feinste Bestandteile">
   </a>
 </div>
 
