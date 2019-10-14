@@ -106,7 +106,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
     commercialization of the developed processes and manages the distribution channels. Luca Schelbli is charge of the online presence and supervises student papers.
 
     <schelbli@swisswoodsolutions.ch>  
-    Tel. +41 44 633 62 12 (office)
+    Tel. +41 44 633 62 12 (office)  
     Tel. +41 79 837 17 94 (mobile)
 
 </div>

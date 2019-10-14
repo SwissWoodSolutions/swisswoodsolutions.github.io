@@ -79,7 +79,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
     a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
 
     <schelbli@swisswoodsolutions.ch>  
-    Tel. +41 44 633 62 12 (office)
+    Tel. +41 44 633 62 12 (office)  
     Tel. +41 79 837 17 94 (mobile)
  
 </div>
