@@ -76,7 +76,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
     studierte Wirtschaftschemie an der Universität Zürich und Louisiana State University in den USA. Als R&D-Ingenieur arbeitet er an der Entwicklung von physikochemischen Holzmodifikationen für verschiedene Anwendungsgebiete. Ferner unterstützt Luca Schelbli die Kommerzialisierung der im Labor entwickelten Verfahren, die Betreuung der Verkaufskanäle und die Marketingaktivitäten.  
 
     <schelbli@swisswoodsolutions.ch>  
-    Tel. +41 44 633 62 12 (office)
+    Tel. +41 44 633 62 12 (office)  
     Tel. +41 79 837 17 94 (mobile)
 
 </div>
