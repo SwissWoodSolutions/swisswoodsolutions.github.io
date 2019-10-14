@@ -77,7 +77,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
     <schelbli@swisswoodsolutions.ch>  
     Tel. +41 44 633 62 12 (office)  
-    #Tel. +41 79 837 17 94 (mobile)
+    Tel. +41 79 837 17 94 (mobile)
 
 </div>
 </div>
