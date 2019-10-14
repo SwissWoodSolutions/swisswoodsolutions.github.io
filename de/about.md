@@ -36,7 +36,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
   - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
     ### Dr. Oliver Kläusler
-    ### CEO
+    ### Geschäftsführer
 
     studierte Holzwirtschaft und Technologie an der Universität Hamburg und verfasste seine Doktorarbeit an der ETH Zürich. Anschliessend arbeitete er als Forschungsingenieur und Projektmanager in der Holzindustrie in der Schweiz, Tschechien und den USA. Er ist der Erfinder und Entwickler der Produktionstechnologie von zwei Beaufort Produkten für Audi Fahrzeuge. Später war er Leiter einer Forschungsgruppe an der Empa Dübendorf und ETH Zürich. Oliver Kläusler ist Mitgründer und erster CEO von Swiss Wood Solutions.  
 
@@ -45,7 +45,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
   - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
     ### Dr. Munish Chanana
-    ### Co-CEO and Head of R\&D
+    ### Forschungsleiter und stellvertretender Geschäftsführer
 
     studierte Chemie an der Westfälischen Wilhelms-Universität in Münster und verfasste danach seine Doktorarbeit am Max-Planck-Institut in Potsdam. Im Anschluss erlangte er langjährige Forschungserfahrung in nanobiologischen Wissenschaften. Vor seiner Anstellung bei Swiss Wood Solutions leitete Munish Chanana die Forschungsgruppe für hierarchische nanobiologische Materialien an der ETH Zürich. Munish Chanana ist Co-CEO und Forschungsleiter von Swiss Wood Solutions. Zusätzlich ist er Reviewer bei mehreren Wissenschaftsjournalen.  
 
@@ -71,22 +71,13 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
   - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
     ### Luca Schelbli
-    ### R\&D Ingenieur
+    ### Marketing & Sales
 
     studierte Wirtschaftschemie an der Universität Zürich und Louisiana State University in den USA. Als R&D-Ingenieur arbeitet er an der Entwicklung von physikochemischen Holzmodifikationen für verschiedene Anwendungsgebiete. Ferner unterstützt Luca Schelbli die Kommerzialisierung der im Labor entwickelten Verfahren, die Betreuung der Verkaufskanäle und die Marketingaktivitäten.  
 
     <schelbli@swisswoodsolutions.ch>  
-    Tel. +41 44 633 62 12
-
-  - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-    ### Karsten Leuker
-    ### Verkaufsleiter
-
-    studierte Holzwirtschaft und Technologie an der Universität Hamburg. Danach war er am Aufbau eines Holzboden-Unternehmens beteiligt. Dank langjähriger Verkaufserfahrung in der Holzindustrie konnte er ein breites Netzwerk an Kontakten in der Branche aufbauen. Bei Swiss Wood Solutions betreut Karsten Leuker die Verkaufskanäle und pflegt engen Kundenkontakt.
-
-    <leuker@swisswoodsolutions.ch>  
-    Tel. +41 76 205 77 04 (CH)  
-    Tel. +49 174 39 19 564 (D)
+    Tel. +41 44 633 62 12 (office)
+    Tel. +41 79 837 17 94 (mobile)
 
 </div>
 </div>

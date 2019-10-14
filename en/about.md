@@ -97,7 +97,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
   - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
     ### Luca Schelbli
-    ### R\&D engineer
+    ### Sales & Marketing
 
     has studied chemistry and business studies at the University of
     Zurich and Louisiana State University (USA). In his position as R\&D
@@ -106,22 +106,8 @@ Our team fuses the vast knowledge of scientists with diverse academic background
     commercialization of the developed processes and manages the distribution channels. Luca Schelbli is charge of the online presence and supervises student papers.
 
     <schelbli@swisswoodsolutions.ch>  
-    Tel. +41 44 633 62 12
-
-  - ![Karsten Leuker](/assets/images/About_2_Karsten_Leuker_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-    ### Karsten Leuker
-    ### Sales manager
-
-    studied wood science and technology at the University of Hamburg
-    (Germany). Thanks to prior sales positions in the wood industry, he
-    has established a far-reaching network of business contacts
-    including manufacturers and customers of wooden products. At Swiss
-    Wood Solutions, Karsten Leuker is in charge of the distribution
-    channels and engages in close customer interaction.
-
-    <leuker@swisswoodsolutions.ch>  
-    Tel. +41 76 205 77 04 (CH)  
-    Tel. +49 174 39 19 564 (D)
+    Tel. +41 44 633 62 12 (office)
+    Tel. +41 79 837 17 94 (mobile)
 
 </div>
 </div>
