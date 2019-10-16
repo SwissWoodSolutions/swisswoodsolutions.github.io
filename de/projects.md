@@ -15,7 +15,7 @@ order: 7
      src="/assets/images/event_cover_cubestower.jpg" alt="Wood cubes on table">
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap">
 
 Zusätzlich zur ETH Zürich und Empa kooperieren wir mit weiteren öffentlichen und privaten Institutionen im Rahmen von Forschungs- und Entwicklungsprojekten.
@@ -23,7 +23,9 @@ Zusätzlich zur ETH Zürich und Empa kooperieren wir mit weiteren öffentlichen 
 ## Impulsprojekt Deep Learning für hochwertige Holzprodukte mit Innosuisse
 
 Swiss Wood Solutions bietet hochwertige Holzprodukte in Luxusmärkten mit höchsten Qualitätsstandards an. Eine hohe, verlässliche Qualität des Rohmaterials ist dabei unerlässlich. Als natürlicher, nachwachsender Rohstoff unterliegen die Eigenschaften von Holz einer natürlichen Variabilität. **Das Impulsprojekt Deep Learning für hochwertige Holzprodukte verfolgt die Entwicklung und Implementierung eines maschinellen Lernalgorithmus (MLA), der Rohstoff- und Prozessparameter erfasst, analysiert und damit Vorhersagen über die Produktqualität in Echtzeit ermöglicht.** 
+
 Konkret soll der MLA die Wertschöpfung durch eine optimierte Qualitätssicherung sicherstellen. Die Überwachung und Optimierung des Herstellungsprozesses mittels Machine Learning ermöglicht zudem eine optimierte Produktionsausbeute, reduziert den Ressourcen- und Energieverbraucht und erhöht die Flexibilität der Produktion. Swiss Wood Solutions ist bestrebt, nach erfolgreicher Implementierung Lieferanten und Kunden in das Digitalisierungskonzept einzubeziehen. Auf diese Weise können verschiedene Akteure der schweizerischen und europäischen Holzwerkstoffindustrie von einem vertieften Rohstoffwissen profitieren.
+
 Das Impulsprojekt Deep Learning führt Swiss Wood Solutions in enger Kooperation mit der Empa durch. **Unterstützt wird das Projekt von Innosuisse, der schweizerischen Agentur für Innovationsförderung.** Innosuisse fördert mit Innovationsprojekten, Vernetzung, Ausbildung und Coaching gezielt die Zusammenarbeit zwischen Wissenschaft und Industrie, so dass daraus erfolgreiche Schweizer Start-ups, Produkte und Dienstleistungen entstehen können. Das Projekt läuft von November 2019 bis November 2020.
 
 <a class="btn -red" href="https://www.innosuisse.ch/inno/de/home.html" target="_blank">Mehr zu Innosuisse ></a>
@@ -33,7 +35,7 @@ Das Impulsprojekt Deep Learning führt Swiss Wood Solutions in enger Kooperation
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## RETWood mit Eurostars
@@ -51,7 +53,7 @@ Das RETWood-Projekt wird in Zusammenarbeit mit dem französischen Formteilherste
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 ## TEEWood mit Horizon 2020
@@ -69,7 +71,7 @@ In Zusammenarbeit mit [Accelopment](http://www.accelopment.com), einem Dienstlei
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## Swiss Ebony mit der Gebert Rüf Stiftung
