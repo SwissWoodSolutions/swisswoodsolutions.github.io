@@ -28,7 +28,7 @@ Das Impulsprojekt Deep Learning führt Swiss Wood Solutions in enger Kooperation
 
 <a class="btn -red" href="https://www.innosuisse.ch/inno/de/home.html" target="_blank">Mehr zu Innosuisse ></a>
 
-![logo Innosuisse](/assets/images/Innosuisse.png)
+![logo Innosuisse](/assets/images/Innosuisse2.jpg)
 
 </div>
 </div>
