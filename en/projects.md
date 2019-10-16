@@ -51,7 +51,7 @@ In response to the ecological, ethical and legal concerns associated with the us
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap">
 
 ## TEEWood project with Horizon 2020
@@ -69,7 +69,7 @@ The upscale of the developed technology targeted in the TEEWood project with Hor
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## Swiss Ebony project with the Gebert Rüf Foundation
