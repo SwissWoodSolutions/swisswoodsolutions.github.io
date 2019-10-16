@@ -36,6 +36,24 @@ Das Impulsprojekt Deep Learning führt Swiss Wood Solutions in enger Kooperation
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
+## RETWood mit Eurostars
+
+Als Antwort auf die ökologischen, ethischen und rechtlichen Bedenken beim Gebrauch von Tropenhölzern im Instrumentenbau hat Swiss Wood Solutions das nachhaltige Produkt Sonowood entwickelt. Ziel der Innovation ist es, gefährdete Tropenhölzer in Musikinstrumenten zu ersetzen. Sonowood ist ein extrem dichtes und hartes Holzmaterial. Dank der sehr kompakten Holzfaserstruktur lässt es sich besonders gut und präzise gefräst werden kann. Die Produktionsparameter und Holzarten können jedoch das Fräsverhalten bei der CNC-Bearbeitung beeinflussen. 
+
+**Ziel des RETWood Projekts (Replacing Endangered Tropical Woods) ist es, einen automatisierten CNC-Fräsprozess für Sonowood zu entwickeln.** Die erworbene CNC-Fräskompetenz, einschließlich CAD/CAM-Programmierung, wird es ermöglichen, Sonowood-Formteile viel effizienter herzustellen. Die Erkenntnisse können ferner für die Entwicklung weiterer Produkte genutzt werden, die aus formgenauen Holzstücken bestehen, wie etwa Holzblasinstrumente (Flöten, Klarinetten), Werkzeuggriffe (Messer, Hämmer), Stifte und Luxusgüter (Schmuck, Uhren, Kameras).
+
+Das RETWood-Projekt wird in Zusammenarbeit mit dem französischen Formteilhersteller Bois d'Harmonie durchgeführt. **Unterstützt wird das Projekt von Eurostars, einem gemeinsamen Programm von EUREKA und der Europäischen Kommission.** Eurostars unterstützt internationale Innovationsprojekte, die von forschungs- und entwicklungsorientierten KMU geleitet werden. Das Projekt läuft von November 2019 bis November 2022.
+
+<a class="btn -red" href="https://www.eurostars-eureka.eu" target="_blank">Mehr zu Eurostars ></a>
+
+![logo Innosuisse](/assets/images/Eurostars.jpg)
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
 ## TEEWood mit Horizon 2020
 
 In Zusammenarbeit mit [Accelopment](http://www.accelopment.com), einem Dienstleister spezialisiert auf die Teilnahme an Förderprogrammen, absolvierte Swiss Wood Solutions den umfangreichen Bewerbungsprozess beim europäischen Forschungsförderungsprogramm Horizon 2020. Das von der Europäischen Union finanzierte Programm verbindet Forschung mit Innovation, um Lösungen zu gesellschaftlichen Herausforderungen zu finden. Rund 80 Milliarden Euro stehen von 2014 bis 2020 für aussichtsreiche wissenschaftliche Projekte zur Verfügung. Das von uns eingereichte Projekt TEEWood (Technologically Enhanced European Wood) wird im Rahmen von Horizon 2020 mit 1.5 Millionen Euro unterstützt. Die Projektlaufzeit beträgt zwei Jahre und endet im Januar 2020.
