@@ -26,7 +26,7 @@ Swiss Wood Solutions bietet hochwertige Holzprodukte in Luxusmärkten mit höchs
 
 Konkret soll der MLA die Wertschöpfung durch eine optimierte Qualitätssicherung sicherstellen. Die Überwachung und Optimierung des Herstellungsprozesses mittels Machine Learning ermöglicht zudem eine optimierte Produktionsausbeute, reduziert den Ressourcen- und Energieverbraucht und erhöht die Flexibilität der Produktion. Swiss Wood Solutions ist bestrebt, nach erfolgreicher Implementierung Lieferanten und Kunden in das Digitalisierungskonzept einzubeziehen. Auf diese Weise können verschiedene Akteure der schweizerischen und europäischen Holzwerkstoffindustrie von einem vertieften Rohstoffwissen profitieren.
 
-Das Impulsprojekt Deep Learning führt Swiss Wood Solutions in enger Kooperation mit der Empa durch. **Unterstützt wird das Projekt von Innosuisse, der schweizerischen Agentur für Innovationsförderung.** Innosuisse fördert mit Innovationsprojekten, Vernetzung, Ausbildung und Coaching gezielt die Zusammenarbeit zwischen Wissenschaft und Industrie, so dass daraus erfolgreiche Schweizer Start-ups, Produkte und Dienstleistungen entstehen können. Das Projekt läuft von November 2019 bis November 2020.
+Das Impulsprojekt Deep Learning führt Swiss Wood Solutions in enger Kooperation mit der Empa durch. **Unterstützt wird das Projekt von Innosuisse, der schweizerischen Agentur für Innovationsförderung.** Innosuisse fördert mit Innovationsprojekten, Vernetzung, Ausbildung und Coaching gezielt die Zusammenarbeit zwischen Wissenschaft und Industrie, so dass daraus erfolgreiche Schweizer Start-ups, Produkte und Dienstleistungen entstehen können. Das Projekt läuft von November 2019 bis Oktober 2020.
 
 <a class="btn -red" href="https://www.innosuisse.ch/inno/de/home.html" target="_blank">Mehr zu Innosuisse ></a>
 
@@ -42,7 +42,7 @@ Als Antwort auf die ökologischen, ethischen und rechtlichen Bedenken beim Gebra
 
 **Ziel des RETWood Projekts (Replacing Endangered Tropical Woods) ist es, einen automatisierten CNC-Fräsprozess für Sonowood zu entwickeln.** Die erworbene CNC-Fräskompetenz, einschließlich CAD/CAM-Programmierung, wird es ermöglichen, Sonowood-Formteile viel effizienter herzustellen. Die Erkenntnisse können ferner für die Entwicklung weiterer Produkte genutzt werden, die aus formgenauen Holzstücken bestehen, wie etwa Holzblasinstrumente (Flöten, Klarinetten), Werkzeuggriffe (Messer, Hämmer), Stifte und Luxusgüter (Schmuck, Uhren, Kameras).
 
-Das RETWood-Projekt wird in Zusammenarbeit mit dem französischen Formteilhersteller Bois d'Harmonie durchgeführt. **Unterstützt wird das Projekt von Eurostars, einem gemeinsamen Programm von EUREKA und der Europäischen Kommission.** Eurostars unterstützt internationale Innovationsprojekte, die von forschungs- und entwicklungsorientierten KMU geleitet werden. Das Projekt läuft von November 2019 bis November 2022.
+Das RETWood-Projekt wird in Zusammenarbeit mit dem französischen Formteilhersteller Bois d'Harmonie durchgeführt. **Unterstützt wird das Projekt von Eurostars, einem gemeinsamen Programm von EUREKA und der Europäischen Kommission.** Eurostars unterstützt internationale Innovationsprojekte, die von forschungs- und entwicklungsorientierten KMU geleitet werden. Das Projekt läuft von November 2019 bis Oktober 2022.
 
 <a class="btn -red" href="https://www.eurostars-eureka.eu" target="_blank">Mehr zu Eurostars ></a>
 
