@@ -18,7 +18,7 @@ order: 7
 
 Outre l'ETH Zurich et l'Empa, nous coopérons avec d'autres institutions publiques et privées pour la réalisation de projets R\&D.
 
-## Impulse Project Deep Learning pour des produits en bois de haute qualité avec Innosuisse
+## Impulse Project Deep Learning pour des produits en bois de haute qualité en collaboration avec Innosuisse
 
 Swiss Wood Solutions propose des produits en bois de haute qualité sur les marchés du luxe avec les standards de qualité les plus élevés. Ainsi, la qualité élevée et fiable de la matière première est primordiale. Évidemment, les propriétés de notre matière première, le bois, sont sujettes à des variations naturelles. **Le Impulse Project Deep Learning pour les produits du bois de haute qualité vise le développement et l'implémentation d'un algorithme d'apprentissage machine (MLA), qui enregistre et analyse les paramètres des matières premières et des processus et permet ainsi de prévoir la qualité du produit en temps réel.**
 
@@ -34,13 +34,13 @@ Plus important encore, on s'attend que le MLA contribue à assurer la création 
 <div class="full-width">
 <div class="wrap -cols2">
 
-## RETWood Project avec Eurostars
+## RETWood Project en collaboration avec Eurostars
 
 En réponse aux préoccupations écologiques, éthiques et juridiques liées à l'utilisation des bois tropicaux dans la fabrication des instruments à cordes, Swiss Wood Solutions a développé le produit durable Sonowood. L'objectif de cette innovation est de remplacer les bois tropicaux menacés pour la fabrication d'instruments de musique. Sonowood est un matériau en bois extrêmement dense et dur. Grâce à sa structure très compacte en fibres de bois, Sonowood peut être fraisé de manière particulièrement précise. Cependant, les paramètres de production particuliers et les essences de bois peuvent influencer son comportement lors de l'adaptation de la production par usinage CNC. 
 
 **L'objectif du RETWood Project (Replacing Endangered Tropical Woods) est de mener ces recherches et de mettre au point un processus d'usinage CNC automatisé.** La compétence acquise en matière de fraisage CNC, y compris la programmation CAO/FAO, permettra à SWS de produire des pièces de forme de Sonowood de manière beaucoup plus efficace. La compétence acquise en matière de fraisage CNC peut également être utilisée pour le développement d'autres produits composés de pièces en bois de forme précise telles que des instruments à vent (flûtes, clarinettes), des manches d'outils (couteaux, marteaux), des articles de papeterie et des articles de luxe (bijouterie, montres, caméras).
 
-Le RETWood Project est réalisé en coopération avec Bois d'Harmonie, fabricant français de pièces de forme, et soutenu par Eurostars, un programme commun entre EUREKA et la Commission européenne. Eurostars soutient des projets d'innovation internationaux menés par des petites et moyennes entreprises performantes en matière de recherche et de développement. Le projet s'étend de novembre 2019 à octobre 2022.
+**Le RETWood Project est réalisé en coopération avec Bois d'Harmonie, fabricant français de pièces de forme, et soutenu par Eurostars, un programme commun entre EUREKA et la Commission européenne.** Eurostars soutient des projets d'innovation internationaux menés par des petites et moyennes entreprises performantes en matière de recherche et de développement. Le projet s'étend de novembre 2019 à octobre 2022.
 
 <a class="btn -red" href="https://www.eurostars-eureka.eu" target="_blank">En savoir plus sur Eurostars ></a>
 
@@ -52,11 +52,11 @@ Le RETWood Project est réalisé en coopération avec Bois d'Harmonie, fabricant
 <div class="full-width-grey">
 <div class="wrap">
 
-## TEEWood en collaboration avec Horizon 2020
+## TEEWood Project en collaboration avec Horizon 2020
 
 S'appuyant sur les résultats prometteurs des projets Swiss Ebony (voir ci-dessous), Swiss Wood Solutions poursuit son objectif d'expansion de la production. Cela permettra également de produire du bois densifié pour les instruments à cordes plus grands comme les guitares ou les violoncelles. De plus, l'entreprise évalue l'applicabilité de la technologie aux instruments à vent et à percussion.
 
-En collaboration avec [accelopment](http://www.accelopment.com) un prestataire de services spécialisé dans la participation à des programmes de financement, Swiss Wood Solutions a mené à bien le vaste processus de candidature au programme européen pour la recherche et le développement Horizon 2020, financé par l'Union européenne, qui combine recherche et innovation pour trouver des solutions aux défis sociétaux. Environ 80 milliards d'euros seront disponibles pour des projets scientifiques prometteurs entre 2014 et 2020. A notre grand enthousiasme, le projet TEEWood (Technologically Enhanced European Wood) que nous avons présenté a été soutenu par 1.5 million d'euros dans le cadre d'Horizon 2020. La durée du projet est de deux ans et se termine en janvier 2020.
+En collaboration avec [accelopment](http://www.accelopment.com), un prestataire de services spécialisé dans la participation à des programmes de financement, Swiss Wood Solutions a mené à bien le vaste processus de candidature au programme européen pour la recherche et le développement Horizon 2020, financé par l'Union européenne, qui combine recherche et innovation pour trouver des solutions aux défis sociétaux. Environ 80 milliards d'euros seront disponibles pour des projets scientifiques prometteurs entre 2014 et 2020. A notre grand enthousiasme, le projet TEEWood (Technologically Enhanced European Wood) que nous avons présenté a été soutenu par 1.5 million d'euros dans le cadre d'Horizon 2020. La durée du projet est de deux ans et se termine en janvier 2020.
 
 L'expansion prévue de la production dans le cadre du projet TEEWood devrait avoir un certain nombre d'effets positifs. En cas de succès, le projet assurera l'approvisionnement en matières premières des industries dépendantes des bois tropicaux telles que l'industrie des instruments de musique. Le client bénéficiera alors d'un produit durable avec des propriétés physiques et mécaniques ajustables. En même temps, contrairement aux bois tropicaux, il n'y a pas de restrictions commerciales ou de voyage.
 
