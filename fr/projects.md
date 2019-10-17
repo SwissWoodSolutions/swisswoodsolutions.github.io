@@ -18,6 +18,40 @@ order: 7
 
 Outre l'ETH Zurich et l'Empa, nous coopérons avec d'autres institutions publiques et privées pour la réalisation de projets R\&D.
 
+## Impulse Project Deep Learning pour des produits en bois de haute qualité avec Innosuisse
+
+Swiss Wood Solutions propose des produits en bois de haute qualité sur les marchés du luxe avec les standards de qualité les plus élevés. Ainsi, la qualité élevée et fiable de la matière première est primordiale. Évidemment, les propriétés de notre matière première, le bois, sont sujettes à des variations naturelles. **Le Impulse Project Deep Learning pour les produits du bois de haute qualité vise le développement et l'implémentation d'un algorithme d'apprentissage machine (MLA), qui enregistre et analyse les paramètres des matières premières et des processus et permet ainsi de prévoir la qualité du produit en temps réel.**
+
+Plus important encore, on s'attend que le MLA contribue à assurer la création de valeur par le biais d'une assurance qualité optimisée. Les autres avantages du projet sont un rendement de production optimisé, une réduction de la consommation de ressources et d'énergie grâce à la réduction des déchets et à l'optimisation des paramètres de processus, ainsi qu'une production plus flexible. Une fois mis en œuvre, Swiss Wood Solutions aspire à inclure les fournisseurs et les clients dans le concept de numérisation. Comme ça, des différentes parties de l'industrie du bois suisse et européenne peuvent ainsi bénéficier d'un aperçu plus détaillé des matières premières.
+
+**Le Impulse Project Deep Learning est réalisé en collaboration avec l'Empa et soutenu par Innosuisse, l'Agence suisse pour l’encouragement de l'innovation.** Innosuisse encourage des partenariats entre le monde académique et les marchés par des projets d'innovation, la mise en réseau, la formation et le coaching, jetant ainsi les bases du succès des start-up, produits et services suisses. Le projet s'étend de novembre 2019 à octobre 2020.
+
+<a class="btn -red" href="https://www.innosuisse.ch/inno/fr/home.html" target="_blank">En savoir plus sur Innosuisse ></a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+## RETWood Project avec Eurostars
+
+En réponse aux préoccupations écologiques, éthiques et juridiques liées à l'utilisation des bois tropicaux dans la fabrication des instruments à cordes, Swiss Wood Solutions a développé le produit durable Sonowood. L'objectif de cette innovation est de remplacer les bois tropicaux menacés pour la fabrication d'instruments de musique. Sonowood est un matériau en bois extrêmement dense et dur. Grâce à sa structure très compacte en fibres de bois, Sonowood peut être fraisé de manière particulièrement précise. Cependant, les paramètres de production particuliers et les essences de bois peuvent influencer son comportement lors de l'adaptation de la production par usinage CNC. 
+
+**L'objectif du RETWood Project (Replacing Endangered Tropical Woods) est de mener ces recherches et de mettre au point un processus d'usinage CNC automatisé.** La compétence acquise en matière de fraisage CNC, y compris la programmation CAO/FAO, permettra à SWS de produire des pièces de forme de Sonowood de manière beaucoup plus efficace. La compétence acquise en matière de fraisage CNC peut également être utilisée pour le développement d'autres produits composés de pièces en bois de forme précise telles que des instruments à vent (flûtes, clarinettes), des manches d'outils (couteaux, marteaux), des articles de papeterie et des articles de luxe (bijouterie, montres, caméras).
+
+Le RETWood Project est réalisé en coopération avec Bois d'Harmonie, fabricant français de pièces de forme, et soutenu par Eurostars, un programme commun entre EUREKA et la Commission européenne. Eurostars soutient des projets d'innovation internationaux menés par des petites et moyennes entreprises performantes en matière de recherche et de développement. Le projet s'étend de novembre 2019 à octobre 2022.
+
+<a class="btn -red" href="https://www.eurostars-eureka.eu" target="_blank">En savoir plus sur Eurostars ></a>
+
+![logo Innosuisse](/assets/images/Eurostars.jpg)
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap">
+
 ## TEEWood en collaboration avec Horizon 2020
 
 S'appuyant sur les résultats prometteurs des projets Swiss Ebony (voir ci-dessous), Swiss Wood Solutions poursuit son objectif d'expansion de la production. Cela permettra également de produire du bois densifié pour les instruments à cordes plus grands comme les guitares ou les violoncelles. De plus, l'entreprise évalue l'applicabilité de la technologie aux instruments à vent et à percussion.
