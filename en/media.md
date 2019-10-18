@@ -44,6 +44,9 @@ subsequent concert of the Pacific Quartet Vienna on their instruments fitted wit
 
 ## More of Swiss Wood Solutions on TV and Radio
 
+  - [**The Strad Magazine**  
+    Overcoming our addiction to tropical hardwoods: the latest alternatives,
+    13.06.2019](https://www.thestrad.com/lutherie/overcoming-our-addiction-to-tropical-hardwoods-the-latest-alternatives/9090.article)
   - [**Science Stories**  
     03.07.2019](https://www.youtube.com/watch?v=SI2FyJS_ofc)
   - [**Falling Walls Lab, Presentation**  
