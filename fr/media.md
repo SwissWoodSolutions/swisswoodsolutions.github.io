@@ -71,7 +71,7 @@ En octobre 2017, la technologie a été présentée à un large public dans un a
     Overcoming our addiction to tropical hardwoods: the latest alternatives,
     13.06.2019](https://www.thestrad.com/lutherie/overcoming-our-addiction-to-tropical-hardwoods-the-latest-alternatives/9090.article)
   - [**Science Stories**  
-    03 juillet 2019](https://science-stories.ch/swisswood/)
+    When Swiss Spruce turns into something like ebony, 03 juillet 2019](https://science-stories.ch/swisswood/)
   - [**NZZ**  
     Ein Schweizer Esatz für tropisches Ebenholz aus dem Labor,
     24 octobre 2017](https://www.nzz.ch/wissenschaft/ein-schweizer-ersatz-fuer-tropisches-ebenholz-ld.1323798)
