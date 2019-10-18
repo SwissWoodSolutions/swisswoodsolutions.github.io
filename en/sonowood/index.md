@@ -163,8 +163,8 @@ Learn more about the country-specific impacts of the CITES regulations on variou
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
     <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violin with all fittings from Sonowood maple made by Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg"
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs made from Sonowood maple squared timbers">
+  <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Pegs from Sonowood maple made by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
       <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar with fingerboard and bridge from Sonowood maple by Canna Guitars">
