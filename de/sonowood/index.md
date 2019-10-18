@@ -169,6 +169,10 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
       - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
+      - **Wirbel** für Geigen, Bratschen und Celli
+      - **Kinnhalter** für alle Streichinstrumente
+      - **Komplettes Set** der oben genannten Instrumententeile
+      - **Stege und Kopfplatten** für Gitarren
 
   - #### Technische Daten
 
@@ -204,6 +208,11 @@ Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmung
   - #### Sortiment
 
       - **Griffbretter** für Geigen, Bratschen, Celli und Gitarren
+      - **Saitenhalter** für Geigen, Bratschen, Celli und Kontrabass
+      - **Wirbel** für Geigen, Bratschen und Celli
+      - **Kinnhalter** für alle Streichinstrumente
+      - **Komplettes Set** der oben genannten Instrumententeile
+      - **Stege und Kopfplatten** für Gitarren
 
   - #### Technische Daten
 

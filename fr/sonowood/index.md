@@ -153,6 +153,9 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
       - **Touches** pour violon, alto, violoncelle et guitare
       - **Cordiers** pour violon, alto, violoncelle et contrebasse
+      - **Chevilles** pour violon, alto et violoncelle
+      - **Mentionnières** pour tous les instruments à cordes
+      - **L'ensemble complet** des accessoires décrits ci-dessus
 
   -  #### Données techniques:
 
@@ -190,6 +193,10 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
   - #### Gamme de produits:
 
       - **Touches** pour violon, alto, violoncelle et guitare
+      - **Cordiers** pour violon, alto, violoncelle et contrebasse
+      - **Chevilles** pour violon, alto et violoncelle
+      - **Mentionnières** pour tous les instruments à cordes
+      - **L'ensemble complet** des accessoires décrits ci-dessus
 
   -  #### Données techniques:
 

@@ -138,7 +138,8 @@ Learn more about the country-specific impacts of the CITES regulations on variou
       - **Tailpieces** for violin, viola, cello and double bass
       - **Pegs** square timbers are provided for violin, viola and cello
       - **Chinrest**
-      - **Full set** as square timbers
+      - **Full set** as blanks and fittings
+      - **Bridges and headstocks** for guitars
 
   -  #### Technical data:
 
@@ -181,6 +182,10 @@ Learn more about the country-specific impacts of the CITES regulations on variou
       - **Fingerboards** for violin, viola, cello and guitar; as square
         timbers
       - **Tailpieces** for violin, viola, cello and double bass
+      - **Pegs** square timbers are provided for violin, viola and cello
+      - **Chinrest**
+      - **Full set** as blanks and fittings
+      - **Bridges and headstocks** for guitars
 
   -  #### Technical data
 
@@ -219,6 +224,11 @@ Learn more about the country-specific impacts of the CITES regulations on variou
 
       - **Fingerboards** for violin, viola, cello and guitar; as square
         timbers
+      - **Tailpieces** for violin, viola, cello and double bass
+      - **Pegs** square timbers are provided for violin, viola and cello
+      - **Chinrest**
+      - **Full set** as blanks and fittings
+      - **Bridges and headstocks** for guitars
 
   -  #### Technical data:
 
