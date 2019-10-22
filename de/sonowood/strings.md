@@ -58,7 +58,7 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
     <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Andreas Hochuli">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 mit Griffbrett und Saitenhalter aus Sonowood Fichte von Wilhelm Geigenbau. Foto: The Strad Magazine">

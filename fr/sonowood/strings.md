@@ -58,7 +58,7 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
     <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Touche en Sonowood épicéa">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg" alt="Touche et cordier en Sonowood épicéa. Photo de Andreas Hochuli">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Touche et cordier en Sonowood épicéa. Photo de Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 avec touche et cordier en Sonowood épicéa, équipé de Wilhelm Geigenbau. Photo de Strad Magazine">

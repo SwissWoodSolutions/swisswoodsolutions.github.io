@@ -58,7 +58,7 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Fingerboard from Sonowood spruce">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg" alt="Fingerboard and tailpiece from Sonowood spruce. Picture by Andreas Hochuli">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Fingerboard and tailpiece from Sonowood spruce. Picture by Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 with fingerboard and tailpiece from Sonowood spruce equipped by Wilhelm Geigenbau. Picture by the Strad Magazine">

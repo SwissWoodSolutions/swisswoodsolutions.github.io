@@ -11,8 +11,8 @@ order: 4
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/Partner_1_Wilhelm_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
-     src="/assets/images/partner_cover.jpg" alt="home_materials_2x">
+<img srcset="/assets/images/strings/sonowood_chinrest_maple2.jpg"
+     src="/assets/images/strings/sonowood_chinrest_maple2.jpg" alt="home_materials_2x">
 </div>
 
 <div class="full-width-grey">
@@ -27,12 +27,12 @@ The Swiss national TV captured the results of the workshop in a [broadcast.](/en
 <a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
 
   - <img srcset="/assets/images/partner_wilhelm1.jpg"
-     src="/assets/images/partner_wilhelm1.jpg" alt="Violine mit Griffbrett aus Sonowood Ahorn">
-	<figcaption>Violine mit Griffbrett aus Sonowood Ahorn</figcaption>
+     src="/assets/images/partner_wilhelm1.jpg" alt="Violin with fingerboard from Sonowood maple.">
+	<figcaption>Violin with fingerboard from Sonowood maple.</figcaption>
 
   - <img srcset="/assets/images/partner_wilhelm2.jpg"
-     src="/assets/images/partner_wilhelm2.jpg" alt="Violine mit Griffbrett aus Sonowood Fichte">
-	<figcaption>Violine mit Griffbrett aus Sonowood Fichte</figcaption>
+     src="/assets/images/partner_wilhelm2.jpg" alt="Violin with fingerboard from Sonowood spruce.">
+	<figcaption>Violin with fingerboard from Sonowood spruce.</figcaption>
 
 </div>
 </div>
@@ -92,7 +92,7 @@ Egon Rauscher and his company Soultool Costumized Guitars Switzerland have speci
      src="/assets/images/SonicMuse3.jpg" alt="SonicMuse by Soultool Customized Guitars">
 	<figcaption>SonicMuse by Soultool Customized Guitars.</figcaption>
 
-<a class="btn -red" href="https://soultool.com" target="_blank">Soultool ></a>
+<a class="btn -red" href="https://soultool.com" target="_blank">Soultool Customized Guitars ></a>
 
 </div>
 </div>
