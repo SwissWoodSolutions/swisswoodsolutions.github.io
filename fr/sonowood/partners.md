@@ -11,8 +11,8 @@ order: 4
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/partner_wilhelm2.jpg"
-     src="/assets/images/partner_wilhelm2.jpg" alt="home_materials_2x">
+<img srcset="/assets/images/strings/sonowood_chinrest_maple2.jpg"
+     src="/assets/images/strings/sonowood_chinrest_maple2.jpg" alt="home_materials_2x">
 </div>
 
 <div class="full-width-grey">
