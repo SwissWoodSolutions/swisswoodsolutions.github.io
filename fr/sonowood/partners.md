@@ -11,8 +11,8 @@ order: 4
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/Partner_1_Wilhelm_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
-     src="/assets/images/partner_cover.jpg" alt="home_materials_2x">
+<img srcset="/assets/images/partner_wilhelm2.jpg"
+     src="/assets/images/partner_wilhelm2.jpg" alt="home_materials_2x">
 </div>
 
 <div class="full-width-grey">
@@ -25,12 +25,12 @@ Wilhelm Geigenbau de Suhr est partenaire de Swiss Wood Solutions depuis 2016. Pe
 La télévision suisse SRF a participé à l'atelier. Vous trouverez le rapport dans le programme Schweiz aktuell du 2 mars 2018 [ici.](/fr/media)  
 
  - <img srcset="/assets/images/partner_wilhelm1.jpg"
-     src="/assets/images/partner_wilhelm1.jpg" alt="Violine mit Griffbrett aus Sonowood Ahorn">
-	<figcaption>Violine mit Griffbrett aus Sonowood Ahorn</figcaption>
+     src="/assets/images/partner_wilhelm1.jpg" alt="Violon avec touche en Sonowood érable.">
+	<figcaption>Violon avec touche en Sonowood érable.</figcaption>
 
   - <img srcset="/assets/images/partner_wilhelm2.jpg"
-     src="/assets/images/partner_wilhelm2.jpg" alt="Violine mit Griffbrett aus Sonowood Fichte">
-	<figcaption>Violine mit Griffbrett aus Sonowood Fichte</figcaption>
+     src="/assets/images/partner_wilhelm2.jpg" alt="Violon avec touche en Sonowood épicéa.">
+	<figcaption>Violon avec touche en Sonowood épicéa.</figcaption>
 
 <a class="btn -red" href="http://www.wilhelm-geigenbau.ch/index.php?id=2399" target="_blank">Wilhelm Geigenbau ></a>
 
@@ -94,7 +94,7 @@ Traduit avec www.DeepL.com/Translator
      src="/assets/images/SonicMuse3.jpg" alt="SonicMuse de Soultool Customized Guitars">
 	<figcaption>SonicMuse de Soultool Customized Guitars.</figcaption>
 
-<a class="btn -red" href="https://soultool.com" target="_blank">Soultool ></a>
+<a class="btn -red" href="https://soultool.com" target="_blank">Soultool Customized Guitars ></a>
 
 </div>
 </div>
