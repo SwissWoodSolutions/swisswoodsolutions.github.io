@@ -72,7 +72,27 @@ Berdani bietet feinste Bestandteile für Streichinstrumente aller Art. Im Online
      src="/assets/images/partner_berdani2.jpg" alt="Kinnhalter aus Sonowood Ahorn von Berdani">
 	<figcaption>Kinnhalter aus Sonowood Ahorn von Berdani.</figcaption>
 
-<a class="btn" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
+<a class="btn -grey" href="https://berdani-shop.de/" target="_blank">Berdani Shop ></a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+## Soultool Customized Guitars
+
+Egon Rauscher hat sich mit seiner Firma Soultool Costumized Guitars Switzerland auf den Bau elektrischer Gitarren und Bässe spezialisiert. Soultool Gitarren sind handgefertigte Meisterstücke für das Leben. Unter den Prämissen Nachhaltigkeit, Qualität und höchste Klangpräzision werden in Zusammenarbeit mit Swiss Wood Solutions laufend umfangreiche Soundchecks durchgeführt. Das Griffbrett und die SonicBridge-Base der neusten Schöpfung SonicMuse sind aus Sonowood gefertigt.
+
+- <img srcset="/assets/images/SonicMuse2.jpg"
+     src="/assets/images/SonicMuse2.jpg" alt="SonicMuse von Soultool Customized Guitars mit Griffbrett aus Sonowood Fichte">
+	<figcaption>Das Modell SonicMuse mit Griffbrett aus Sonowood Fichte.</figcaption>
+
+- <img srcset="/assets/images/SonicMuse3.jpg"
+     src="/assets/images/SonicMuse3.jpg" alt="Sonowood Klarinette von Robert Stempfle">
+	<figcaption>SonicMuse von Soultool Customized Guitars.</figcaption>
+
+<a class="btn -red" href="https://soultool.com" target="_blank">Soultool ></a>
 
 </div>
 </div>
