@@ -11,8 +11,8 @@ order: 4
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 </div>
-<img srcset="/assets/images/Partner_1_Wilhelm_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg"
-     src="/assets/images/partner_wilhelm_2x.jpg" alt="Violin manufactured by Wilhelm Geigenbau">
+<img srcset="/assets/images/strings/sonowood_chinrest_maple2.jpg"
+     src="/assets/images/strings/sonowood_chinrest_maple2.jpg" alt="Violin manufactured by Wilhelm Geigenbau">
 </div>
 
 <div class="full-width-grey">
