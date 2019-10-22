@@ -77,6 +77,26 @@ Berdani offers the finest components for string instruments of all kinds. In the
 </div>
 </div>
 
+<div class="full-width">
+<div class="wrap -cols2">
+
+## Soultool Customized Guitars
+
+Egon Rauscher and his company Soultool Costumized Guitars Switzerland have specialized in the construction of electric guitars and basses. Soultool guitars are handmade masterpieces for life.  Under the premises of sustainability, quality and highest sound precision, extensive sound checks are carried out in cooperation with Swiss Wood Solutions. The fretboard and the SonicBridge base of the newly released model SonicMuse are made from Sonowood.
+
+- <img srcset="/assets/images/SonicMuse2.jpg"
+     src="/assets/images/SonicMuse2.jpg" alt="The new SonicMuse with a fretboard from Sonowood spruce.">
+	<figcaption>The new SonicMuse with a fretboard from Sonowood spruce.</figcaption>
+
+- <img srcset="/assets/images/SonicMuse3.jpg"
+     src="/assets/images/SonicMuse3.jpg" alt="SonicMuse by Soultool Customized Guitars">
+	<figcaption>SonicMuse by Soultool Customized Guitars.</figcaption>
+
+<a class="btn -red" href="https://soultool.com" target="_blank">Soultool ></a>
+
+</div>
+</div>
+
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
