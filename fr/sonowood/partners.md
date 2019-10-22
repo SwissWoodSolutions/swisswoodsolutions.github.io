@@ -84,8 +84,6 @@ Berdani offre les meilleurs composants pour instruments à cordes de toutes sort
 
 Egon Rauscher et son atelier Soultool Costumized Guitars Switzerland se sont spécialisés dans la fabrication de guitares et basses électriques. Les guitares Soultool sont des chefs-d'œuvre faits main pour la vie.  Dans un souci de durabilité, de qualité et de précision acoustique maximale, des contrôles acoustiques approfondis sont effectués en collaboration avec Swiss Wood Solutions. Le manche et la base SonicBridge du nouveau modèle SonicMuse sont fabriqués en Sonowood.
 
-Traduit avec www.DeepL.com/Translator
-
 - <img srcset="/assets/images/SonicMuse2.jpg"
      src="/assets/images/SonicMuse2.jpg" alt="La nouvelle SonicMuse avec une manche en Sonowood épicéa.">
 	<figcaption>La nouvelle SonicMuse avec une manche en Sonowood épicéa.</figcaption>
