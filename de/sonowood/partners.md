@@ -92,7 +92,7 @@ Egon Rauscher hat sich mit seiner Firma Soultool Costumized Guitars Switzerland 
      src="/assets/images/SonicMuse3.jpg" alt="Sonowood Klarinette von Robert Stempfle">
 	<figcaption>SonicMuse von Soultool Customized Guitars.</figcaption>
 
-<a class="btn -red" href="https://soultool.com" target="_blank">Soultool ></a>
+<a class="btn -red" href="https://soultool.com" target="_blank">Soultool Customized Guitars ></a>
 
 </div>
 </div>
