@@ -101,6 +101,9 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
   - [**EMPA Quarterly**  
     «...as black as ebony»,
     19. Oktober 2017](/assets/docs/201710_EmpaQuarterly.pdf)
+ -  [**Schreinerzeitung**  
+    Sonderpreis für "Schweizer Tropenholz",
+    17.10.2019](/assets/docs/Schreinerzeitung2019.pdf)
  -  [**Bouwbrief**  
     Houtverdichting: een nieuwe techniek van veredeling van klankhout,
     Februar 2018](/assets/docs/201802_Bouwbrief.pdf)

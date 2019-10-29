@@ -133,6 +133,9 @@ Zeitung followed.
   - [**Zoo Zurich**  
     Schweizer «Ebenholz» für Instrumente,
     24.10.2017](https://www.zoo.ch/zoonews/schweizer-«ebenholz»-für-instrumente)
+ -  [**Schreinerzeitung**  
+    Sonderpreis für "Schweizer Tropenholz",
+    17.10.2019](/assets/docs/Schreinerzeitung2019.pdf)
   - [**Bouwbrief**  
     Houtverdichting: een nieuwe techniek van veredeling van klankhout,
     February 2018](/assets/docs/201802_Bouwbrief.pdf)
