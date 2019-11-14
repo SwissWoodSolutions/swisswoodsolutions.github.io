@@ -23,6 +23,19 @@ order: 8
 
 ---
 
+- ## ELEMENTE materialForum 
+  ### November 21-27, Berlin, Germany
+
+  The ELEMENTE materialForum in Berlin presents innovative materials for architecture and design. Experience our novel wood products Sonowood, Bijouwood and Sonoveneer at this year's wood exhibition from 21 to 27 November and afterwards in the material library at Tempelhofer Berg 6 in Berlin.
+
+- <a href="https://www.elemente-material.de/en/index.html" target="_blank">![ELEMENTE](/assets/images/ELEMENTE.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Swiss Innovation Forum
   ### November 21, Basel, Switzerland
 
@@ -33,7 +46,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## SHG Music Show
@@ -46,7 +59,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Guitars & More
@@ -59,7 +72,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## The 2020 NAMM Show
@@ -72,7 +85,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## The Holy Grail Guitar Show 
@@ -85,7 +98,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Swiss Alpine Museum
@@ -98,7 +111,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 ### Past events
@@ -120,7 +133,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Museum Füssen
@@ -128,8 +141,6 @@ order: 8
   ### August 31, Füssen, Germany
 
   Dr. Oliver Kläusler, inventor of Sonowood, gave a speech at the museum of the city of Füssen in Bavaria, Germany, as part of a two-part lecture. First, an overview was given on the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and its impact on the construction and trade of musical instruments. In the second part, Dr. Kläusler presented Sonowood as an alternative to the use of overused woods.
-
-
 
 - <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
 

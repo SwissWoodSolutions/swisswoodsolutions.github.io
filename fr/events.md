@@ -23,6 +23,19 @@ order: 8
 
 ---
 
+- ## ELEMENTE materialForum 
+  ### 21 novembre, Berlin, l'Allemagne
+
+  ELEMENTE materialForum à Berlin présente des matériaux innovants pour l'architecture et le design. Venez découvrir nos nouveaux produits Sonowood, Bijouwood et Sonoveneer au salon du bois du 21 au 27 novembre et ensuite à la bibliothèque de matériaux de la Tempelhofer Berg 6 à Berlin.
+
+- <a href="https://www.elemente-material.de/en/index.html" target="_blank">![ELEMENTE](/assets/images/ELEMENTE.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Swiss Innovation Forum
   ### 21 novembre, Bâle, Suisse
 
@@ -33,7 +46,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## SHG Music Show
@@ -46,7 +59,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Guitars & More
@@ -59,7 +72,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## The 2020 NAMM Show
@@ -72,7 +85,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## The Holy Grail Guitar Show 
@@ -85,7 +98,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Alpines Museum der Schweiz
@@ -98,7 +111,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 ### Événements passés:
@@ -120,7 +133,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Museum Füssen

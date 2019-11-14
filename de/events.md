@@ -23,6 +23,19 @@ order: 8
 
 ---
 
+- ## ELEMENTE materialForum 
+  ### 21. bis 27. November, Berlin, Deutschland
+
+  Im ELEMENTE materialForum in Berlin werden innovative Werkstoffe für Architektur und Design präsentiert. Erleben Sie unsere neuartigen Holzprodukte Sonowood, Bijouwood und Sonoveneer an der diesjährigen Holzausstellung vom 21. bis 27. November und danach ganzjährig in der Materialbibliothek am Tempelhofer Berg 6 in Berlin.  
+
+- <a href="https://www.elemente-material.de/" target="_blank">![ELEMENTE](/assets/images/ELEMENTE.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## Swiss Innovation Forum
   ### 21. November, Basel, Schweiz
 
@@ -33,11 +46,11 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## SHG Music Show
-  ### 23. und 24. November 2019, Mailand, Italien
+  ### 23. und 24. November, Mailand, Italien
 
   An der SHG Music Show in Mailand nehmen viele Mitglieder der Europäischen Gitarrenbauer Vereinigung EGB teil. Sonowood wird im Messezentrum in Mailand auf zahlreichen neuen Instrumenten zu erleben sein. 
 
@@ -46,11 +59,11 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Guitars & More
-  ### 24. November 2019, Wettingen, Schweiz
+  ### 24. November, Wettingen, Schweiz
 
   Bereits zum vierten Mal präsentiert Guitars & More innovative und kreative Gitarrenbauer. Besucher dürfen erneut gespannt sein auf die Präsentation von bahnbrechenden Neuigkeiten aus der Gitarrenwelt. Sonowood darf dabei natürlich nicht fehlen.
 
@@ -59,7 +72,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## The 2020 NAMM Show
@@ -72,7 +85,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## The Holy Grail Guitar Show 
@@ -85,7 +98,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Alpines Museum der Schweiz
@@ -98,7 +111,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 ## Vergangene Events:
@@ -120,7 +133,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Museum Füssen
