@@ -24,7 +24,7 @@ order: 8
 ---
 
 - ## ELEMENTE materialForum 
-  ### 21 novembre, Berlin, l'Allemagne
+  ### 21-27 novembre, Berlin, l'Allemagne
 
   ELEMENTE materialForum à Berlin présente des matériaux innovants pour l'architecture et le design. Venez découvrir nos nouveaux produits Sonowood, Bijouwood et Sonoveneer au salon du bois du 21 au 27 novembre et ensuite à la bibliothèque de matériaux de la Tempelhofer Berg 6 à Berlin.
 
