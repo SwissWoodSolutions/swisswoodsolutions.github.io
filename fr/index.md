@@ -19,7 +19,7 @@ order: 1
 <div class="full-width-red">
 <div class="wrap">
 
- ## Nous sommes motivés par la conviction que le bois est encore un matériau sous-estimé.
+ ## Swiss Wood Solutions raffine le bois massif et les placages de bois pour remplacer les essences tropicales menacées, les laques à base de pétrole, les revêtements, les plastiques et les produits du quotidien par des produits en bois durable. Nous utilisons uniquement des essences d’origine durable. Tous nos produits sont biodégradables, composé à 100% de bois et ne contiennent aucun plastique, résine ou colorant artificiel.
 
 </div>
 </div>
