@@ -21,7 +21,7 @@ Swiss Wood Solutions wurde 2016 als Spin-off der ETH Zürich und Empa in Dübend
 
 Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Alle unsere Teammitglieder haben vor ihrer Tätigkeit bei Swiss Wood Solutions an der ETH und/oder Empa Forschungserfahrung gesammelt. Die Eidgenössisch Technische Hochschule (ETH) Zürich ist eine global führende Institution in technischen und naturwissenschaftlichen Forschungsrichtungen. Die Eidgenössische Materialsprüfungs- und Forschungsanstalt (Empa) ist eine interdisziplinäre Forschungsinstitution für anwendungsorientierte Materialwissenschaften mit mehreren Standorten in der Schweiz. Das Spin-off profitiert von infrastruktureller und technischer Unterstützung der beiden Institutionen. Nichtsdestotrotz ist Swiss Wood Solutions ein eigenständiges, unabhängiges Unternehmen und hält als solches eigene Rechte an geistigem Eigentum.
 
-  - ![logo eth spinoff](/assets/images/ETHlogo.png)
+  - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
   - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
 
 <a class="btn -red" href="/de/contact">Kontaktieren Sie uns ></a>
