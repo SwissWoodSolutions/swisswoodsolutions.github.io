@@ -19,7 +19,7 @@ order: 1
 <div class="full-width-red">
 <div class="wrap">
 
-  ### Wir sind überzeugt, dass Holz mehr kann. Deshalb möchten wir unsere innovativen Holzprodukte und Holzexpertise aus dem Labor und in das 21. Jahrhundert tragen.
+  ### Swiss Wood Solutions veredelt Massivholz und Holzfurniere, um gefährdete Tropenhölzer, erdölbasierte Lacke, Beschichtungen und Kunststoffe sowie funktionale Produkte des täglichen Lebens durch nachhaltige Holzprodukte zu ersetzen. Dafür werden ausschliesslich einheimische Hölzer aus nachhaltigen Beständen verwendet. Alle Produkte sind biologisch abbaubar, bestehen zu 100% aus Holz und enthalten keine Kunststoffe, Harze oder Kunstfarben. 
 
 </div>
 </div>
