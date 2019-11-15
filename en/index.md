@@ -7,7 +7,7 @@ order: 1
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# We create the wood of tomorrow.
+# We develop the wood of tomorrow.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
@@ -20,7 +20,9 @@ order: 1
 <div class="full-width-red">
 <div class="wrap">
 
-  ## We are driven by the belief that wood is still an underestimated material. That is why we want to bring our novel wood products and expertise out of the research lab and into the 21st century.
+  ## Swiss Wood Solutions 
+refines solid wood and wood veneers to replace endangered tropical woods, petroleum-based lacquers, coatings, plastics, and functional products for everyday use
+ by sustainable wood products. For this purpose, domestic woods from sustainably managed sources are used. All products are biodegradable, consist of 100% wood and do not contain any plastics, resins or artificial colours.
 
 </div>
 </div>
