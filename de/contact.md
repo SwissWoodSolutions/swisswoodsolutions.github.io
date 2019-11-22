@@ -7,7 +7,7 @@ order: 10
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Technologisch modifiziertes Holz, massgeschneidert nach Ihren Anforderungen? 
+# Technologisch modifiziertes Holz, massgeschneidert nach Ihren Anforderungen?
 
 ![](/assets/images/arrow-d-white.svg)
 
@@ -26,10 +26,8 @@ Fragen zu unserem Holzberatungs- und Serviceangebot? Kontaktieren Sie uns.
 
 ### Swiss Wood Solutions AG
 
-Stefano-Franscini-Platz 3  
-c/o ETH Zürich  
-HIF E 29.1  
-CH – 8093 Zürich
+Überlandstrasse 129  
+CH-8600 Dübendorf
 
 Tel. +41 44 633 62 12
 

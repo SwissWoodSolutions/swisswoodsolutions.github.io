@@ -27,10 +27,8 @@ Nous avons éveillé votre intérêt et vous souhaitez acheter nos produits? Vou
 
 ### Swiss Wood Solutions AG
 
-Stefano-Franscini-Platz 3  
-c/o ETH Zürich  
-HIF E 29.1  
-CH – 8093 Zürich
+Überlandstrasse 129  
+CH-8600 Dübendorf
 
 Tel. +41 44 633 62 12
 

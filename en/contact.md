@@ -24,10 +24,8 @@ We look forward to hearing from you.
 
 ### Swiss Wood Solutions AG
 
-Stefano-Franscini-Platz 3  
-c/o ETH Zürich  
-HIF E 29.1  
-CH – 8093 Zürich
+Überlandstrasse 129  
+CH-8600 Dübendorf
 
 Tel. +41 44 633 62 12 <br/>
 <a href="mailto:info@swisswoodsolutions.ch">info@swisswoodsolutions.ch</a>
