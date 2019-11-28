@@ -50,7 +50,7 @@ Tel. +41 44 633 62 12
       <input type="email" name="entry.913371209" class="input-line" placeholder="Mon adresse e-mail*" required minlength="3">
       <input type="text" name="entry.14292811" class="input-line" placeholder="J'habite en (Pays)" required minlength="2">
       <p>Je m'interesse à:</p>
-      <input type="text" name="entry.812095084" class="input-line" placeholder="Sonowood pièces brutes, pièces pour (instrument), autre produits,...*" required minlength="5">
+      <input type="text" name="entry.812095084" class="input-line" placeholder="Sonowood pièces brutes, pièces pour (instrument), autres produits,...*" required minlength="5">
       <textarea name="entry.1789398419" class="input-field" placeholder="Mon message et mes questions"></textarea>
       <input type="hidden" name="entry.298481630" value="FR">
       <button type="submit" class="form-submit">Envoyer</button>
