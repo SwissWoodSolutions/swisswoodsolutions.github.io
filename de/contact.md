@@ -48,16 +48,8 @@ Tel. +41 44 633 62 12
     <input type="text" name="entry.1998489538" class="input-line" placeholder="Mein Name*" required minlength="2">
     <input type="email" name="entry.913371209" class="input-line" placeholder="Meine E-Mail*" required minlength="3">
     <input type="text" name="entry.14292811" class="input-line" placeholder="Ich wohne in (Land)" required minlength="2">
-    <p>Ich interessiere mich für Sonowood für:</p>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Streichinstrumente</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Gitarren</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Andere Instrumente oder Produkte</label>
-    </div>
+    <p>Ich interessiere mich für:</p>
+    <input type="text" name="entry.812095084" class="input-line" placeholder="Kantholz, Instrument, Produkt,...*" required minlength="5">
     <textarea name="entry.1789398419" class="input-field" placeholder="Meine Nachricht"></textarea>
     <input type="hidden" name="entry.298481630" value="DE">
     <button type="submit" class="form-submit">Senden</button>
@@ -66,4 +58,4 @@ Tel. +41 44 633 62 12
 </div>
 </div>
 
-<iframe class="googlemap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2700.1155189649708!2d8.5039514!3d47.4096879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900aff953b798f%3A0x863c7256ee1e8786!2sHIF%2C+8049+Z%C3%BCrich!5e0!3m2!1sde!2sch!4v1533558275573" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe class="googlemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2700.44450385337!2d8.609490751889455!3d47.40327040989173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa1a875f2bded%3A0xf407fcd37d36f74a!2s%C3%9Cberland%20Str.%20129%2C%208600%20D%C3%BCbendorf!5e0!3m2!1sen!2sch!4v1574947710162!5m2!1sen!2sch" frameborder="0" style="border:0" allowfullscreen></iframe>
