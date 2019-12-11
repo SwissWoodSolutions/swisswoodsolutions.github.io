@@ -24,10 +24,8 @@ We look forward to hearing from you.
 
 ### Swiss Wood Solutions AG
 
-Stefano-Franscini-Platz 3  
-c/o ETH Zürich  
-HIF E 29.1  
-CH – 8093 Zürich
+Überlandstrasse 129  
+CH-8600 Dübendorf
 
 Tel. +41 44 633 62 12 <br/>
 <a href="mailto:info@swisswoodsolutions.ch">info@swisswoodsolutions.ch</a>
@@ -47,16 +45,8 @@ Tel. +41 44 633 62 12 <br/>
     <input type="text" name="entry.1998489538" class="input-line" placeholder="My name*" required minlength="2">
     <input type="email" name="entry.913371209" class="input-line" placeholder="My e-mail address*" required minlength="3">
     <input type="text" name="entry.14292811" class="input-line" placeholder="Country where I live" required minlength="2">
-    <p>I'm interested in Sonowood for:</p>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Strings</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitar</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Other instruments or products</label>
-    </div>
+    <p>I'm interested in:</p>
+    <input type="text" name="entry.812095084" class="input-line" placeholder="square timber, instrument, Sonowood parts, other,...*" required minlength="5">
     <textarea name="entry.1789398419" class="input-field" placeholder="My questions or comments"></textarea>
     <input type="hidden" name="entry.298481630" value="EN">
     <button type="submit" class="form-submit">Submit</button>
@@ -65,4 +55,4 @@ Tel. +41 44 633 62 12 <br/>
 </div>
 </div>
 
-<iframe class="googlemap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2700.1155189649708!2d8.5039514!3d47.4096879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900aff953b798f%3A0x863c7256ee1e8786!2sHIF%2C+8049+Z%C3%BCrich!5e0!3m2!1sde!2sch!4v1533558275573" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe class="googlemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2700.44450385337!2d8.609490751889455!3d47.40327040989173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa1a875f2bded%3A0xf407fcd37d36f74a!2s%C3%9Cberland%20Str.%20129%2C%208600%20D%C3%BCbendorf!5e0!3m2!1sen!2sch!4v1574947710162!5m2!1sen!2sch" frameborder="0" style="border:0" allowfullscreen></iframe>

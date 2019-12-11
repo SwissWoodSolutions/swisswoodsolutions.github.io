@@ -133,17 +133,9 @@ Contact us for a price request and become part of the sustainable revolution in 
   <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScmllSAdsWOnOCcoBK-MsPOgC_icTCNbm0XAqzfv1LYG1xaHw/formResponse" target="hidden_iframe" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
     <input type="text" name="entry.1998489538" class="input-line" placeholder="My name*" required minlength="2">
     <input type="email" name="entry.913371209" class="input-line" placeholder="My e-mail address*" required minlength="3">
-    <input type="text" name="entry.14292811" class="input-line" placeholder="I live in (Country)" required minlength="2">
-    <p>I'm interested in Sonowood for:</p>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-strings" value="strings"><label class="checkbox-label" for="instrument-strings">Strings</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-guitar" value="guitar"><label class="checkbox-label" for="instrument-guitar">Guitar</label>
-    </div>
-    <div class="checkbox-wrapper">
-      <input type="checkbox" name="entry.812095084" id="instrument-other" value="other"><label class="checkbox-label" for="instrument-other">Other instruments or products</label>
-    </div>
+    <input type="text" name="entry.14292811" class="input-line" placeholder="Country where I live" required minlength="2">
+    <p>I'm interested in:</p>
+    <input type="text" name="entry.812095084" class="input-line" placeholder="square timber, instrument, Sonowood parts, other,...*" required minlength="5">
     <textarea name="entry.1789398419" class="input-field" placeholder="My questions or comments"></textarea>
     <input type="hidden" name="entry.298481630" value="EN">
     <button type="submit" class="form-submit">Submit</button>
