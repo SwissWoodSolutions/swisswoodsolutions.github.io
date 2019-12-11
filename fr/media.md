@@ -89,7 +89,7 @@ En octobre 2017, la technologie a été présentée à un large public dans un a
     4 janvier 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996)
 -   [**Unisono**  
     Bois de clarinette made in Switzerland,
-    Dezember 2019](/assets/docs/201912_Unisono.pdf)
+    Décembre 2019](/assets/docs/201912_Unisono.pdf)
   - [**Energieforum**  
     Im Einklang,
     Février 2018](/assets/docs/201802_Energieforum.pdf)
