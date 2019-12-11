@@ -112,6 +112,9 @@ Zeitung followed.
   - [**St.Galler Tagblatt**  
     Schweizer Ersatz für Tropenholz,
     04.01.2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 
+-   [**Unisono**  
+    Klarinettenholz made in Switzerland,
+    December 2019](/assets/docs/201912_Unisono.pdf)
   - [**Energieforum**  
     Im Einklang,
     February 2018](/assets/docs/201802_Energieforum.pdf)
