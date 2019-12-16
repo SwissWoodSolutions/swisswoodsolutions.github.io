@@ -90,14 +90,6 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 
   <clerc@swisswoodsolutions.ch>
 
-- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
-  ### Dr. Etienne Cabane
-  ### Senior Research Scientist
-
-  est chimiste des polymères et ingénieur chimiste. Après un doctorat en chimie physique à l'Université de Bâle en Suisse, Etienne Cabane a découvert le bois à l'Institute for Building Materials à l'ETH Zurich, où il a dirigé les activités de recherche sur la conception des matériaux fonctionnels à base de bois. Chez SWS, Etienne Cabane observe les dernières innovations dans le domaine des matériaux en bois.
-
-  <cabane@swisswoodsolutions.ch>
-
 - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
   ### Sophie Koch
   ### Master étudiante Biobased Materials
@@ -105,6 +97,14 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
   a obtenu sa BSc en économie du bois à l'ETH Zurich en 2017 et est en train d'étudier MSc Biobased Materials à l'Université de Maastricht. Elle a acquis de l'expérience dans l'industrie du bois grâce à plusieurs stages chez un fabricant de panneaux d'aggloméré et un fabricant de fibres textiles de bois. Actuellement, Sophie Koch rédige sa mémoire de maîtrise sur "Biopolymer-Wood Composites" chez Swiss Wood Solutions.
 
   <koch@swisswoodsolutions.ch>
+
+- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
+  ### Dr. Etienne Cabane
+  ### Senior Research Scientist
+
+  est chimiste des polymères et ingénieur chimiste. Après un doctorat en chimie physique à l'Université de Bâle en Suisse, Etienne Cabane a découvert le bois à l'Institute for Building Materials à l'ETH Zurich, où il a dirigé les activités de recherche sur la conception des matériaux fonctionnels à base de bois. Chez SWS, Etienne Cabane observe les dernières innovations dans le domaine des matériaux en bois.
+
+  <cabane@swisswoodsolutions.ch>
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss

@@ -87,14 +87,6 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
   <clerc@swisswoodsolutions.ch>
 
-- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
-  ### Dr. Etienne Cabane
-  ### Senior Research Scientist
-
-  ist Polymerwissenschaftler und Chemieingenieur. Nach dem MSc-Abschluss in Materialwissenschaften an der University of New Hampshire (USA) und einem PhD in Physikalischer Chemie an der Universität Basel in der Schweiz entdeckte Etienne Cabane den Werkstoff Holz am Institut für Baustoffe der ETH Zürich. Als Senior Research Scientist am SWS verfolgt Etienne Cabane die neuesten Holz-Innovationen.
-
-  <cabane@swisswoodsolutions.ch>
-
 - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
   ### Sophie Koch
   ### Master Studentin Biobased Materials
@@ -102,6 +94,14 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
   erhielt 2017 ihren Abschluss als Bachelor of Science in Holzwirtschaft von der ETH Zürich und studiert seit 2018 MSc Biobased Materials an der Universität Maastricht. Durch mehrere Praktika bei einem Spanplattenhersteller und einem Hersteller von Holztextilfasern sammelte sie Erfahrungen in der Holzindustrie. Derzeit schreibt Sophie Koch an ihrer Masterarbeit bei Swiss Wood Solutions über "Biopolymer-Wood Composites".
 
   <koch@swisswoodsolutions.ch>
+
+- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
+  ### Dr. Etienne Cabane
+  ### Senior Research Scientist
+
+  ist Polymerwissenschaftler und Chemieingenieur. Nach dem MSc-Abschluss in Materialwissenschaften an der University of New Hampshire (USA) und einem PhD in Physikalischer Chemie an der Universität Basel in der Schweiz entdeckte Etienne Cabane den Werkstoff Holz am Institut für Baustoffe der ETH Zürich. Als Senior Research Scientist am SWS verfolgt Etienne Cabane die neuesten Holz-Innovationen.
+
+  <cabane@swisswoodsolutions.ch>
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss

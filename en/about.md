@@ -117,14 +117,6 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
   <clerc@swisswoodsolutions.ch>
 
-- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
-  ### Dr. Etienne Cabane
-  ### Senior Research Scientist
-
-  is a polymer chemist and chemical engineer. After completing a MSc in Materials Science at the University of New Hampshire (USA) and a PhD in Physical Chemistry at the University of Basel in Switzerland, Etienne Cabane discovered wood at the Institute for Building Materials at ETH Zürich, where he led the research activities on the design of functional wood-based materials. As a senior research scientist at SWS, Etienne Cabane keeps an eye on the latest innovations in wood materials and explores novel research directions.
-
-  <cabane@swisswoodsolutions.ch>
-
 - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
   ### Sophie Koch
   ### Master Student Biobased Materials
@@ -133,22 +125,29 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
   <koch@swisswoodsolutions.ch>
 
-- ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
-  ### Nico Schubiger
-  ### Master Student Chemistry and Business Studies
+- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
+  ### Dr. Etienne Cabane
+  ### Senior Research Scientist
 
-  studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he performs a Life Cycle Assessment (LCA) of the wooden products of SWS.
+  is a polymer chemist and chemical engineer. After completing a MSc in Materials Science at the University of New Hampshire (USA) and a PhD in Physical Chemistry at the University of Basel in Switzerland, Etienne Cabane discovered wood at the Institute for Building Materials at ETH Zürich, where he led the research activities on the design of functional wood-based materials. As a senior research scientist at SWS, Etienne Cabane keeps an eye on the latest innovations in wood materials and explores novel research directions.
 
-  <schubiger@swisswoodsolutions.ch>
+  <cabane@swisswoodsolutions.ch>
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss
-  ### Master Student Chemistry and Business Studies
+  ### Master Student Chemistry and Business 
 
   studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he works on the development of wooden veneers and investigates their marketability.
 
   <wyss@swisswoodsolutions.ch>
 
+- ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
+  ### Nico Schubiger
+  ### Master Student Chemistry and Business 
+
+  studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he performs a Life Cycle Assessment (LCA) of the wooden products of SWS.
+
+  <schubiger@swisswoodsolutions.ch>
 
 
 </div>
