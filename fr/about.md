@@ -16,7 +16,7 @@ order: 6
 <div class="full-width">
 <div class="wrap -cols2">
 
-Swiss Wood Solutions AG a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf. 
+Swiss Wood Solutions AG a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf.
 
 Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement. Avant de rejoindre Swiss Wood Solutions, tous les membres de notre équipe ont acquis une expérience de recherche à l'ETH et/ou à l'Empa. L'ETH Zurich (Ecole polytechnique fédérale de Zurich) est l'une des meilleures universités scientifiques au monde et se classe constamment parmi les meilleures au monde. L'Empa (Laboratoire fédéral suisse de science des matériaux et de technologie) est un institut de recherche interdisciplinaire suisse pour la science appliquée des matériaux avec différents campus à travers la Suisse. Nous sommes dans une position avantageuse de bénéficier du soutien infrastructurel, technique et de savoir-faire de ces deux institutions suisses. Swiss Wood Solutions agit néanmoins en tant qu'entreprise indépendante et détient ses propres droits de propriété intellectuelle.
 
@@ -29,60 +29,99 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 </div>
 
 <div class="full-width-grey">
-<div class="wrap -cols2">
+  <div class="wrap -cols2">
 
-# Notre équipe
+    # Notre équipe
 
-  - ![Oliver Klaeusler](/assets/images/About_5_Oliver_Kläusler_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-    ### Dr. Oliver Kläusler
-    ###	PDG
+      - ![Oliver Klaeusler](/assets/images/About_Team_OliverKlaeusler.jpg)
+        ### Dr. Oliver Kläusler
+        ###	PDG
 
-    a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier PDG de Swiss Wood Solutions.
+        a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier PDG de Swiss Wood Solutions.
 
-    <klaeusler@swisswoodsolutions.ch>  
-    Tel. +41 79 819 72 77
+        <klaeusler@swisswoodsolutions.ch>  
+        Tel. +41 79 819 72 77
 
-  - ![Munish Chanana](/assets/images/About_4_Munish_Chanana_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
-    ### Dr. Munish Chanana
-    ### co-PDG et directeur de recherche
+      - ![Munish Chanana](/assets/images/About_Team_MunishChanana.jpg)
+        ### Dr. Munish Chanana
+        ### co-PDG et directeur de recherche
 
-    a étudié la chimie à l'Université de Münster et a ensuite rédigé sa thèse de doctorat à l'Institut Max Planck à Potsdam. Il a ensuite acquis de nombreuses années d'expérience en recherche dans le domaine des sciences nanobiologiques en Suisse, en Allemagne et en Espagne. Avant de rejoindre Swiss Wood Solutions, il a dirigé le groupe de recherche sur les matériaux nanobiologiques hiérarchiques à l'ETH Zurich. Munish Chanana est co-PDG et responsable de la recherche chez Swiss Wood Solutions.
+        a étudié la chimie à l'Université de Münster et a ensuite rédigé sa thèse de doctorat à l'Institut Max Planck à Potsdam. Il a ensuite acquis de nombreuses années d'expérience en recherche dans le domaine des sciences nanobiologiques en Suisse, en Allemagne et en Espagne. Avant de rejoindre Swiss Wood Solutions, il a dirigé le groupe de recherche sur les matériaux nanobiologiques hiérarchiques à l'ETH Zurich. Munish Chanana est co-PDG et responsable de la recherche chez Swiss Wood Solutions.
 
-    <chanana@swisswoodsolutions.ch>
-    
-    Tel. +41 76 688 70 02 (CH)  
-    Tel. +49 176 63 00 44 09 (D)
+        <chanana@swisswoodsolutions.ch>
 
-  - ![Walter Sonderegger](/assets/images/About_7_Walter_Sonderegger_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Schweiz_Switzerland.jpg)
+        Tel. +41 76 688 70 02 (CH)  
+        Tel. +49 176 63 00 44 09 (D)
 
-    ### Dr. Walter Sonderegger
-    ### Contrôle de la qualité
+      - ![Walter Sonderegger](/assets/images/About_Team_WalterSonderegger.jpg)
 
-    a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermal. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
+        ### Dr. Walter Sonderegger
+        ### Contrôle de la qualité
 
-    <sonderegger@swisswoodsolutions.ch>
+        a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermal. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
 
-  - ![Philipp Hass](/assets/images/About_6_Philipp_Hass_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
+        <sonderegger@swisswoodsolutions.ch>
 
-    ### Dr. Philipp Hass
-    ### Directeur de la technologie
+      - ![Philipp Hass](/assets/images/About_Team_PhilippHass.jpg)
 
-    a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
+        ### Dr. Philipp Hass
+        ### Directeur de la technologie
 
-    <phass@swisswoodsolutions.ch>
+        a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
 
-  - ![Luca Schelbli](/assets/images/About_3_Luca_Schelbli_Tropical_Wood_Tropenholz_Ersatz_Alternative_Sonowood_Ebony_Ebenholz_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Startup_Schweiz_Switzerland.jpg)
+        <phass@swisswoodsolutions.ch>
 
-    ### Luca Schelbli
-    ### Sales & Marketing
+      - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
 
-    a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
+        ### Luca Schelbli
+        ### Sales & Marketing
 
-    <schelbli@swisswoodsolutions.ch>  
-    Tel. +41 44 633 62 12 (office)  
-    Tel. +41 79 837 17 94 (mobile)
- 
+        a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
+
+        <schelbli@swisswoodsolutions.ch>  
+        Tel. +41 44 633 62 12 (office)  
+        Tel. +41 79 837 17 94 (mobile)
+
+      - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
+        ### Gaspard Clerc
+        ### Position
+
+        CV short description
+
+        <gclerc@swisswoodsolutions.ch>
+
+      - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
+        ### Etienne Cabane
+        ### Position
+
+        CV short description
+
+        <ecabane@swisswoodsolutions.ch>
+
+      - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
+        ### Sophie Koch
+        ### Position
+
+        CV short description
+
+        <skoch@swisswoodsolutions.ch>
+
+      - ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
+        ### Nico Schubiger
+        ### Position
+
+        CV short description
+
+        <nschubiger@swisswoodsolutions.ch>
+
+      - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
+        ### Pascal Wyss
+        ### Position
+
+        CV short description
+
+        <pwyss@swisswoodsolutions.ch>
+
+
+  </div>
 </div>
-</div>
-
-

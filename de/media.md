@@ -5,25 +5,31 @@ order: 9
 ---
 
 <div class="full-width-grey">
-<div class="wrap">
+  <div class="wrap">
 
-## Swiss Wood Solutions im TV
+    ## Swiss Wood Solutions im TV
 
-<div class="videocontainer">
-<iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
-</iframe>
-</div>
+    <div class="videocontainer">
+      <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:dcae0aaa-b161-416c-8c25-de707607ad2a&start=" allowfullscreen name="«Die Idee»: Tropenholz, made in Switzerland"></iframe>
+    </div>
+    **«Die Idee»: Tropenholz, made in Switzerland** Viele Gründe zum feiern.
 
-Mit der Technologie zur Entwicklung von **Sonowood** ist Swiss Wood Solutions auf grosses Medieninteresse gestossen. Am **28. November 2017 gab CEO Oliver Kläusler ein Live-Interview in der Sendung „Schweiz aktuell“.** Dabei wurde dem Publikum die Verpressungstechnologie anschaulich vorgeführt. Zusätzlich zur Live-Schaltung ins Labor wurde die Weiterverarbeitung von Sonowood in Streichinstrumenten thematisiert. Boris Haug, Geigenbauer unseres Premiumpartners Wilhelm Geigenbau in Suhr, zeigte die einzelnen Arbeitsschritte, um aus einem Kantholz ein Geigengriffbrett zu fertigen. Abschliessend wurde im SRF-Bericht eine mit Sonowood umgerüstete Bratsche der professionellen Violinistin Chin-Ting Huang vom [Pacific Quartet Vienna](http://pacificquartet.com) zum Probespielen vorgelegt. «Der Klang ist wärmer und offener als mit dem Griffbrett aus Tropenholz.», lautete ihr positives Urteil. Den Sendungsbeitrag finden Sie im Video.
 
-<div class="videocontainer">
-<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
-<figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
-</div>
+    <div class="videocontainer">
+    <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
+    </iframe>
+    </div>
 
-Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. In Kooperation mit Wilhelm Geigenbau wurde ein **Workshop unter in- und ausländischen Geigenbauern** veranstaltet, um die Verarbeitbarkeit und Klangeigenschäften von Sonowood von ausgewiesenen Fachleuten beurteilen zu lassen.
+    Mit der Technologie zur Entwicklung von **Sonowood** ist Swiss Wood Solutions auf grosses Medieninteresse gestossen. Am **28. November 2017 gab CEO Oliver Kläusler ein Live-Interview in der Sendung „Schweiz aktuell“.** Dabei wurde dem Publikum die Verpressungstechnologie anschaulich vorgeführt. Zusätzlich zur Live-Schaltung ins Labor wurde die Weiterverarbeitung von Sonowood in Streichinstrumenten thematisiert. Boris Haug, Geigenbauer unseres Premiumpartners Wilhelm Geigenbau in Suhr, zeigte die einzelnen Arbeitsschritte, um aus einem Kantholz ein Geigengriffbrett zu fertigen. Abschliessend wurde im SRF-Bericht eine mit Sonowood umgerüstete Bratsche der professionellen Violinistin Chin-Ting Huang vom [Pacific Quartet Vienna](http://pacificquartet.com) zum Probespielen vorgelegt. «Der Klang ist wärmer und offener als mit dem Griffbrett aus Tropenholz.», lautete ihr positives Urteil. Den Sendungsbeitrag finden Sie im Video.
 
-</div>
+    <div class="videocontainer">
+    <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
+    <figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
+    </div>
+
+    Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. In Kooperation mit Wilhelm Geigenbau wurde ein **Workshop unter in- und ausländischen Geigenbauern** veranstaltet, um die Verarbeitbarkeit und Klangeigenschäften von Sonowood von ausgewiesenen Fachleuten beurteilen zu lassen.
+
+  </div>
 </div>
 
 <div class="full-width-red">
@@ -31,7 +37,7 @@ Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. I
 
 ## Mehr über Swiss Wood Solutions in Radio und TV
 
-  - [**Science Stories** 
+  - [**Science Stories**
     03.07.2019](https://www.youtube.com/watch?v=SI2FyJS_ofc)
   - [**Falling Walls Lab, Presentation** Berlin, 11.2017](https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&showinfo=0)
   - [**Die Deutsche Welle** 05.07.2018](https://p.dw.com/p/30uK3)
@@ -76,7 +82,7 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
     Februar 2019](/assets/docs/20190201_AkustikGitarre.pdf)
   - [**St.Galler Tagblatt**  
     Schweizer Ersatz für Tropenholz,
-    4. Januar 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996) 
+    4. Januar 2018](https://www.tagblatt.ch/wirtschaft/holz-schweizer-ersatz-fuer-tropenholz-ld.181996)
  -  [**Unisono**  
     Klarinettenholz made in Switzerland,
     Dezember 2019](/assets/docs/201912_Unisono.pdf)
@@ -88,7 +94,7 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
     Februar 2018](/assets/docs/201802_Designreport.pdf)
   - [**Startupticker.ch**  
     Instrumente ohne Ebenholz,
-    31. Oktober 2017](https://www.startupticker.ch/en/news/october-2017/instrumente-ohne-tropenholz) 
+    31. Oktober 2017](https://www.startupticker.ch/en/news/october-2017/instrumente-ohne-tropenholz)
   - [**die Umwelt**  
     Auf Schweizer Bergahorn spielen,
     Januar 2018](/assets/docs/201801_die-umwelt.pdf)
