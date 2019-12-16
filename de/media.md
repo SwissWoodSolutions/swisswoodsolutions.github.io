@@ -13,7 +13,7 @@ order: 9
   <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:dcae0aaa-b161-416c-8c25-de707607ad2a&start=" allowfullscreen name="«Die Idee»: Tropenholz, made in Switzerland"></iframe>
 </div>
 
-**«Die Idee»: Tropenholz, made in Switzerland** Viele Gründe zum feiern.
+**«Die Idee»: Tropenholz, made in Switzerland** SRF-Sendung 10vor10 vom 29. November 2019 zur Einweihung der neuen Produktionsanlage an der Empa Dübendorf.
 
 
 <div class="videocontainer">

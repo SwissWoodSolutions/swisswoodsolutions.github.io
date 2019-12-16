@@ -99,7 +99,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
   ### Dr. Etienne Cabane
   ### Senior Research Scientist
 
-  ist Polymerwissenschaftler und Chemieingenieur. Nach dem MSc-Abschluss in Materialwissenschaften an der University of New Hampshire (USA) und einem PhD in Physikalischer Chemie an der Universität Basel in der Schweiz entdeckte Etienne Cabane den Werkstoff Holz am Institut für Baustoffe der ETH Zürich. Als Senior Research Scientist am SWS verfolgt Etienne Cabane die neuesten Holz-Innovationen.
+  ist Polymerwissenschaftler und Chemieingenieur. Nach dem MSc-Abschluss in Materialwissenschaften an der University of New Hampshire (USA) und einem PhD in Physikalischer Chemie an der Universität Basel in der Schweiz entdeckte Etienne Cabane den Werkstoff Holz am Institut für Baustoffe der ETH Zürich. Als Senior Research Scientist bei SWS verfolgt Etienne Cabane die neuesten Holz-Innovationen.
 
   <cabane@swisswoodsolutions.ch>
 
