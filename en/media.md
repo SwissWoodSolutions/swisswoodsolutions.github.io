@@ -172,7 +172,7 @@ Zeitung followed.
 
 - ## SWS on Facebook
 
-    You prefer Facebook to stay tuned? No problem: just like our page and we'll keep you informed.
+    You prefer Facebook to stay tuned? Like our page and we'll keep you informed.
 
     <a class="btn" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook ></a>
 

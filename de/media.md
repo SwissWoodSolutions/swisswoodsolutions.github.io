@@ -129,7 +129,7 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
 
 - ## SWS bei Instagram
 
-  Folgen Sie uns Instagram für die besten Bilder, Events und News.
+  Folgen Sie uns bei Instagram für die besten Bilder, Events und News.
 
   <a class="btn" href="https://www.instagram.com/sonowood/?hl=de" target="_blank">Instagram Page ></a>
 
@@ -140,7 +140,7 @@ Einer breiteren Öffentlichkeit wurde die Technologie im Oktober 2017 in einem A
 
 - ## SWS bei Facebook
 
-  Folgen Sie uns bei Instagram und erfahren Sie laufend alle Neuigkeiten rund um SWS.
+  Folgen Sie uns bei Facebook und erfahren Sie laufend alle Neuigkeiten rund um SWS.
 
   <a class="btn" href="https://www.facebook.com/Swiss-Wood-Solutions-1539292799446076/" target="_blank">Facebook ></a>
 
