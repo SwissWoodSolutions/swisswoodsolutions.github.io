@@ -91,9 +91,9 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
   ### Dr. Etienne Cabane
   ### Senior Research Scientist
 
-  ist Polymerwissenschaftler und Chemieingenieur. Nach dem MSc-Abschluss in Materialwissenschaften an der University of New Hampshire (USA) und einem PhD in Physikalischer Chemie an der Universität Basel in der Schweiz entdeckte Etienne Cabane den Werkstoff Holz am Institut für Baustoffe der ETH Zürich, wo er die Forschungsaktivitäten zum Design funktionaler Holzwerkstoffe leitete. Als Senior Research Scientist am SWS verfolgt Etienne Cabane die neuesten Holz-Innovationen.
+  ist Polymerwissenschaftler und Chemieingenieur. Nach dem MSc-Abschluss in Materialwissenschaften an der University of New Hampshire (USA) und einem PhD in Physikalischer Chemie an der Universität Basel in der Schweiz entdeckte Etienne Cabane den Werkstoff Holz am Institut für Baustoffe der ETH Zürich. Als Senior Research Scientist am SWS verfolgt Etienne Cabane die neuesten Holz-Innovationen.
 
-  <ecabane@swisswoodsolutions.ch>
+  <cabane@swisswoodsolutions.ch>
 
 - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
   ### Sophie Koch
@@ -103,14 +103,6 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
   <koch@swisswoodsolutions.ch>
 
-- ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
-  ### Nico Schubiger
-  ### Master Student Wirtschaftschemie
-
-  studiert MSc Wirtschaftschemie an der Universität Zürich. Im Rahmen seiner Masterarbeit führt er Life Cycle Assessment (LCA) der Holzprodukte von Swiss Wood Solutions durch.
-
-  <schubiger@swisswoodsolutions.ch>
-
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss
   ### Master Student Wirtschaftschemie
@@ -118,6 +110,14 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
   studiert MSc Wirtschaftschmie an der Universität Zürich. Im Rahmen seiner Masterarbeit beschäftigt er sich mit der Entwicklung von Holzfurnieren und untersucht deren Anwendungsmöglichkeiten.
 
   <wyss@swisswoodsolutions.ch>
+
+- ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
+  ### Nico Schubiger
+  ### Master Student Wirtschaftschemie
+
+  studiert MSc Wirtschaftschemie an der Universität Zürich. Im Rahmen seiner Masterarbeit führt er Life Cycle Assessment (LCA) der Holzprodukte von Swiss Wood Solutions durch.
+
+  <schubiger@swisswoodsolutions.ch>
 
 </div>
 </div>

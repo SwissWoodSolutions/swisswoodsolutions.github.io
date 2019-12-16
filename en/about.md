@@ -121,9 +121,9 @@ Our team fuses the vast knowledge of scientists with diverse academic background
   ### Dr. Etienne Cabane
   ### Senior Research Scientist
 
-  is a polymer chemist and chemical engineer from France. After completing a MSc in Materials Science at the University of New Hampshire (USA) and a PhD in Physical Chemistry at the University of Basel in Switzerland, Etienne Cabane discovered wood at the Institute for Building Materials at ETH Zürich, where he led the research activities on the design of functional wood-based materials. As a senior research scientist at SWS, Etienne Cabane keeps an eye on the latest innovations in wood materials and explores novel research directions.
+  is a polymer chemist and chemical engineer. After completing a MSc in Materials Science at the University of New Hampshire (USA) and a PhD in Physical Chemistry at the University of Basel in Switzerland, Etienne Cabane discovered wood at the Institute for Building Materials at ETH Zürich, where he led the research activities on the design of functional wood-based materials. As a senior research scientist at SWS, Etienne Cabane keeps an eye on the latest innovations in wood materials and explores novel research directions.
 
-  <ecabane@swisswoodsolutions.ch>
+  <cabane@swisswoodsolutions.ch>
 
 - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
   ### Sophie Koch
@@ -151,5 +151,5 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 
 
-  </div>
+</div>
 </div>

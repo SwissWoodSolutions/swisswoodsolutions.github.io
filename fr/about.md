@@ -84,44 +84,43 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
-  ### Position
+  ### R&D Engineer
 
-  CV short description
+  
 
-  <gclerc@swisswoodsolutions.ch>
+  <clerc@swisswoodsolutions.ch>
+
+- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
+  ### Dr. Etienne Cabane
+  ### Senior Research Scientist
+
+  est chimiste des polymères et ingénieur chimiste. Après un doctorat en chimie physique à l'Université de Bâle en Suisse, Etienne Cabane a découvert le bois à l'Institute for Building Materials à l'ETH Zurich, où il a dirigé les activités de recherche sur la conception des matériaux fonctionnels à base de bois. Chez SWS, Etienne Cabane observe les dernières innovations dans le domaine des matériaux en bois.
+
+  <cabane@swisswoodsolutions.ch>
 
 - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
   ### Sophie Koch
-  ### Position
+  ### Master étudiante Biobased Materials
 
-  CV short description
+  a obtenu sa BSc en économie du bois à l'ETH Zurich en 2017 et est en train d'étudier MSc Biobased Materials à l'Université de Maastricht. Elle a acquis de l'expérience dans l'industrie du bois grâce à plusieurs stages chez un fabricant de panneaux d'aggloméré et un fabricant de fibres textiles de bois. Actuellement, Sophie Koch rédige sa mémoire de maîtrise sur "Biopolymer-Wood Composites" chez Swiss Wood Solutions.
 
-  <skoch@swisswoodsolutions.ch>
-
-- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
-  ### Etienne Cabane
-  ### Position
-
-  CV short description
-
-  <ecabane@swisswoodsolutions.ch>
-
-
-- ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
-  ### Nico Schubiger
-  ### Position
-
-  CV short description
-
-  <nschubiger@swisswoodsolutions.ch>
+  <koch@swisswoodsolutions.ch>
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss
-  ### Position
+  ### Master édutiant chimie et l'économie
 
-  CV short description
+  étudie la chimie et l'économie à l'Université de Zurich. Dans sa mémoire de maîtrise, Pascal Wyss travaille au développement des placages de bois et leurs applications.
 
-  <pwyss@swisswoodsolutions.ch>
+  <wyss@swisswoodsolutions.ch>
+
+- ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
+  ### Nico Schubiger
+  ### Master édutiant chimie et l'économie
+
+  étudie la chimie et l'économie à l'Université de Zurich. Dans sa mémoire de maîtrise, Nico Schubiger réalise un Life Cycle Assessment (LCA) des produits du bois de Swiss Wood Solutions.
+
+  <schubiger@swisswoodsolutions.ch>
 
 </div>
 </div>
