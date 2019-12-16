@@ -99,7 +99,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
   ### Luca Schelbli
   ### Sales & Marketing
 
-  has studied chemistry and business studies at the University of
+  has studied Chemistry and Business Studies at the University of
   Zurich and Louisiana State University (USA). In his position as R\&D
   specialist, he works on the development of new physicochemical
   modification approaches of wood. Furthermore, he supports the
@@ -111,44 +111,43 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
-  ### Position
+  ### R&D Engineer
 
-  CV short description
+  
 
-  <gclerc@swisswoodsolutions.ch>
-
-- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
-  ### Sophie Koch
-  ### Position
-
-  CV short description
-
-  <skoch@swisswoodsolutions.ch>
+  <clerc@swisswoodsolutions.ch>
 
 - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
-  ### Etienne Cabane
-  ### Position
+  ### Dr. Etienne Cabane
+  ### Senior Research Scientist
 
-  CV short description
+  is a polymer chemist and chemical engineer from France. After completing a MSc in Materials Science at the University of New Hampshire (USA) and a PhD in Physical Chemistry at the University of Basel in Switzerland, Etienne Cabane discovered wood at the Institute for Building Materials at ETH Zürich, where he led the research activities on the design of functional wood-based materials. As a senior research scientist at SWS, Etienne Cabane keeps an eye on the latest innovations in wood materials and explores novel research directions.
 
   <ecabane@swisswoodsolutions.ch>
 
+- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
+  ### Sophie Koch
+  ### Master Student Biobased Materials
+
+  received her degree as Bachelor of Science in Timber Economics from ETH Zurich in 2017 and has been studying M.Sc. Biobased Materials at Maastricht University since 2018. Through several internships with a chipboard manufacturer and a producer of wooden textile fibers, she gained experience in the wood industry. She is currently writing on her thesis at Swiss Wood Solutions on "Biopolymer-Wood Composites". As such, Sophie Koch is working on the optimization of physical and mechanical properties of veneers.
+
+  <koch@swisswoodsolutions.ch>
 
 - ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
   ### Nico Schubiger
-  ### Position
+  ### Master Student Chemistry and Business Studies
 
-  CV short description
+  studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he performs a Life Cycle Assessment (LCA) of the wooden products of SWS.
 
-  <nschubiger@swisswoodsolutions.ch>
+  <schubiger@swisswoodsolutions.ch>
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss
-  ### Position
+  ### Master Student Chemistry and Business Studies
 
-  CV short description
+  studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he works on the development of wooden veneers and investigates their marketability.
 
-  <pwyss@swisswoodsolutions.ch>
+  <wyss@swisswoodsolutions.ch>
 
 
 
