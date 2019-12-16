@@ -81,42 +81,43 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
-  ### Position
+  ### R&D Engineer
 
-  CV short description
+  
 
-  <gclerc@swisswoodsolutions.ch>
-
-- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
-  ### Sophie Koch
-  ### Position
-
-  CV short description
-
-  <skoch@swisswoodsolutions.ch>
+  <clerc@swisswoodsolutions.ch>
 
 - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
-  ### Etienne Cabane
-  ### Position
+  ### Dr. Etienne Cabane
+  ### Senior Research Scientist
 
-  CV short description
+  ist Polymerwissenschaftler und Chemieingenieur. Nach dem MSc-Abschluss in Materialwissenschaften an der University of New Hampshire (USA) und einem PhD in Physikalischer Chemie an der Universität Basel in der Schweiz entdeckte Etienne Cabane den Werkstoff Holz am Institut für Baustoffe der ETH Zürich, wo er die Forschungsaktivitäten zum Design funktionaler Holzwerkstoffe leitete. Als Senior Research Scientist am SWS verfolgt Etienne Cabane die neuesten Holz-Innovationen.
 
   <ecabane@swisswoodsolutions.ch>
 
+- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
+  ### Sophie Koch
+  ### Master Studentin Biobased Materials
+
+  erhielt 2017 ihren Abschluss als Bachelor of Science in Holzwirtschaft von der ETH Zürich und studiert seit 2018 MSc Biobased Materials an der Universität Maastricht. Durch mehrere Praktika bei einem Spanplattenhersteller und einem Hersteller von Holztextilfasern sammelte sie Erfahrungen in der Holzindustrie. Derzeit schreibt Sophie Koch an ihrer Masterarbeit bei Swiss Wood Solutions über "Biopolymer-Wood Composites".
+
+  <koch@swisswoodsolutions.ch>
+
 - ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
   ### Nico Schubiger
-  ### Position
+  ### Master Student Wirtschaftschemie
 
-  CV short description
+  studiert MSc Wirtschaftschemie an der Universität Zürich. Im Rahmen seiner Masterarbeit führt er Life Cycle Assessment (LCA) der Holzprodukte von Swiss Wood Solutions durch.
 
-  <nschubiger@swisswoodsolutions.ch>
+  <schubiger@swisswoodsolutions.ch>
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss
-  ### Position
+  ### Master Student Wirtschaftschemie
 
-  CV short description
+  studiert MSc Wirtschaftschmie an der Universität Zürich. Im Rahmen seiner Masterarbeit beschäftigt er sich mit der Entwicklung von Holzfurnieren und untersucht deren Anwendungsmöglichkeiten.
 
-  <pwyss@swisswoodsolutions.ch>
+  <wyss@swisswoodsolutions.ch>
+
 </div>
 </div>
