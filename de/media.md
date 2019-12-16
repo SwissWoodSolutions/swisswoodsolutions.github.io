@@ -5,31 +5,32 @@ order: 9
 ---
 
 <div class="full-width-grey">
-  <div class="wrap">
+<div class="wrap">
 
-    ## Swiss Wood Solutions im TV
+## Swiss Wood Solutions im TV
 
-    <div class="videocontainer">
-      <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:dcae0aaa-b161-416c-8c25-de707607ad2a&start=" allowfullscreen name="«Die Idee»: Tropenholz, made in Switzerland"></iframe>
-    </div>
-    **«Die Idee»: Tropenholz, made in Switzerland** Viele Gründe zum feiern.
+<div class="videocontainer">
+  <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:dcae0aaa-b161-416c-8c25-de707607ad2a&start=" allowfullscreen name="«Die Idee»: Tropenholz, made in Switzerland"></iframe>
+</div>
+
+**«Die Idee»: Tropenholz, made in Switzerland** Viele Gründe zum feiern.
 
 
-    <div class="videocontainer">
-    <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
-    </iframe>
-    </div>
+<div class="videocontainer">
+<iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
+</iframe>
+</div>
 
-    Mit der Technologie zur Entwicklung von **Sonowood** ist Swiss Wood Solutions auf grosses Medieninteresse gestossen. Am **28. November 2017 gab CEO Oliver Kläusler ein Live-Interview in der Sendung „Schweiz aktuell“.** Dabei wurde dem Publikum die Verpressungstechnologie anschaulich vorgeführt. Zusätzlich zur Live-Schaltung ins Labor wurde die Weiterverarbeitung von Sonowood in Streichinstrumenten thematisiert. Boris Haug, Geigenbauer unseres Premiumpartners Wilhelm Geigenbau in Suhr, zeigte die einzelnen Arbeitsschritte, um aus einem Kantholz ein Geigengriffbrett zu fertigen. Abschliessend wurde im SRF-Bericht eine mit Sonowood umgerüstete Bratsche der professionellen Violinistin Chin-Ting Huang vom [Pacific Quartet Vienna](http://pacificquartet.com) zum Probespielen vorgelegt. «Der Klang ist wärmer und offener als mit dem Griffbrett aus Tropenholz.», lautete ihr positives Urteil. Den Sendungsbeitrag finden Sie im Video.
+Mit der Technologie zur Entwicklung von **Sonowood** ist Swiss Wood Solutions auf grosses Medieninteresse gestossen. Am **28. November 2017 gab CEO Oliver Kläusler ein Live-Interview in der Sendung „Schweiz aktuell“.** Dabei wurde dem Publikum die Verpressungstechnologie anschaulich vorgeführt. Zusätzlich zur Live-Schaltung ins Labor wurde die Weiterverarbeitung von Sonowood in Streichinstrumenten thematisiert. Boris Haug, Geigenbauer unseres Premiumpartners Wilhelm Geigenbau in Suhr, zeigte die einzelnen Arbeitsschritte, um aus einem Kantholz ein Geigengriffbrett zu fertigen. Abschliessend wurde im SRF-Bericht eine mit Sonowood umgerüstete Bratsche der professionellen Violinistin Chin-Ting Huang vom [Pacific Quartet Vienna](http://pacificquartet.com) zum Probespielen vorgelegt. «Der Klang ist wärmer und offener als mit dem Griffbrett aus Tropenholz.», lautete ihr positives Urteil. Den Sendungsbeitrag finden Sie im Video.
 
-    <div class="videocontainer">
-    <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
-    <figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
-    </div>
+<div class="videocontainer">
+<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
+<figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
+</div>
 
-    Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. In Kooperation mit Wilhelm Geigenbau wurde ein **Workshop unter in- und ausländischen Geigenbauern** veranstaltet, um die Verarbeitbarkeit und Klangeigenschäften von Sonowood von ausgewiesenen Fachleuten beurteilen zu lassen.
+Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. In Kooperation mit Wilhelm Geigenbau wurde ein **Workshop unter in- und ausländischen Geigenbauern** veranstaltet, um die Verarbeitbarkeit und Klangeigenschäften von Sonowood von ausgewiesenen Fachleuten beurteilen zu lassen.
 
-  </div>
+</div>
 </div>
 
 <div class="full-width-red">

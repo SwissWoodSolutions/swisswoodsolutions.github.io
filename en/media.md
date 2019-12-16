@@ -5,44 +5,45 @@ order: 9
 ---
 
 <div class="full-width-grey">
-  <div class="wrap">
+<div class="wrap">
 
-    ## Swiss Wood Solutions on TV
+## Swiss Wood Solutions on TV
 
-    <div class="videocontainer">
-      <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:dcae0aaa-b161-416c-8c25-de707607ad2a&start=" allowfullscreen name="«Die Idee»: Tropenholz, made in Switzerland"></iframe>
-    </div>
-    **«Die Idee»: Tropenholz, made in Switzerland** Viele Gründe zum feiern.
+<div class="videocontainer">
+  <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:dcae0aaa-b161-416c-8c25-de707607ad2a&start=" allowfullscreen name="«Die Idee»: Tropenholz, made in Switzerland"></iframe>
+</div>
+
+**«Die Idee»: Tropenholz, made in Switzerland** Viele Gründe zum feiern.
 
 
-    <div class="videocontainer">
-      <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
-      </iframe>
-    </div>
+<div class="videocontainer">
+  <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:5e034e98-bd53-4f10-9439-4dca60fe9484&start=627" allowfullscreen name="Schweiz aktuell vom 28.11.2017">
+  </iframe>
+</div>
 
-    **In November 2017, CEO Oliver Kläusler gave insight into the
-    Sonowood production technology in a live TV broadcast in «Schweiz aktuell» on
-    SRF (see video above, in German).** The TV report also focused the
-    application of Sonowood in the musical instrument manufacturing. Boris
-    Haug, violin manufacturer from our premium partner Wilhelm Geigenbau in
-    Suhr, showcased the working procedure necessary to incorporate Sonowood
-    into high-end string instruments. Violist Chin-Ting Huang of the
-    [Pacific Quartet Vienna](http://pacificquartet.com) was interviewed and
-    stated to be thoroughly happy about her viola containing a fingerboard
-    made from Sonowood. She praised the superior sound characteristics of
-    her new instrument.
+**In November 2017, CEO Oliver Kläusler gave insight into the
+Sonowood production technology in a live TV broadcast in «Schweiz aktuell» on
+SRF (see video above, in German).** The TV report also focused the
+application of Sonowood in the musical instrument manufacturing. Boris
+Haug, violin manufacturer from our premium partner Wilhelm Geigenbau in
+Suhr, showcased the working procedure necessary to incorporate Sonowood
+into high-end string instruments. Violist Chin-Ting Huang of the
+[Pacific Quartet Vienna](http://pacificquartet.com) was interviewed and
+stated to be thoroughly happy about her viola containing a fingerboard
+made from Sonowood. She praised the superior sound characteristics of
+her new instrument.
 
-    <div class="videocontainer">
-      <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
-    <figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
-    </div>
+<div class="videocontainer">
+  <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:496e96cd-8b96-4c48-9a94-9c0cacf98131&start=' allowfullscreen name='«Schweizer» Tropenholz im Test'></iframe>
+<figcaption>02.03.2018 - Schweiz aktuell, SRF</figcaption>
+</div>
 
-    **In March 2018,** Swiss Wood Solutions was featured in a second
-    broadcast in **«Schweiz aktuell».** This report focused on the musical
-    manufacturing workshop held with our partner Wilhelm Geigenbau and
-    subsequent concert of the Pacific Quartet Vienna on their instruments fitted with Sonowood.
+**In March 2018,** Swiss Wood Solutions was featured in a second
+broadcast in **«Schweiz aktuell».** This report focused on the musical
+manufacturing workshop held with our partner Wilhelm Geigenbau and
+subsequent concert of the Pacific Quartet Vienna on their instruments fitted with Sonowood.
 
-  </div>
+</div>
 </div>
 
 <div class="full-width-red">

@@ -29,99 +29,99 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 </div>
 
 <div class="full-width-grey">
-  <div class="wrap -cols2">
+<div class="wrap -cols2">
 
-    # Notre équipe
+# Notre équipe
 
-      - ![Oliver Klaeusler](/assets/images/About_Team_OliverKlaeusler.jpg)
-        ### Dr. Oliver Kläusler
-        ###	PDG
+- ![Oliver Klaeusler](/assets/images/About_Team_OliverKlaeusler.jpg)
+  ### Dr. Oliver Kläusler
+  ###	PDG
 
-        a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier PDG de Swiss Wood Solutions.
+  a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier PDG de Swiss Wood Solutions.
 
-        <klaeusler@swisswoodsolutions.ch>  
-        Tel. +41 79 819 72 77
+  <klaeusler@swisswoodsolutions.ch>  
+  Tel. +41 79 819 72 77
 
-      - ![Munish Chanana](/assets/images/About_Team_MunishChanana.jpg)
-        ### Dr. Munish Chanana
-        ### co-PDG et directeur de recherche
+- ![Munish Chanana](/assets/images/About_Team_MunishChanana.jpg)
+  ### Dr. Munish Chanana
+  ### co-PDG et directeur de recherche
 
-        a étudié la chimie à l'Université de Münster et a ensuite rédigé sa thèse de doctorat à l'Institut Max Planck à Potsdam. Il a ensuite acquis de nombreuses années d'expérience en recherche dans le domaine des sciences nanobiologiques en Suisse, en Allemagne et en Espagne. Avant de rejoindre Swiss Wood Solutions, il a dirigé le groupe de recherche sur les matériaux nanobiologiques hiérarchiques à l'ETH Zurich. Munish Chanana est co-PDG et responsable de la recherche chez Swiss Wood Solutions.
+  a étudié la chimie à l'Université de Münster et a ensuite rédigé sa thèse de doctorat à l'Institut Max Planck à Potsdam. Il a ensuite acquis de nombreuses années d'expérience en recherche dans le domaine des sciences nanobiologiques en Suisse, en Allemagne et en Espagne. Avant de rejoindre Swiss Wood Solutions, il a dirigé le groupe de recherche sur les matériaux nanobiologiques hiérarchiques à l'ETH Zurich. Munish Chanana est co-PDG et responsable de la recherche chez Swiss Wood Solutions.
 
-        <chanana@swisswoodsolutions.ch>
+  <chanana@swisswoodsolutions.ch>
 
-        Tel. +41 76 688 70 02 (CH)  
-        Tel. +49 176 63 00 44 09 (D)
+  Tel. +41 76 688 70 02 (CH)  
+  Tel. +49 176 63 00 44 09 (D)
 
-      - ![Walter Sonderegger](/assets/images/About_Team_WalterSonderegger.jpg)
+- ![Walter Sonderegger](/assets/images/About_Team_WalterSonderegger.jpg)
 
-        ### Dr. Walter Sonderegger
-        ### Contrôle de la qualité
+  ### Dr. Walter Sonderegger
+  ### Contrôle de la qualité
 
-        a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermal. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
+  a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermal. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
 
-        <sonderegger@swisswoodsolutions.ch>
+  <sonderegger@swisswoodsolutions.ch>
 
-      - ![Philipp Hass](/assets/images/About_Team_PhilippHass.jpg)
+- ![Philipp Hass](/assets/images/About_Team_PhilippHass.jpg)
 
-        ### Dr. Philipp Hass
-        ### Directeur de la technologie
+  ### Dr. Philipp Hass
+  ### Directeur de la technologie
 
-        a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
+  a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
 
-        <phass@swisswoodsolutions.ch>
+  <phass@swisswoodsolutions.ch>
 
-      - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
+- ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
 
-        ### Luca Schelbli
-        ### Sales & Marketing
+  ### Luca Schelbli
+  ### Sales & Marketing
 
-        a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
+  a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
 
-        <schelbli@swisswoodsolutions.ch>  
-        Tel. +41 44 633 62 12 (office)  
-        Tel. +41 79 837 17 94 (mobile)
+  <schelbli@swisswoodsolutions.ch>  
+  Tel. +41 44 633 62 12 (office)  
+  Tel. +41 79 837 17 94 (mobile)
 
-      - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
-        ### Gaspard Clerc
-        ### Position
+- ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
+  ### Gaspard Clerc
+  ### Position
 
-        CV short description
+  CV short description
 
-        <gclerc@swisswoodsolutions.ch>
+  <gclerc@swisswoodsolutions.ch>
 
-      - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
-        ### Etienne Cabane
-        ### Position
+- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
+  ### Sophie Koch
+  ### Position
 
-        CV short description
+  CV short description
 
-        <ecabane@swisswoodsolutions.ch>
+  <skoch@swisswoodsolutions.ch>
 
-      - ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
-        ### Sophie Koch
-        ### Position
+- ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
+  ### Etienne Cabane
+  ### Position
 
-        CV short description
+  CV short description
 
-        <skoch@swisswoodsolutions.ch>
-
-      - ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
-        ### Nico Schubiger
-        ### Position
-
-        CV short description
-
-        <nschubiger@swisswoodsolutions.ch>
-
-      - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
-        ### Pascal Wyss
-        ### Position
-
-        CV short description
-
-        <pwyss@swisswoodsolutions.ch>
+  <ecabane@swisswoodsolutions.ch>
 
 
-  </div>
+- ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
+  ### Nico Schubiger
+  ### Position
+
+  CV short description
+
+  <nschubiger@swisswoodsolutions.ch>
+
+- ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
+  ### Pascal Wyss
+  ### Position
+
+  CV short description
+
+  <pwyss@swisswoodsolutions.ch>
+
+</div>
 </div>
