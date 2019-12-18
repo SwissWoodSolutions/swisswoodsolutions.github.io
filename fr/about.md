@@ -85,7 +85,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
   ### Gaspard Clerc
   ### R&D Engineer
 
-  a rapidement réalisé que ses maigres talents musicaux ne suffiraient pas à dompter un violon, il se concentra alors sur la manière de le fabriquer. Après avoir passé plusieurs années à l’école de lutherie de Brienz, il avait certes acquis une expérience pratique mais souhaitait avoir une plus grande compréhension théorique du bois. Il entama ainsi d’un Master en tant qu’ingénieur du bois à la haute école spécialisé bernoise en suisse. Entre temps, il co-fonda Swiss Wood Solutions afin de combiner son intérêt pour la lutherie et le recherche. Actuellement, en plus de son travail chez Swiss Wood Solutions, il finalise son doctorat à l’université technique de Munich.
+  a passé plusieurs années à l’école de lutherie de Brienz, où il avait certes acquis une expérience pratique, mais souhaitait avoir une plus grande compréhension théorique du bois. Il entama ainsi d’un Master en tant qu’ingénieur du bois à la haute école spécialisé bernoise en suisse. Entre temps, il co-fonda Swiss Wood Solutions. Actuellement, en plus de son travail chez SWS, il finalise son doctorat à l’université technique de Munich.
 
   <clerc@swisswoodsolutions.ch>
 

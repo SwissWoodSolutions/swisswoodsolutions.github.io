@@ -99,7 +99,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
   ### Luca Schelbli
   ### Sales & Marketing
 
-  has studied Chemistry and Business Studies at the University of Zurich and Louisiana State University (USA). In his position as R\&D specialist, he works on the development of new physicochemical  modification approaches of wood. Furthermore, he supports the commercialization of the developed processes and manages the distribution channels. Luca Schelbli is charge of the online presence and supervises student papers.
+  has studied Chemistry and Business Studies at the University of Zurich and Louisiana State University (USA). In his position as R\&D specialist, he works on the development of new physicochemical  modification approaches of wood. Furthermore, he supports the commercialization of the developed processes and manages the distribution channels. Additionally, Luca Schelbli is charge of the public relations, the online presence and supervision of student papers.
 
   <schelbli@swisswoodsolutions.ch>   
   Tel. +41 79 837 17 94 (mobile)
@@ -108,7 +108,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
   ### Gaspard Clerc
   ### R&D Engineer
 
-  quickly realized that his meagre musical talents would not be enough to tame a violin, so he focused on how to make it. After spending several years at the violin making school in Brienz, Switzerland, he had certainly acquired practical experience but wanted to have a greater theoretical understanding of wood. He received his Master's degree as a wood engineer at the Bern University of Applied Sciences in Switzerland. In the meantime, he co-founded SWS to combine his interest in lutherie and research. Currently, in addition to his work at SWS, he is completing his doctorate at the Technical University of Munich.
+  spent multiple years at the violin making school in Brienz, Switzerland, where he certainly acquired practical experience, but wanted to have a greater theoretical understanding of wood. He received his Master's degree as a wood engineer at the Bern University of Applied Sciences in Switzerland. In the meantime, he co-founded SWS to combine his interest in lutherie and research. Currently, in addition to his work at SWS, he is completing his doctorate at the Technical University of Munich.
 
   <clerc@swisswoodsolutions.ch>
 

@@ -45,7 +45,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
 - ![Munish Chanana](/assets/images/About_Team_MunishChanana.jpg)
   ### Dr. Munish Chanana
-  ### Forschungsleiter und stellvertretender Geschäftsführer
+  ### Forschungsleiter und stv. Geschäftsführer
 
   studierte Chemie an der Westfälischen Wilhelms-Universität in Münster und verfasste danach seine Doktorarbeit am Max-Planck-Institut in Potsdam. Im Anschluss erlangte er langjährige Forschungserfahrung in nanobiologischen Wissenschaften. Vor seiner Anstellung bei Swiss Wood Solutions leitete Munish Chanana die Forschungsgruppe für hierarchische nanobiologische Materialien an der ETH Zürich. Munish Chanana ist Co-CEO und Forschungsleiter von Swiss Wood Solutions. Zusätzlich ist er Reviewer bei mehreren Wissenschaftsjournalen.  
 
