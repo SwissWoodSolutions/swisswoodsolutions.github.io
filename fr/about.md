@@ -74,7 +74,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
 
   ### Luca Schelbli
-  ### Sales & Marketing
+  ### R&D Engineer et Marketing
 
   a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
 

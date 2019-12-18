@@ -97,7 +97,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
   ### Luca Schelbli
-  ### Sales & Marketing
+  ### R&D Engineer and Marketing
 
   has studied Chemistry and Business Studies at the University of Zurich and Louisiana State University (USA). In his position as R\&D specialist, he works on the development of new physicochemical  modification approaches of wood. Furthermore, he supports the commercialization of the developed processes and manages the distribution channels. Additionally, Luca Schelbli is charge of the public relations, the online presence and supervision of student papers.
 
