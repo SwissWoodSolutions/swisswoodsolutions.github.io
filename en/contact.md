@@ -27,7 +27,7 @@ We look forward to hearing from you.
 Überlandstrasse 129  
 CH-8600 Dübendorf
 
-Tel. +41 44 633 62 12 <br/>
+<br/>
 <a href="mailto:info@swisswoodsolutions.ch">info@swisswoodsolutions.ch</a>
 
 </div>

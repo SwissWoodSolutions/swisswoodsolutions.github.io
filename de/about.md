@@ -76,14 +76,13 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
   studierte Wirtschaftschemie an der Universität Zürich und Louisiana State University in den USA. Als R&D-Ingenieur arbeitet er an der Entwicklung von physikochemischen Holzmodifikationen für verschiedene Anwendungsgebiete. Ferner unterstützt Luca Schelbli die Kommerzialisierung der im Labor entwickelten Verfahren, die Betreuung der Verkaufskanäle und die Marketingaktivitäten.  
 
   <schelbli@swisswoodsolutions.ch>  
-  Tel. +41 44 633 62 12 (office)  
   Tel. +41 79 837 17 94 (mobile)
 
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
   ### R&D Engineer
 
-  
+  wollte nach mehreren Jahren an der Geigenbauschule in Brienz ein tieferes theoretisches Verständnis von Holz gewinnen und erlangte einen Master-Abschluss als Holzingenieur an der Fachhochschule Bern in der Schweiz. Derzeit promoviert er neben seiner Tätigkeit bei SWS an der Technischen Universität München. Gaspard Clerc ist Mitgründer von Swiss Wood Solutions.
 
   <clerc@swisswoodsolutions.ch>
 

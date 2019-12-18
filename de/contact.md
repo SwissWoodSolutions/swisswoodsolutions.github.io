@@ -29,8 +29,6 @@ Fragen zu unserem Holzberatungs- und Serviceangebot? Kontaktieren Sie uns.
 Überlandstrasse 129  
 CH-8600 Dübendorf
 
-Tel. +41 44 633 62 12
-
 <a class="btn -red" href="mailto:info@swisswoodsolutions.ch">info@swisswoodsolutions.ch</a>
 
 </div>
