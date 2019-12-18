@@ -7,18 +7,17 @@ order: 10
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
+# Du bois techniquement modifié, fait sur mesure selon vos besoins?
 
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg"
-     src="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg" alt="Holzwürfel auf Tisch">
+<img srcset="/assets/images/contact_titelbild.JPG"
+     src="/assets/images/contact_titelbild.JPG" alt="Generic bild">
 </div>
 
 <div class="full-width">
 <div class="wrap">
-
-## Du bois techniquement modifié, fait sur mesure selon vos besoins?
 
 Nous le rendons possible.
 
