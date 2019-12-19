@@ -116,7 +116,6 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG">
     <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG" alt="Tailpiece from Sonowood walnut made byBerdani Feinste Bestandteile">
   </a>
-  </a>
 </div>
 
 ### Chinrest

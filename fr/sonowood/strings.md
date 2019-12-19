@@ -57,7 +57,7 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Touche en Sonowood épicéa">
   </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Touche et cordier en Sonowood épicéa. Photo de Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
@@ -65,6 +65,12 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Touche en Sonowood épicéa fabriquée par Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG" alt="Touche en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG" alt="Touche en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
   </a>
 </div>
 
@@ -101,6 +107,15 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Cordier en Sonowood épicéa à un Amati violon, équipé de Wilhelm Geigenbau">
   </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG" alt="Cordier en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Cordier en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG" alt="Cordier en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
+  </a>
 </div>
 
 ### Mentionnière
@@ -121,6 +136,12 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   <a href="/assets/images/strings/sonowood_chinrest_maple5.jpg">
     <img src="/assets/images/strings/sonowood_chinrest_maple5.jpg" alt="Mentionnière en Sonowood érable fabriquée par Berdani Feinste Bestandteile">
   </a>
+  <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG" alt="Mentionnière en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG" alt="Mentionnière en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
+  </a>
 </div>
 
 ### Bouton
@@ -134,6 +155,9 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple3.jpg">
     <img src="/assets/images/strings/sonowood_endbutton_maple3.jpg" alt="Bouton en Sonowood érable fabriqué par Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG">
+    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG" alt="Bouton en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
   </a>
 </div>
 
