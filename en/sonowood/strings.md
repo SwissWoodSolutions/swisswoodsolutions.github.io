@@ -57,14 +57,20 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Fingerboard from Sonowood spruce">
   </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce_hochuli.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Fingerboard and tailpiece from Sonowood spruce. Picture by Andreas Hochuli">
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 with fingerboard and tailpiece from Sonowood spruce equipped by Wilhelm Geigenbau. Picture by the Strad Magazine">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Fingerboard from Sonowood spruce made by Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG" alt="Fingerboard from Sonowood walnut made by Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG" alt="Fingerboard from Sonowood walnut made by Berdani Feinste Bestandteile">
   </a>
 </div>
 
@@ -101,6 +107,16 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Tailpiece from Sonowood spruce on a Amati violin equipped by Wilhelm Geigenbau">
   </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG" alt="Tailpiece from Sonowood walnut made byBerdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Tailpiece from Sonowood walnut made byBerdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG" alt="Tailpiece from Sonowood walnut made byBerdani Feinste Bestandteile">
+  </a>
+  </a>
 </div>
 
 ### Chinrest
@@ -121,6 +137,12 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_chinrest_maple5.jpg">
     <img src="/assets/images/strings/sonowood_chinrest_maple5.jpg" alt="Chinrest from Sonowood maple made by Berdani Feinste Bestandteile">
   </a>
+  <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG" alt="Chinrest from Sonowood maple walnut by Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG" alt="Chinrest from Sonowood maple walnut by Berdani Feinste Bestandteile">
+  </a>
 </div>
 
 ### Endbutton
@@ -134,6 +156,9 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple3.jpg">
     <img src="/assets/images/strings/sonowood_endbutton_maple3.jpg" alt="Endbutton from Sonowood maple made by Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG">
+    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG" alt="Endbutton from Sonowood walnut made by Berdani Feinste Bestandteile">
   </a>
 </div>
 
