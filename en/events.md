@@ -114,6 +114,9 @@ order: 8
 </div>
 </div>
 
+<div class="full-width">
+<div class="wrap -cols2">
+
   ## Cremona Mondomusica 2019
 
   Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Together with our premium partner Wilhelm Geigenbau, we presented Sonowood at Mondomusica 2019.
@@ -129,7 +132,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Museum Füssen
