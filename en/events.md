@@ -75,7 +75,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Swiss Innovation Forum
@@ -88,7 +88,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## SHG Music Show
@@ -101,7 +101,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Guitars & More
@@ -114,7 +114,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
   ## Cremona Mondomusica 2019
@@ -132,7 +132,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Museum Füssen
