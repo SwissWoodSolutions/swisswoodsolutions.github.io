@@ -23,58 +23,6 @@ order: 8
 
 ---
 
-- ## ELEMENTE materialForum 
-  ### November 21-27, Berlin, Germany
-
-  The ELEMENTE materialForum in Berlin presents innovative materials for architecture and design. Experience our novel wood products Sonowood, Bijouwood and Sonoveneer at this year's wood exhibition from 21 to 27 November and afterwards in the material library at Tempelhofer Berg 6 in Berlin.
-
-- <a href="https://www.elemente-material.de/en/index.html" target="_blank">![ELEMENTE](/assets/images/ELEMENTE.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
-- ## Swiss Innovation Forum
-  ### November 21, Basel, Switzerland
-
-  The Swiss Innovation Forum (SIF) bridges the gap between science and industry. The programme is varied and guarantees lasting impressions, with 25 speakers from Switzerland and abroad. Meet Swiss Wood Solutions at the Congress Center Basel and learn more about our innovative technology.
-
-- <a href="https://www.swiss-innovation.com/en/" target="_blank">![Swiss Innovation Forum](/assets/images/event_swissinnovationforum.png)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
-- ## SHG Music Show
-  ### November 23-24, Milan, Italy
-
-  At the SHG Music Show in Milan, many members of the European Guitar Builders e. V. (EGB) are going to take part. Sonowood will be present on numerous new instruments at the Milan Exhibition Centre. 
-
-- <a href="https://www.facebook.com/SHGMusicShowMilano/" target="_blank">![SHG](/assets/images/events_shg.png)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
-- ## Guitars & More
-  ### November 24, Wettingen, Switzerland
-
-  For the fourth time, Guitars & More presents innovative and creative guitar builders. Visitors can once again look forward to the presentation of groundbreaking news from the world of guitars. Sonowood will be exhibited on a newly developed series of guitars.
-
-- <a href="https://www.guitarsandmore.ch/welcome/index.html" target="_blank">![Guitarsandmore](/assets/images/events_guitarsandmore.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
 - ## The 2020 NAMM Show
   ### January 16-19, 2020, Anaheim, California, United States
 
@@ -88,7 +36,7 @@ order: 8
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-- ## The Holy Grail Guitar Show 
+- ## The Holy Grail Guitar Show
   ### May 2-3, 2020, Berlin, Germany
 
    Truly a holy place of guitar building! For the fifth time, international guitar builders show their latest creations at the Holy Grail Guitar Show. Sonowood will make its debut in Berlin in 2020.
@@ -117,9 +65,57 @@ order: 8
 ### Past events
 
 ---
+- ## ELEMENTE materialForum
+  ### November 21-27, Berlin, Germany
+
+  The ELEMENTE materialForum in Berlin presents innovative materials for architecture and design. Experience our novel wood products Sonowood, Bijouwood and Sonoveneer at this year's wood exhibition from 21 to 27 November and afterwards in the material library at Tempelhofer Berg 6 in Berlin.
+
+- <a href="https://www.elemente-material.de/en/index.html" target="_blank">![ELEMENTE](/assets/images/ELEMENTE.jpg)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
+- ## Swiss Innovation Forum
+  ### November 21, Basel, Switzerland
+
+  The Swiss Innovation Forum (SIF) bridges the gap between science and industry. The programme is varied and guarantees lasting impressions, with 25 speakers from Switzerland and abroad. Meet Swiss Wood Solutions at the Congress Center Basel and learn more about our innovative technology.
+
+- <a href="https://www.swiss-innovation.com/en/" target="_blank">![Swiss Innovation Forum](/assets/images/event_swissinnovationforum.png)</a>
+
+</div>
+</div>
+
+<div class="full-width">
+<div class="wrap -cols2">
+
+- ## SHG Music Show
+  ### November 23-24, Milan, Italy
+
+  At the SHG Music Show in Milan, many members of the European Guitar Builders e. V. (EGB) are going to take part. Sonowood will be present on numerous new instruments at the Milan Exhibition Centre.
+
+- <a href="https://www.facebook.com/SHGMusicShowMilano/" target="_blank">![SHG](/assets/images/events_shg.png)</a>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
+- ## Guitars & More
+  ### November 24, Wettingen, Switzerland
+
+  For the fourth time, Guitars & More presents innovative and creative guitar builders. Visitors can once again look forward to the presentation of groundbreaking news from the world of guitars. Sonowood will be exhibited on a newly developed series of guitars.
+
+- <a href="https://www.guitarsandmore.ch/welcome/index.html" target="_blank">![Guitarsandmore](/assets/images/events_guitarsandmore.jpg)</a>
+
+</div>
+</div>
 
   ## Cremona Mondomusica 2019
-  
+
   Cremona Mondomusica is the largest and most important exhibition in the world for string instruments making. Cremona is the world’s capital of violin making and home to the most famous family of violin makers. Together with our premium partner Wilhelm Geigenbau, we presented Sonowood at Mondomusica 2019.
 
 <img srcset="/assets/images/Cremona2019.JPG"
