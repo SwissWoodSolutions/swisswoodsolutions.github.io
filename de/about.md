@@ -1,6 +1,6 @@
 ﻿---
 lang: de
-title: 'Über uns'
+title: 'Das sind wir'
 order: 6
 ---
 
