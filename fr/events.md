@@ -102,7 +102,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width>
+<div class="full-width">
 <div class="wrap -cols2">
 
 - ## Guitars & More
