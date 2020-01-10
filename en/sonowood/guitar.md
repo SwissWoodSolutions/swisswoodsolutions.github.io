@@ -37,65 +37,65 @@ The offerings includes Sonowood from spruce (Picea abies) and maple (Acer pseudo
 All pieces are available in maple or spruce. <br/>
 *Click on images for larger size*
 
-### Griffbrett
+### Fretboard
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_fretboard21.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard21.jpg" alt="Griffbretter aus Sonowood Riegelahorn, Ahorn und Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard21.jpg" alt="Fretboard from Sonowood flamed maple, maple and walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard22.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard22.jpg" alt="Griffbretter aus Sonowood Riegelahorn, Ahorn und Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard22.jpg" alt="Fretboard from Sonowood flamed maple, maple and walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard23.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard23.jpg" alt="Griffbretter aus Sonowood Walnuss (links), Ahorn (Mitte) und Riegelahorn (rechts)">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard23.jpg" alt="Fretboards from Sonowood walnut (left), maple (center) and flamed maple (right)">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard24.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard24.jpg" alt="Griffbretter aus Sonowood Walnuss (links), Ahorn (Mitte) und Riegelahorn (rechts)">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard24.jpg" alt="Fretboards from Sonowood walnut (left), maple (center) and flamed maple (right)">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard25.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard25.jpg" alt="Griffbretter aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard25.jpg" alt="Fretboards from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard26.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard26.jpg" alt="Griffbretter aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard26.jpg" alt="Fretboards from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard27.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard27.jpg" alt="Griffbrett aus Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard27.jpg" alt="Fretboard from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard28.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard28.jpg" alt="Griffbretter aus Sonowood Riegelahorn, Ahorn und Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard28.jpg" alt="Fretboards from Sonowood flamed maple, maple and walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg" alt="CannaGuitar mit Decke aus Sonoveneer Riegelahorn und Griffbrett und Steg aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg" alt="CannaGuitar with top from Sonoveneer flamed maple, fretboard and bridge from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg" alt="CannaGuitar with top from Sonoveneer oak, fretboard and bridge from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG" alt="CannaGuitar with top from Sonoveneer oak, fretboard and bridge from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak3.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak3.JPG" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak3.JPG" alt="CannaGuitar with top from Sonoveneer oak, fretboard and bridge from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg" alt="CannaGuitar with fretboard from Sonowood maple">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg" alt="Fretboard from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bodio1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bodio1.jpg" alt="Bodio Gitarre mit Griffbrett, Steg, Saitenhalter und Schlagplatte aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_bodio1.jpg" alt="Bodio Guitar with fretboard, bridge, tailpiece and pickguard from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bodio2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bodio2.jpg" alt="Bodio Gitarre mit Griffbrett und Boden aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_bodio2.jpg" alt="Bodio Guitar with fretboard and bottom from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bodio3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bodio3.jpg" alt="Bodio Gitarre mit Griffbrett und Boden aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_guitar_bodio3.jpg" alt="Bodio Guitar with fretboard and bottom from Sonowood walnut">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_odem1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_odem1.jpg" alt="odem Gignera mit Griffbrett aus Sonowood Fichte">
+          <img src="/assets/images/guitars/sonowood_guitar_odem1.jpg" alt="odem Gignera wit fretboard from Sonowood spruce">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_odem2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_odem2.jpg" alt="odem Gignera mit Griffbrett aus Sonowood Fichte">
+          <img src="/assets/images/guitars/sonowood_guitar_odem2.jpg" alt="odem Gignera wit fretboard from Sonowood spruce">
       </a>
 </div>
 
@@ -103,33 +103,33 @@ All pieces are available in maple or spruce. <br/>
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_bridge21.jpg">
-      <img src="/assets/images/guitars/sonowood_guitar_bridge21.jpg" alt="Steg- und Griffbrettkanthölzer aus Sonowood Ahorn">
+      <img src="/assets/images/guitars/sonowood_guitar_bridge21.jpg" alt="Bridge and fretboard square timber from Sonowood maple">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitars_bridge4.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="Bridge from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer Gitarre von Mauro Bodio">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Bridge from Sonowood maple on a Bodio Guitar">
       </a>
 </div>
 
-### Kopfplatte
+### Headstock
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_headstock2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Kopfplatte aus Sonowood auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock2_thumb.jpg" alt="Headstock from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_headstock1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Kopfplatte aus Sonowood auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_headstock1_thumb.jpg" alt="Headstock from Sonowood maple on a CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar mit Griffbrett, Steg und Kopfplatte aus Sonowood Ahorn">
+          <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="CannaGuitar with fretboard, bridge and headstock from Sonowood maple">
       </a>
 </div>
 
