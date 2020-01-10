@@ -69,11 +69,11 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg">
           <img src="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
       </a>
-      <a href="/assets/images/guitars/sonowood_cannaguitar_oak2.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak2.jpg" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
+      <a href="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak3.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak3.jpg" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak3.JPG" alt="CannaGuitar mit Decke aus Sonoveneer Eiche und Griffbrett und Steg aus Sonowood Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
           <img src="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
