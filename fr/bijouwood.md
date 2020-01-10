@@ -19,9 +19,9 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-Bijouwood est un matériau de bois technologiquement amélioré et esthétiquement attrayant composé d'essences de bois domestiques comme le chêne, l'érable figuré, le frêne, le cerisier et plusieurs autres essences de bois provenant de forêts durables. Le Bijouwood est très dense (1'300-1'400 kg/m3), extrêmement dur (dureté Brinell > 100 N/mm2), dimensionnellement stable et résistant aux rayures et à l'abrasion. Bijouwood est composé à 100% de bois et ne contient ni plastique ni résine, il est donc 100% biodégradable. Le matériau peut être facilement gravé au laser CO2 sans traces de brûlure.
+#### Bijouwood est un matériau de bois technologiquement amélioré et esthétiquement attrayant composé d'essences de bois domestiques comme le chêne, l'érable figuré, le frêne, le cerisier et plusieurs autres essences de bois provenant de forêts durables. Le Bijouwood est très dense (1'300-1'400 kg/m3), extrêmement dur (dureté Brinell > 100 N/mm2), dimensionnellement stable et résistant aux rayures et à l'abrasion. Bijouwood est composé à 100% de bois et ne contient ni plastique ni résine, il est donc 100% biodégradable. Le matériau peut être facilement gravé au laser CO2 sans traces de brûlure.
 
-Bijouwood est conçu pour des applications de lifestyle et de haute précision. Vous souhaitez utiliser Bijouwood pour votre application ? Contactez-nous, il n'y a pas de limites à votre créativité.
+#### Bijouwood est conçu pour des applications de lifestyle et de haute précision. Vous souhaitez utiliser Bijouwood pour votre application ? Contactez-nous, il n'y a pas de limites à votre créativité.
 
 </div>
 </div>
@@ -31,7 +31,7 @@ Bijouwood est conçu pour des applications de lifestyle et de haute précision. 
 
 ### ALPA of Switzerland
 
-Les caméras d'ALPA allient la plus haute précision et un style noble. Ce modèle est équipé de poignées en Bijouwood noix. La sensation agréable et la robustesse de Bijouwood procurent du confort. 
+Les caméras d'ALPA allient la plus haute précision et un style noble. Ce modèle est équipé de poignées en Bijouwood noix. La sensation agréable et la robustesse de Bijouwood procurent du confort.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/ALPA1.jpg">
@@ -55,7 +55,7 @@ Les caméras d'ALPA allient la plus haute précision et un style noble. Ce modè
 
 <div class="full-width-grey">
 <div class="wrap">
-     
+
 ### Articles de papeterie de Jean-Frédéric Fesseler
 
 Dans son atelier à Berlin, Jean-Frédéric Fesseler fabrique de la papeterie exclusive. Sa plus récente collection met en vedette Bijouwood d'épicéa, d'érable ainsi que d'érable à figures clair et foncé.
