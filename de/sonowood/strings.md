@@ -107,19 +107,19 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
     <img src="/assets/images/strings/sonowood_strings_berdani21.jpg" alt="Formteile aus Sonowood Walnuss von Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set1.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set1_thumb.jpg" alt="Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set1.jpg" alt="Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set2.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set2_thumb.jpg" alt="Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set2.jpg" alt="Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set3.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set3_thumb.jpg" alt="Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set3.jpg" alt="Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set4.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set4_thumb.jpg" alt="Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set4.jpg" alt="Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set5.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set5_thumb.jpg" alt="Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set5.jpg" alt="Berdani Feinste Bestandteile">
   </a>
 
 ### Kinnhalter
