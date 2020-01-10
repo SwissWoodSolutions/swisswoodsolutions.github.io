@@ -40,28 +40,28 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_fretboard21.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard21.jpg" alt="Griffbrett">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard21.jpg" alt="Griffbretter aus Sonowood Riegelahorn, Ahorn und Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard22.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard22.jpg" alt="Griffbrett">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard22.jpg" alt="Griffbretter aus Sonowood Riegelahorn, Ahorn und Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard23.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard23.jpg" alt="Griffbrett">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard23.jpg" alt="Griffbretter aus Sonowood Walnuss (links), Ahorn (Mitte) und Riegelahorn (rechts)">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard24.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard24.jpg" alt="Griffbrett">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard24.jpg" alt="Griffbretter aus Sonowood Walnuss (links), Ahorn (Mitte) und Riegelahorn (rechts)">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard25.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard25.jpg" alt="Griffbrett">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard25.jpg" alt="Griffbretter aus Sonowood Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard26.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard26.jpg" alt="Griffbrett">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard26.jpg" alt="Griffbretter aus Sonowood Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard27.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard27.jpg" alt="Griffbrett">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard27.jpg" alt="Griffbrett aus Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard28.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard28.jpg" alt="Griffbrett aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard28.jpg" alt="Griffbretter aus Sonowood Riegelahorn, Ahorn und Walnuss">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg">
           <img src="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg" alt="CannaGuitar mit Decke aus Sonoveneer Riegelahorn und Griffbrett und Steg aus Sonowood Walnuss">
@@ -102,10 +102,10 @@ Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für w
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_bridge21.jpg">
-      <img src="/assets/images/guitars/sonowood_guitar_bridge21.jpg"Steg- und Griffbrettkanthölzer aus Sonowood Ahorn">
+      <img src="/assets/images/guitars/sonowood_guitar_bridge21.jpg" alt="Steg- und Griffbrettkanthölzer aus Sonowood Ahorn">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg"Steg aus Sonowood Ahorn auf einer CannaGuitar">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge3.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_bridge3_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer CannaGuitar">
