@@ -42,20 +42,20 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
   <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
     <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Griffbrett aus Sonowood Fichte (links), Sonowood Ahorn (mitte) und Sonowood Walnuss (rechts). Foto: Berdani Feinste Bestandteile">
   </a>  
-  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
-  </a>
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Andreas Hochuli">
@@ -65,12 +65,6 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Griffbrett aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG" alt="Griffbrett aus Sonowood Walnuss gefertigt von Berdani Feinste Bestandteile">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG" alt="Griffbrett aus Sonowood Walnuss gefertigt von Berdani Feinste Bestandteile">
   </a>
 </div>
 
@@ -88,13 +82,10 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
-  </a>   
-  <a href="/assets/images/strings/sonowood_tailpiece.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece.jpg" alt="Saitenhalter aus Sonowood Ahorn (links) und Sonowood Fichte (rechts) gefertigt von Wilhelm Geigenbau">
-  </a>   
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Saitenhalter aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>  
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Saitenhalter aus Sonowood Walnuss gefertigt von Berdani Feinste Bestandteile">
+  </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Saiten- und Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
@@ -107,16 +98,29 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Saitenhalter aus Sonowood Fichte auf einer Amati Violine ausgerüstet von Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG" alt="Saitenhalter aus Sonowood Walnuss gefertigt von Berdani Feinste Bestandteile">
-  </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Saitenhalter aus Sonowood Walnuss gefertigt von Berdani Feinste Bestandteile">
-  </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG" alt="Saitenhalter aus Sonowood Walnuss gefertigt von Berdani Feinste Bestandteile">
-  </a>
 </div>
+
+### Sets
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_strings_berdani21.jpg">
+    <img src="/assets/images/strings/sonowood_strings_berdani21_thumb.jpg" alt="Formteile aus Sonowood Walnuss von Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set1.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set1_thumb.jpg" alt="Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set2.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set2_thumb.jpg" alt="Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set3.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set3_thumb.jpg" alt="Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set4.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set4_thumb.jpg" alt="Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set5.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set5_thumb.jpg" alt="Berdani Feinste Bestandteile">
+  </a>
 
 ### Kinnhalter
 
