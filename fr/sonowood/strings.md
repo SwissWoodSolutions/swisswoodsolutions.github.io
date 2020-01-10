@@ -36,128 +36,138 @@ Vous trouverez **les données techniques** sur Sonowood érable, Sonowood noix e
 Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et Sonowood épicéa pour violon et alto (sans mentionnière en épicéa). <br/>
 *Cliquez sur image pour agrandissement*
 
-### Touche
+### Griffbrett
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Touche en Sonowood épicéa (à gauche), Sonowood érable (centre) und Sonowood noix (à droite). Photo de Berdani Feinste Bestandteile">
-  </a>    
-  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Touche en Sonowood érable fabriquée par Wilhelm Geigenbau">
-  </a>
+    <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Griffbrett aus Sonowood Fichte (links), Sonowood Ahorn (mitte) und Sonowood Walnuss (rechts). Foto: Berdani Feinste Bestandteile">
+  </a>  
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Touche en Sonowood érable">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Touche en Sonowood épicéa fabriquée par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce4.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Touche en Sonowood épicéa">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce4_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce3.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Touche en Sonowood épicéa">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce3_thumb.jpg" alt="Griffbrett aus Sonowood Fichte">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_maple1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_maple1_thumb.jpg" alt="Griffbrett aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_fingerboard_spruce1.jpg">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Griffbrett aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Touche et cordier en Sonowood épicéa. Photo de Andreas Hochuli">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Griffbrett und Saitenhalter aus Sonowood Fichte. Foto: Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 avec touche et cordier en Sonowood épicéa, équipé de Wilhelm Geigenbau. Photo de Strad Magazine">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 mit Griffbrett und Saitenhalter aus Sonowood Fichte von Wilhelm Geigenbau. Foto: The Strad Magazine">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Touche en Sonowood épicéa fabriquée par Wilhelm Geigenbau">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani1.JPG" alt="Touche en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
-  </a>
-  <a href="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_walnut_berdani2.JPG" alt="Touche en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Griffbrett aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
   </a>
 </div>
 
-### Cordier
+### Saitenhalter
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG" alt="Cordiers en Sonowood épicéa, érable et noix fabriqués par Wilhelm Geigenbau. Photo de Strad Magazine">
-  </a>    
+    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG" alt="Saitenhalter aus Sonowood Fichte, Ahorn und Walnuss gefertigt von Wilhelm Geigenbau. Foto: The Strad Magazine">
+  </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Cordier en Sonowood érable">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple4.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Cordier en Sonowood érable">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple4_thumb.jpg" alt="Saitenhalter aus Sonowood Ahorn">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier en Sonowood épicéa">
-  </a>   
-  <a href="/assets/images/strings/sonowood_tailpiece.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece.jpg" alt="Cordier en Sonowood érable (à gauche) et Sonowood épicéa (à droite) fabriqués par Wilhelm Geigenbau">
-  </a>   
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_auslage.JPG" alt="Cordier en Sonowood érable et épicéa fabriqué par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte">
   </a>  
+  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Saitenhalter aus Sonowood Walnuss gefertigt von Berdani Feinste Bestandteile">
+  </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Cordier et mentionnière en Sonowood érable fabriqués par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Saiten- und Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Cordier en Sonowood épicéa fabriqué par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Saitenhalter aus Sonowood Fichte gefertigt von Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Saitenhalter aus Sonowood Fichte auf einer Amati Violine ausgerüstet von Wilhelm Geigenbau">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_berdani.jpg">
+    <img src="/assets/images/strings/sonowood_strings_berdani.jpg" alt="Geige mit Formteilen aus Sonowood Walnuss ausgerüstet von Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cordier violoncelle en Sonowood érable fabriqué par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello-Saitenhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>   
-  <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Cordier en Sonowood épicéa à un Amati violon, équipé de Wilhelm Geigenbau">
-  </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani1.JPG" alt="Cordier en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
-  </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Cordier en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
-  </a>
-  <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani3.JPG" alt="Cordier en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
-  </a>
 </div>
 
-### Mentionnière
+### Sets
+
+<div class="picturegallery">
+  <a href="/assets/images/strings/sonowood_strings_set1.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set1.jpg" alt="Sonowood Kanthölzer für Griffbrett und Saitenhalter. Links: Walnuss, Mitte: Ahorn, rechts: Fichte.">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set2.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set2.jpg" alt="Sonowood Kanthölzer für Griffbrett und Saitenhalter. Vorne: Fichte, Mitte: Ahorn, hinten: Walnuss.">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set3.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set3.jpg" alt="Sonowood Walnuss Kanthölzer">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set4.jpg">
+    <img src="/assets/images/strings/sonowood_strings_set4.jpg" alt="Sonowood Ahorn Kanthölzer für Griffbrett, Saitenhalter und Wirbel">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_set5.JPG">
+    <img src="/assets/images/strings/sonowood_strings_set5.JPG" alt="Formteile aus Sonowood Walnuss von Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
+    <img src="/assets/images/strings/sonowood_strings_berdani.JPG" alt="Formteile aus Sonowood Fichte von Berdani Feinste Bestandteile">
+  </a>
+  <a href="/assets/images/strings/sonowood_strings_berdani21.jpg">
+    <img src="/assets/images/strings/sonowood_strings_berdani21.jpg" alt="Wirbel aus Sonowood Fichte, Ahorn und Walnuss von Berdani Feinste Bestandteile">
+</div>
+
+### Kinnhalter
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Mentionnière en Sonowood érable fabriquée par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Mentionnière en Sonowood érable fabriquée par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Mentionnière en Sonowood érable fabriquée par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Kinnhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple4.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple4.jpg" alt="Mentionnière en Sonowood érable fabriquée par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_maple4.jpg" alt="Kinnhalter aus Sonowood Ahorn. Foto: Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple5.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple5.jpg" alt="Mentionnière en Sonowood érable fabriquée par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_maple5.jpg" alt="Kinnhalter aus Sonowood Ahorn. Foto: Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG" alt="Mentionnière en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG" alt="Kinnhalter aus Sonowood Walnuss. Foto: Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG" alt="Mentionnière en Sonowood noix fabriquée par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG" alt="Kinnhalter aus Sonowood Walnuss. Foto: Berdani Feinste Bestandteile">
   </a>
 </div>
 
-### Bouton
+### Endknopf
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_endbutton_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Bouton en Sonowood érable fabriqué par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Endknopf aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple2.jpg" alt="Bouton en Sonowood érable fabriqué par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_maple2.jpg" alt="Endknopf aus Sonowood Ahorn. Foto: Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple3.jpg" alt="Bouton en Sonowood érable fabriqué par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_maple3.jpg" alt="Endknopf aus Sonowood Ahorn. Foto: Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG">
-    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG" alt="Bouton en Sonowood noix fabriqué par Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG" alt="Endknopf aus Sonowood Walnuss. Foto: Berdani Feinste Bestandteile">
   </a>
 </div>
 
