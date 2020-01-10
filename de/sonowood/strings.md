@@ -104,7 +104,7 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_strings_berdani21.jpg">
-    <img src="/assets/images/strings/sonowood_strings_berdani21_thumb.jpg" alt="Formteile aus Sonowood Walnuss von Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_berdani21.jpg" alt="Formteile aus Sonowood Walnuss von Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set1.jpg">
     <img src="/assets/images/strings/sonowood_strings_set1_thumb.jpg" alt="Berdani Feinste Bestandteile">
