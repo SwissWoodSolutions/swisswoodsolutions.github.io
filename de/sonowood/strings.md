@@ -95,8 +95,8 @@ Alle Formteile sind erhältlich für Violinen und Bratschen. Sonowood wird in Ah
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Saitenhalter aus Sonowood Fichte auf einer Amati Violine ausgerüstet von Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_strings_berdani.jpg">
-    <img src="/assets/images/strings/sonowood_strings_berdani.jpg" alt="Geige mit Formteilen aus Sonowood Walnuss ausgerüstet von Berdani Feinste Bestandteile">
+  <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
+    <img src="/assets/images/strings/sonowood_strings_berdani.JPG" alt="Geige mit Formteilen aus Sonowood Walnuss ausgerüstet von Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
     <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello-Saitenhalter aus Sonowood Ahorn gefertigt von Wilhelm Geigenbau">

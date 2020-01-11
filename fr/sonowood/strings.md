@@ -95,8 +95,8 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Cordier en Sonowood épicéa en un violon Amati de Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_strings_berdani.jpg">
-    <img src="/assets/images/strings/sonowood_strings_berdani.jpg" alt="Violon en Sonowood noix de Berdani Feinste Bestandteile">
+  <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
+    <img src="/assets/images/strings/sonowood_strings_berdani.JPG" alt="Violon en Sonowood noix de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
     <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello cordier en Sonowood érable de Wilhelm Geigenbau">

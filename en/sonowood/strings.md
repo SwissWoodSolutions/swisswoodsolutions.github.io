@@ -95,8 +95,8 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Tailpiece from Sonowood spruce on a Amati Violin equipped by Wilhelm Geigenbau">
   </a>
-  <a href="/assets/images/strings/sonowood_strings_berdani.jpg">
-    <img src="/assets/images/strings/sonowood_strings_berdani.jpg" alt="Sonowood walnut fittings made by Berdani Feinste Bestandteile">
+  <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
+    <img src="/assets/images/strings/sonowood_strings_berdani.JPG" alt="Sonowood walnut fittings made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
     <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello tailpiece from Sonowood maple made by Wilhelm Geigenbau">
