@@ -23,10 +23,10 @@ order: 5
 
 ### Nous offrons:
 
-   - Essais indépendants de structures en bois sur la base de notre expertise scientifique et de notre expérience pratique.
+   - Evaluations indépendante de structures en bois sur la base de notre expertise scientifique et de notre expérience pratique.
    - Considération de la protection des bâtiments et des monuments historiques
    - Essais de matériaux sur site ou en laboratoire
-   - Coopération avec des entreprises visionnaires pour réaliser les applications futuristes du bois
+   - Coopération avec des entreprises visionnaires pour réaliser les futures applications du bois
    - Planification, soutien et mise en œuvre de projets de transfert de technologie. De la science à la pratique
    - Accès à un vaste réseau international dans les domaines de la science et de l'industrie
 

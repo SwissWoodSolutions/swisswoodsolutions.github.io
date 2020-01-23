@@ -103,13 +103,13 @@ C’est pour répondre à cette problématique de la dispartition des bois rares
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
-    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Ébauche de Sonowood érable, érable naturel au-dessous">
+    <img src="/assets/images/strings/sonowood_timber_ahorn.jpg" alt="Pièce brute de Sonowood érable, érable naturel au-dessous">
   </a>
   <a href="/assets/images/sonowood_maple-02_2x.jpg">
     <img src="/assets/images/Sonowood_6_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Violin_Guitar_Viola.jpg" alt="Violon avec des pièces de forme en Sonowood érable fabriquées par Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable de Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisées de Sonowood érable de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
       <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitare de Canna Guitars avec touche, chevalet et tête en Sonowood érable">
@@ -147,7 +147,7 @@ C’est pour répondre à cette problématique de la dispartition des bois rares
 
 <div class="picturegallery">
     <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
-        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Ébauche de Sonowood épicéa, épicéa naturel au-dessous">
+        <img src="/assets/images/strings/sonowood_timber_spruce.jpg" alt="Pièce brute de Sonowood épicéa, épicéa naturel au-dessous">
     </a>
     <a href="/assets/images/strings/sonowood_tailpiece_spruce2.jpg">
         <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier de Sonowood épicéa">
@@ -173,7 +173,7 @@ C’est pour répondre à cette problématique de la dispartition des bois rares
 
   -  #### Données techniques:
 
-      - Type de bois: érable sycomore *(Acer pseudoplatanus)*
+      - Type de bois: érable sycomore *(Juglans spp.)*
       - Couleur: brun foncé et noir
       - Densité: 1'200 – 1'400 kg/m³
       - Dureté Brinell: 90 - 140 N/mm²

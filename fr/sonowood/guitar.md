@@ -19,11 +19,11 @@ order: 2
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-La dureté et la densité exceptionnelles de Sonowood assurent des excellentes performances acoustiques à vos guitares et guitares électriques. Sonowood peut être utilisé pour fabriquer la touche et le chevalet.
+La dureté et la densité exceptionnelles de Sonowood assurent d'excellentes performances acoustiques à vos guitares et guitares électriques. Sonowood peut être utilisé pour fabriquer la touche et le chevalet.
 
-Sonowood peut être fabriqué à partir des différentes essences, l’épicéa (Picea abies) et l’érable (Acer pseudoplatanus). Pour nos produits, nous n’utilisons que du bois issu d’une sylviculture durable, provenant principalement des cantons de Zurich et des Grisons.
+Sonowood peut être fabriqué à partir de différentes essences, l’épicéa (Picea abies) et l’érable (Acer pseudoplatanus). Pour nos produits, nous n’utilisons que du bois issu d’une sylviculture durable, provenant principalement des cantons de Zurich et des Grisons.
 
-Vous trouverez **les données techniques** sur Sonowood érable et Sonowood épicéa <a href="/fr/products/#technicaldata">ici à la page principale de Sonowood.</a>
+Vous trouverez **les données techniques** sur Sonowood érable et Sonowood épicéa <a href="/fr/products/#technicaldata">ici sur la page principale de Sonowood.</a>
 
 </div>
 </div>
@@ -31,10 +31,10 @@ Vous trouverez **les données techniques** sur Sonowood érable et Sonowood épi
 <div class="full-width">
 <div class="wrap">
 
-## Sonowood pour votre guitares
+## Sonowood pour votre guitare
 
 Toutes les pièces sont disponibles en érable, épicéa et noyer. <br/>
-*Cliquez sur une image pour agrandissement*
+*Cliquez sur une image pour l'agrandir*
 
 ### Touche
 
@@ -155,9 +155,8 @@ Toutes les pièces sont disponibles en érable, épicéa et noyer. <br/>
 
   - Sonowood se laisse fraiser facilement et avec haute précision. Il est donc idéal pour les composants filigranes (chevalets, plaques de chevalet et chevilles) ainsi que pour la marqueterie.
   - Sonowood érable peut facilement être décollé puis recollé sans risque d’arrachage de la fibre
-  - Les frettes peuvent être facilement ajustées et restent bien ancrées dans le bois. Attention toutefois, les fentes ne doivent pas être trop étroites comme Sonowood est bien plus dur que les bois conventionnels. Il est préférable de scier les fentes à la machine pour Sonowood érable. Un sciage à la main est facilement réalisable avec Sonowood noyer et Sonowood épicéa.
+  - Les frettes peuvent être facilement ajustées et restent bien ancrées dans le bois. Attention toutefois, les fentes ne doivent pas être trop étroites car Sonowood est bien plus dur que les bois conventionnels. Il est préférable de scier les fentes à la machine pour Sonowood érable. Un sciage à la main est facilement réalisable avec Sonowood noyer et Sonowood épicéa.
   - Aucun bouche-pores n’est nécessaire grâce à sa structure très dense.
-  - Sonowood peut être poncé très bien .
   - Sonowood se laisse très facilement poncer. Une surface lisse est déjà obtenue en utilisant du papier de verre relativement grossier (240).
   - Sonowood provient de bois naturel (aucun matériau composite bois-plastique), c’est pourquoi son utilisation est associé à la promotion d’une sylviculture locale et durable.
   - Disponible de manière continue en qualité constante

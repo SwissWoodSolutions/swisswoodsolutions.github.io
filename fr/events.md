@@ -7,7 +7,7 @@ order: 8
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Bientôt à un événement près de chez vous.
+# Bientôt présents lors d’un événement près de chez vous.
 
 ![arrow down](/assets/images/arrow-d-white.svg)
 
@@ -26,7 +26,7 @@ order: 8
 - ## The 2020 NAMM Show
   ### 16-19 janvier 2020, Anaheim, Californie, USA
 
-     On porte Sonowood de l'autre côté de l'atlantique au NAMM Show en Californie. Le NAMM Show (National Association of Music Merchants) rassemble des milliers d'exposants et de visiteurs de plus de 140 pays pour discuter des derniers produits et tendances de l'industrie musicale.  
+     Nous traversons l'Atlantique pour vous présenter Sonowood au NAMM Show en Californie. Le NAMM Show (National Association of Music Merchants) rassemble des milliers d'exposants et de visiteurs de plus de 140 pays pour discuter des derniers produits et tendances de l'industrie musicale.  
 
 - <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
 
@@ -52,7 +52,7 @@ order: 8
 - ## Alpines Museum der Schweiz
   ### 18 octobre 2019 - 27 septembre 2020, Berne, Suisse
 
-  Sonowood spruce est fabriqué d'épicéas domestiques suisses situés à plus de 1'000 mètres d'altitude. Vivez l'expérience Sonowood de sources alpines suisses dans l'exposition Atelier Alpes au Musée Alpin Suisse à Berne.
+  Sonowood épicéa est fabriqué à partir d'épicéas domestiques suisses situés à plus de 1'000 mètres d'altitude. Vivez l'expérience de Sonowood issu de forêts alpines suisses à l'exposition Atelier Alpes au Musée Alpin Suisse à Berne.
 
 - <a href="https://www.alpinesmuseum.ch/de/ausstellungen/werkstatt-alpen" target="_blank">![Alpines Museum](/assets/images/AlpinesMuseum.jpg)</a>
 
@@ -120,7 +120,7 @@ order: 8
 
 ## Cremona Mondomusica 2019
 
-  Cremona Mondomusica est la plus grande et la plus importante exposition de lutherie au monde. Cremona est la capitale mondiale de la lutherie et l'origine la plus célèbre famille de luthiers. Avec notre partenaire Wilhelm Geigenbau, nous avons pu présenter Sonowood à un public international.
+  Cremona Mondomusica est la plus grande et la plus importante exposition de lutherie au monde. Cremona est la capitale mondiale de la lutherie et l'origine de la plus célèbre famille de luthiers. Avec notre partenaire Wilhelm Geigenbau, nous avons pu présenter Sonowood à un public international.
 
 <img srcset="/assets/images/Cremona2019.JPG"
      src="/assets/images/Cremona2019.JPG" alt="Mark Wilhem und Boris Haug von Wilhelm Geigenbau mit den Vertretern von SWS in Cremona.">
@@ -140,7 +140,7 @@ order: 8
 
   ### 31 août, Füssen, l'Allemagne
 
-  Dr. Oliver Kläusler, inventeur de Sonowood, a intervenu au musée de la ville de Füssen pour une conférence en deux parties. Dans la première partie, un aperçu de Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) et de son impact sur la construction et le commerce des instruments de musique a été présenté. Dans la deuxième partie, Dr. Kläusler a présenté Sonowood comme une alternative à l'utilisation de bois surutilisés.
+  Dr. Oliver Kläusler, inventeur de Sonowood, est intervenu au musée de la ville de Füssen pour une conférence en deux parties. Dans la première partie, un aperçu de Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) et de son impact sur la construction et le commerce des instruments de musique a été présenté. Dans la deuxième partie, Dr. Kläusler a présenté Sonowood comme une alternative à l'utilisation de bois surutilisés.
 
 - <a href="https://www.stadt-fuessen.de/museum.html" target="_blank">![Museum Füssen](/assets/images/Füssen.png)</a>
 

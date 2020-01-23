@@ -34,7 +34,7 @@ Vous trouverez **les données techniques** sur Sonowood érable, Sonowood noyer 
 ## Pièces de Sonowood
 
 Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer et Sonowood épicéa pour violon et alto (exceptée la mentonnière en épicéa). <br/>
-*Cliquez sur image pour agrandissement*
+*Cliquez sur image pour l'agrandir*
 
 ### Touche
 

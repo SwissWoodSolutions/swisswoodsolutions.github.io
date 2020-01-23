@@ -7,7 +7,7 @@ order: 10
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Du bois techniquement modifié, fait sur mesure selon vos besoins?
+# Du bois techniquement amélioré, fait sur mesure selon vos besoins?
 
 ![](/assets/images/arrow-d-white.svg)
 

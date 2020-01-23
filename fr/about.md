@@ -18,7 +18,7 @@ order: 6
 
 Swiss Wood Solutions AG a été fondée en 2016 comme spin-off de l'ETH Zurich et de l'Empa à Dübendorf.
 
-Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement. Avant de rejoindre Swiss Wood Solutions, tous les membres de notre équipe ont acquis une expérience de recherche à l'ETH et/ou à l'Empa. L'ETH Zurich (Ecole polytechnique fédérale de Zurich) est l'une des meilleures universités scientifiques au monde et se classe constamment parmi les meilleures au monde. L'Empa (Laboratoire fédéral suisse de science des matériaux et de technologie) est un institut de recherche interdisciplinaire suisse pour la science appliquée des matériaux avec différents campus à travers la Suisse. Nous sommes dans une position avantageuse de bénéficier du soutien infrastructurel, technique et de savoir-faire de ces deux institutions suisses. Swiss Wood Solutions agit néanmoins en tant qu'entreprise indépendante et détient ses propres droits de propriété intellectuelle.
+Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche et du développement. Avant de rejoindre Swiss Wood Solutions, tous les membres de notre équipe ont acquis une expérience de recherche à l'ETH et/ou à l'Empa. L'ETH Zurich (Ecole polytechnique fédérale de Zurich) est une université renommée qui se classe régulièrement parmi les meilleures au monde. L'Empa (Laboratoire fédéral suisse de science des matériaux et de technologie) est un institut de recherche interdisciplinaire suisse pour la science appliquée des matériaux avec différents campus à travers la Suisse. Nous sommes dans une position avantageuse pour bénéficier du soutien infrastructurel, technique et de savoir-faire de ces deux institutions suisses. Swiss Wood Solutions agit néanmoins en tant qu'entreprise indépendante et détient ses propres droits de propriété intellectuelle.
 
   - ![logo eth spinoff](/assets/images/Partner_4_ETH_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
   - ![logo empa spinoff](/assets/images/Partner_5_Empa_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Palisander_Holz_Experten_SwissWoodSolutions_Klimaschutz_ETH_Zuerich.jpg)
@@ -37,7 +37,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
   ### Dr. Oliver Kläusler
   ###	PDG
 
-  a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en Tchéquie et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier PDG de Swiss Wood Solutions.
+  a étudié l'industrie et la technologie du bois à l'Université de Hambourg et a rédigé sa thèse de doctorat à l'ETH Zurich. Il a ensuite travaillé comme ingénieur de recherche et chef de projet dans l'industrie du bois en Suisse, en République tchèque  et aux Etats-Unis. Il est l'inventeur et le développeur de la technologie de production de deux produits Beaufort pour les véhicules Audi. Il a ensuite dirigé un groupe de recherche à l'Empa Dübendorf et à l'ETH Zurich. Oliver Kläusler est cofondateur et premier PDG de Swiss Wood Solutions.
 
   <klaeusler@swisswoodsolutions.ch>  
   Tel. +41 79 819 72 77
@@ -58,7 +58,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
   ### Dr. Walter Sonderegger
   ### Contrôle de la qualité
 
-  a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermal. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
+  a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermale. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
 
   <sonderegger@swisswoodsolutions.ch>
 

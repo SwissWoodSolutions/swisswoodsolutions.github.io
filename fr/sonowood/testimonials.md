@@ -40,8 +40,7 @@ order: 3
 
 ## *«La guitare équipée d’une touche et d’un chevalet en Sonowood possède un son très chaud. Mon client en est simplement ravi.»*
 
-**— Mauro Bodio, fabricant de guitare, 4 mai 2018
-2017**
+**— Mauro Bodio, fabricant de guitare, 4 mai 2018**
 
 </div>
 </div>
