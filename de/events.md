@@ -96,7 +96,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Museum Füssen
