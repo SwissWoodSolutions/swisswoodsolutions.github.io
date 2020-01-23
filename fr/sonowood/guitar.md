@@ -33,47 +33,47 @@ Vous trouverez **les données techniques** sur Sonowood érable et Sonowood épi
 
 ## Sonowood pour votre guitares
 
-Toutes les pièces sont disponibles en érable, épicéa et noix. <br/>
+Toutes les pièces sont disponibles en érable, épicéa et noyer. <br/>
 *Cliquez sur une image pour agrandissement*
 
 ### Touche
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_fretboard21.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard21.jpg" alt="Touches en Sonowood érable et noix">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard21.jpg" alt="Touches en Sonowood érable et noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard22.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard22.jpg" alt="Touches en Sonowood érable et noix">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard22.jpg" alt="Touches en Sonowood érable et noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard23.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard23.jpg" alt="Touches en Sonowood noix (gauche) et érable">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard23.jpg" alt="Touches en Sonowood noyer (gauche) et érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard24.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard24.jpg" alt="Touches en Sonowood noix (gauche) et érable">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard24.jpg" alt="Touches en Sonowood noyer (gauche) et érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard25.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard25.jpg" alt="Touches en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard25.jpg" alt="Touches en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard26.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard26.jpg" alt="Touches en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard26.jpg" alt="Touches en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard27.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard27.jpg" alt="Touche en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard27.jpg" alt="Touche en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_fretboard28.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_fretboard28.jpg" alt="Touches en Sonowood érable et noix">
+          <img src="/assets/images/guitars/sonowood_guitar_fretboard28.jpg" alt="Touches en Sonowood érable et noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg" alt="CannaGuitar avec couverture en Sonoveneer érable, touche et chevalet en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_flamed1.jpg" alt="CannaGuitar avec couverture en Sonoveneer érable, touche et chevalet en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg" alt="CannaGuitar avec couverture en Sonoveneer chêne, touche et chevalet en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak1.jpg" alt="CannaGuitar avec couverture en Sonoveneer chêne, touche et chevalet en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG" alt="CannaGuitar avec couverture en Sonoveneer chêne, touche et chevalet en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak2.JPG" alt="CannaGuitar avec couverture en Sonoveneer chêne, touche et chevalet en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_cannaguitar_oak3.jpg">
-          <img src="/assets/images/guitars/sonowood_cannaguitar_oak3.JPG" alt="CannaGuitar avec couverture en Sonoveneer chêne, touche et chevalet en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_cannaguitar_oak3.JPG" alt="CannaGuitar avec couverture en Sonoveneer chêne, touche et chevalet en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg">
           <img src="/assets/images/guitars/sonowood_eguitar_fretboard1.jpg" alt="CannaGuitar avec touche en Sonowood érable">
@@ -82,13 +82,13 @@ Toutes les pièces sont disponibles en érable, épicéa et noix. <br/>
           <img src="/assets/images/guitars/sonowood_eguitar_fretboard2.jpg" alt="CannaGuitar avec touche en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bodio1.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bodio1.jpg" alt="Bodio guitare avec touche, chevalet et cordier en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_guitar_bodio1.jpg" alt="Bodio guitare avec touche, chevalet et cordier en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bodio2.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bodio2.jpg" alt="Bodio guitare avec touche en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_guitar_bodio2.jpg" alt="Bodio guitare avec touche en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bodio3.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bodio3.jpg" alt="Bodio guitare avec touche en Sonowood noix">
+          <img src="/assets/images/guitars/sonowood_guitar_bodio3.jpg" alt="Bodio guitare avec touche en Sonowood noyer">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_odem1.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_odem1.jpg" alt="odem Gignera avec touche en Sonowood épicéa">
@@ -102,7 +102,7 @@ Toutes les pièces sont disponibles en érable, épicéa et noix. <br/>
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_bridge21.jpg">
-      <img src="/assets/images/guitars/sonowood_guitar_bridge21.jpg" alt="Chevalet et touche ébauches en Sonowood érable">
+      <img src="/assets/images/guitars/sonowood_guitar_bridge21.jpg" alt="Chevalet et touche en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge1.jpg">
           <img src="/assets/images/guitars/sonowood_guitar_bridge1_thumb.jpg" alt="CannaGuitar avec chevalet en Sonowood érable">
@@ -114,7 +114,7 @@ Toutes les pièces sont disponibles en érable, épicéa et noix. <br/>
           <img src="/assets/images/guitars/sonowood_guitar_bridge4_thumb.jpg" alt="CannaGuitar avec chevalet en Sonowood érable">
       </a>
       <a href="/assets/images/guitars/sonowood_guitar_bridge5.jpg">
-          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Steg aus Sonowood Ahorn auf einer Gitarre von Mauro Bodio">
+          <img src="/assets/images/guitars/sonowood_guitar_bridge5_thumb.jpg" alt="Bodio Guitar avec chevalet en Sonowood érable">
       </a>
 </div>
 

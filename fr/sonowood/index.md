@@ -20,9 +20,9 @@ order: 2
 
 ## Sonowood laisse votre instrument s’exprimer.
 
-Nous avons développé Sonowood spécifiquement comme bois pour la construction d'instruments de musique. Traditionnellement, certaines essences de bois tropicaux sont utilisées car elles possèdent une dureté et densité élevées, sont dimensionnellement stables et ont une plaisante couleur foncée. Malheureusement, en raison de la surexploitation mondiale des ressources, la plupart de ces essences sont aujourd'hui en fort déclin et risquent de disparaître complètement. Il en résulte que des directives d'importation et de commerce de plus en plus strictes, telles que [CITES](https://www.cites.org/eng/disc/species.php) doivent être appliquées.
+Nous avons développé Sonowood spécifiquement comme bois pour la construction d'instruments de musique. Traditionnellement, certaines essences de bois tropicaux sont utilisées car elles possèdent une dureté et une densité élevées, sont dimensionnellement stables et ont une plaisante couleur foncée. Malheureusement, en raison de la surexploitation mondiale des ressources, la plupart de ces essences sont aujourd'hui en fort déclin et risquent de disparaître complètement. Des directives d'importation et de commerce de plus en plus restrictives, telles que [CITES](https://www.cites.org/eng/disc/species.php), ont donc été mises en place.
 
-C’est pour répondre à cette problématique que nous avons développé Sonowood. Notre concept est d’utiliser du bois local provenant de forêts gérées de manière durable et de le modifier afin d’obtenir des propriétés physico-mécaniques similaires à celles des bois tropicaux. Notre démarche est basée sur une production respectueuse de l’environnement associée à une recherche d’innovation continue. Ceci afin d’offrir au client un matériau de haute qualité sans restrictions légales ni préoccupations éthiques ou morales.
+C’est pour répondre à cette problématique de la dispartition des bois rares que nous avons développé Sonowood. Notre concept est d’utiliser du bois local provenant de forêts gérées de manière durable et de le modifier afin d’obtenir des propriétés physico-mécaniques similaires à celles des bois tropicaux. Notre démarche est basée sur une production respectueuse de l’environnement associée à une recherche continue d’innovation. Ceci afin d’offrir au client un matériau de haute qualité sans restrictions légales ni préoccupations éthiques ou morales.
 
 <a class="btn -red" href="/assets/docs/Sonowood_Strings_EN.pdf">Brochure des instruments à cordes</a> <a class="btn -red" href="/assets/docs/Sonowood_Guitars_EN.pdf">Brochure des guitares</a>
 
@@ -50,7 +50,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
     ### 100% authentique
 
-    Sonowood n'est pas un matériau composite, c’est du bois et ça se travaille comme tel.
+    Sonowood n'est pas un matériau composite, c’est du bois et il se travaille comme tel.
 
   - ![icon customizable](/assets/logo/customizable.svg)
 
@@ -62,34 +62,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
     ### Aucune restriction légale
 
-    Nos clients peuvent voyager l’esprit libre, Sonowood n’est pas concerné par les restrictions au commerce et à l'importation décrites     par CITES.
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols3">
-
-  - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Instruments à cordes
-
-    En savoir plus sur les applications de Sonowood aux violons, altos et violoncelles.
-
-    <a class="btn" href="/fr/sonowood/strings">Cordes ></a>
-
-  - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
-    ### Guitares
-
-     En savoir plus sur les applications aux guitares et aux guitares électriques
-
-    <a class="btn" href="/fr/sonowood/guitar">Guitares ></a>
-
-- ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Témoignages
-
-     Ne nous croyez pas sur parole: lisez ce qu’en disent les utilisateurs.
-
-    <a class="btn" href="/fr/sonowood/testimonials">Témoignages ></a>
+    Nos clients peuvent voyager l’esprit libre, Sonowood n’est pas concerné par les restrictions au commerce et à l'importation décrites par CITES.
 
 </div>
 </div>
@@ -139,7 +112,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
     <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/guitars/sonowood_eguitar_full1.jpg">
-      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitar de Canna Guitars avec touche, chevalet et tête en Sonowood érable">
+      <img src="/assets/images/guitars/sonowood_eguitar_full1_thumb.jpg" alt="Guitare de Canna Guitars avec touche, chevalet et tête en Sonowood érable">
   </a>
 </div>
 
@@ -186,7 +159,7 @@ C’est pour répondre à cette problématique que nous avons développé Sonowo
 
 ---
 
-  - ## Sonowood noix
+  - ## Sonowood noyer
 
   - ### Pour instruments à cordes et guitares
 

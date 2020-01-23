@@ -19,11 +19,11 @@ order: 1
 <div class="full-width-grey">
 <div class="wrap">
 
-La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments sont des expemplaires uniques. C'est exactement le cas de Sonowood. Nous fabriquons chaque pièce individuellement. Aucune touche ne ressemble à la suivante. L'esthétique et la dureté et densité extraordinaire garantissent des performances maximales.
+La fabrication d'instruments à cordes est émotionnelle. Beaucoup d'instruments sont des exemplaires uniques. C'est exactement le cas de Sonowood. Nous fabriquons chaque pièce individuellement. Aucune touche ne ressemble à la suivante. L'esthétique, ainsi que la dureté et la densité extraordinaires garantissent des performances maximales.
 
-Nous offrons des pièces de forme ainsi que des ébauches en épicéa (Picea abies) et en érable (Acer pseudoplatanus). Pour nos produits, nous utilisons que du bois issu d'une sylviculture durable, surtout des cantons de Zurich et des Grisons.
+Nous offrons des pièces de bois bruts, ou travaillé en épicéa (Picea abies) et en érable (Acer pseudoplatanus). Pour nos produits, nous n’utilisons que du bois issu de la sylviculture durable, essentiellement des cantons de Zurich et des Grisons.
 
-Vous trouverez **les données techniques** sur Sonowood érable, Sonowood noix et Sonowood épicéa <a href="/fr/sonowood/#technicaldata">ici.</a>
+Vous trouverez **les données techniques** sur Sonowood érable, Sonowood noyer et Sonowood épicéa <a href="/fr/sonowood/#technicaldata">ici.</a>
 
 </div>
 </div>
@@ -31,16 +31,16 @@ Vous trouverez **les données techniques** sur Sonowood érable, Sonowood noix e
 <div class="full-width">
 <div class="wrap">
 
-## Pièces de forme en Sonowood
+## Pièces de Sonowood
 
-Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et Sonowood épicéa pour violon et alto (sans mentionnière en épicéa). <br/>
+Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer et Sonowood épicéa pour violon et alto (exceptée la mentonnière en épicéa). <br/>
 *Cliquez sur image pour agrandissement*
 
 ### Touche
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Touches en Sonowood épicéa (gauche), érable (centre) et noix (droite). Photo: Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Touches en Sonowood épicéa (gauche), érable (centre) et noyer (droite). Photo: Berdani Feinste Bestandteile">
   </a>  
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Touche en Sonowood érable">
@@ -61,7 +61,7 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Touche et cordier en Sonowood épicéa de Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 avec touche et cordier en Sonowood épicéa de Wilhelm Geigenbau. Photo: The Strad Magazine">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 avec touche et cordier en Sonowood épicéa, équipé par Wilhelm Geigenbau. Photo de Strad Magazine">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Touche en Sonowood épicéa de Wilhelm Geigenbau">
@@ -72,7 +72,7 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG" alt="Cordiers en Sonowood épicéa, érable et noix de Wilhelm Geigenbau. Photo: The Strad Magazine">
+    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG" alt="Cordiers en Sonowood épicéa, érable et noyer de Wilhelm Geigenbau. Photo: The Strad Magazine">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Cordier en Sonowood érable">
@@ -84,7 +84,7 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier en Sonowood épicéa">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Cordier en Sonowood noix de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Cordier en Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Cordier et mentionnière en Sonowood érable de Wilhelm Geigenbau">
@@ -107,25 +107,25 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_strings_set1.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set1.jpg" alt="Sonowood ébauches pour touche et cordier. Gauche: noix, centre: érable, droite: épicéa.">
+    <img src="/assets/images/strings/sonowood_strings_set1.jpg" alt="Pièces brutes pour touche et cordier. Gauche: noyer, centre: érable, droite: épicéa.">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set2.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set2.jpg" alt="Sonowood ébauches pour touche et cordier. Avant: épicéa, centre: érable, arrière: noix.">
+    <img src="/assets/images/strings/sonowood_strings_set2.jpg" alt="Pièces brutes pour touche et cordier. Avant: épicéa, centre: érable, arrière: noyer.">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set3.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set3.jpg" alt="Sonowood ébauches en noix">
+    <img src="/assets/images/strings/sonowood_strings_set3.jpg" alt="Pièces brutes de Sonowood noyer">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set4.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set4.jpg" alt="Sonowood ébauches en érable pour touche, cordier et peg">
+    <img src="/assets/images/strings/sonowood_strings_set4.jpg" alt="Pièces brutes en érable pour touche, cordier et chevilles">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set5.JPG">
-    <img src="/assets/images/strings/sonowood_strings_set5.JPG" alt="Sonowood noix de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set5.JPG" alt="Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
     <img src="/assets/images/strings/sonowood_strings_berdani.JPG" alt="Sonowood épicéa de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani21.jpg">
-    <img src="/assets/images/strings/sonowood_strings_berdani21.jpg" alt="Sonowood épicéa, érable et noix de Berdani Feinste Bestandteil">
+    <img src="/assets/images/strings/sonowood_strings_berdani21.jpg" alt="Sonowood épicéa, érable et noyer de Berdani Feinste Bestandteil">
 </div>
 
 ### Mentionnière
@@ -147,10 +147,10 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
     <img src="/assets/images/strings/sonowood_chinrest_maple5.jpg" alt="Mentionnière en Sonowood érable de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG" alt="Mentionnière en Sonowood noix de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG" alt="Mentionnière en Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG" alt="Mentionnière en Sonowood noix de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG" alt="Mentionnière en Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
 </div>
 
@@ -173,21 +173,21 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
 
 ---
 
-## Sonowood ébauches
-Tous les ébauches sont disponible en Sonowood érable et Sonowood épicéa pour violon et alto. Pour violoncello et contrebasse: chevilles et cordiers.
+## Pièces brutes
+Tous les pièces brutes sont disponible en Sonowood érable, Sonowood épicéa et Sonowood noyer pour violon et alto. Pour violoncello et contrebasse: chevilles et cordiers.
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_timber_ahorn.jpg">
-    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Ébauche de Sonowood érable, érable naturel au-dessous">
+    <img src="/assets/images/strings/sonowood_timber_ahorn_thumb.jpg" alt="Pièce brute de Sonowood érable, érable naturel au-dessous">
   </a>
   <a href="/assets/images/strings/sonowood_timber_spruce.jpg">
-    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Ébauche de Sonowood épicéa, épicéa naturel au-dessous">
+    <img src="/assets/images/strings/sonowood_timber_spruce_thumb.jpg" alt="Pièce brute de Sonowood épicéa, épicéa naturel au-dessous">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisé de Sonowood érable fabriquées par Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_pegs_maple1_thumb.jpg" alt="Chevilles fraisées de Sonowood érable fabriquées par Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_pegs_spruce1.jpg">
-    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Chevilles fraisé de Sonowood épicéa. Photo Mihail Dron & Andreas Hochuli">
+    <img src="/assets/images/strings/sonowood_pegs_spruce1_thumb.jpg" alt="Chevilles fraisées de Sonowood épicéa. Photo Mihail Dron & Andreas Hochuli">
   </a>  
 </div>
 
@@ -199,7 +199,7 @@ Tous les ébauches sont disponible en Sonowood érable et Sonowood épicéa pour
 
 ## Comment obtenir Sonowood?
 
-Sonowood est actuellement disponible pour violon, alto, violoncelle, contrebasse et guitare. Bientôt disponible : Sonowood pour vents en bois comme les clarinettes.
+Sonowood est actuellement disponible pour violon, alto, violoncelle, contrebasse et guitare. Bientôt disponible : Sonowood pour les instruments à vent en bois, tels que les clarinettes.
 
 Pour toutes questions commerciales ou techniques:
 
@@ -225,7 +225,7 @@ Pour toutes questions commerciales ou techniques:
 
 <img srcset="/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg"
      src="/assets/images/News_4_Stradivarius_Stradivari_Geige_Griffbrett_Violin_Fingerboard_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Ebony_Ebony_Ebenholz.jpeg" alt="Stradivarius en Sonowood">
-<figcaption>Stradivarius de 1721 avec touche et cordier en Sonowood épicéa équipé de Wilhelm Geigenbau.</figcaption>
+<figcaption>Stradivarius de 1721 avec touche et cordier en Sonowood épicéa équipé par Wilhelm Geigenbau.</figcaption>
 
 </div>
 </div>

@@ -83,34 +83,7 @@ technology offers adjustability of a wide range of parameters.
 </div>
 </div>
 
-<div class="full-width-grey">
-<div class="wrap -cols3">
-
-  - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Strings
-
-    Learn more about the application of Sonowood in violins, violas and cellos.
-
-    <a class="btn" href="/en/sonowood/strings">Strings ></a>
-
-  - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
-    ### Guitars
-
-     Learn more about the applications of Sonowood in guitars and e-guitars.
-
-    <a class="btn" href="/en/sonowood/guitar">Guitars ></a>
-
-- ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Testimonials
-
-    We think Sonowood is the best. But don't just take our word for it: read what the users say.
-
-    <a class="btn" href="/en/sonowood/testimonials">Testimonials ></a>
-
-</div>
-</div>
-
-<div class="full-width-red">
+<div class="full-width">
 <div class="wrap">
 
 Learn more about the country-specific impacts of the CITES regulations on various stakeholders in the music industry.
@@ -120,7 +93,7 @@ Learn more about the country-specific impacts of the CITES regulations on variou
 </div>
 </div>
 
-<div class="full-width" name="Sonowood-Types" id="technicaldata">
+<div class="full-width-grey" name="Sonowood-Types" id="technicaldata">
 <div class="wrap -cols2">
 
 ### Types of Sonowood

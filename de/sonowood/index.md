@@ -73,33 +73,6 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 </div>
 
 <div class="full-width">
-<div class="wrap -cols3">
-
-  - ![violin with sonowood](/assets/images/Products_1_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Streichinstrumente
-
-    Erfahren Sie mehr über die Anwendungen von Sonowood in Geigen, Bratschen und Cellos.
-
-    <a class="btn" href="/de/sonowood/strings">Streichinstrumente ></a>
-
-  - ![generic violin](/assets/images/Products_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_Rosewood_Grenadill.jpg)
-    ### Gitarre
-
-     Erfahren Sie mehr über die Anwendungen von Sonowood in Gitarren und E-Gitarren.
-
-    <a class="btn" href="/de/sonowood/guitar">Gitarre ></a>
-
-- ![generic violin](/assets/images/Products_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Ebenholz_Rosewood_Grenadill_SwissWoodSolutions_Klimaschutz_ETH_Zuerich_Switzerland.jpg)
-    ### Referenzen
-
-     Verlassen Sie sich nicht einfach auf unser Wort: Lesen Sie, was unsere Kunden sagen.
-
-    <a class="btn" href="/de/sonowood/testimonials">Referenzen ></a>
-
-</div>
-</div>
-
-<div class="full-width-red">
 <div class="wrap">
 
 Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie.
