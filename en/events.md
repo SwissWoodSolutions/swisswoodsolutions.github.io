@@ -23,19 +23,6 @@ order: 8
 
 ---
 
-- ## The 2020 NAMM Show
-  ### January 16-19, 2020, Anaheim, California, United States
-
-   We are coming across the pond to the NAMM Show in California to introduce you to Sonowood. The NAMM Show (National Association of Music Merchants) is the global corssroad of the music, sound and entertainment technology products with thousands of registrants from 139 countries.
-
-- <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
 - ## The Holy Grail Guitar Show
   ### May 2-3, 2020, Berlin, Germany
 
@@ -46,7 +33,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Swiss Alpine Museum
@@ -59,12 +46,28 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ### Past events
 
 ---
+
+- ## The 2020 NAMM Show
+  ### January 16-19, 2020, Anaheim, California, United States
+
+   We came across the pond to the NAMM Show in California to introduce you to Sonowood. The NAMM Show (National Association of Music Merchants) is the global corssroad of the music, sound and entertainment technology products with thousands of registrants from 139 countries.
+
+<img srcset="/assets/images/NAMM2020.jpg"
+   src="/assets/images/NAMM2020.jpg" alt="Luca Schelbli and Dr. Munish Chanana at the NAMM Show in Anaheim.">
+   <figcaption>Luca Schelbli and Dr. Munish Chanana at the NAMM Show in Anaheim.</figcaption>
+
+</div>
+</div>
+
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## ELEMENTE materialForum
   ### November 21-27, Berlin, Germany
 
@@ -84,32 +87,6 @@ order: 8
   The Swiss Innovation Forum (SIF) bridges the gap between science and industry. The programme is varied and guarantees lasting impressions, with 25 speakers from Switzerland and abroad. Meet Swiss Wood Solutions at the Congress Center Basel and learn more about our innovative technology.
 
 - <a href="https://www.swiss-innovation.com/en/" target="_blank">![Swiss Innovation Forum](/assets/images/event_swissinnovationforum.png)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
-- ## SHG Music Show
-  ### November 23-24, Milan, Italy
-
-  At the SHG Music Show in Milan, many members of the European Guitar Builders e. V. (EGB) are going to take part. Sonowood will be present on numerous new instruments at the Milan Exhibition Centre.
-
-- <a href="https://www.facebook.com/SHGMusicShowMilano/" target="_blank">![SHG](/assets/images/events_shg.png)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
-- ## Guitars & More
-  ### November 24, Wettingen, Switzerland
-
-  For the fourth time, Guitars & More presents innovative and creative guitar builders. Visitors can once again look forward to the presentation of groundbreaking news from the world of guitars. Sonowood will be exhibited on a newly developed series of guitars.
-
-- <a href="https://www.guitarsandmore.ch/welcome/index.html" target="_blank">![Guitarsandmore](/assets/images/events_guitarsandmore.jpg)</a>
 
 </div>
 </div>

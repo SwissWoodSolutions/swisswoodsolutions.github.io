@@ -65,6 +65,9 @@ order: 8
 </div>
 </div>
 
+<div class="full-width-grey">
+<div class="wrap -cols2">
+
 - ## ELEMENTE materialForum
   ### 21. bis 27. November, Berlin, Deutschland
 
@@ -75,7 +78,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
   ## Cremona Mondomusica 2019
