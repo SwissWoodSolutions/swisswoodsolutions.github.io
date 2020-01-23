@@ -132,7 +132,7 @@ Tous les pièces de forme sont disponible en Sonowood érable, Sonowood noix et 
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_chinrest_maple1.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Mentionnière en Sonowood érable de Wilhelm Geigenbau">
+  <img src="/assets/images/strings/sonowood_chinrest_maple1_thumb.jpg" alt="Mentionnière en Sonowood érable de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple2.jpg">
     <img src="/assets/images/strings/sonowood_chinrest_maple2_thumb.jpg" alt="Mentionnière en Sonowood érable de Wilhelm Geigenbau">
