@@ -23,19 +23,6 @@ order: 8
 
 ---
 
-- ## The 2020 NAMM Show
-  ### 16. bis 19. Januar 2020, Anaheim, Kalifornien, USA
-
-   Wir bringen Sonowood über den Teich an die NAMM Show in Kalifornien. An der NAMM Show (National Association of Music Merchants) treffen sich tausende Aussteller und Besucher aus über 140 Ländern, um sich über die neusten Produkte und Trends in der Musikbranche auszutauschen.
-
-- <a href="https://www.namm.org/thenammshow/2020/attend/" target="_blank">![NAMM Show 2020](/assets/images/events_namm2020.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
 - ## The Holy Grail Guitar Show
   ### 2. und 3. Mai 2020, Berlin, Deutschland
 
@@ -46,7 +33,7 @@ order: 8
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap -cols2">
 
 - ## Alpines Museum der Schweiz
@@ -59,12 +46,24 @@ order: 8
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap -cols2">
 
 ## Vergangene Events:
 
 ---
+
+- ## The 2020 NAMM Show
+  ### 16. bis 19. Januar 2020, Anaheim, Kalifornien, USA
+
+   Wir brachten Sonowood über den Teich an die NAMM Show in Kalifornien. An der NAMM Show (National Association of Music Merchants) treffen sich jährlich tausende Aussteller und Besucher aus über 140 Ländern, um sich über die neusten Produkte und Trends in der Musikbranche auszutauschen.
+
+<img srcset="/assets/images/NAMM2020.jpg"
+   src="/assets/images/NAMM2020.jpg" alt="Luca Schelbli und Dr. Munish Chanana an der NAMM Show in Anaheim.">
+   <figcaption>Luca Schelbli und Dr. Munish Chanana an der NAMM Show in Anaheim.</figcaption>
+
+</div>
+</div>
 
 - ## ELEMENTE materialForum
   ### 21. bis 27. November, Berlin, Deutschland
@@ -72,45 +71,6 @@ order: 8
   Im ELEMENTE materialForum in Berlin werden innovative Werkstoffe für Architektur und Design präsentiert. Erleben Sie unsere neuartigen Holzprodukte Sonowood, Bijouwood und Sonoveneer an der diesjährigen Holzausstellung vom 21. bis 27. November und danach ganzjährig in der Materialbibliothek am Tempelhofer Berg 6 in Berlin.  
 
 - <a href="https://www.elemente-material.de/" target="_blank">![ELEMENTE](/assets/images/ELEMENTE.jpg)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
-- ## Swiss Innovation Forum
-  ### 21. November, Basel, Schweiz
-
-  Das Swiss Innovation Forum (SIF) schlägt die Brücke von der Wissenschaft zur Wirtschaft. Das vielfältige Programm mit 25 Referenten aus dem In- und Ausland sorgt für nachhaltige Impressionen. Treffen Sie Swiss Wood Solutions im Congress Center Basel und lassen Sie sich unsere innovative Technologie persönlich vorstellen.
-
-- <a href="https://www.swiss-innovation.com" target="_blank">![Swiss Innovation Forum](/assets/images/event_swissinnovationforum.png)</a>
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap -cols2">
-
-- ## SHG Music Show
-  ### 23. und 24. November, Mailand, Italien
-
-  An der SHG Music Show in Mailand nehmen viele Mitglieder der Europäischen Gitarrenbauer Vereinigung EGB teil. Sonowood wird im Messezentrum in Mailand auf zahlreichen neuen Instrumenten zu erleben sein.
-
-- <a href="https://www.facebook.com/SHGMusicShowMilano/" target="_blank">![SHG](/assets/images/events_shg.png)</a>
-
-</div>
-</div>
-
-<div class="full-width">
-<div class="wrap -cols2">
-
-- ## Guitars & More
-  ### 24. November, Wettingen, Schweiz
-
-  Bereits zum vierten Mal präsentiert Guitars & More innovative und kreative Gitarrenbauer. Besucher dürfen erneut gespannt sein auf die Präsentation von bahnbrechenden Neuigkeiten aus der Gitarrenwelt. Sonowood darf dabei natürlich nicht fehlen.
-
-- <a href="https://www.guitarsandmore.ch/welcome/index.html" target="_blank">![Guitarsandmore](/assets/images/events_guitarsandmore.jpg)</a>
 
 </div>
 </div>
