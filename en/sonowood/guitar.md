@@ -99,7 +99,7 @@ All pieces are available in maple or spruce. <br/>
       </a>
 </div>
 
-### Steg
+### Bridge
 
 <div class="picturegallery">
       <a href="/assets/images/guitars/sonowood_guitar_bridge21.jpg">
