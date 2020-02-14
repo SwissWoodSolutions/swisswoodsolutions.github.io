@@ -90,7 +90,7 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
   ### Sophie Koch
   ### Master Studentin Biobased Materials
 
-  erhielt 2017 ihren Abschluss als Bachelor of Science in Holzwirtschaft von der ETH Zürich und studiert seit 2018 MSc Biobased Materials an der Universität Maastricht. Durch mehrere Praktika bei einem Spanplattenhersteller und einem Hersteller von Holztextilfasern sammelte sie Erfahrungen in der Holzindustrie. Derzeit schreibt Sophie Koch an ihrer Masterarbeit bei Swiss Wood Solutions über "Biopolymer-Wood Composites".
+  erhielt 2017 ihren Abschluss als Bachelor of Science in Holzwirtschaft und studiert seit 2018 MSc Biobased Materials an der Universität Maastricht. Durch mehrere Praktika bei einem Spanplattenhersteller und einem Hersteller von Holztextilfasern sammelte sie Erfahrungen in der Holzindustrie. Derzeit schreibt Sophie Koch an ihrer Masterarbeit bei Swiss Wood Solutions über "Biopolymer-Wood Composites".
 
   <koch@swisswoodsolutions.ch>
 

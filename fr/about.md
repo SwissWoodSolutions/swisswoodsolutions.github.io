@@ -93,7 +93,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
   ### Sophie Koch
   ### Master étudiante Biobased Materials
 
-  a obtenu sa BSc en économie du bois à l'ETH Zurich en 2017 et est en train d'étudier MSc Biobased Materials à l'Université de Maastricht. Elle a acquis de l'expérience dans l'industrie du bois grâce à plusieurs stages chez un fabricant de panneaux d'aggloméré et un fabricant de fibres textiles de bois. Actuellement, Sophie Koch rédige sa mémoire de maîtrise sur "Biopolymer-Wood Composites" chez Swiss Wood Solutions.
+  a obtenu sa BSc en économie du bois en 2017 et est en train d'étudier MSc Biobased Materials à l'Université de Maastricht. Elle a acquis de l'expérience dans l'industrie du bois grâce à plusieurs stages chez un fabricant de panneaux d'aggloméré et un fabricant de fibres textiles de bois. Actuellement, Sophie Koch rédige sa mémoire de maîtrise sur "Biopolymer-Wood Composites" chez Swiss Wood Solutions.
 
   <koch@swisswoodsolutions.ch>
 

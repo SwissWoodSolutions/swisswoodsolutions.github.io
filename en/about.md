@@ -116,7 +116,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
   ### Sophie Koch
   ### Master Student Biobased Materials
 
-  received her degree as Bachelor of Science in Timber Economics from ETH Zurich in 2017 and has been studying M.Sc. Biobased Materials at Maastricht University since 2018. Through several internships with a chipboard manufacturer and a producer of wooden textile fibers, she gained experience in the wood industry. She is currently writing on her thesis at Swiss Wood Solutions on "Biopolymer-Wood Composites". As such, Sophie Koch is working on the optimization of physical and mechanical properties of veneers.
+  received her degree as Bachelor of Science in Timber Economics in 2017 and has been studying M.Sc. Biobased Materials at Maastricht University since 2018. Through several internships with a chipboard manufacturer and a producer of wooden textile fibers, she gained experience in the wood industry. She is currently writing on her thesis at Swiss Wood Solutions on "Biopolymer-Wood Composites". As such, Sophie Koch is working on the optimization of physical and mechanical properties of veneers.
 
   <koch@swisswoodsolutions.ch>
 
@@ -130,7 +130,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss
-  ### Master Student Chemistry and Business 
+  ### Master Student Chemistry and Business
 
   studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he works on the development of wooden veneers and investigates their marketability.
 
@@ -138,7 +138,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 - ![Nico Schubiger](/assets/images/About_Team_NicoSchubiger.jpg)
   ### Nico Schubiger
-  ### Master Student Chemistry and Business 
+  ### Master Student Chemistry and Business
 
   studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he performs a Life Cycle Assessment (LCA) of the wooden products of SWS.
 
