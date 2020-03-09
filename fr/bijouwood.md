@@ -121,17 +121,29 @@ Dans son atelier à Berlin, Jean-Frédéric Fesseler fabrique de la fourniture d
 Chez le coutelier Guldimann, chaque couteau est fait main. Marco Guldimann utilise Bijouwood d'érable pour les manches des couteaux du modèle Hellcat, qui convient parfaitement grâce à la haute densité et dureté, la robustesse et l'esthétique.
 
 <div class="picturegallery">
+      <a href="/assets/images/bijouwood/GuldimannMesser5.jpg">
+         <img src="/assets/images/bijouwood/GuldimannMesser5.jpg" alt="Nakama couteau de Guldimann avec manche et fourreau en Bijouwood d'érable à figure">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser6.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser6.jpg" alt="Nakama couteau de Guldimann avec manche et fourreau en Bijouwood d'érable à figure">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser7.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser7.jpg" alt="Myron couteau de Guldimann avec manche et fourreau en Bijouwood d'érable à figure">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser8.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser8.jpg" alt="Myron couteau de Guldimann avec manche et fourreau en Bijouwood d'érable à figure">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser9.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser9.jpg" alt="Excalibur couteau de Guldimann avec manche et fourreau en Bijouwood cerise">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesse10.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesse10.jpg" alt="Excalibur couteau de Guldimann avec manche et fourreau en Bijouwood cerise">
+      </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
       </a>
-      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
-      </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
-      </a>
-      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Couteau de Guldimann avec manche en Bijouwood d'érable">
       </a>
 </div>
 

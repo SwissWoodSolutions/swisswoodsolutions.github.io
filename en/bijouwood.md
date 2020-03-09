@@ -136,8 +136,8 @@ In the Guldimann cutlery shop, every knife is handcrafted. For the knife handles
       <a href="/assets/images/bijouwood/GuldimannMesser9.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesser9.jpg" alt="Excalibur knife from Guldimann with a handle and sheath from Bijouwood cherry">
       </a>
-      <a href="/assets/images/bijouwood/GuldimannMesser10.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesser10.jpg" alt="Excalibur knife from Guldimann with a handle and sheath from Bijouwood cherry">
+      <a href="/assets/images/bijouwood/GuldimannMesse10.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesse10.jpg" alt="Excalibur knife from Guldimann with a handle and sheath from Bijouwood cherry">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Knife from Guldimann with a handle from Bijouwood maple">

@@ -138,8 +138,8 @@ In der Messerschmiede Guldimann entsteht jedes Messer durch Handarbeit. Für die
       <a href="/assets/images/bijouwood/GuldimannMesser9.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesser9.jpg" alt="Excalibur Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Kirsche">
       </a>
-      <a href="/assets/images/bijouwood/GuldimannMesser10.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesser10.jpg" alt="Excalibur Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Kirsche">
+      <a href="/assets/images/bijouwood/GuldimannMesse10.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesse10.jpg" alt="Excalibur Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Kirsche">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
