@@ -31,7 +31,7 @@ Bijouwood is designed for lifestyle and high precision applications. Would you l
 
 ### ALPA of Switzerland
 
-Cameras from ALPA combine highest precision and noble style. This model is equipped with handles from Bijouwood nut. The pleasant feel and robustness of Bijouwood provide comfort. 
+Cameras from ALPA combine highest precision and noble style. This model is equipped with handles from Bijouwood nut. The pleasant feel and robustness of Bijouwood provide comfort.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/ALPA1.jpg">
@@ -55,10 +55,10 @@ Cameras from ALPA combine highest precision and noble style. This model is equip
 
 <div class="full-width-grey">
 <div class="wrap">
-     
+
 ### Stationery by Jean-Frédéric Fesseler
 
-In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. His latest collection features Bijouwood from spruce, maple as well as light and dark figured maple. 
+In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. His latest collection features Bijouwood from spruce, maple as well as light and dark figured maple.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/Stifte1.jpg">
@@ -121,17 +121,29 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
 In the Guldimann cutlery shop, every knife is handcrafted. For the knife handles of the Hellcat model, Marco Guldimann uses Bijouwood maple, which is ideally suited thanks to its high density and hardness, robustness and aesthetics.
 
 <div class="picturegallery">
-      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
+      <a href="/assets/images/bijouwood/GuldimannMesser5.jpg">
+         <img src="/assets/images/bijouwood/GuldimannMesser5.jpg" alt="Nakama knife from Guldimann with a handle and sheath from Bijouwood flamed maple">
       </a>
-      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
+      <a href="/assets/images/bijouwood/GuldimannMesser6.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser6.jpg" alt="Nakama knife from Guldimann with a handle and sheath from Bijouwood flamed maple">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser7.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser7.jpg" alt="Myron knife from Guldimann with a handle and sheath from Bijouwood flamed maple">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser8.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser8.jpg" alt="Myron knife from Guldimann with a handle and sheath from Bijouwood flamed maple">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser9.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser9.jpg" alt="Excalibur knife from Guldimann with a handle and sheath from Bijouwood cherry">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser10.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser10.jpg" alt="Excalibur knife from Guldimann with a handle and sheath from Bijouwood cherry">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Knife from Guldimann with a handle from Bijouwood maple">
       </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
-      </a>
-      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Knife from Guldimann a handle from Bijouwood maple">
+          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Knife from Guldimann with a handle from Bijouwood maple">
       </a>
 </div>
 
