@@ -33,7 +33,7 @@ Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der 
 
 ### ALPA of Switzerland
 
-ALPA-Kameras bieten höchste Präzision in edlem Gewand. Dieses Modell wurde mit Handgriffen aus Bijouwood Nuss ausgestattet. Die angenehme Haptik und gleichzeitige Robustheit von Bijouwood sorgen für Komfort. 
+ALPA-Kameras bieten höchste Präzision in edlem Gewand. Dieses Modell wurde mit Handgriffen aus Bijouwood Nuss ausgestattet. Die angenehme Haptik und gleichzeitige Robustheit von Bijouwood sorgen für Komfort.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/ALPA1.jpg">
@@ -57,10 +57,10 @@ ALPA-Kameras bieten höchste Präzision in edlem Gewand. Dieses Modell wurde mit
 
 <div class="full-width-grey">
 <div class="wrap">
-     
+
 ### Stifte von Jean-Frédéric Fesseler
 
-Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibgeräte her. In seiner neuesten Kollektion kommt dabei Bijouwood aus Fichte, Ahorn sowie hellem und dunklem Riegelahorn zum Einsatz. 
+Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibgeräte her. In seiner neuesten Kollektion kommt dabei Bijouwood aus Fichte, Ahorn sowie hellem und dunklem Riegelahorn zum Einsatz.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/Stifte1.jpg">
@@ -123,17 +123,29 @@ Jean-Frédéric Fesseler stellt in seinem Berliner Atelier exklusive Schreibger�
 In der Messerschmiede Guldimann entsteht jedes Messer durch Handarbeit. Für die Messergriffe des Modells Hellcat verwendet Marco Guldimann Bijouwood Ahorn, welches sich dafür aufgrund seiner hohen Dichte und Härte, Robustheit und Ästhetik optimal eignet.
 
 <div class="picturegallery">
+      <a href="/assets/images/bijouwood/GuldimannMesser5.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser5.jpg" alt="Nakama Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Riegelahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser6.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser6.jpg" alt="Nakama Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Riegelahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser7.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser7.jpg" alt="Myron Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Riegelahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser8.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser8.jpg" alt="Myron Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Riegelahorn">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser9.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser9.jpg" alt="Excalibur Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Kirsche">
+      </a>
+      <a href="/assets/images/bijouwood/GuldimannMesser10.jpg">
+          <img src="/assets/images/bijouwood/GuldimannMesser10.jpg" alt="Excalibur Messer aus der Messerschmiede Guldimann mit Griff und Scheide aus Bijouwood Kirsche">
+      </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood1.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
       </a>
-      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood2.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorns">
-      </a>
       <a href="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg">
           <img src="/assets/images/bijouwood/GuldimannMesserBijouwood3.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
-      </a>
-      <a href="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg">
-          <img src="/assets/images/bijouwood/GuldimannMesserBijouwood4.jpg" alt="Messer aus der Messerschmiede Guldimann mit Griff aus Bijouwood Ahorn">
       </a>
 </div>
 
