@@ -35,7 +35,7 @@ The offerings includes Sonowood from spruce (Picea abies), maple (Acer pseudopla
 
 ## Our offering
 
-All pieces are available in maple or spruce. <br/>
+All pieces are available from spruce, maple and walnut. <br/>
 *Click on images for larger size*
 
 ### Fretboard

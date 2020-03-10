@@ -35,7 +35,7 @@ Angeboten werden Fichte (Picea abies), Ahorn (Acer pseudoplatanus) und Walnuss (
 
 ## Sonowood für Ihre Gitarren
 
-Alle Bauteile sind in Ahorn und Fichte erhältlich. Möchten Sie Sonowood für weitere Teile benützen? Kontaktieren Sie uns, der Kreativität sind keine Grenzen gesetzt. <br/>
+Alle Bauteile sind in Fichte, Ahorn und Walnuss erhältlich. Möchten Sie Sonowood für weitere Teile benützen? Kontaktieren Sie uns, der Kreativität sind keine Grenzen gesetzt. <br/>
 *Für Vergrösserung auf das Bild klicken.*
 
 ### Griffbrett
