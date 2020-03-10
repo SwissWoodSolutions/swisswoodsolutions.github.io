@@ -21,9 +21,11 @@ order: 2
 
 La dureté et la densité exceptionnelles de Sonowood assurent d'excellentes performances acoustiques à vos guitares et guitares électriques. Sonowood peut être utilisé pour fabriquer la touche et le chevalet.
 
-Sonowood peut être fabriqué à partir de différentes essences, l’épicéa (Picea abies) et l’érable (Acer pseudoplatanus). Pour nos produits, nous n’utilisons que du bois issu d’une sylviculture durable, provenant principalement des cantons de Zurich et des Grisons.
+Sonowood peut être fabriqué à partir de différentes essences comme l’épicéa (Picea abies), l’érable (Acer pseudoplatanus) et le noyer (Juglans spp.). Pour nos produits, nous n’utilisons que du bois issu d’une sylviculture durable, provenant principalement des cantons de Zurich et des Grisons.
 
-Vous trouverez **les données techniques** sur Sonowood érable et Sonowood épicéa <a href="/fr/products/#technicaldata">ici sur la page principale de Sonowood.</a>
+Vous trouverez **les données techniques** sur Sonowood dans le dépliant suivant.
+
+<a class="btn -red" href="/assets/docs/Sonowood_Guitars_EN.pdf">Brochure des guitares</a>
 
 </div>
 </div>

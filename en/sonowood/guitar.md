@@ -21,10 +21,11 @@ order: 2
 
 The extreme hardness and high density of Sonowood ensure that your acoustic and electric guitars deliver highest acoustic performances. Sonowood is suitable for **fretboards, bridges and headstocks.**
 
-The offerings includes Sonowood from spruce (Picea abies) and maple (Acer pseudoplatanus). For our products, we use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
+The offerings includes Sonowood from spruce (Picea abies), maple (Acer pseudoplatanus), and walnut (Juglans spp.). For our products, we use wood from sustainable Swiss forestry, mainly from the cantons of Zurich and Grisons.
 
-**Technical data** on Sonowood Maple and Sonowood Spruce <a href="/en/products/#technicaldata">can be found here</a> on the Sonowood main page.
+**Technical data** on Sonowood can be found in the flyer below.
 
+<a class="btn -red" href="/assets/docs/Sonowood_Guitars_EN.pdf">Guitar flyer</a>
 
 </div>
 </div>
