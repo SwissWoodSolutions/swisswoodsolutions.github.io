@@ -40,7 +40,7 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_overview.JPG" alt="Touches en Sonowood épicéa (gauche), érable (centre) et noyer (droite). Photo: Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_fingerboard_overview_thumb.JPG" alt="Touches en Sonowood épicéa (gauche), érable (centre) et noyer (droite). Photo: Berdani Feinste Bestandteile">
   </a>  
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Touche en Sonowood érable">
@@ -58,13 +58,13 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
     <img src="/assets/images/strings/sonowood_fingerboard_spruce1_thumb.jpg" alt="Touche en Sonowood épicéa de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli.jpg" alt="Touche et cordier en Sonowood épicéa de Andreas Hochuli">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli_thumb.jpg" alt="Touche et cordier en Sonowood épicéa de Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Charles Gaillard 1863 avec touche et cordier en Sonowood épicéa, équipé par Wilhelm Geigenbau. Photo de Strad Magazine">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard_thumb.JPG" alt="Charles Gaillard 1863 avec touche et cordier en Sonowood épicéa, équipé par Wilhelm Geigenbau. Photo de Strad Magazine">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg" alt="Touche en Sonowood épicéa de Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm_thumb.jpg" alt="Touche en Sonowood épicéa de Wilhelm Geigenbau">
   </a>
 </div>
 
@@ -72,7 +72,7 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG" alt="Cordiers en Sonowood épicéa, érable et noyer de Wilhelm Geigenbau. Photo: The Strad Magazine">
+    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm_thumb.JPG" alt="Cordiers en Sonowood épicéa, érable et noyer de Wilhelm Geigenbau. Photo: The Strad Magazine">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Cordier en Sonowood érable">
@@ -84,7 +84,7 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Cordier en Sonowood épicéa">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG" alt="Cordier en Sonowood noyer de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2_thumb.JPG" alt="Cordier en Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Cordier et mentionnière en Sonowood érable de Wilhelm Geigenbau">
@@ -93,13 +93,13 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
     <img src="/assets/images/strings/sonowood_tailpiece_spruce1_thumb.jpg" alt="Cordier en Sonowood épicéa de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg">
-    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati.jpg" alt="Cordier en Sonowood épicéa en un violon Amati de Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati_thumb.jpg" alt="Cordier en Sonowood épicéa en un violon Amati de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
-    <img src="/assets/images/strings/sonowood_strings_berdani.JPG" alt="Violon en Sonowood noix de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_berdani_thumb.JPG" alt="Violon en Sonowood noix de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG" alt="Cello cordier en Sonowood érable de Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello_thumb.JPG" alt="Cello cordier en Sonowood érable de Wilhelm Geigenbau">
   </a>   
 </div>
 
@@ -107,25 +107,25 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_strings_set1.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set1.jpg" alt="Pièces brutes pour touche et cordier. Gauche: noyer, centre: érable, droite: épicéa.">
+    <img src="/assets/images/strings/sonowood_strings_set1_thumb.jpg" alt="Pièces brutes pour touche et cordier. Gauche: noyer, centre: érable, droite: épicéa.">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set2.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set2.jpg" alt="Pièces brutes pour touche et cordier. Avant: épicéa, centre: érable, arrière: noyer.">
+    <img src="/assets/images/strings/sonowood_strings_set2_thumb.jpg" alt="Pièces brutes pour touche et cordier. Avant: épicéa, centre: érable, arrière: noyer.">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set3.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set3.jpg" alt="Pièces brutes de Sonowood noyer">
+    <img src="/assets/images/strings/sonowood_strings_set3_thumb.jpg" alt="Pièces brutes de Sonowood noyer">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set4.jpg">
-    <img src="/assets/images/strings/sonowood_strings_set4.jpg" alt="Pièces brutes en érable pour touche, cordier et chevilles">
+    <img src="/assets/images/strings/sonowood_strings_set4_thumb.jpg" alt="Pièces brutes en érable pour touche, cordier et chevilles">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set5.JPG">
-    <img src="/assets/images/strings/sonowood_strings_set5.JPG" alt="Sonowood noyer de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set5_thumb.JPG" alt="Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
-    <img src="/assets/images/strings/sonowood_strings_berdani.JPG" alt="Sonowood épicéa de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_berdani_thumb.JPG" alt="Sonowood épicéa de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani21.jpg">
-    <img src="/assets/images/strings/sonowood_strings_berdani21.jpg" alt="Sonowood épicéa, érable et noyer de Berdani Feinste Bestandteil">
+    <img src="/assets/images/strings/sonowood_strings_berdani21_thumb.jpg" alt="Sonowood épicéa, érable et noyer de Berdani Feinste Bestandteil">
 </div>
 
 ### Mentionnière
@@ -141,16 +141,16 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
     <img src="/assets/images/strings/sonowood_chinrest_maple3_thumb.jpg" alt="Mentionnière en Sonowood érable de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple4.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple4.jpg" alt="Mentionnière en Sonowood érable de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_maple4_thumb.jpg" alt="Mentionnière en Sonowood érable de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_maple5.jpg">
-    <img src="/assets/images/strings/sonowood_chinrest_maple5.jpg" alt="Mentionnière en Sonowood érable de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_maple5_thumb.jpg" alt="Mentionnière en Sonowood érable de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG" alt="Mentionnière en Sonowood noyer de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1_thumb.JPG" alt="Mentionnière en Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG" alt="Mentionnière en Sonowood noyer de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2_thumb.JPG" alt="Mentionnière en Sonowood noyer de Berdani Feinste Bestandteile">
   </a>
 </div>
 
@@ -161,13 +161,13 @@ Toutes les pièces de forme sont disponibles en Sonowood érable, Sonowood noyer
     <img src="/assets/images/strings/sonowood_endbutton_maple1_thumb.jpg" alt="Bouton en Sonowood érable de Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple2.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple2.jpg" alt="Bouton en Sonowood érable de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_maple2_thumb.jpg" alt="Bouton en Sonowood érable de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_maple3.jpg">
-    <img src="/assets/images/strings/sonowood_endbutton_maple3.jpg" alt="Bouton en Sonowood érable de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_maple3_thumb.jpg" alt="Bouton en Sonowood érable de Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG">
-    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG" alt="Bouton en Sonowood érable de Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani_thumb.JPG" alt="Bouton en Sonowood érable de Berdani Feinste Bestandteile">
   </a>
 </div>
 
