@@ -40,7 +40,7 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_fingerboard_overview.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_overview_thumb.JPG" alt="Fingerboard from Sonowood spruce (left), maple (center) and walnut (right). Photo: Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_fingerboard_overview_thumb.jpg" alt="Fingerboard from Sonowood spruce (left), maple (center) and walnut (right). Photo: Berdani Feinste Bestandteile">
   </a>  
   <a href="/assets/images/strings/sonowood_fingerboard_maple2.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_maple2_thumb.jpg" alt="Fingerboard from Sonowood maple">
@@ -61,7 +61,7 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_andreas_hochuli_thumb.jpg" alt="Fingerboard and tailpiece from Sonowood spruce. Photo: Andreas Hochuli">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG">
-    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard_thumb.JPG" alt="Charles Gaillard 1863 with a fingerboard and tailpiece from Sonowood spruce made by Wilhelm Geigenbau. Photo: The Strad Magazine">
+    <img src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard_thumb.jpg" alt="Charles Gaillard 1863 with a fingerboard and tailpiece from Sonowood spruce made by Wilhelm Geigenbau. Photo: The Strad Magazine">
   </a>
   <a href="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm.jpg">
     <img src="/assets/images/strings/sonowood_fingerboard_spruce_wilhelm_thumb.jpg" alt="Fingerboard from Sonowood spruce made by Wilhelm Geigenbau">
@@ -72,7 +72,7 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
 
 <div class="picturegallery">
   <a href="/assets/images/strings/sonowood_tailpiece_wilhelm.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm_thumb.JPG" alt="Tailpiece from Sonowood spruce, maple and walnut made by Wilhelm Geigenbau. Photo: The Strad Magazine">
+    <img src="/assets/images/strings/sonowood_tailpiece_wilhelm_thumb.jpg" alt="Tailpiece from Sonowood spruce, maple and walnut made by Wilhelm Geigenbau. Photo: The Strad Magazine">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_maple2.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple2_thumb.jpg" alt="Tailpiece from Sonowood maple">
@@ -84,7 +84,7 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_tailpiece_spruce2_thumb.jpg" alt="Tailpiece from Sonowood spruce">
   </a>  
   <a href="/assets/images/strings/sonowood_tailpiece_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2_thumb.JPG" alt="Tailpiece from Sonowood walnut made by Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_tailpiece_walnut_berdani2_thumb.jpg" alt="Tailpiece from Sonowood walnut made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple1.jpg">
     <img src="/assets/images/strings/sonowood_tailpiece_maple1_thumb.jpg" alt="Tailpiece and chinrest from Sonowood maple made by Wilhelm Geigenbau">
@@ -96,10 +96,10 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_tailpiece_spruce_amati_thumb.jpg" alt="Tailpiece from Sonowood spruce on a Amati Violin equipped by Wilhelm Geigenbau">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
-    <img src="/assets/images/strings/sonowood_strings_berdani_thumb.JPG" alt="Sonowood walnut fittings made by Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_berdani_thumb.jpg" alt="Sonowood walnut fittings made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_tailpiece_maple_cello.JPG">
-    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello_thumb.JPG" alt="Cello tailpiece from Sonowood maple made by Wilhelm Geigenbau">
+    <img src="/assets/images/strings/sonowood_tailpiece_maple_cello_thumb.jpg" alt="Cello tailpiece from Sonowood maple made by Wilhelm Geigenbau">
   </a>   
 </div>
 
@@ -119,10 +119,10 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_strings_set4_thumb.jpg" alt="Square timbers from Sonowood maple for fingerboard, tailpiece and pegs">
   </a>
   <a href="/assets/images/strings/sonowood_strings_set5.JPG">
-    <img src="/assets/images/strings/sonowood_strings_set5_thumb.JPG" alt="Fittings from Sonowood walnut made by Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_set5_thumb.jpg" alt="Fittings from Sonowood walnut made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani.JPG">
-    <img src="/assets/images/strings/sonowood_strings_berdani_thumb.JPG" alt="Fittings from Sonowood walnut made by Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_strings_berdani_thumb.jpg" alt="Fittings from Sonowood walnut made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_strings_berdani21.jpg">
     <img src="/assets/images/strings/sonowood_strings_berdani21_thumb.jpg" alt="Pegs from Sonowood spruce, maple and walnut made by Berdani Feinste Bestandteile">
@@ -147,10 +147,10 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_chinrest_maple5_thumb.jpg" alt="Chinrest from Sonowood maple made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani1.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1_thumb.JPG" alt="Chinrest from Sonowood walnut made by Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani1_thumb.jpg" alt="Chinrest from Sonowood walnut made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_chinrest_walnut_berdani2.JPG">
-    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2_thumb.JPG" alt="Chinrest from Sonowood walnut made by Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_chinrest_walnut_berdani2_thumb.jpg" alt="Chinrest from Sonowood walnut made by Berdani Feinste Bestandteile">
   </a>
 </div>
 
@@ -167,7 +167,7 @@ All fittings available from maple, walnut and spruce for violin and viola. <br/>
     <img src="/assets/images/strings/sonowood_endbutton_maple3_thumb.jpg" alt="Endbutton from Sonowood maple made by Berdani Feinste Bestandteile">
   </a>
   <a href="/assets/images/strings/sonowood_endbutton_walnut_berdani.JPG">
-    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani_thumb.JPG" alt="Endbutton from Sonowood maple made by Berdani Feinste Bestandteile">
+    <img src="/assets/images/strings/sonowood_endbutton_walnut_berdani_thumb.jpg" alt="Endbutton from Sonowood maple made by Berdani Feinste Bestandteile">
   </a>
 </div>
 
