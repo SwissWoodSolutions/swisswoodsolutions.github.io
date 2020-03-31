@@ -20,9 +20,9 @@ order: 1
 <div class="full-width-red">
 <div class="wrap">
 
-  ## Swiss Wood Solutions refines solid wood and wood veneers to replace endangered tropical woods and petroleum-based products.
+  ### Swiss Wood Solutions refines solid wood and wood veneers to replace endangered tropical woods and petroleum-based products.
 
-  ## For this purpose, domestic species from sustainably managed sources are used. All products are biodegradable, consist of 100% wood and do not contain any plastics, resins or artificial colors.
+  ### For this purpose, domestic species from sustainably managed sources are used. All products are biodegradable, consist of 100% wood and do not contain any plastics, resins or artificial colors.
 
 </div>
 </div>
