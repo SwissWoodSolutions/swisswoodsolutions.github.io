@@ -1,0 +1,11 @@
+<form class="form" method="post" data-netlify="true" name="Contact" onsubmit="return confirm('Thank you for your interest! We will get in touch as soon as possible')">
+    <label class="hidden">Don’t fill this out if you're human:</label><input name="bot-field" class="hidden"/>
+    <input type="text" name="Name" class="input-line" placeholder="My name*" required minlength="2">
+    <input type="email" name="Email" class="input-line" placeholder="My e-mail address*" required minlength="5">
+    <input type="text" name="Country" class="input-line" placeholder="Country where I live">
+    <p>I'm interested in:</p>
+    <input type="text" name="Interest" class="input-line" placeholder="Sonowood parts, square timbers, type of instrument,...*" required minlength="5">
+    <textarea name="Message" class="input-field" placeholder="My questions or comments"></textarea>
+    <input type="hidden" name="English" value="EN">
+    <button type="submit" class="form-submit">Submit</button>
+</form>

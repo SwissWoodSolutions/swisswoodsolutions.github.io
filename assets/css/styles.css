@@ -57,6 +57,9 @@ blockquote {
   margin: 2em;
   font-style: normal;
 }
+.hidden {
+  display: none;
+}
 @media (max-width: 700px) {
   /* small mobile */
   .instagram-media, .facebook-media {
