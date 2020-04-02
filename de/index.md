@@ -39,7 +39,7 @@ order: 1
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap">
 
 - <img src="/assets/images/Home1Geige.jpg"
