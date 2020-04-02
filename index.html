@@ -29,4 +29,10 @@ layout: null
       {% endfor %}
     </ul>
   </body>
+  <script>
+// Redirect for Netlify Identity signup
+if (window.location.hash.includes('_token=')) {
+  window.location.assign('/admin/' + window.location.hash);
+}
+</script>
 </html>
