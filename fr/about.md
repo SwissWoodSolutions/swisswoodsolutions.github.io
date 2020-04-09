@@ -74,7 +74,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
 
   ### Luca Schelbli
-  ### R&D Engineer et Marketing
+  ### Manageur de produits et ingénieur R&D
 
   a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
 
@@ -83,7 +83,7 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
-  ### R&D Engineer
+  ### Manageur de produits et ingénieur R&D
 
   a passé plusieurs années à l’école de lutherie de Brienz, où il avait certes acquis une expérience pratique, mais souhaitait avoir une plus grande compréhension théorique du bois. Il entama ainsi d’un Master en tant qu’ingénieur du bois à la haute école spécialisé bernoise en suisse. Entre temps, il co-fonda Swiss Wood Solutions. Actuellement, en plus de son travail chez SWS, il finalise son doctorat à l’université technique de Munich.
 
