@@ -1,7 +1,7 @@
 ﻿---
 lang: de
 title: 'Das sind wir'
-order: 6
+order: 7
 ---
 
 <div class="full-width-kenburns">

@@ -1,7 +1,7 @@
 ﻿---
 lang: de
 title: 'Projekte'
-order: 7
+order: 8
 ---
 
 <div class="full-width-kenburns">
@@ -22,7 +22,7 @@ Zusätzlich zur ETH Zürich und Empa kooperieren wir mit weiteren öffentlichen 
 
 ## Impulsprojekt Deep Learning für hochwertige Holzprodukte mit Innosuisse
 
-Swiss Wood Solutions bietet hochwertige Holzprodukte in Luxusmärkten mit höchsten Qualitätsstandards an. Eine hohe, verlässliche Qualität des Rohmaterials ist dabei unerlässlich. Als natürlicher, nachwachsender Rohstoff unterliegen die Eigenschaften von Holz einer natürlichen Variabilität. **Das Impulsprojekt Deep Learning für hochwertige Holzprodukte verfolgt die Entwicklung und Implementierung eines maschinellen Lernalgorithmus (MLA), der Rohstoff- und Prozessparameter erfasst, analysiert und damit Vorhersagen über die Produktqualität in Echtzeit ermöglicht.** 
+Swiss Wood Solutions bietet hochwertige Holzprodukte in Luxusmärkten mit höchsten Qualitätsstandards an. Eine hohe, verlässliche Qualität des Rohmaterials ist dabei unerlässlich. Als natürlicher, nachwachsender Rohstoff unterliegen die Eigenschaften von Holz einer natürlichen Variabilität. **Das Impulsprojekt Deep Learning für hochwertige Holzprodukte verfolgt die Entwicklung und Implementierung eines maschinellen Lernalgorithmus (MLA), der Rohstoff- und Prozessparameter erfasst, analysiert und damit Vorhersagen über die Produktqualität in Echtzeit ermöglicht.**
 
 Konkret soll der MLA die Wertschöpfung durch eine optimierte Qualitätssicherung sicherstellen. Die Überwachung und Optimierung des Herstellungsprozesses mittels Machine Learning ermöglicht zudem eine optimierte Produktionsausbeute, reduziert den Ressourcen- und Energieverbraucht und erhöht die Flexibilität der Produktion. Swiss Wood Solutions ist bestrebt, nach erfolgreicher Implementierung Lieferanten und Kunden in das Digitalisierungskonzept einzubeziehen. Auf diese Weise können verschiedene Akteure der schweizerischen und europäischen Holzwerkstoffindustrie von einem vertieften Rohstoffwissen profitieren.
 
@@ -38,7 +38,7 @@ Das Impulsprojekt Deep Learning führt Swiss Wood Solutions in enger Kooperation
 
 ## RETWood mit Eurostars
 
-Als Antwort auf die ökologischen, ethischen und rechtlichen Bedenken beim Gebrauch von Tropenhölzern im Instrumentenbau hat Swiss Wood Solutions das nachhaltige Produkt Sonowood entwickelt. Ziel der Innovation ist es, gefährdete Tropenhölzer in Musikinstrumenten zu ersetzen. Sonowood ist ein extrem dichtes und hartes Holzmaterial. Dank der sehr kompakten Holzfaserstruktur lässt es sich besonders gut und präzise gefräst werden kann. Die Produktionsparameter und Holzarten können jedoch das Fräsverhalten bei der CNC-Bearbeitung beeinflussen. 
+Als Antwort auf die ökologischen, ethischen und rechtlichen Bedenken beim Gebrauch von Tropenhölzern im Instrumentenbau hat Swiss Wood Solutions das nachhaltige Produkt Sonowood entwickelt. Ziel der Innovation ist es, gefährdete Tropenhölzer in Musikinstrumenten zu ersetzen. Sonowood ist ein extrem dichtes und hartes Holzmaterial. Dank der sehr kompakten Holzfaserstruktur lässt es sich besonders gut und präzise gefräst werden kann. Die Produktionsparameter und Holzarten können jedoch das Fräsverhalten bei der CNC-Bearbeitung beeinflussen.
 
 **Ziel des RETWood Projekts (Replacing Endangered Tropical Woods) ist es, einen automatisierten CNC-Fräsprozess für Sonowood zu entwickeln.** Die erworbene CNC-Fräskompetenz, einschließlich CAD/CAM-Programmierung, wird es ermöglichen, Sonowood-Formteile viel effizienter herzustellen. Die Erkenntnisse können ferner für die Entwicklung weiterer Produkte genutzt werden, die aus formgenauen Holzstücken bestehen, wie etwa Holzblasinstrumente (Flöten, Klarinetten), Werkzeuggriffe (Messer, Hämmer), Stifte und Luxusgüter (Schmuck, Uhren, Kameras).
 
