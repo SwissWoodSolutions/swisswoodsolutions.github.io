@@ -17,15 +17,16 @@ order: 4
 </div>
 
 <div class="full-width-grey">
-<div class="wrap">
+<div class="wrap -cols1">
 
 Sonoplecs verbinden eine ansprechende und einzigartige Ästhetik mit der unvergleichlichen Haptik von Holz. Die Picks sind in verschiedenen Ausführungen erhältlich und können hinsichtlich ihrer Form und Steifigkeit individuell angepasst werden. Zusätzlich sind mittels Lasergravur personalisierte Plektren erhältlich.
 
 Die Vorteile mit Sonoplec:
-- Holzauthentizität, kein Kunststoff: Sonoplecs werden aus Beständen aus nachhaltig bewirtschafteter Forstwirtschaft in der Schweiz und Deutschland gefertigt.
-- Einzigartige Ästhetik: Sonoplecs garantieren erstklassige Ästhetik. Dank der natürlichen Holzmaserung ist jedes Plektrum einzigartig.
-- Individuelle Anpassung: Wählen Sie zunächst Ihr Design und Form. In einem zweiten Schritt können Sie Ihr Sonoplec weiter individualisieren, indem Sie Ihren Namen, Ihr Logo oder Ihre Zeichnung per Laser eingravieren.
-- Funktionell: Die hervorragende Dichte, die anpassungsfähige Steifigkeit und die angenehme Haptik stellen sicher, dass jeder Gitarist und jede Gitaristin das für den jeweiligen Spielstil geeignete Plektrum findet.
+- **Holzauthentizität, kein Kunststoff**: Sonoplecs werden aus Beständen aus nachhaltig bewirtschafteter Forstwirtschaft in der Schweiz und Deutschland gefertigt.
+- **Einzigartige Ästhetik**: Sonoplecs garantieren erstklassige Ästhetik. Dank der natürlichen Holzmaserung ist jedes Plektrum einzigartig.
+- **Individuelle Anpassung**: Wählen Sie zunächst Ihr Design und Form. In einem zweiten Schritt können Sie Ihr Sonoplec weiter individualisieren, indem Sie Ihren Namen, Ihr Logo oder Ihre Zeichnung per Laser eingravieren.
+- **Funktionell**: Die hervorragende Dichte, die anpassungsfähige Steifigkeit und die angenehme Haptik stellen sicher, dass jeder Gitarist und jede Gitaristin das für den jeweiligen Spielstil geeignete Plektrum findet.
+
 
 Erfahren Sie mehr über Sonoplec in unserem [Webshop](https://www.sonoplec.ch/)!
 
@@ -59,7 +60,7 @@ Erfahren Sie mehr über Sonoplec in unserem [Webshop](https://www.sonoplec.ch/)!
       </a>
 </div>
 
-<a class="btn -white" href="https://www.sonoplec.ch/">Sonoplec Webshop</a>
+<a class="btn -red" href="https://www.sonoplec.ch/">Sonoplec Webshop</a>
 
 </div>
 </div>
