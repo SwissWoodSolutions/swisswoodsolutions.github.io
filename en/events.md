@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 title: 'Events'
-order: 8
+order: 9
 ---
 
 <div class="full-width-kenburns">

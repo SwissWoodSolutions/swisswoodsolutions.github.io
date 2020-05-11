@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 title: 'Projects'
-order: 7
+order: 8
 ---
 
 <div class="full-width-kenburns">
@@ -38,7 +38,7 @@ Most importantly, the MLA is expected to help ensure value creation through opti
 
 ## RETWood with Eurostars
 
-In response to the ecological, ethical and legal concerns associated with the use of tropical woods in string instruments making, Swiss Wood Solutions has developed the sustainable product Sonowood. The innovation’s aim is to replace endangered tropical woods in musical instruments. Sonowood is an extremely dense and hard wooden material. It was found that thanks to its very compact wood fibre structure, Sonowood can be milled particularly well and precisely. However, the particular production parameters and wood species can influence its behavior in fitting production through CNC machining. 
+In response to the ecological, ethical and legal concerns associated with the use of tropical woods in string instruments making, Swiss Wood Solutions has developed the sustainable product Sonowood. The innovation’s aim is to replace endangered tropical woods in musical instruments. Sonowood is an extremely dense and hard wooden material. It was found that thanks to its very compact wood fibre structure, Sonowood can be milled particularly well and precisely. However, the particular production parameters and wood species can influence its behavior in fitting production through CNC machining.
 
 **The objective of the RETWood Project (Replacing Endangered Tropical Woods) is to carry out these investigations and ultimately develop an automated CNC machining process.** The acquired CNC-milling competence, including CAD/CAM programming, will enable SWS to produce Sonowood fittings much more efficiently. The acquired CNC-milling competence can also be used for the development of further products consisting of precisely shaped wooden pieces such as  woodwind instruments (flutes, clarinets), tool handles (knives, hammers), stationary products and luxury items (jewellery, watches, cameras).
 
@@ -84,4 +84,3 @@ In the Swiss Ebony II project, which is set to run until June 2018, SWS targets 
 
 </div>
 </div>
-
