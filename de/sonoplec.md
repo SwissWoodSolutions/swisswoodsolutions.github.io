@@ -12,12 +12,12 @@ order: 4
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/sonoplec/sonoplec_overview.jpg"
-     src="/assets/images/sonoplec/sonoplec_overview.jpg" alt="Sonoplec">
+<img srcset="/assets/images/sonoplec/sonoplec_overview-min.jpg"
+     src="/assets/images/sonoplec/sonoplec_overview-min.jpg" alt="Sonoplec">
 </div>
 
 <div class="full-width-grey">
-<div class="wrap -cols2">
+<div class="wrap">
 
 Sonoplecs verbinden eine ansprechende und einzigartige Ästhetik mit der unvergleichlichen Haptik von Holz. Die Picks sind in verschiedenen Ausführungen erhältlich und können hinsichtlich ihrer Form und Steifigkeit individuell angepasst werden. Zusätzlich sind mittels Lasergravur personalisierte Plektren erhältlich.
 
@@ -36,26 +36,26 @@ Erfahren Sie mehr über Sonoplec in unserem [Webshop](https://www.sonoplec.ch/)!
 <div class="wrap">
 
 <div class="picturegallery">
-      <a href="/assets/images/sonoplec/sonoplec_oak.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_oak.jpg" alt="Sonoplec Eiche">
+      <a href="/assets/images/sonoplec/sonoplec_oak-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_oak-min.jpg" alt="Sonoplec Eiche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_curlybirch.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_curlybirch.jpg" alt="Sonoplec Birkemaser">
+      <a href="/assets/images/sonoplec/sonoplec_curlybirch-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_curlybirch-min.jpg" alt="Sonoplec Birkemaser">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn.jpg" alt="Sonoplec Vogelaugenahorn">
+      <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg" alt="Sonoplec Vogelaugenahorn">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_ahorn.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_ahorn.jpg" alt="Sonoplec Ahorn">
+      <a href="/assets/images/sonoplec/sonoplec_ahorn-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_ahorn-min.jpg" alt="Sonoplec Ahorn">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_ash.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_ash.jpg" alt="Sonoplec Esche">
+      <a href="/assets/images/sonoplec/sonoplec_ash-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_ash-min.jpg" alt="Sonoplec Esche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_cherry.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_cherry.jpg" alt="Sonoplec Kirsche">
+      <a href="/assets/images/sonoplec/sonoplec_cherry-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_cherry-min.jpg" alt="Sonoplec Kirsche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_bluemaple.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_bluemaple.jpg" alt="Sonoplec blauer Ahorn">
+      <a href="/assets/images/sonoplec/sonoplec_bluemaple-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_bluemaple-min.jpg" alt="Sonoplec blauer Ahorn">
       </a>
 </div>
 
