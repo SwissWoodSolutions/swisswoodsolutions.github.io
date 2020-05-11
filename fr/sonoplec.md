@@ -22,10 +22,10 @@ order: 4
 Sonoplecs combine appealing and unique aesthetics with the warm tone of wood. They are available in different designs and can be customized regarding their shape and rigidity. Additionally, personalized plectra are available by laser engraving.
 
 Your advantages with Sonoplec:
-**All wood, no plastics**: The source of our raw material are sustainably managed forests in Europe.
-**Unique aesthetics**: Sonoplecs guarantee first-class aesthetics. Thanks to the natural wood grain, any pick is unique.
-**Customization**: First, choose your design, shape, and rigidity. Second, customize your pick further by laser engraving your name, logo, drawing or keep the natural feeling of wood.
-**Functional**: The outstanding density, adaptable rigidity and pleasant haptics ensure that any player can find the type of pick suited for his or her playing style.
+- **All wood, no plastics**: The source of our raw material are sustainably managed forests in Europe.
+- **Unique aesthetics**: Sonoplecs guarantee first-class aesthetics. Thanks to the natural wood grain, any pick is unique.
+- **Customization**: First, choose your design, shape, and rigidity. Second, customize your pick further by laser engraving your name, logo, drawing or keep the natural feeling of wood.
+- **Functional**: The outstanding density, adaptable rigidity and pleasant haptics ensure that any player can find the type of pick suited for his or her playing style.
 
 Start customizing your Sonoplec today in our [webshop](https://www.sonoplec.ch/)!
 
