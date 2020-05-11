@@ -22,10 +22,10 @@ order: 4
 Sonoplecs verbinden eine ansprechende und einzigartige Ästhetik mit der unvergleichlichen Haptik von Holz. Die Picks sind in verschiedenen Ausführungen erhältlich und können hinsichtlich ihrer Form und Steifigkeit individuell angepasst werden. Zusätzlich sind mittels Lasergravur personalisierte Plektren erhältlich.
 
 Die Vorteile mit Sonoplec:
-- **Holzauthentizität, kein Kunststoff**: Sonoplecs werden aus Beständen aus nachhaltig bewirtschafteter Forstwirtschaft in der Schweiz und Deutschland gefertigt.
-- **Einzigartige Ästhetik**: Sonoplecs garantieren erstklassige Ästhetik. Dank der natürlichen Holzmaserung ist jedes Plektrum einzigartig.
-- **Individuelle Anpassung**: Wählen Sie zunächst Ihr Design und Form. In einem zweiten Schritt können Sie Ihr Sonoplec weiter individualisieren, indem Sie Ihren Namen, Ihr Logo oder Ihre Zeichnung per Laser eingravieren.
-- **Funktionell**: Die hervorragende Dichte, die anpassungsfähige Steifigkeit und die angenehme Haptik stellen sicher, dass jeder Gitarist und jede Gitaristin das für den jeweiligen Spielstil geeignete Plektrum findet.
+**Holzauthentizität, kein Kunststoff**: Sonoplecs werden aus Beständen aus nachhaltig bewirtschafteter Forstwirtschaft in der Schweiz und Deutschland gefertigt.
+**Einzigartige Ästhetik**: Sonoplecs garantieren erstklassige Ästhetik. Dank der natürlichen Holzmaserung ist jedes Plektrum einzigartig.
+**Individuelle Anpassung**: Wählen Sie zunächst Ihr Design und Form. In einem zweiten Schritt können Sie Ihr Sonoplec weiter individualisieren, indem Sie Ihren Namen, Ihr Logo oder Ihre Zeichnung per Laser eingravieren.
+**Funktionell**: Die hervorragende Dichte, die anpassungsfähige Steifigkeit und die angenehme Haptik stellen sicher, dass jeder Gitarist und jede Gitaristin das für den jeweiligen Spielstil geeignete Plektrum findet.
 
 
 Erfahren Sie mehr über Sonoplec in unserem [Webshop](https://www.sonoplec.ch/)!
@@ -37,26 +37,26 @@ Erfahren Sie mehr über Sonoplec in unserem [Webshop](https://www.sonoplec.ch/)!
 <div class="wrap">
 
 <div class="picturegallery">
-      <a href="/assets/images/sonoplec/sonoplec_oak-min_10.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_oak-min.jpg" alt="Sonoplec Eiche">
+      <a href="/assets/images/sonoplec/sonoplec_oak-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_oak-min_10.jpg" alt="Sonoplec Eiche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_curlybirch-min_10.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_curlybirch-min.jpg" alt="Sonoplec Birkemaser">
+      <a href="/assets/images/sonoplec/sonoplec_curlybirch-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_curlybirch-min_10.jpg" alt="Sonoplec Birkemaser">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min_10.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg" alt="Sonoplec Vogelaugenahorn">
+      <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min_10.jpg" alt="Sonoplec Vogelaugenahorn">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_maple-min_10.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_male-min.jpg" alt="Sonoplec Ahorn">
+      <a href="/assets/images/sonoplec/sonoplec_maple-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_maple-min_10.jpg" alt="Sonoplec Ahorn">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_ash-min_10.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_ash-min.jpg" alt="Sonoplec Esche">
+      <a href="/assets/images/sonoplec/sonoplec_ash-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_ash-min_10.jpg" alt="Sonoplec Esche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_cherry-min_10.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_cherry-min.jpg" alt="Sonoplec Kirsche">
+      <a href="/assets/images/sonoplec/sonoplec_cherry-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_cherry-min_10.jpg" alt="Sonoplec Kirsche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_bluemaple-min_10.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_bluemaple-min.jpg" alt="Sonoplec blauer Ahorn">
+      <a href="/assets/images/sonoplec/sonoplec_bluemaple-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_bluemaple-min_10.jpg" alt="Sonoplec blauer Ahorn">
       </a>
 </div>
 
