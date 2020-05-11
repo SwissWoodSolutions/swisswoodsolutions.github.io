@@ -46,8 +46,8 @@ Erfahren Sie mehr über Sonoplec in unserem [Webshop](https://www.sonoplec.ch/)!
       <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg">
           <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg" alt="Sonoplec Vogelaugenahorn">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_ahorn-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_ahorn-min.jpg" alt="Sonoplec Ahorn">
+      <a href="/assets/images/sonoplec/sonoplec_maple-min.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_male-min.jpg" alt="Sonoplec Ahorn">
       </a>
       <a href="/assets/images/sonoplec/sonoplec_ash-min.jpg">
           <img src="/assets/images/sonoplec/sonoplec_ash-min.jpg" alt="Sonoplec Esche">
