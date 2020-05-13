@@ -19,19 +19,19 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols1">
 
-Sonoplecs combine appealing and unique aesthetics with the warm tone of wood. They are available in different designs and can be customized regarding their shape and rigidity. Additionally, personalized plectra are available by laser engraving.
+Les sonoplecs allient une esthétique attrayante et unique au son chaud du bois. Ils sont disponibles dans différents designs et peuvent être personnalisés en ce qui concerne leur forme et leur rigidité. En outre, des plectres personnalisés sont disponibles par gravure laser.
 
-Your advantages with Sonoplec:
+Vos avantages avec Sonoplec :
 
-**All wood, no plastics**: The source of our raw material are sustainably managed forests in Europe.
+- **Tout en bois, pas de plastique** : Notre matière première provient de forêts européennes gérées durablement.
 
-**Unique aesthetics**: Sonoplecs guarantee first-class aesthetics. Thanks to the natural wood grain, any pick is unique.
+- **Esthétique unique** : Les Sonoplec garantissent une esthétique de première classe. Grâce à la beauté naturelle du bois, chaque plectre est unique.
 
-**Customization**: First, choose your design, shape, and rigidity. Second, customize your pick further by laser engraving your name, logo, drawing or keep the natural feeling of wood.
+- **Personnalisation** : Tout d'abord, choisissez votre design, votre forme et votre rigidité. Ensuite, personnalisez davantage votre médiator en gravant au laser votre nom, votre logo, votre dessin ou en conservant la sensation naturelle du bois.
 
-**Functional**: The outstanding density, adaptable rigidity and pleasant haptics ensure that any player can find the type of pick suited for his or her playing style.
+- **Fonctionnalité** : La densité exceptionnelle, la rigidité adaptable et le toucher authentique permettent à tout joueur de trouver le type de médiator adapté à son style de jeu.
 
-Start customizing your Sonoplec today in our [webshop](https://www.sonoplec.ch/)!
+Commencez à personnaliser votre Sonoplec dès aujourd'hui dans notre [boutique en ligne](https://www.sonoplec.ch/)!
 
 </div>
 </div>
