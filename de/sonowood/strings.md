@@ -12,8 +12,8 @@ order: 1
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG"
-     src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard.JPG" alt="Sonowood Geige">
+<img srcset="/assets/images/strings/sonowood_fingerboard_spruce_gaillard_10.JPG"
+     src="/assets/images/strings/sonowood_fingerboard_spruce_gaillard_10.JPG" alt="Sonowood Geige">
 </div>
 
 <div class="full-width-grey">
