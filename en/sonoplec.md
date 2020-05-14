@@ -40,25 +40,25 @@ Start customizing your Sonoplec today in our [webshop](https://www.sonoplec.ch/)
 <div class="wrap">
 
 <div class="picturegallery">
-      <a href="/assets/images/sonoplec/sonoplec_oak-min.jpg">
+      <a href="/assets/images/sonoplec/oak_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_oak-min_10.jpg" alt="Sonoplec oak">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_curlybirch-min.jpg">
+      <a href="/assets/images/sonoplec/curlybirch_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_curlybirch-min_10.jpg" alt="Sonoplec curly birch">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg">
+      <a href="/assets/images/sonoplec/vogelaugenahorn_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min_10.jpg" alt="Sonoplec bird's eye maple">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_maple-min.jpg">
+      <a href="/assets/images/sonoplec/ahorn_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_maple-min_10.jpg" alt="Sonoplec maple">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_ash-min.jpg">
+      <a href="/assets/images/sonoplec/ash_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_ash-min_10.jpg" alt="Sonoplec ash">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_cherry-min.jpg">
+      <a href="/assets/images/sonoplec/cherry_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_cherry-min_10.jpg" alt="Sonoplec cherry">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_bluemaple-min.jpg">
+      <a href="/assets/images/sonoplec/bluemaple_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_bluemaple-min_10.jpg" alt="Sonoplec blue maple">
       </a>
 </div>

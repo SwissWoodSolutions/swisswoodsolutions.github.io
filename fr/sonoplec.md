@@ -23,13 +23,13 @@ Les sonoplecs allient une esthétique attrayante et unique au son chaud du bois.
 
 Vos avantages avec Sonoplec :
 
-- **Tout en bois, pas de plastique** : Notre matière première provient de forêts européennes gérées durablement.
+**Tout en bois, pas de plastique** : Notre matière première provient de forêts européennes gérées durablement.
 
-- **Esthétique unique** : Les Sonoplec garantissent une esthétique de première classe. Grâce à la beauté naturelle du bois, chaque plectre est unique.
+**Esthétique unique** : Les Sonoplec garantissent une esthétique de première classe. Grâce à la beauté naturelle du bois, chaque plectre est unique.
 
-- **Personnalisation** : Tout d'abord, choisissez votre design, votre forme et votre rigidité. Ensuite, personnalisez davantage votre médiator en gravant au laser votre nom, votre logo, votre dessin ou en conservant la sensation naturelle du bois.
+**Personnalisation** : Tout d'abord, choisissez votre design, votre forme et votre rigidité. Ensuite, personnalisez davantage votre médiator en gravant au laser votre nom, votre logo, votre dessin ou en conservant la sensation naturelle du bois.
 
-- **Fonctionnalité** : La densité exceptionnelle, la rigidité adaptable et le toucher authentique permettent à tout joueur de trouver le type de médiator adapté à son style de jeu.
+**Fonctionnalité** : La densité exceptionnelle, la rigidité adaptable et le toucher authentique permettent à tout joueur de trouver le type de médiator adapté à son style de jeu.
 
 Commencez à personnaliser votre Sonoplec dès aujourd'hui dans notre [boutique en ligne](https://www.sonoplec.ch/)!
 
@@ -40,26 +40,26 @@ Commencez à personnaliser votre Sonoplec dès aujourd'hui dans notre [boutique 
 <div class="wrap">
 
 <div class="picturegallery">
-      <a href="/assets/images/sonoplec/sonoplec_oak-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_oak-min_10.jpg" alt="Sonoplec oak">
+      <a href="/assets/images/sonoplec/oak_80.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_oak-min_10.jpg" alt="Sonoplec chêne">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_curlybirch-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_curlybirch-min_10.jpg" alt="Sonoplec curly birch">
+      <a href="/assets/images/sonoplec/curlybirch_80.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_curlybirch-min_10.jpg" alt="Sonoplec bouleau">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min_10.jpg" alt="Sonoplec bird's eye maple">
+      <a href="/assets/images/sonoplec/vogelaugenahorn_80.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min_10.jpg" alt="Sonoplec érable piqué">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_maple-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_maple-min_10.jpg" alt="Sonoplec maple">
+      <a href="/assets/images/sonoplec/ahorn_80.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_maple-min_10.jpg" alt="Sonoplec érable">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_ash-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_ash-min_10.jpg" alt="Sonoplec ash">
+      <a href="/assets/images/sonoplec/ash_80.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_ash-min_10.jpg" alt="Sonoplec frêne">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_cherry-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_cherry-min_10.jpg" alt="Sonoplec cherry">
+      <a href="/assets/images/sonoplec/cherry_80.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_cherry-min_10.jpg" alt="Sonoplec cerise">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_bluemaple-min.jpg">
-          <img src="/assets/images/sonoplec/sonoplec_bluemaple-min_10.jpg" alt="Sonoplec blue maple">
+      <a href="/assets/images/sonoplec/bluemaple_80.jpg">
+          <img src="/assets/images/sonoplec/sonoplec_bluemaple-min_10.jpg" alt="Sonoplec blue érable bleu">
       </a>
 </div>
 

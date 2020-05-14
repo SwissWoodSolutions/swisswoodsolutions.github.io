@@ -40,25 +40,25 @@ Erfahren Sie mehr über Sonoplec in unserem [Webshop](https://www.sonoplec.ch/)!
 <div class="wrap">
 
 <div class="picturegallery">
-      <a href="/assets/images/sonoplec/sonoplec_oak-min.jpg">
+      <a href="/assets/images/sonoplec/oak_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_oak-min_10.jpg" alt="Sonoplec Eiche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_curlybirch-min.jpg">
+      <a href="/assets/images/sonoplec/curlybirch_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_curlybirch-min_10.jpg" alt="Sonoplec Birkemaser">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min.jpg">
+      <a href="/assets/images/sonoplec/vogelaugenahorn_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_vogelaugenahorn-min_10.jpg" alt="Sonoplec Vogelaugenahorn">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_maple-min.jpg">
+      <a href="/assets/images/sonoplec/ahorn_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_maple-min_10.jpg" alt="Sonoplec Ahorn">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_ash-min.jpg">
+      <a href="/assets/images/sonoplec/ash_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_ash-min_10.jpg" alt="Sonoplec Esche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_cherry-min.jpg">
+      <a href="/assets/images/sonoplec/cherry_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_cherry-min_10.jpg" alt="Sonoplec Kirsche">
       </a>
-      <a href="/assets/images/sonoplec/sonoplec_bluemaple-min.jpg">
+      <a href="/assets/images/sonoplec/bluemaple_80.jpg">
           <img src="/assets/images/sonoplec/sonoplec_bluemaple-min_10.jpg" alt="Sonoplec blauer Ahorn">
       </a>
 </div>
