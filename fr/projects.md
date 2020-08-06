@@ -1,7 +1,7 @@
 ﻿---
 lang: fr
 title: 'Projets'
-order: 8
+order: 7
 ---
 
 <div class="full-width-kenburns">
