@@ -1,7 +1,7 @@
 ﻿---
 lang: fr
 title: 'Contact'
-order: 11
+order: 9
 ---
 
 <div class="full-width-kenburns">
