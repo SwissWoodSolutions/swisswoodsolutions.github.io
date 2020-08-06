@@ -61,14 +61,6 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
   <sonderegger@swisswoodsolutions.ch>
 
-- ![Philipp Hass](/assets/images/About_Team_PhilippHass.jpg)
-  ### Dr. Philipp Hass
-  ### CTO und Produktionsleiter
-
-  studierte Verfahrenstechnik mit Fokus auf Holz- und Fasermaterialien an der Technischen Universität Dresden. Zuvor absolvierte er eine handwerkliche Schreiner-Ausbildung und verfügt somit über eine Kombination aus praktischen und theoretischen Kenntnissen der Holzverarbeitung. Zuletzt arbeitete er als Postdoktorand an der Empa Dübendorf und ETH Zürich. Bei Swiss Wood Solutions ist Philipp Hass verantwortlich für die Technologieentwicklung und Produktion.
-
-  <phass@swisswoodsolutions.ch>
-
 - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
   ### Luca Schelbli
   ### Produktmanager und R&D Ingenieur
