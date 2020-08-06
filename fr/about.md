@@ -1,7 +1,7 @@
 ﻿---
 lang: fr
 title: 'Équipe'
-order: 6
+order: 7
 ---
 
 <div class="full-width-kenburns">
@@ -61,15 +61,6 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
   a étudié les sciences du bois à l'ETH Zurich. Il a ensuite travaillé pendant de nombreuses années comme ingénieur du bois à l'Institut des matériaux de construction de l'ETH Zurich. Il possède une grande expertise en mécanique du bois, en physique du bois et en méthodes de densification hydrothermale. Walter Sonderegger est l'auteur de nombreux articles de recherche dans des revues professionnelles et des ouvrages de référence sur le bois.
 
   <sonderegger@swisswoodsolutions.ch>
-
-- ![Philipp Hass](/assets/images/About_Team_PhilippHass.jpg)
-
-  ### Dr. Philipp Hass
-  ### Directeur de la technologie
-
-  a étudié l'ingénierie des procédés avec une spécialisation sur le bois et les matériaux fibreux à l'Université Technique de Dresde. Auparavant, il a effectué un apprentissage de menuisier et dispose ainsi d'une combinaison de connaissances pratiques et théoriques sur la transformation du bois. Chez Swiss Wood Solutions, Philipp Hass est responsable du développement technologique, de l'infrastructure et de la production.
-
-  <phass@swisswoodsolutions.ch>
 
 - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
 
