@@ -19,7 +19,7 @@ order: 1
 <div class="full-width-red">
 <div class="wrap">
 
-  ## Unsere bahnbrechenden Produktelösungen aus regionalem nachhaltigem Holzanbau ersetzen schützenswertes Tropenholz und umweltschädigende Kunststoffe in Alltagsprodukten.
+  ## Unsere bahnbrechenden Produktlösungen aus regionalem, nachhaltigem Holzanbau ersetzen schützenswertes Tropenholz und umweltschädigende Kunststoffe in Alltagsprodukten.
 
 </div>
 </div>
@@ -27,6 +27,15 @@ order: 1
 <div class="full-width">
 <div class="wrap">
 
+- <img src="/assets/images/Home1Geige.jpg"
+    srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
+
+  ### Wooden Smart Card
+
+  Wooden Smart Cards sind holzgefertigte und ästhetisch hochwertige Karten sowohl für den Payment- als auch Non-Payment-Bereich.
+
+  <a class="btn -red" href="/de/woodensmartcard">Wooden Smart Card ></a>
+  
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
 
@@ -44,42 +53,6 @@ order: 1
     Bijouwood ist das technologisch und ästhetisch hochwertige, robuste Holz für Lifestyle- und Hochpräzisionsanwendungen.
 
     <a class="btn -red" href="/de/bijouwood">Bijouwood ></a>
-
-- <img src="/assets/images/Home_2_Services_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts.jpg"
-    srcset="/assets/images/home_services_2x.jpg" alt="Services Cover">
-
-  ### Beratung für die Industrie
-
-  Jahrelange Erfahrung an der Spitze der Holzinnovation, individuelle Serviceleistungen, immer projektspezifisch.
-
-  <a class="btn -red" href="/de/services">Services ></a>
-
-- <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-      srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
-
-  ### Über uns
-
-  Wir vereinen Holzexperten aus der Industrie, Forschung und Entwicklung.
-
-  <a class="btn -red" href="/de/about">Unser Team ></a>
-
-- <img src="/assets/images/Home_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-    srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz, Interview Sonowood">
-
-  ### Medienschau
-
-  Berichterstattung über Swiss Wood Solutions in Printmedien, Radio und TV.
-
-    <a class="btn -red" href="/de/media">Medien ></a>
-
-- <img src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
-  srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="generic event image">
-
-  ### Veranstaltungen
-
-  Wir freuen uns, Sie bald an einer Veranstaltung persönlich zu treffen.
-
-  <a class="btn -red" href="/de/events">Events ></a>
-
+    
 </div>
 </div>
