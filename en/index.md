@@ -31,6 +31,15 @@ order: 1
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
 
+  ### Wooden Smart Card
+
+  Wooden Smart Cards sind holzgefertigte und ästhetisch hochwertige Karten sowohl für den Payment- als auch Non-Payment-Bereich.
+
+  <a class="btn -red" href="/en/woodensmartcard">Wooden Smart Card ></a>
+  
+- <img src="/assets/images/Home1Geige.jpg"
+    srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
+
   ### Sonowood for music instruments
 
   Sonowood is the sustainable material for your music instrument.
@@ -45,41 +54,6 @@ order: 1
     Bijouwood is the aesthetic, robust wood for lifestyle and high precision applications.
 
     <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
-
-- <img src="/assets/images/Home_4_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-    srcset="/assets/images/home_about_2x.jpg" alt="Walter testing Sonowood">
-
-  ### Hands-on expertise for the industry
-  Years of experience and expertise in wood chemistry and engineering at your service.
-
-  <a class="btn -red" href="/en/services">Services ></a>
-
-- <img src="/assets/images/Home_3_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-      srcset="/assets/images/home_RD_2x.jpg" alt="testing in the lab">
-
-  ### About us
-
-  Our team fuses extensive know-how with unique scientific and technical skills.
-
-  <a class="btn -red" href="/en/about">Meet the team ></a>
-
-- <img src="/assets/images/Home_5_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Ebenholz_Holz_Experten_SwissWoodSolutions_Klimaschutz_Wood_Experts_ETH_Zuerich.jpg"
-    srcset="/assets/images/home_news_2x.jpg" alt="screenshot SRF Schweiz interview Sonowood">
-
-  ### In the news!
-
-  Swiss Wood Solutions and Sonowood on Swiss national TV and in other media.
-
-    <a class="btn -red" href="/en/media">Media ></a>
-
-- <img src="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg"
-    srcset="/assets/images/Bodio3_Guitars_Gitarre_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Swiss_Ebony_Sonowood_Ebenholz_Holz_SwissWoodSolutions_Klimaschutz_ETH_Switzerland.jpg" alt="generic event image">
-
-  ### Coming to you
-
-   Experience our products and meet us personally at one of the upcoming events.
-
-  <a class="btn -red" href="/en/events">Events ></a>
 
 </div>
 </div>
