@@ -19,22 +19,7 @@ order: 1
 <div class="full-width-red">
 <div class="wrap">
 
-  ### Swiss Wood Solutions veredelt Massivholz und Holzfurniere, um gefährdete Tropenhölzer sowie plastik- und erdölbasierte Produkte zu ersetzen.
-
-  ### Dafür werden ausschliesslich einheimische Hölzer aus nachhaltigen Beständen verwendet. Alle Produkte sind biologisch abbaubar, bestehen zu 100% aus Holz und enthalten keine Kunststoffe, Harze oder Kunstfarben.
-
-</div>
-</div>
-
-<div class="full-width-grey">
-<div class="wrap">
-
-## Einweihung der Produktionsanlage in Dübendorf im November 2019
-
-<div class="videocontainer">
-<iframe src="https://www.youtube.com/embed/d73YCE0OaSs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+  ## Unsere bahnbrechenden Produktelösungen aus regionalem nachhaltigem Holzanbau ersetzen schützenswertes Tropenholz und umweltschädigende Kunststoffe in Alltagsprodukten.
 
 </div>
 </div>
