@@ -81,20 +81,6 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
   <sonderegger@swisswoodsolutions.ch>
 
-- ![Philipp Hass](/assets/images/About_Team_PhilippHass.jpg)
-  ### Dr. Philipp Hass
-  ### CTO and production manager
-
-  studied process engineering with focus on wood and fiber material
-  technology at the University of Technology in Dresden (Germany) and
-  later received his PhD from ETH Zurich. In combination with an
-  apprenticeship as carpenter, he acquired both practical and
-  theoretical wood processing skills. Prior to his engagement at Swiss
-  Wood Solutions, Philipp Hass worked in a postdoctoral position at
-  ETH Zurich and at Empa Dübendorf.
-
-  <phass@swisswoodsolutions.ch>
-
 - ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
   ### Luca Schelbli
   ### Product Manager and R&D Engineer
