@@ -1,7 +1,7 @@
 ---
 lang: en
 title: 'Services'
-order: 6
+order: 5
 ---
 
 <div class="full-width-kenburns">
