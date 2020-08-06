@@ -53,7 +53,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 - ![Munish Chanana](/assets/images/About_Team_MunishChanana.jpg)
   ### Dr. Munish Chanana
-  ### Co-CEO and Head of R\&D
+  ### Deputy CEO and Head of R\&D
 
   studied chemistry at the University of Münster, Germany, and later
   received his PhD from the Max Planck Institute in Potsdam, Germany. He
