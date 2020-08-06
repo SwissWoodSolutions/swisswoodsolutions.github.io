@@ -1,7 +1,7 @@
 ﻿---
 lang: de
 title: 'Bijouwood'
-order: 5
+order: 4
 ---
 
 <div class="full-width-kenburns">
