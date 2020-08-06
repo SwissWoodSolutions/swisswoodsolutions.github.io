@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 title: 'Partners'
-order: 4
+order: 5
 ---
 
 <div class="full-width-kenburns">
