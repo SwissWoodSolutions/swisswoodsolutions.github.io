@@ -28,7 +28,7 @@ order: 1
 - <img src="/assets/images/wpc_cherry2.jpg"
     srcset="/assets/images/wpc_cherry2.jpg" alt="wpc_cherry2">
 
-  ### Wooden Smart Card for payment and non-payment use
+  ### Wooden Smart Card
 
   Wooden Smart Cards offer first-class aesthetics, pleasant haptics, and full functionality.
   
@@ -37,7 +37,7 @@ order: 1
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
 
-  ### Sonowood for music instruments
+  ### Sonowood 
 
   Sonowood is the sustainable material for your music instrument.
 
@@ -46,7 +46,7 @@ order: 1
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
-  ### Bijouwood for lifestyle and high precision
+  ### Bijouwood
 
     Bijouwood is the aesthetic, robust wood for lifestyle and high precision applications.
 
