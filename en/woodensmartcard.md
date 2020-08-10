@@ -12,8 +12,8 @@ order: 2
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/wpc_maple.jpg"
-     src="/assets/images/wpc_maple.jpg" alt="WPC maple">
+<img srcset="/assets/images/wpc_maple2.jpg"
+     src="/assets/images/wpc_maple2.jpg" alt="WPC maple">
 </div>
 
 <div class="full-width-grey">
