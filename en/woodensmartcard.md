@@ -7,8 +7,6 @@ order: 2
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Wooden Smart Card
-
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
