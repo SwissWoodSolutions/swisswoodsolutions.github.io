@@ -25,11 +25,12 @@ Wir respektieren konsequent alle drei Dimensionen der Nachhaltigkeit. Ebenso unt
 
 Unser neustes Produkt ist die HQ Wooden Smart Card. Dieses Produkt kann aus verschiedenen einheimischen Holzarten hergestellt werden und bietet eine natürliche Ästhetik, eine sehr angenehme Haptik und die vollumfängliche Kartenfunktionalität. Gegenwärtig sind wir dabei, dieses Produkt zusammen mit unseren B2B-Partnern auf den Markt zu bringen. 
 
-Die Vorteile:
-- Holzbasierte Karten, keine Kunststoffe
-- Natürliche Haptik und Ästhetik
-- Hohe Oberflächenhärte und Kratzfestigkeit 
-- Verschiedene Designs und Holzarten
-- Einzigartige Karten durch die natürliche Holzmaserung
-- Kreislaufwirtschaftskonform
-- Förderung von nachhaltiger heimischer Forstwirtschaft, Kreislaufwirtschaft und zukunftsorientierter Umweltverantwortung 
+ - #### Vorteile:
+
+      - Holzbasierte Karten, keine Kunststoffe
+      - Natürliche Haptik und Ästhetik
+      - Hohe Oberflächenhärte und Kratzfestigkeit 
+      - Verschiedene Designs und Holzarten
+      - Einzigartige Karten durch die natürliche Holzmaserung
+      - Kreislaufwirtschaftskonform
+      - Förderung von nachhaltiger heimischer Forstwirtschaft, Kreislaufwirtschaft und zukunftsorientierter Umweltverantwortung 
