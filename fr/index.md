@@ -28,7 +28,7 @@ order: 1
 - <img src="/assets/images/wpc_cherry2.jpg"
     srcset="/assets/images/wpc_cherry2.jpg" alt="wpc_cherry2">
 
-  ### Wooden Smart Card pour l'usage en paiement et non-paiement
+  ### Wooden Smart Card 
 
  Wooden Smart Cards sont des cartes à finition en bois et esthétiques pour les secteurs du paiement et du non-paiement.
 
@@ -37,7 +37,7 @@ order: 1
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple on violin">
 
-  ### Sonowood pour les instruments de musique
+  ### Sonowood 
 
   Sonowood est le bois durable pour les instruments de musique. 100% en bois domestique, sans plastique.
 
@@ -46,7 +46,7 @@ order: 1
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
-  ### Bijouwood pour le design et les applications de haute précision
+  ### Bijouwood 
 
     Bijouwood est le bois esthétique et robuste pour des applications de style de vie et de haute précision.
 
