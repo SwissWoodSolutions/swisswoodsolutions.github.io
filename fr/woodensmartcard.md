@@ -25,11 +25,12 @@ Nous respectons donc les trois dimensions de la durabilité. Nous soutenons les 
 
 Notre dernier produit est une carte à puce en bois du siège. Ce produit peut être fabriqué à partir de différentes essences de bois domestiques et offre une esthétique naturelle, une expérience haptique très agréable et la pleine fonctionnalité de la carte. Nous sommes en train de développer ce produit en collaboration avec nos partenaires B2B. 
 
-Avantages :
-- A base de bois, pas de plastique
-- Haptique supérieure, esthétique naturelle, émotions positives
-- Grande dureté de surface et résistance aux rayures 
-- Différents modèles et essences de bois
-- Des cartes uniques grâce au grain naturel du bois
-- Conforme à une économie circulaire
-- Promotion d'une sylviculture domestique durable, d'une économie circulaire et d'une responsabilité environnementale tournée vers l'avenir
+  - #### Avantages:
+
+      - A base de bois, pas de plastique
+      - Haptique supérieure, esthétique naturelle, émotions positives
+      - Grande dureté de surface et résistance aux rayures 
+      - Différents modèles et essences de bois
+      - Des cartes uniques grâce au grain naturel du bois
+      - Conforme à une économie circulaire
+      - Promotion d'une sylviculture domestique durable, d'une économie circulaire et d'une responsabilité environnementale tournée vers l'avenir
