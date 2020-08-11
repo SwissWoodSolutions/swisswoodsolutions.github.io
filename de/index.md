@@ -30,7 +30,7 @@ order: 1
 
   ### Wooden Smart Card
 
-  Wooden Smart Cards sind holzgefertigte und ästhetisch hochwertige Karten sowohl für den Payment- als auch Non-Payment-Bereich.
+  Wooden Smart Cards sind holzgefertigte Karten sowohl für den Payment- als auch Non-Payment-Bereich.
 
   <a class="btn -red" href="/de/woodensmartcard">Wooden Smart Card ></a>
   
