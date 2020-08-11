@@ -30,27 +30,27 @@ order: 1
 
   ### Wooden Smart Card
 
-  Wooden Smart Cards sind holzgefertigte Karten sowohl für den Payment- als auch Non-Payment-Bereich.
+  Wooden Smart Cards sont des cartes à finition en bois et esthétiques pour les secteurs du paiement et non-paiement.
 
-  <a class="btn -red" href="/de/woodensmartcard">Wooden Smart Card ></a>
+  <a class="btn -red" href="/fr/woodensmartcard">Wooden Smart Card ></a>
   
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
 
   ### Sonowood 
 
-  Sonowood ist das nachhaltige Material für Musikinstrumente. Gefertigt aus 100% heimischen Hölzern, kein Plastikanteil.
+  Sonowood est le bois durable pour les instruments de musique. 100% en bois domestique, sans plastique.
 
-  <a class="btn -red" href="/de/sonowood/index">Sonowood ></a>
+  <a class="btn -red" href="/fr/sonowood/index">Sonowood ></a>
 
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
   ### Bijouwood
 
-    Bijouwood ist das technologisch und ästhetisch hochwertige, robuste Holz für Lifestyle- und Hochpräzisionsanwendungen.
+    Bijouwood est le bois esthétique et robuste pour des applications de style de vie et de haute précision.
 
-    <a class="btn -red" href="/de/bijouwood">Bijouwood ></a>
+    <a class="btn -red" href="/fr/bijouwood">Bijouwood ></a>
     
 </div>
 </div>
