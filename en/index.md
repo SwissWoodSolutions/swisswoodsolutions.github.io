@@ -10,8 +10,8 @@ order: 1
 ![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
-<img src="/assets/images/wpc_maple2.jpg"
-  srcset="/assets/images/wpc_maple2.jpg" alt="wpc_maple">
+<img src="/assets/images/wpc_maple3.jpg"
+  srcset="/assets/images/wpc_maple3.jpg" alt="wpc_maple">
 </div>
 
 <div class="full-width-red">
