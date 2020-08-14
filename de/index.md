@@ -10,8 +10,8 @@ order: 1
 ![arrow down](/assets/images/arrow-d-white.svg)
 
 </div>
-<img src="/assets/images/wpc_maple3.jpg"
-  srcset="/assets/images/wpc_maple3.jpg" alt="wpc_maple">
+<img src="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg"
+  srcset="/assets/images/Home_Cover_Tropical_Wood_Tropenholz_Ersatz_Replacement_Alternative_Sonowood_Swiss_Schweiz_Ebony_Ebenholz_Rosewood_Grenadill_Swiss_Wood_Solutions_Climate_Change.jpg" alt="wpc_maple">
 </div>
 
 <div class="full-width-red">
@@ -24,15 +24,6 @@ order: 1
 
 <div class="full-width">
 <div class="wrap">
-
-- <img src="/assets/images/wpc_cherry2.jpg"
-    srcset="/assets/images/wpc_cherry2.jpg" alt="wpc_cherry">
-
-  ### Wooden Smart Card
-
-  Wooden Smart Cards sind holzgefertigte Karten sowohl für den Payment- als auch Non-Payment-Bereich.
-
-  <a class="btn -red" href="/de/woodensmartcard">Wooden Smart Card ></a>
   
 - <img src="/assets/images/Home1Geige.jpg"
     srcset="/assets/images/Home1Geige.jpg" alt="sonowood maple auf Geige">
