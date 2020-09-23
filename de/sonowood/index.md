@@ -77,7 +77,7 @@ Deshalb haben wir Sonowood entwickelt. Dazu werden **heimische Hölzer aus nachh
 
 Erfahren Sie mehr über die länderabhängigen Auswirkungen der CITES-Bestimmungen für Stakeholder in der Musikindustrie.
 
-<a class="btn -white" href="/assets/docs/2018_CITES_CH.pdf">CITES in der Schweiz</a> <a class="btn -white" href="/assets/docs/2018_CITES_DE.pdf">CITES in Deutschland</a> <a class="btn -white" href="/assets/docs/2019_CITES_USA.pdf">CITES in den Vereinigten Staaten</a>
+<a class="btn -red" href="/assets/docs/2018_CITES_CH.pdf">CITES in der Schweiz</a> <a class="btn -red" href="/assets/docs/2018_CITES_DE.pdf">CITES in Deutschland</a> <a class="btn -red" href="/assets/docs/2019_CITES_USA.pdf">CITES in den Vereinigten Staaten</a>
 
 </div>
 </div>
