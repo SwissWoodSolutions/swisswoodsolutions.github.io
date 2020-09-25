@@ -62,16 +62,6 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
 
   <sonderegger@swisswoodsolutions.ch>
 
-- ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
-
-  ### Luca Schelbli
-  ### Manageur de produits et ingénieur R&D
-
-  a étudié la chimie et l'économie à l'Université de Zurich et à la Louisiana State University aux Etats-Unis. En tant que spécialiste en R&D, il travaille au développement de modifications physico-chimiques du bois pour diverses applications. Luca Schelbli soutient également la commercialisation des processus développés en laboratoire, la stratégie commerciale et les activités marketing.
-
-  <schelbli@swisswoodsolutions.ch>  
-  Tel. +41 79 837 17 94 (mobile)
-
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
   ### Manageur de produits et ingénieur R&D
@@ -79,14 +69,6 @@ Notre équipe regroupe des experts du bois issus de l'industrie, de la recherche
   a passé plusieurs années à l’école de lutherie de Brienz, où il avait certes acquis une expérience pratique, mais souhaitait avoir une plus grande compréhension théorique du bois. Il entama ainsi d’un Master en tant qu’ingénieur du bois à la haute école spécialisé bernoise en suisse. Entre temps, il co-fonda Swiss Wood Solutions. Actuellement, en plus de son travail chez SWS, il finalise son doctorat à l’université technique de Munich.
 
   <clerc@swisswoodsolutions.ch>
-
-- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
-  ### Sophie Koch
-  ### Master étudiante Biobased Materials
-
-  a obtenu sa BSc en économie du bois en 2017 et est en train d'étudier MSc Biobased Materials à l'Université de Maastricht. Elle a acquis de l'expérience dans l'industrie du bois grâce à plusieurs stages chez un fabricant de panneaux d'aggloméré et un fabricant de fibres textiles de bois. Actuellement, Sophie Koch rédige sa mémoire de maîtrise sur "Biopolymer-Wood Composites" chez Swiss Wood Solutions.
-
-  <koch@swisswoodsolutions.ch>
 
 - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
   ### Dr. Etienne Cabane

@@ -43,8 +43,6 @@ Le 2 mars 2018, la télévision a de nouveau pris Swiss Wood Solutions pour suje
       - [**Falling Walls Lab, Presentation**  
         Berlin,
         Novembre 2017](https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&showinfo=0)
-      - [**Die Deutsche Welle**  
-        05 juillet 2018](https://p.dw.com/p/30uK3)
       - [**TV RSI,
         Telegiornale**  
         28 novembre 2017](https://www.rsi.ch/play/tv/telegiornale/video/28-11-2017-legno-indigeno-peri-liutai?id=9841570&station=rete-uno)

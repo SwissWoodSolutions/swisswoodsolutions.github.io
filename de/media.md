@@ -41,7 +41,6 @@ Am 2. März 2018 berichtete Schweiz aktuell erneut über Swiss Wood Solutions. I
   - [**Science Stories**
     03.07.2019](https://www.youtube.com/watch?v=SI2FyJS_ofc)
   - [**Falling Walls Lab, Presentation** Berlin, 11.2017](https://www.youtube.com/embed/ciyMRf8cfoE?rel=0&showinfo=0)
-  - [**Die Deutsche Welle** 05.07.2018](https://p.dw.com/p/30uK3)
   - [**TV RSI, Telegiornale** 28.11.2017](https://www.rsi.ch/play/tv/telegiornale/video/28-11-2017-legno-indigeno-peri-liutai?id=9841570&station=rete-uno)
   - [**Radio SRF, Echo der Zeit** 28.11.2017](https://www.srf.ch/play/radio/echo-der-zeit/audio/schweizer-tropenholz-fuer-musikinstrumente?id=70df976f-69dc-4ef3-94d7-68ac4b8823cc&startTime=2.104851039)
   - [**Radio Deutschlandfunk** 22.11.2017](http://www.deutschlandfunk.de/instrumentenbau-heimische-hoelzer-fuer-hochwertige-geigen.676.de.html?dram:article_id=401301)

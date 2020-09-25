@@ -61,15 +61,6 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
 
   <sonderegger@swisswoodsolutions.ch>
 
-- ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
-  ### Luca Schelbli
-  ### Produktmanager und R&D Ingenieur
-
-  studierte Wirtschaftschemie an der Universität Zürich und Louisiana State University in den USA. Als R&D-Ingenieur arbeitet er an der Entwicklung von physikochemischen Holzmodifikationen für verschiedene Anwendungsgebiete. Ferner unterstützt Luca Schelbli die Kommerzialisierung der im Labor entwickelten Verfahren, die Betreuung der Verkaufskanäle und die Marketingaktivitäten.  
-
-  <schelbli@swisswoodsolutions.ch>  
-  Tel. +41 79 837 17 94 (mobile)
-
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
   ### Produktmanager und R&D Ingenieur
@@ -77,14 +68,6 @@ Unser Team vereint Holzexperten aus der Industrie, Forschung und Entwicklung. Al
   wollte nach mehreren Jahren an der Geigenbauschule in Brienz ein tieferes theoretisches Verständnis von Holz gewinnen und erlangte einen Master-Abschluss als Holzingenieur an der Fachhochschule Bern in der Schweiz. Derzeit promoviert er neben seiner Tätigkeit bei SWS an der Technischen Universität München. Gaspard Clerc ist Mitgründer von Swiss Wood Solutions.
 
   <clerc@swisswoodsolutions.ch>
-
-- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
-  ### Sophie Koch
-  ### Master Studentin Biobased Materials
-
-  erhielt 2017 ihren Abschluss als Bachelor of Science in Holzwirtschaft und studiert seit 2018 MSc Biobased Materials an der Universität Maastricht. Durch mehrere Praktika bei einem Spanplattenhersteller und einem Hersteller von Holztextilfasern sammelte sie Erfahrungen in der Holzindustrie. Derzeit schreibt Sophie Koch an ihrer Masterarbeit bei Swiss Wood Solutions über "Biopolymer-Wood Composites".
-
-  <koch@swisswoodsolutions.ch>
 
 - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
   ### Dr. Etienne Cabane

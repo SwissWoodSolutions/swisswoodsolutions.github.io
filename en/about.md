@@ -81,15 +81,6 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
   <sonderegger@swisswoodsolutions.ch>
 
-- ![Luca Schelbli](/assets/images/About_Team_LucaSchelbli.jpg)
-  ### Luca Schelbli
-  ### Product Manager and R&D Engineer
-
-  has studied Chemistry and Business Studies at the University of Zurich and Louisiana State University (USA). In his position as R\&D engineer, he works on the development of new physicochemical  modification approaches of wood. Furthermore, he supports the commercialization of the developed processes and manages the distribution channels. Additionally, Luca Schelbli is charge of the public relations, the online presence and supervision of student papers.
-
-  <schelbli@swisswoodsolutions.ch>   
-  Tel. +41 79 837 17 94 (mobile)
-
 - ![Gaspard Clerc](/assets/images/About_Team_GaspardClerc.jpg)
   ### Gaspard Clerc
   ### Product Manager and R&D Engineer
@@ -97,14 +88,6 @@ Our team fuses the vast knowledge of scientists with diverse academic background
   spent multiple years at the violin making school in Brienz, Switzerland, where he certainly acquired practical experience, but wanted to have a greater theoretical understanding of wood. He received his Master's degree as a wood engineer at the Bern University of Applied Sciences in Switzerland. In the meantime, he co-founded SWS to combine his interest in lutherie and research. Currently, in addition to his work at SWS, he is completing his doctorate at the Technical University of Munich.
 
   <clerc@swisswoodsolutions.ch>
-
-- ![Sophie Koch](/assets/images/About_Team_SophieKoch.jpg)
-  ### Sophie Koch
-  ### Master Student Biobased Materials
-
-  received her degree as Bachelor of Science in Timber Economics in 2017 and has been studying M.Sc. Biobased Materials at Maastricht University since 2018. Through several internships with a chipboard manufacturer and a producer of wooden textile fibers, she gained experience in the wood industry. She is currently writing on her thesis at Swiss Wood Solutions on "Biopolymer-Wood Composites". As such, Sophie Koch is working on the optimization of physical and mechanical properties of veneers.
-
-  <koch@swisswoodsolutions.ch>
 
 - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
   ### Dr. Etienne Cabane
