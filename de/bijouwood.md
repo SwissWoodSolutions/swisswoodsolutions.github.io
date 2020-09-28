@@ -35,10 +35,10 @@ Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der 
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/kauri_watch_1.jpg">
-          <img src="/assets/images/bijouwood/kauri_watch_1.jpg" alt="Kauri_Watch_Bijouwood">
+          <img src="/assets/images/bijouwood/kauri_watch_1.jpg" alt="Kauri Watch Bijouwood Walnuss">
       </a>
       <a href="/assets/images/bijouwood/kauri_watch_2.jpg">
-          <img src="/assets/images/bijouwood/kauri_watch_2.jpg" alt="Kauri_Watch_Bijouwood_2">
+          <img src="/assets/images/bijouwood/kauri_watch_2.jpg" alt="Kauri Watch Bijouwood Walnuss">
       </a>
 </div>
 
