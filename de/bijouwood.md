@@ -28,25 +28,6 @@ Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der 
 </div>
 </div>
 
-<div class="full-width-red">
-<div class="wrap">
-
-### Kauri Watches
-
-<div class="picturegallery">
-      <a href="/assets/images/bijouwood/kauri_watch_1.jpg">
-          <img src="/assets/images/bijouwood/kauri_watch_1.jpg" alt="Kauri Watch Bijouwood Walnuss">
-      </a>
-      <a href="/assets/images/bijouwood/kauri_watch_2.jpg">
-          <img src="/assets/images/bijouwood/kauri_watch_2.jpg" alt="Kauri Watch Bijouwood Walnuss">
-      </a>
-</div>
-
-[Kauri Watches](https://kauri-watches.ch/en/)
-
-</div>
-</div>
-
 <div class="full-width">
 <div class="wrap">
 
