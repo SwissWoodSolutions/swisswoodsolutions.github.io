@@ -17,7 +17,7 @@ order: 1
 <div class="full-width-red">
 <div class="wrap">
 
-  ### Unsere bahnbrechenden Produktlösungen aus regionalem, nachhaltigem Holzanbau ersetzen schützenswertes Tropenholz und umweltschädigende Kunststoffe in Alltagsprodukten.
+  ## Unsere bahnbrechenden Produktlösungen aus regionalem, nachhaltigem Holzanbau ersetzen schützenswertes Tropenholz und umweltschädigende Kunststoffe in Alltagsprodukten.
 
 </div>
 </div>
