@@ -23,7 +23,7 @@ Bijouwood ist ein technologisch hochwertiges und ästhetisch ansprechendes Holzm
 
 Variationen werden speziell für Lifestyle- und Hochpräzisionsanwendungen entwickelt, die eine ansprechende Ästhetik und Haptik erfordern. Bijouwood kann problemlos mit einem CO2-Laser ohne Brandspuren graviert werden.
 
-Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der Kreativität sind keine Grenzen gesetzt.
+Möchten Sie Bijouwood für Ihre Anwendung benützen? Kontaktieren Sie uns, der Kreativität sind keine Grenzen gesetzt!
 
 </div>
 </div>
