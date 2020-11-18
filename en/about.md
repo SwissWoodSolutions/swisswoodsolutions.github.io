@@ -91,7 +91,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 - ![Etienne Cabane](/assets/images/About_Team_EtienneCabane.jpg)
   ### Dr. Etienne Cabane
-  ### Senior Research Scientist
+  ### R&D Manager
 
   is a polymer chemist and chemical engineer. After completing a MSc in Materials Science at the University of New Hampshire (USA) and a PhD in Physical Chemistry at the University of Basel in Switzerland, Etienne Cabane discovered wood at the Institute for Building Materials at ETH Zürich, where he led the research activities on the design of functional wood-based materials. As a senior research scientist at SWS, Etienne Cabane keeps an eye on the latest innovations in wood materials and explores novel research directions.
 
@@ -99,7 +99,7 @@ Our team fuses the vast knowledge of scientists with diverse academic background
 
 - ![Pascal Wyss](/assets/images/About_Team_PascalWyss.jpg)
   ### Pascal Wyss
-  ### Master Student Chemistry and Business
+  ### R&D Engineer
 
   studies Chemistry and Business Studies at the University of Zurich. As part of his Master's thesis, he works on the development of wooden veneers and investigates their marketability.
 
