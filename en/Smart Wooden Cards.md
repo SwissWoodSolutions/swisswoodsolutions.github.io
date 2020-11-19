@@ -68,7 +68,7 @@ Dummy text.
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap">
 
 ### OCR Cards
@@ -82,3 +82,6 @@ Dummy text
 
 </div>
 </div>
+
+<div class="full-width-grey">
+<div class="wrap">
