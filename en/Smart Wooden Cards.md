@@ -43,6 +43,7 @@ Dummy text.
       <a href="/assets/images/wpc_cherry3_s.jpg">
           <img src="/assets/images/wpc_cherry3_s.jpg" alt="Payment card Cherry">
       </a>
+</div>
 
 </div>
 </div>
@@ -64,6 +65,7 @@ Dummy text.
      <a href="/assets/images/wpc_maple3_s.jpg">
           <img src="/assets/images/wpc_maple3_s.jpg" alt="Payment card Maple">
      </a>
+</div>
 
 </div>
 </div>
@@ -79,6 +81,7 @@ Dummy text
      <a href="/assets/images/OCR_EC.jpg">
           <img src="/assets/images/OCR_EC.jpg" alt="OCR Card">
      </a>
+</div>
 
 </div>
 </div>
