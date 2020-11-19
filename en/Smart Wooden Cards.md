@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 title: 'Smart Wooden Cards'
-order: 4
+order: 5
 ---
 
 <div class="full-width-kenburns">
@@ -12,8 +12,8 @@ order: 4
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/wpc_cherry.jpg"
-     src="/assets/images/wpc_cherry.jpg" alt="Smart Wooden Cards">
+<img srcset="/assets/images/wpc_cherry_s.jpg"
+     src="/assets/images/wpc_cherry_s.jpg" alt="Smart Wooden Cards">
 </div>
 
 <div class="full-width-grey">
@@ -34,14 +34,14 @@ We can work with various wood species, and create various surface effects contri
 Dummy text.
 
 <div class="picturegallery">
-      <a href="/assets/images/wpc_cherry.jpg">
-          <img src="/assets/images/wpc_cherry.jpg" alt="Payment card Cherry">
+      <a href="/assets/images/wpc_cherry_s.jpg">
+          <img src="/assets/images/wpc_cherry_s.jpg" alt="Payment card Cherry">
       </a>
-      <a href="/assets/images/wpc_cherry2.jpg">
-          <img src="/assets/images/wpc_cherry2.jpg" alt="Payment card Cherry">
+      <a href="/assets/images/wpc_cherry2_s.jpg">
+          <img src="/assets/images/wpc_cherry2_s.jpg" alt="Payment card Cherry">
       </a>
-      <a href="/assets/images/wpc_cherry3.jpg">
-          <img src="/assets/images/wpc_cherry3.jpg" alt="Payment card Cherry">
+      <a href="/assets/images/wpc_cherry3_s.jpg">
+          <img src="/assets/images/wpc_cherry3_s.jpg" alt="Payment card Cherry">
 
 </div>
 </div>
@@ -54,14 +54,14 @@ Dummy text.
 Dummy text.
 
 <div class="picturegallery">
-      <a href="/assets/images/wpc_maple.jpg">
-          <img src="/assets/images/wpc_maple.jpg" alt="Payment card Maple">
+      <a href="/assets/images/wpc_maple_s.jpg">
+          <img src="/assets/images/wpc_maple_s.jpg" alt="Payment card Maple">
      </a>
-     <a href="/assets/images/wpc_maple2.jpg">
-          <img src="/assets/images/wpc_maple2.jpg" alt="Payment card Maple">
+     <a href="/assets/images/wpc_maple2_s.jpg">
+          <img src="/assets/images/wpc_maple2_s.jpg" alt="Payment card Maple">
       </a>
-      <a href="/assets/images/wpc_maple3.jpg">
-          <img src="/assets/images/wpc_maple3.jpg" alt="Payment card Maple">
+      <a href="/assets/images/wpc_maple3_s.jpg">
+          <img src="/assets/images/wpc_maple3_s.jpg" alt="Payment card Maple">
     
 </div>
 </div>
