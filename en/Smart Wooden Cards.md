@@ -69,7 +69,7 @@ Dummy text.
 </div>
 
 <div class="full-width">
-<div class="wrap">
+<div class="wrap -cols2">
 
 ### OCR Cards
 
