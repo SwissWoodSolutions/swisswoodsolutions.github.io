@@ -7,7 +7,7 @@ order: 4
 <div class="full-width-kenburns">
 <div class="wrap-bg-image">
 
-# Bijouwood
+# Smart Wooden Cards
 
 ![](/assets/images/arrow-d-white.svg)
 
@@ -19,9 +19,9 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-Bijouwood is a technologically enhanced and aesthetically appealing wood material comprised of domestic wood species such as oak, figured maple, ash, cherry and many other wood species from sustainable forests. Bijouwood is highly dense (1’300-1’400 kg/m3), extremely hard (Brinell hardness > 100 N/mm2), dimensionally stable as well as scratch- and abrasion-resistant. Bijouwood consists of 100% wood and does not contain any plastic or resin, it therefore is 100% biodegradable. The material can readily be engraved with a CO2 laser without burn marks.
-
-Bijouwood is designed for lifestyle and high precision applications. Would you like to use Bijouwood for your application? Contact us, there are no limits to your creativity.
+Smart Wooden Cards are smart cards made of wood, replacing traditional plastic cards. They are produced from local wood species, and the are biodegradable.
+We produce various types of cards, including payment cards using RFID and OCR technologies.
+We can work with various wood species, and create various surface effects contributing to attractive card haptics.
 
 </div>
 </div>
@@ -29,9 +29,9 @@ Bijouwood is designed for lifestyle and high precision applications. Would you l
 <div class="full-width">
 <div class="wrap">
 
-### ALPA of Switzerland
+### Payment cards
 
-Cameras from ALPA combine highest precision and noble style. This model is equipped with handles from Bijouwood nut. The pleasant feel and robustness of Bijouwood provide comfort.
+Dummy text.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/ALPA1.jpg">
@@ -56,9 +56,9 @@ Cameras from ALPA combine highest precision and noble style. This model is equip
 <div class="full-width-grey">
 <div class="wrap">
 
-### Stationery by Jean-Frédéric Fesseler
+### RFID Cards
 
-In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. His latest collection features Bijouwood from spruce, maple as well as light and dark figured maple.
+Dummy text.
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/Stifte1.jpg">
@@ -116,9 +116,9 @@ In his studio in Berlin, Jean-Frédéric Fesseler crafts exclusive stationery. H
 <div class="full-width">
 <div class="wrap">
 
-### Guldimann Cutlery Shop
+### OCR Cards
 
-In the Guldimann cutlery shop, every knife is handcrafted. For the knife handles of the Hellcat model, Marco Guldimann uses Bijouwood maple, which is ideally suited thanks to its high density and hardness, robustness and aesthetics.
+Dummy text
 
 <div class="picturegallery">
       <a href="/assets/images/bijouwood/GuldimannMesser5.jpg">
