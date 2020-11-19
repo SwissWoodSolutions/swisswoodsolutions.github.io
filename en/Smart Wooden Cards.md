@@ -75,7 +75,7 @@ Dummy text.
 
 ### OCR Cards
 
-Dummy text
+Dummy text.
 
 <div class="picturegallery">
      <a href="/assets/images/OCR_EC.jpg">
