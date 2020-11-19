@@ -54,13 +54,13 @@ Dummy text.
 Dummy text.
 
 <div class="picturegallery">
-      <a href="/assets/images/wpc_maple_s.jpg">
+     <a href="/assets/images/wpc_maple_s.jpg">
           <img src="/assets/images/wpc_maple_s.jpg" alt="Payment card Maple">
      </a>
      <a href="/assets/images/wpc_maple2-s.jpg">
           <img src="/assets/images/wpc_maple2-s.jpg" alt="Payment card Maple">
-      </a>
-      <a href="/assets/images/wpc_maple3_s.jpg">
+     </a>
+     <a href="/assets/images/wpc_maple3_s.jpg">
           <img src="/assets/images/wpc_maple3_s.jpg" alt="Payment card Maple">
     
 </div>
@@ -74,7 +74,7 @@ Dummy text.
 Dummy text
 
 <div class="picturegallery">
-      <a href="/assets/images/OCR_EC.jpg">
+     <a href="/assets/images/OCR_EC.jpg">
           <img src="/assets/images/OCR_EC.jpg" alt="OCR Card">
   
 
