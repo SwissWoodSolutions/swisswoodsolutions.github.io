@@ -47,7 +47,7 @@ Dummy text.
 </div>
 </div>
 
-<div class="full-width">
+<div class="full-width-grey">
 <div class="wrap">
 
 ### RFID Cards
@@ -68,7 +68,7 @@ Dummy text.
 </div>
 </div>
 
-<div class="full-width-grey">
+<div class="full-width">
 <div class="wrap">
 
 ### OCR Cards
