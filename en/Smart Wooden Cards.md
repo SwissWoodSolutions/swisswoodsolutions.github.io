@@ -82,4 +82,3 @@ Dummy text
 
 </div>
 </div>
-</div>
