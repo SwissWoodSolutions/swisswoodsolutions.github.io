@@ -74,8 +74,8 @@ Dummy text.
 Dummy text
 
 <div class="picturegallery">
-      <a href="/assets/images/wpc_maple.jpg">
-          <img src="/assets/images/wpc_maple.jpg" alt="Payment card Maple">
+      <a href="/assets/images/OCR_EC.jpg">
+          <img src="/assets/images/OCR_EC.jpg" alt="OCR Card">
   
 
 </div>
