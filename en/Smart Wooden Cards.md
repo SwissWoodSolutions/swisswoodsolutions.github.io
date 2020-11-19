@@ -57,8 +57,8 @@ Dummy text.
       <a href="/assets/images/wpc_maple_s.jpg">
           <img src="/assets/images/wpc_maple_s.jpg" alt="Payment card Maple">
      </a>
-     <a href="/assets/images/wpc_maple2_s.jpg">
-          <img src="/assets/images/wpc_maple2_s.jpg" alt="Payment card Maple">
+     <a href="/assets/images/wpc_maple2-s.jpg">
+          <img src="/assets/images/wpc_maple2-s.jpg" alt="Payment card Maple">
       </a>
       <a href="/assets/images/wpc_maple3_s.jpg">
           <img src="/assets/images/wpc_maple3_s.jpg" alt="Payment card Maple">
