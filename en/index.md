@@ -34,6 +34,15 @@ order: 1
 
   <a class="btn -red" href="/en/sonowood/index">Sonowood ></a>
 
+- <img src="/assets/images/wpc_cherry_s.jpg"
+    srcset="/assets/images/wpc_cherry_s.jpg" alt="Cherry Wood Smart Card">
+
+  ### Smart Wooden Cards 
+
+100% wood cards offering first-class aesthetics, pleasant haptics and full functionality.
+
+  <a class="btn -red" href="/en/WoodenSmartCards/index">Wooden Smart Cards ></a>
+
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
