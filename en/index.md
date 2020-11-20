@@ -33,6 +33,15 @@ order: 1
   Sonowood is the sustainable material for your music instrument.
 
   <a class="btn -red" href="/en/sonowood/index">Sonowood ></a>
+
+- <img src="/assets/images/WSC_square.jpg"
+    srcset="/assets/images/WSC_square.jpg" alt="Cherry Wooden Smart Card">
+
+  ### Wooden Smart Cards
+
+  100% wood cards offering first-class aesthetics, pleasant haptics and full functionality.
+
+  <a class="btn -red" href="/en/WSC">Wooden Smart Cards ></a>
   
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
