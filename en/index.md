@@ -34,8 +34,8 @@ order: 1
 
   <a class="btn -red" href="/en/sonowood/index">Sonowood ></a>
 
-- <img src="/assets/images/WSC_square.jpg"
-    srcset="/assets/images/WSC_square.jpg" alt="Cherry Wooden Smart Card">
+- <img src="/assets/images/Payment card Home square.jpg"
+    srcset="/assets/images/Payment card Home square" alt="Cherry Wooden Smart Card">
 
   ### Wooden Smart Cards
 
