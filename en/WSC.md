@@ -58,7 +58,7 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • 100% biodegradable. 
 
-• High durability (> 2years).
+• High durability (> 2 years).
 
 • Smart card technologies:  contactless payment, embedded microchip, magnetic stripe.
 
@@ -85,7 +85,7 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • 100% biodegradable. 
 
-• High durability (> 2years).
+• High durability (> 2 years).
 
 • Smart card technologies:  RFID, NFC.
 
@@ -113,7 +113,7 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • 100% biodegradable. 
 
-• High durability (> 2years).
+• High durability (> 2 years).
 
 • Smart card technologies:  OCR (QR codes, bar codes).
 
