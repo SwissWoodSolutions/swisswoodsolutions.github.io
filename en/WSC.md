@@ -25,7 +25,7 @@ Swiss Wood Solutions offers high performance wood materials as a sustainable alt
 
 As our new product, we have developed Wooden Smart Cards These cards are made from domestic wood species such as oak, flamed maple, spruce and figured beech. They offer first class aesthetics, pleasant haptics and full functionality.
 
- Advantages:
+## Advantages:
  
 • Wood based, no plastics
 
@@ -52,7 +52,7 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 ### Payment cards – (Credit & Debit cards)
 
-Sustainable. Ecological. High-tech. Durable. 
+## Sustainable. Ecological. High-tech. Durable. 
 
 • 100% wood (except the electronics), with PLA or paper inlays.
 
@@ -79,7 +79,7 @@ Sustainable. Ecological. High-tech. Durable.
 
 ### Access cards
 
-Sustainable. Ecological. High-tech. Durable. 
+## Sustainable. Ecological. High-tech. Durable. 
 
 • 100% wood (except the electronics).
 
@@ -107,7 +107,7 @@ Sustainable. Ecological. High-tech. Durable.
 
 ### Business cards & loyalty cards
 
-Sustainable. Ecological. High-tech. Durable. 
+## Sustainable. Ecological. High-tech. Durable. 
 
 • 100% wood.
 
