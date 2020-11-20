@@ -64,12 +64,9 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • Prototype stage.
 
-
-<div class="picturegallery">
-      <a href="/assets/images/Payment card.jpg">
-          <img src="/assets/images/Payment card.jpg" alt="Chip card made of cherry wood, with contactless payment feature">
-      </a>
-</div>
+<img srcset="/assets/images/Payment card.jpg"
+     src="/assets/images/Payment card.jpg" alt="Chip card made of cherry wood, with contactless payment feature">
+<figcaption>Chip card made of cherry wood, with contactless payment feature.</figcaption>
 
 </div>
 </div>
