@@ -34,8 +34,8 @@ order: 1
 
   <a class="btn -red" href="/en/sonowood/index">Sonowood ></a>
 
-- <img src="/assets/images/wpc_cherry_s.jpg"
-    srcset="/assets/images/wpc_cherry_s.jpg" alt="Cherry Wood Smart Card">
+- <img src="/assets/images/ALPAcover.jpg"
+    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
   ### Bijouwood
 
