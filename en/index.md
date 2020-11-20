@@ -42,6 +42,15 @@ order: 1
   Bijouwood is the aesthetic, robust wood for lifestyle and high precision applications.
 
   <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
+  
+- <img src="/assets/images/ALPAcover.jpg"
+    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
+
+  ### Bijouwood
+
+  Bijouwood is the aesthetic, robust wood for lifestyle and high precision applications.
+
+  <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
 
 </div>
 </div>
