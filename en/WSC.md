@@ -64,8 +64,8 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • Prototype stage.
 
-<img srcset="/assets/images/Payment card.jpg"
-     src="/assets/images/Payment card.jpg" alt="Chip card made of cherry wood, with contactless payment feature">
+<img srcset="/assets/images/Bank card.jpg"
+     src="/assets/images/Bank card.jpg" alt="Chip card made of cherry wood, with contactless payment feature">
 <figcaption>Chip card made of cherry wood, with contactless payment feature.</figcaption>
 
 </div>
@@ -90,11 +90,9 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • Prototype stage.
 
-<div class="picturegallery">
-     <a href="/assets/images/Access card.jpg">
-          <img src="/assets/images/Access card.jpg" alt="Access card from maple">
-     </a>
-</div>
+<img srcset="/assets/images/RFID card.jpg"
+     src="/assets/images/RFID card.jpg" alt="Access card from maple">
+<figcaption>Access card from maple.</figcaption>
 
 </div>
 </div>
@@ -116,11 +114,10 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • Personalization with laser engraving and inkjet printing.
 
-<div class="picturegallery">
-     <a href="/assets/images/Business card.jpg">
-          <img src="/assets/images/Business card.jpg" alt="Swiss Wood Solutions business card with QR code from maple wood ">
-     </a>
-</div>
+
+<img srcset="/assets/images/OCR card.jpg"
+     src="/assets/images/OCR card.jpg" alt="Swiss Wood Solutions business card with QR code from maple wood">
+<figcaption>Swiss Wood Solutions business card with QR code from maple wood.</figcaption>
 
 </div>
 </div>
