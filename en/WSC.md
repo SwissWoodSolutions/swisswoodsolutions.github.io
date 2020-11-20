@@ -50,9 +50,9 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 <div class="full-width">
 <div class="wrap">
 
-### Payment cards – (Credit & Debit cards)
+## Payment cards – (Credit & Debit cards)
 
-## Sustainable. Ecological. High-tech. Durable. 
+### Sustainable. Ecological. High-tech. Durable. 
 
 • 100% wood (except the electronics), with PLA or paper inlays.
 
@@ -77,9 +77,9 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 <div class="full-width-grey">
 <div class="wrap">
 
-### Access cards
+## Access cards
 
-## Sustainable. Ecological. High-tech. Durable. 
+### Sustainable. Ecological. High-tech. Durable. 
 
 • 100% wood (except the electronics).
 
@@ -105,9 +105,9 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 <div class="full-width">
 <div class="wrap">
 
-### Business cards & loyalty cards
+## Business cards & loyalty cards
 
-## Sustainable. Ecological. High-tech. Durable. 
+### Sustainable. Ecological. High-tech. Durable. 
 
 • 100% wood.
 
