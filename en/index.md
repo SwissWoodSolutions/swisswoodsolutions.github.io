@@ -37,20 +37,11 @@ order: 1
 - <img src="/assets/images/wpc_cherry_s.jpg"
     srcset="/assets/images/wpc_cherry_s.jpg" alt="Cherry Wood Smart Card">
 
-  ### Smart Wooden Cards 
-
-100% wood cards offering first-class aesthetics, pleasant haptics and full functionality.
-
-  <a class="btn -red" href="/en/WoodenSmartCards/index">Wooden Smart Cards ></a>
-
-- <img src="/assets/images/ALPAcover.jpg"
-    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
-
   ### Bijouwood
 
-    Bijouwood is the aesthetic, robust wood for lifestyle and high precision applications.
+  Bijouwood is the aesthetic, robust wood for lifestyle and high precision applications.
 
-    <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
+  <a class="btn -red" href="/en/bijouwood">Bijouwood ></a>
 
 </div>
 </div>
