@@ -12,8 +12,8 @@ order: 4
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/Payment card Home.jpg"
-     src="/assets/images/Payment card Home.jpg" alt="Wooden Smart Cards">
+<img srcset="/assets/images/nologoetienne.jpg"
+     src="/assets/images/nologoetienne.jpg" alt="Wooden Smart Cards">
 </div>
 
 <div class="full-width-grey">
