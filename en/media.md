@@ -10,6 +10,12 @@ order: 8
 ## Swiss Wood Solutions on TV
 
 <div class="videocontainer">
+  <iframe width="560" height="315" src="https://srf.ch/play/embed?urn=urn:srf:video:9e78f025-e70a-4f06-962b-bc9953a57a6d" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+</div>
+
+**«Die Idee»: Sustainable credit cards made of wood** Broadcast in 10vor10 by Swiss national television (SRF) on our latest innovation on 20 November 2020.
+
+<div class="videocontainer">
   <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:video:dcae0aaa-b161-416c-8c25-de707607ad2a&start=" allowfullscreen name="«Die Idee»: Tropenholz, made in Switzerland"></iframe>
 </div>
 
