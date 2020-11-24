@@ -23,7 +23,8 @@ L’utilisation intensive de plastiques issus du pétrole dans notre société g
 
 Swiss Wood Solutions développe des matériaux performants a base de bois, proposant une alternative durable au plastique. Nous utilisons des technologies innovantes pour transformer des essences de bois européennes en matériaux avancés. Nos matériaux et nos technologies obéissent aux fondamentaux du développement durable: sauvegarde de l’environnement, équilibre économique, et équité sociale.
 Nous avons récemment développé une gamme de Smart Cards en bois. Elles sont produites à base d’essences de bois telles que l’érable, le cerisier, le chêne, l’épicéa, l’érable figuré, et d’autres. Elles préservent les qualités esthétiques et le toucher inimitable du bois, et sont fonctionnelles.
-Avantages :
+
+## Avantages :
 
 • Matériau bois
 
