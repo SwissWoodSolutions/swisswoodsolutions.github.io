@@ -19,23 +19,22 @@ order: 4
 <div class="full-width-grey">
 <div class="wrap -cols2">
 
-The excessive use of plastic products in our society leads to enormous environmental problems. Not only does their production emit a tremendous amount of green house gases, but also do they cause an exorbitant waste problematic as there is a lack of sufficient recycling.
+The excessive use of petroleum-based plastic products in our society leads to enormous environmental problems. Not only does their production emit a tremendous amount of greenhouse gases, but also they do cause an exorbitant waste problematic as there is a lack of sufficient recycling.
 
-Swiss Wood Solutions offers high performance wood materials as a sustainable alternative to plastics. Native European woods and veneers are converted into high-tech materials by innovative AI-based technologies. All of our materials and technologies are socially, environmentally and economically sustainable.
+Swiss Wood Solutions offers high performance wood materials as a sustainable alternative to plastics. Domestic (European) woods are converted into high-tech materials by innovative technologies. All of our materials and technologies are environmentally, economically and socially sustainable.
 
-As our new product, we have developed Wooden Smart Cards These cards are made from domestic wood species such as oak, flamed maple, spruce and figured beech. They offer first class aesthetics, pleasant haptics and full functionality.
+As our new product, we have developed Wooden Smart Cards These cards are made from domestic wood species such as maple, cherry, oak, spruce, figured maple and many others. They offer first class aesthetics, pleasant haptics and full functionality.
+Advantages:
 
-## Advantages:
- 
-• Wood based, no plastics
+• Wood-based
 
 • Superior haptics and aesthetics
 
-• High surface-hardness and scratch-resistance 
+• High surface-hardness and scratch-resistance
 
-• Multiple available wood species enable a variety of designs
+• Various wood species and patterns enable a variety of designs
 
-• Unique cards due to the natural wood grain
+•Unique cards due to the natural wood grain
 
 • Precise laser-customization
 
@@ -54,15 +53,15 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 ### Sustainable. Ecological. High-tech. Durable. 
 
-• 100% wood (except the electronics), with PLA or paper inlays.
+• With PLA or paper inlays.
 
-• 100% biodegradable. 
+• 100% biodegradable (except the electronics). 
 
 • High durability (> 2 years).
 
-• Smart card technologies:  contactless payment, embedded microchip, magnetic stripe.
+• Smart card technologies: contactless payment, dual-interface, optionally with magnetic stripe.
 
-• Prototype stage.
+• Availability: 2021
 
 <img srcset="/assets/images/Bank card.jpg"
      src="/assets/images/Bank card.jpg" alt="Chip card made of cherry wood, with contactless payment feature">
@@ -86,9 +85,9 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • Smart card technologies:  RFID, NFC.
 
-• Personalization with laser engraving and inkjet printing.
+• Personalization with laser engraving and laser/inkjet printing.
 
-• Prototype stage.
+• Availability: 2021
 
 <img srcset="/assets/images/RFID card.jpg"
      src="/assets/images/RFID card.jpg" alt="Access card from maple">
@@ -112,7 +111,7 @@ As our new product, we have developed Wooden Smart Cards These cards are made fr
 
 • Smart card technologies:  OCR (QR codes, bar codes).
 
-• Personalization with laser engraving and inkjet printing.
+• Personalization with laser engraving and laser/inkjet printing.
 
 
 <img srcset="/assets/images/OCR card.jpg"
