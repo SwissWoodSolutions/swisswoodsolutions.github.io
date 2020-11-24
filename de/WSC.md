@@ -23,9 +23,9 @@ Der übermässige Einsatz von Kunststoffprodukten auf Erdölbasis in unserer Ges
 
 Swiss Wood Solutions bietet holzbasierte Hochleistungsholzwerkstoffe als nachhaltige Alternative zu Kunststoffen an. Einheimische europäische Hölzer werden durch innovative Technologien in High-Tech-Materialien umgewandelt. Alle unsere Materialien und Technologien sind ökologisch, wirtschaftlich und sozial nachhaltig.
 
-Als unsere neue Produktlinie haben wir Wooden Smart Cards, i.e. Karten aus Holz entwickelt. Diese Karten werden aus einheimischen Hölzern wie Ahorn, Riegelahorn, Kirsche, Eiche, Fichte und viele andere hergestellt. Sie bieten erstklassige Ästhetik, angenehme Haptik und volle Funktionalität
+Als unsere neue Produktlinie haben wir Wooden Smart Cards, i.e. Karten aus Holz entwickelt. Diese Karten werden aus einheimischen Hölzern wie Ahorn, Riegelahorn, Kirsche, Eiche, Fichte und viele andere hergestellt. Sie bieten erstklassige Ästhetik, angenehme Haptik und volle Funktionalität.
 
-Vorteile:
+## Vorteile:
 
 • Holzbasiert
 
