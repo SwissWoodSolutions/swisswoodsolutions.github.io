@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 title: 'Wooden Smart Cards'
 order: 4
 ---
