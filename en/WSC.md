@@ -23,7 +23,7 @@ The excessive use of petroleum-based plastic products in our society leads to en
 
 Swiss Wood Solutions offers high performance wood materials as a sustainable alternative to plastics. Domestic (European) woods are converted into high-tech materials by innovative technologies. All of our materials and technologies are environmentally, economically and socially sustainable.
 
-As our new product, we have developed Wooden Smart Cards These cards are made from domestic wood species such as maple, cherry, oak, spruce, figured maple and many others. They offer first class aesthetics, pleasant haptics and full functionality.
+As our new product, we have developed Wooden Smart Cards. These cards are made from domestic wood species such as maple, cherry, oak, spruce, figured maple and many others. They offer first class aesthetics, pleasant haptics and full functionality.
 Advantages:
 
 • Wood-based
