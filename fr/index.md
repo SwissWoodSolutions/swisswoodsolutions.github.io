@@ -34,8 +34,8 @@ order: 1
 
   <a class="btn -red" href="/fr/sonowood/index">Sonowood ></a>
 
-- <img src="/assets/images/ALPAcover.jpg"
-    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
+- <img src="/assets/images/nologoetienne_home.png"
+    srcset="/assets/images/nologoetienne_home.png" alt="Cherry Wooden Smart Card">
 
   ### Wooden Smart Cards
 
