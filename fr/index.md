@@ -37,6 +37,15 @@ order: 1
 - <img src="/assets/images/ALPAcover.jpg"
     srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
 
+  ### Wooden Smart Cards
+
+  Cartes 100% bois, fonctionnelles, esthétiques et plaisantes au toucher.
+
+  <a class="btn -red" href="/en/WSC">Wooden Smart Cards ></a>
+  
+- <img src="/assets/images/ALPAcover.jpg"
+    srcset="/assets/images/ALPAcover.jpg" alt="Bijouwood Cover">
+    
   ### Bijouwood
 
     Bijouwood est le bois esthétique et robuste pour des applications de style de vie et de haute précision.
