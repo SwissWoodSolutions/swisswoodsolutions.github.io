@@ -39,7 +39,7 @@ order: 1
 
   ### Wooden Smart Cards
 
-  Cartes 100% bois, fonctionnelles, esthétiques et plaisantes au toucher.
+  Cartes 100% bois, fonctionnelles, esthétiques et plaisantes au toucher.                                 
 
   <a class="btn -red" href="/en/WSC">Wooden Smart Cards ></a>
   
