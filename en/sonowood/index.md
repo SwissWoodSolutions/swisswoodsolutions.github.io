@@ -88,7 +88,7 @@ technology offers adjustability of a wide range of parameters.
 
 Learn more about the country-specific impacts of the CITES regulations on various stakeholders in the music industry.
 
-<a class="btn -white" href="/assets/docs/2019_CITES_USA.pdf">CITES in the United States</a> <a class="btn -white" href="/assets/docs/2018_CITES_CH.pdf">CITES in Switzerland</a> <a class="btn -white" href="/assets/docs/2018_CITES_DE.pdf">CITES in Germany</a>
+<a class="btn -white" href="/assets/docs/2019_CITES_USA.pdf">CITES in the United States</a> <a class="btn -white" href="/assets/docs/2018_CITES_CH.pdf">CITES in Switzerland</a> <a class="btn -white" href="/assets/docs/CITES_DE.pdf">CITES in Germany</a>
 
 </div>
 </div>
