@@ -64,8 +64,8 @@ As our new product, we have developed Wooden Smart Cards. These cards are made f
 
 • Availability: 2021
 
-<img srcset="/assets/images/Bank card.jpg"
-     src="/assets/images/Bank card.jpg" alt="Chip card made of cherry wood, with contactless payment feature">
+<img srcset="/assets/images/Bankcard_1-min.jpg"
+     src="/assets/images/Bankcard_1-min.jpg" alt="Chip card made of cherry wood, with contactless payment feature">
 <figcaption>Chip card made of cherry wood, with contactless payment feature.</figcaption>
 
 </div>
@@ -90,8 +90,8 @@ As our new product, we have developed Wooden Smart Cards. These cards are made f
 
 • Availability: 2021
 
-<img srcset="/assets/images/RFID card.jpg"
-     src="/assets/images/RFID card.jpg" alt="Access card from maple">
+<img srcset="/assets/images/Bankcard_2-min.jpg"
+     src="/assets/images/Bankcard_2-min.jpg" alt="Access card from maple">
 <figcaption>Access card from maple.</figcaption>
 
 </div>
@@ -115,8 +115,8 @@ As our new product, we have developed Wooden Smart Cards. These cards are made f
 • Personalization with laser engraving and laser/inkjet printing.
 
 
-<img srcset="/assets/images/OCR card.jpg"
-     src="/assets/images/OCR card.jpg" alt="Swiss Wood Solutions business card with QR code from maple wood">
+<img srcset="/assets/images/Bankcard_3-min.jpg"
+     src="/assets/images/Bankcard_3-min.jpg" alt="Swiss Wood Solutions business card with QR code from maple wood">
 <figcaption>Swiss Wood Solutions business card with QR code from maple wood.</figcaption>
 
 </div>
