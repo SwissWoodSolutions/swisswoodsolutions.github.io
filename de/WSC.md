@@ -12,8 +12,8 @@ order: 4
 ![](/assets/images/arrow-d-white.svg)
 
 </div>
-<img srcset="/assets/images/nologoetiennefinal.png"
-     src="/assets/images/nologoetiennefinal.png" alt="Wooden Smart Cards">
+<img srcset="/assets/images/nologoetiennefinal_wsc-min.png"
+     src="/assets/images/nologoetiennefinal_wsc-min.png" alt="Wooden Smart Cards">
 </div>
 
 <div class="full-width-grey">
