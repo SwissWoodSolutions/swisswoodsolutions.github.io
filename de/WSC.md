@@ -63,8 +63,8 @@ Als unsere neue Produktlinie haben wir Wooden Smart Cards, i.e. Karten aus Holz 
 
 • Verfügbarkeit: in 2021
 
-<img srcset="/assets/images/Bank card.jpg"
-     src="/assets/images/Bank card.jpg" alt=" Kontaktlose Kreditkarte aus Kirschenholz">
+<img srcset="/assets/images/Bankcard_1-min.jpg"
+     src="/assets/images/Bankcard_1-min.jpg" alt=" Kontaktlose Kreditkarte aus Kirschenholz">
 <figcaption> Kontaktlose Kreditkarte aus Kirschenholz.</figcaption>
 
 </div>
@@ -89,8 +89,8 @@ Als unsere neue Produktlinie haben wir Wooden Smart Cards, i.e. Karten aus Holz 
 
 • Verfügbarkeit: in 2021
 
-<img srcset="/assets/images/RFID card.jpg"
-     src="/assets/images/RFID card.jpg" alt=" RFID Zutrittskarten aus Ahorn
+<img srcset="/assets/images/Bankcard_2-min.jpg"
+     src="/assets/images/Bankcard_2-min.jpg" alt=" RFID Zutrittskarten aus Ahorn
 ">
 <figcaption> RFID Zutrittskarten aus Ahorn.</figcaption>
 
@@ -117,8 +117,8 @@ Als unsere neue Produktlinie haben wir Wooden Smart Cards, i.e. Karten aus Holz 
 • Verfügbarkeit: ab Sofort
 
 
-<img srcset="/assets/images/OCR card.jpg"
-     src="/assets/images/OCR card.jpg" alt=" Swiss Wood Solutions Visitenkarte aus Ahorn mit einem QR code">
+<img srcset="/assets/images/Bankcard_3-min.jpg"
+     src="/assets/images/Bankcard_3-min.jpg" alt=" Swiss Wood Solutions Visitenkarte aus Ahorn mit einem QR code">
 <figcaption> Swiss Wood Solutions Visitenkarte aus Ahorn mit einem QR code.</figcaption>
 
 </div>
